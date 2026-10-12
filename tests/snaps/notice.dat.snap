@@ -1,0 +1,4812 @@
+[
+  [
+    [
+      4,
+      Buffer [01 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_FACILITY_STAGE_SELECT",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "You can now talk to the Dimension Guide!
+",
+        "es": "¡Ya puedes usar
+el barquero interdimensional!",
+        "fr": "Le Guide dimensionnel
+est désormais disponible !",
+        "jp": "『時空の渡し人』が
+利用できるようになりました！",
+        "ko": "『시공의 뱃사공』을
+이용할 수 있습니다!",
+        "zh-TW": "「穿越時空者」
+已經可以使用了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 9A 75 00 00 01 00 00 00 8E 77 00 00 01 00 00 00 8E 77 00 00 00 00 00 00 02 00 00 00 09 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_FACILITY_ITEM_SHOP",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "You can now access the General Store!
+",
+        "es": "¡Ya puedes usar
+la Tienda!",
+        "fr": "L’armurerie
+est désormais disponible !",
+        "jp": "『よろず屋』が
+利用できるようになりました！",
+        "ko": "『만물상』을
+이용할 수 있습니다!",
+        "zh-TW": "「雜貨店」
+已經可以使用了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 94 75 00 00 01 00 00 00 88 77 00 00 01 00 00 00 88 77 00 00 00 00 00 00 02 00 00 00 04 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [03 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_FACILITY_ASSEMBLY",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "You can now access the Dark Assembly!
+",
+        "es": "¡Ya puedes usar
+la Asamblea azucarada!",
+        "fr": "L’Assemblée sucrée
+est désormais disponible !",
+        "jp": "『糖論議会』が
+利用できるようになりました！",
+        "ko": "『당론 의회』를
+이용할 수 있습니다!",
+        "zh-TW": "「糖論議會」
+已經可以使用了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 95 75 00 00 01 00 00 00 89 77 00 00 01 00 00 00 89 77 00 00 00 00 00 00 02 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [04 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_FACILITY_ITEM_WORLD",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "You can now access the Item World!
+",
+        "es": "¡Ya puedes usar
+la guía de Mundo objeto!",
+        "fr": "Le Monde des objets
+est désormais disponible !",
+        "jp": "『アイテム界屋』が
+利用できるようになりました！",
+        "ko": "『아이템계 숍』을
+이용할 수 있습니다!",
+        "zh-TW": "「道具界屋」
+已經可以使用了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 98 75 00 00 01 00 00 00 8C 77 00 00 01 00 00 00 8C 77 00 00 00 00 00 00 02 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [05 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_FACILITY_SCOUT",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "You can now access the Buddy Base!
+",
+        "es": "¡Ya puedes usar
+el Criadero!",
+        "fr": "L’éleveur
+est désormais disponible !",
+        "jp": "『ブリーダー屋』が
+利用できるようになった！",
+        "ko": "『사육 숍』을
+이용할 수 있습니다!",
+        "zh-TW": "「繁殖屋」
+已經可以使用了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 99 75 00 00 01 00 00 00 8D 77 00 00 01 00 00 00 8D 77 00 00 00 00 00 00 02 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [06 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_FACILITY_CHARACTER_WORLD",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "You can now access the Chara World!
+",
+        "es": "¡Ya puedes usar
+la guía de Mundo personaje!",
+        "fr": "Le Monde des persos
+est désormais disponible !",
+        "jp": "『キャラ界屋』が
+利用できるようになりました！",
+        "ko": "『캐릭터계 숍』을
+이용할 수 있습니다!",
+        "zh-TW": "「角色界屋」
+已經可以使用了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 97 75 00 00 01 00 00 00 8B 77 00 00 01 00 00 00 8B 77 00 00 00 00 00 00 02 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [07 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_FACILITY_CHEAT_SHOP",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "You can now access the Cheat Shop!
+",
+        "es": "¡Ya puedes usar
+la Tienda de trampas!",
+        "fr": "Le Comptoir de la triche
+est désormais disponible !",
+        "jp": "『チート屋』が
+利用できるようになりました！",
+        "ko": "『치트 숍』을
+이용할 수 있습니다!",
+        "zh-TW": "「作弊屋」
+已經可以使用了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 96 75 00 00 01 00 00 00 8A 77 00 00 01 00 00 00 8A 77 00 00 00 00 00 00 02 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [08 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_FACILITY_RECORD_SHOP",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "You can now access the Data Shop!
+",
+        "es": "¡Ya puedes usar
+el Archivo!",
+        "fr": "Le Maître des données
+est désormais disponible !",
+        "jp": "『記録屋』が
+利用できるようになりました！",
+        "ko": "『기록 숍』을
+이용할 수 있습니다!",
+        "zh-TW": "「記錄屋」
+已經可以使用了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 9B 75 00 00 01 00 00 00 8F 77 00 00 01 00 00 00 8F 77 00 00 00 00 00 00 02 00 00 00 08 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [09 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_FACILITY_DLC_SHOP",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "You can now access the Special Content Shop!
+",
+        "es": "¡Ya puedes usar
+la Tienda de contenido adicional!",
+        "fr": "Le contenu spécial
+est désormais disponible !",
+        "jp": "『スペシャルコンテンツ屋』が
+利用できるようになりました！",
+        "ko": "『스페셜 콘텐츠 숍』을
+이용할 수 있습니다!",
+        "zh-TW": "「特殊內容屋」
+已經可以使用了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 9C 75 00 00 01 00 00 00 90 77 00 00 01 00 00 00 90 77 00 00 00 00 00 00 02 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0A 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_FACILITY_STAGE_SELECT_SYURA",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "You can now talk to the Carnage Guide!
+",
+        "es": "¡Ya puedes usar
+el Barquero shura!",
+        "fr": "Le Guide du Carnage
+est désormais disponible !",
+        "jp": "『修羅の渡し人』が
+利用できるようになりました！",
+        "ko": "『수라의 뱃사공』을
+이용할 수 있습니다!",
+        "zh-TW": "「穿越修羅者」
+已經可以使用了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 9E 75 00 00 01 00 00 00 92 77 00 00 01 00 00 00 92 77 00 00 00 00 00 00 02 00 00 00 0A 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0B 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ITEM_WORLD_RELEASE_FACILITY_1",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Item Enhancement is now available
+at the Item Worlder!",
+        "es": "¡Has desbloqueado
+"Mejora de objetos" en la guía de Mundo objeto!",
+        "fr": "L’amélioration d’objets est désormais
+disponible dans le Monde des objets !",
+        "jp": "アイテム界屋で
+『アイテム強化』が解放されました！",
+        "ko": "아이템계 숍에서
+『아이템 강화』가 개방되었습니다!",
+        "zh-TW": "道具界屋中
+已開放「道具強化」！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 5E 76 00 00 01 00 00 00 42 EF 00 00 01 00 00 00 42 EF 00 00 00 00 00 00 01 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0C 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ITEM_WORLD_RELEASE_FACILITY_2",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Innocent Farm is now available
+at the Item Worlder!",
+        "es": "¡Has desbloqueado
+"Granja de inocentes" en la guía de Mundo objeto!",
+        "fr": "Le Ranch des Innocents est désormais
+disponible dans le Monde des objets !",
+        "jp": "アイテム界屋で
+『イノセント牧場』が解放されました！",
+        "ko": "아이템계 숍에서
+『이노센트 목장』이 개방되었습니다!",
+        "zh-TW": "道具界屋中
+已開放「純靈牧場」！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 5F 76 00 00 01 00 00 00 43 EF 00 00 01 00 00 00 43 EF 00 00 00 00 00 00 01 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0D 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ITEM_WORLD_RELEASE_FACILITY_3",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The Innocent Farm can now hold more Innocents!
+",
+        "es": "¡Ha aumentado el número de inocentes
+que puedes guardar en la granja!",
+        "fr": "Le nombre maximal d’Innocents pouvant
+être confiés au ranch a augmenté !",
+        "jp": "イノセント牧場に預けられるイノセントの
+上限数が上がりました！",
+        "ko": "이노센트 목장에 맡길 수 있는 이노센트의
+상한 수가 늘어났습니다!",
+        "zh-TW": "可寄放在純靈牧場的純靈
+上限數量已提升！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 D3 84 00 00 01 00 00 00 44 EF 00 00 01 00 00 00 44 EF 00 00 00 00 00 00 01 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0E 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ITEM_WORLD_RELEASE_FACILITY_4",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The Innocent Farm can now hold more Innocents!
+",
+        "es": "¡Ha aumentado el número de inocentes
+que puedes guardar en la granja!",
+        "fr": "Le nombre maximal d’Innocents pouvant
+être confiés au ranch a augmenté !",
+        "jp": "イノセント牧場に預けられるイノセントの
+上限数が上がりました！",
+        "ko": "이노센트 목장에 맡길 수 있는 이노센트의
+상한 수가 늘어났습니다!",
+        "zh-TW": "可寄放在純靈牧場的純靈
+上限數量已提升！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 D4 84 00 00 01 00 00 00 45 EF 00 00 01 00 00 00 45 EF 00 00 00 00 00 00 01 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0F 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ITEM_WORLD_RELEASE_FACILITY_5",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The Innocent Farm can now hold more Innocents!
+",
+        "es": "¡Ha aumentado el número de inocentes
+que puedes guardar en la granja!",
+        "fr": "Le nombre maximal d’Innocents pouvant
+être confiés au ranch a augmenté !",
+        "jp": "イノセント牧場に預けられるイノセントの
+上限数が上がりました！",
+        "ko": "이노센트 목장에 맡길 수 있는 이노센트의
+상한 수가 늘어났습니다!",
+        "zh-TW": "可寄放在純靈牧場的純靈
+上限數量已提升！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 D5 84 00 00 01 00 00 00 46 EF 00 00 01 00 00 00 46 EF 00 00 00 00 00 00 01 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [10 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_SCOUT_RELEASE_FACILITY_1",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Reincarnation is now available
+at the Buddy Base!",
+        "es": "¡Has desbloqueado
+"Reencarnar" en el Criadero!",
+        "fr": "La réincarnation est désormais
+disponible chez l’éleveur !",
+        "jp": "ブリーダー屋で
+『転生』が解放されました！",
+        "ko": "사육 숍에서
+『전생』이 개방되었습니다!",
+        "zh-TW": "繁殖屋中
+已開放「轉生」！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 5C 76 00 00 01 00 00 00 3C F0 00 00 01 00 00 00 3C F0 00 00 00 00 00 00 01 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [11 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_SCOUT_RELEASE_FACILITY_2",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Demod is now available
+at the Buddy Base!",
+        "es": "¡Has desbloqueado
+"Tunear" en el Criadero!",
+        "fr": "La démonification est désormais
+disponible chez l’éleveur !",
+        "jp": "ブリーダー屋で
+『魔改造』が解放されました！",
+        "ko": "사육 숍에서
+『마개조』가 개방되었습니다!",
+        "zh-TW": "繁殖屋中
+已開放「魔改造」！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 5D 76 00 00 01 00 00 00 3D F0 00 00 01 00 00 00 3D F0 00 00 00 00 00 00 01 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [12 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHARACTER_WORLD_RELEASE_FACILITY_1",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Special items can now be purchased at the Chara
+Worlder!",
+        "es": "¡Ya puedes comprar objetos
+exclusivos en la guía de Mundo personaje!",
+        "fr": "Des objets exclusifs au Monde des persos
+sont désormais disponibles à l’achat !",
+        "jp": "キャラ界屋で専用アイテムが
+買えるようになりました！",
+        "ko": "캐릭터계 숍에서 전용 아이템을
+구매할 수 있습니다!",
+        "zh-TW": "已可購買
+角色界屋的專用道具了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 60 76 00 00 01 00 00 00 80 ED 00 00 01 00 00 00 80 ED 00 00 00 00 00 00 01 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [13 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ITEM_SHOP_LV_UP_0",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Rosen Queen Co.'s Product Rank has increased!
+",
+        "es": "¡Ha subido el nivel de los artículos de
+Rosen Queen S.A!",
+        "fr": "Le niveau d’article de
+Rosen Queen Co. a augmenté !",
+        "jp": "ローゼンクイーン商会の
+商品レベルが上がりました！",
+        "ko": "로젠퀸 상회의
+상품 레벨이 상승했습니다!",
+        "zh-TW": "玫瑰皇后商會的
+商品等級上升了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      78,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 04 00 00 00 04 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [14 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ITEM_SHOP_LV_UP_1",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 13 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Rosen Queen Co.'s Product Rank has increased!
+",
+        "es": "¡Ha subido el nivel de los artículos de
+Rosen Queen S.A!",
+        "fr": "Le niveau d’article de
+Rosen Queen Co. a augmenté !",
+        "jp": "ローゼンクイーン商会の
+商品レベルが上がりました！",
+        "ko": "로젠퀸 상회의
+상품 레벨이 상승했습니다!",
+        "zh-TW": "玫瑰皇后商會的
+商品等級上升了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      91,
+      Buffer [01 00 00 00 73 27 00 00 01 00 00 00 54 EC 00 00 01 00 00 00 54 EC 00 00 00 00 00 00 01 00 00 00 04 00 00 00 04 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [15 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ITEM_SHOP_LV_UP_2",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 13 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Rosen Queen Co.'s Product Rank has increased!
+",
+        "es": "¡Ha subido el nivel de los artículos de
+Rosen Queen S.A!",
+        "fr": "Le niveau d’article de
+Rosen Queen Co. a augmenté !",
+        "jp": "ローゼンクイーン商会の
+商品レベルが上がりました！",
+        "ko": "로젠퀸 상회의
+상품 레벨이 상승했습니다!",
+        "zh-TW": "玫瑰皇后商會的
+商品等級上升了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      91,
+      Buffer [01 00 00 00 D7 27 00 00 01 00 00 00 55 EC 00 00 01 00 00 00 55 EC 00 00 00 00 00 00 01 00 00 00 04 00 00 00 04 00 00 00 02 00 00 00 02 00 00 00 32 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [16 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ITEM_SHOP_LV_UP_3",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 13 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Rosen Queen Co.'s Product Rank has increased!
+",
+        "es": "¡Ha subido el nivel de los artículos de
+Rosen Queen S.A!",
+        "fr": "Le niveau d’article de
+Rosen Queen Co. a augmenté !",
+        "jp": "ローゼンクイーン商会の
+商品レベルが上がりました！",
+        "ko": "로젠퀸 상회의
+상품 레벨이 상승했습니다!",
+        "zh-TW": "玫瑰皇后商會的
+商品等級上升了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      91,
+      Buffer [01 00 00 00 3B 28 00 00 01 00 00 00 56 EC 00 00 01 00 00 00 56 EC 00 00 00 00 00 00 01 00 00 00 04 00 00 00 04 00 00 00 02 00 00 00 02 00 00 00 33 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [17 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ITEM_SHOP_LV_UP_4",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 13 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Rosen Queen Co.'s Product Rank has increased!
+",
+        "es": "¡Ha subido el nivel de los artículos de
+Rosen Queen S.A!",
+        "fr": "Le niveau d’article de
+Rosen Queen Co. a augmenté !",
+        "jp": "ローゼンクイーン商会の
+商品レベルが上がりました！",
+        "ko": "로젠퀸 상회의
+상품 레벨이 상승했습니다!",
+        "zh-TW": "玫瑰皇后商會的
+商品等級上升了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      91,
+      Buffer [01 00 00 00 9F 28 00 00 01 00 00 00 57 EC 00 00 01 00 00 00 57 EC 00 00 00 00 00 00 01 00 00 00 04 00 00 00 04 00 00 00 02 00 00 00 02 00 00 00 34 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [18 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ITEM_SHOP_LV_UP_5",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 13 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Rosen Queen Co.'s Product Rank has increased!
+",
+        "es": "¡Ha subido el nivel de los artículos de
+Rosen Queen S.A!",
+        "fr": "Le niveau d’article de
+Rosen Queen Co. a augmenté !",
+        "jp": "ローゼンクイーン商会の
+商品レベルが上がりました！",
+        "ko": "로젠퀸 상회의
+상품 레벨이 상승했습니다!",
+        "zh-TW": "玫瑰皇后商會的
+商品等級上升了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      91,
+      Buffer [01 00 00 00 03 29 00 00 01 00 00 00 58 EC 00 00 01 00 00 00 58 EC 00 00 00 00 00 00 01 00 00 00 04 00 00 00 04 00 00 00 02 00 00 00 02 00 00 00 35 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [19 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ITEM_SHOP_LV_UP_6",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 13 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Rosen Queen Co.'s Product Rank has increased!
+",
+        "es": "¡Ha subido el nivel de los artículos de
+Rosen Queen S.A!",
+        "fr": "Le niveau d’article de
+Rosen Queen Co. a augmenté !",
+        "jp": "ローゼンクイーン商会の
+商品レベルが上がりました！",
+        "ko": "로젠퀸 상회의
+상품 레벨이 상승했습니다!",
+        "zh-TW": "玫瑰皇后商會的
+商品等級上升了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      91,
+      Buffer [01 00 00 00 67 29 00 00 01 00 00 00 59 EC 00 00 01 00 00 00 59 EC 00 00 00 00 00 00 01 00 00 00 04 00 00 00 04 00 00 00 02 00 00 00 02 00 00 00 36 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1A 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ITEM_SHOP_LV_UP_7",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 13 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Rosen Queen Co.'s Product Rank has increased!
+",
+        "es": "¡Ha subido el nivel de los artículos de
+Rosen Queen S.A!",
+        "fr": "Le niveau d’article de
+Rosen Queen Co. a augmenté !",
+        "jp": "ローゼンクイーン商会の
+商品レベルが上がりました！",
+        "ko": "로젠퀸 상회의
+상품 레벨이 상승했습니다!",
+        "zh-TW": "玫瑰皇后商會的
+商品等級上升了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      91,
+      Buffer [01 00 00 00 CB 29 00 00 01 00 00 00 5A EC 00 00 01 00 00 00 5A EC 00 00 00 00 00 00 01 00 00 00 04 00 00 00 04 00 00 00 02 00 00 00 02 00 00 00 37 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1B 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ITEM_SHOP_LV_UP_8",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 13 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Rosen Queen Co.'s Product Rank has increased!
+",
+        "es": "¡Ha subido el nivel de los artículos de
+Rosen Queen S.A!",
+        "fr": "Le niveau d’article de
+Rosen Queen Co. a augmenté !",
+        "jp": "ローゼンクイーン商会の
+商品レベルが上がりました！",
+        "ko": "로젠퀸 상회의
+상품 레벨이 상승했습니다!",
+        "zh-TW": "玫瑰皇后商會的
+商品等級上升了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      91,
+      Buffer [01 00 00 00 2F 2A 00 00 01 00 00 00 5B EC 00 00 01 00 00 00 5B EC 00 00 00 00 00 00 01 00 00 00 04 00 00 00 04 00 00 00 02 00 00 00 02 00 00 00 38 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1C 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ASSEMBLY_WISH_OPEN_0",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The "<value 1>" bill
+is now available!",
+        "es": "¡Se ha añadido el debate
+"<value 1>"!",
+        "fr": "Nouveau projet ajouté :
+<value 1>",
+        "jp": "『<value 1>』の
+議題が追加されました！",
+        "ko": "『<value 1>』
+의제가 추가되었습니다!",
+        "zh-TW": "「<value 1>」
+已追加議題！",
+      },
+      "3",
+      2,
+    ],
+    [
+      78,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1D 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ASSEMBLY_WISH_OPEN_1",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 1C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The "<value 1>" bill
+is now available!",
+        "es": "¡Se ha añadido el debate
+"<value 1>"!",
+        "fr": "Nouveau projet ajouté :
+<value 1>",
+        "jp": "『<value 1>』の
+議題が追加されました！",
+        "ko": "『<value 1>』
+의제가 추가되었습니다!",
+        "zh-TW": "「<value 1>」
+已追加議題！",
+      },
+      "3",
+      2,
+    ],
+    [
+      91,
+      Buffer [01 00 00 00 B9 88 00 00 01 00 00 00 5A EB 00 00 01 00 00 00 5A EB 00 00 00 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 06 00 00 00 01 00 00 00 00 2A A4 2D 04 00 00 00 00 02 00 00 00 02 00 00 00 30 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1E 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ASSEMBLY_WISH_OPEN_2",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 1C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The "<value 1>" bill
+is now available!",
+        "es": "¡Se ha añadido el debate
+"<value 1>"!",
+        "fr": "Nouveau projet ajouté :
+<value 1>",
+        "jp": "『<value 1>』の
+議題が追加されました！",
+        "ko": "『<value 1>』
+의제가 추가되었습니다!",
+        "zh-TW": "「<value 1>」
+已追加議題！",
+      },
+      "3",
+      2,
+    ],
+    [
+      91,
+      Buffer [01 00 00 00 BA 88 00 00 01 00 00 00 5B EB 00 00 01 00 00 00 5B EB 00 00 00 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 06 00 00 00 01 00 00 00 00 CA 2A 2F 04 00 00 00 00 02 00 00 00 02 00 00 00 30 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1F 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ASSEMBLY_WISH_OPEN_3",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 1C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The "<value 1>" bill
+is now available!",
+        "es": "¡Se ha añadido el debate
+"<value 1>"!",
+        "fr": "Nouveau projet ajouté :
+<value 1>",
+        "jp": "『<value 1>』の
+議題が追加されました！",
+        "ko": "『<value 1>』
+의제가 추가되었습니다!",
+        "zh-TW": "「<value 1>」
+已追加議題！",
+      },
+      "3",
+      2,
+    ],
+    [
+      87,
+      Buffer [00 00 00 00 01 00 00 00 5C EB 00 00 01 00 00 00 5C EB 00 00 00 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 06 00 00 00 01 00 00 00 00 CA D0 CC 01 00 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [20 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ASSEMBLY_WISH_OPEN_4",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 1C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The "<value 1>" bill
+is now available!",
+        "es": "¡Se ha añadido el debate
+"<value 1>"!",
+        "fr": "Nouveau projet ajouté :
+<value 1>",
+        "jp": "『<value 1>』の
+議題が追加されました！",
+        "ko": "『<value 1>』
+의제가 추가되었습니다!",
+        "zh-TW": "「<value 1>」
+已追加議題！",
+      },
+      "3",
+      2,
+    ],
+    [
+      87,
+      Buffer [00 00 00 00 01 00 00 00 5D EB 00 00 01 00 00 00 5D EB 00 00 00 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 06 00 00 00 01 00 00 00 00 8A 74 68 02 00 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [21 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ASSEMBLY_WISH_OPEN_5",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 1C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The "<value 1>" bill
+is now available!",
+        "es": "¡Se ha añadido el debate
+"<value 1>"!",
+        "fr": "Nouveau projet ajouté :
+<value 1>",
+        "jp": "『<value 1>』の
+議題が追加されました！",
+        "ko": "『<value 1>』
+의제가 추가되었습니다!",
+        "zh-TW": "「<value 1>」
+已追加議題！",
+      },
+      "3",
+      2,
+    ],
+    [
+      87,
+      Buffer [00 00 00 00 01 00 00 00 5E EB 00 00 01 00 00 00 5E EB 00 00 00 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 06 00 00 00 01 00 00 00 00 2A FB 69 02 00 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [22 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ASSEMBLY_WISH_OPEN_6",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 1C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The "<value 1>" bill
+is now available!",
+        "es": "¡Se ha añadido el debate
+"<value 1>"!",
+        "fr": "Nouveau projet ajouté :
+<value 1>",
+        "jp": "『<value 1>』の
+議題が追加されました！",
+        "ko": "『<value 1>』
+의제가 추가되었습니다!",
+        "zh-TW": "「<value 1>」
+已追加議題！",
+      },
+      "3",
+      2,
+    ],
+    [
+      87,
+      Buffer [00 00 00 00 01 00 00 00 5F EB 00 00 01 00 00 00 5F EB 00 00 00 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 06 00 00 00 01 00 00 00 00 2A 77 FC 02 00 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [23 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ASSEMBLY_WISH_OPEN_7",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 1C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The "<value 1>" bill
+is now available!",
+        "es": "¡Se ha añadido el debate
+"<value 1>"!",
+        "fr": "Nouveau projet ajouté :
+<value 1>",
+        "jp": "『<value 1>』の
+議題が追加されました！",
+        "ko": "『<value 1>』
+의제가 추가되었습니다!",
+        "zh-TW": "「<value 1>」
+已追加議題！",
+      },
+      "3",
+      2,
+    ],
+    [
+      87,
+      Buffer [00 00 00 00 01 00 00 00 60 EB 00 00 01 00 00 00 60 EB 00 00 00 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 06 00 00 00 01 00 00 00 00 34 77 FC 02 00 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [24 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ASSEMBLY_WISH_OPEN_8",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 1C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The "<value 1>" bill
+is now available!",
+        "es": "¡Se ha añadido el debate
+"<value 1>"!",
+        "fr": "Nouveau projet ajouté :
+<value 1>",
+        "jp": "『<value 1>』の
+議題が追加されました！",
+        "ko": "『<value 1>』
+의제가 추가되었습니다!",
+        "zh-TW": "「<value 1>」
+已追加議題！",
+      },
+      "3",
+      2,
+    ],
+    [
+      87,
+      Buffer [00 00 00 00 01 00 00 00 61 EB 00 00 01 00 00 00 61 EB 00 00 00 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 06 00 00 00 01 00 00 00 00 D4 FD FD 02 00 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [25 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ASSEMBLY_WISH_OPEN_9",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 1C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The "<value 1>" bill
+is now available!",
+        "es": "¡Se ha añadido el debate
+"<value 1>"!",
+        "fr": "Nouveau projet ajouté :
+<value 1>",
+        "jp": "『<value 1>』の
+議題が追加されました！",
+        "ko": "『<value 1>』
+의제가 추가되었습니다!",
+        "zh-TW": "「<value 1>」
+已追加議題！",
+      },
+      "3",
+      2,
+    ],
+    [
+      87,
+      Buffer [00 00 00 00 01 00 00 00 62 EB 00 00 01 00 00 00 62 EB 00 00 00 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 06 00 00 00 01 00 00 00 00 DE FD FD 02 00 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [26 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ASSEMBLY_WISH_OPEN_10",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 1C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The "<value 1>" bill
+is now available!",
+        "es": "¡Se ha añadido el debate
+"<value 1>"!",
+        "fr": "Nouveau projet ajouté :
+<value 1>",
+        "jp": "『<value 1>』の
+議題が追加されました！",
+        "ko": "『<value 1>』
+의제가 추가되었습니다!",
+        "zh-TW": "「<value 1>」
+已追加議題！",
+      },
+      "3",
+      2,
+    ],
+    [
+      87,
+      Buffer [00 00 00 00 01 00 00 00 63 EB 00 00 01 00 00 00 63 EB 00 00 00 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 06 00 00 00 01 00 00 00 00 6A 84 FF 02 00 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [27 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ASSEMBLY_WISH_OPEN_11",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 1C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The "<value 1>" bill
+is now available!",
+        "es": "¡Se ha añadido el debate
+"<value 1>"!",
+        "fr": "Nouveau projet ajouté :
+<value 1>",
+        "jp": "『<value 1>』の
+議題が追加されました！",
+        "ko": "『<value 1>』
+의제가 추가되었습니다!",
+        "zh-TW": "「<value 1>」
+已追加議題！",
+      },
+      "3",
+      2,
+    ],
+    [
+      87,
+      Buffer [00 00 00 00 01 00 00 00 64 EB 00 00 01 00 00 00 64 EB 00 00 00 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 06 00 00 00 01 00 00 00 00 0A 0B 01 03 00 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [28 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ASSEMBLY_WISH_OPEN_12",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 1C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The "<value 1>" bill
+is now available!",
+        "es": "¡Se ha añadido el debate
+"<value 1>"!",
+        "fr": "Nouveau projet ajouté :
+<value 1>",
+        "jp": "『<value 1>』の
+議題が追加されました！",
+        "ko": "『<value 1>』
+의제가 추가되었습니다!",
+        "zh-TW": "「<value 1>」
+已追加議題！",
+      },
+      "3",
+      2,
+    ],
+    [
+      87,
+      Buffer [00 00 00 00 01 00 00 00 65 EB 00 00 01 00 00 00 65 EB 00 00 00 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 06 00 00 00 01 00 00 00 00 14 0B 01 03 00 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [29 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ASSEMBLY_WISH_OPEN_13",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 1C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The "<value 1>" bill
+is now available!",
+        "es": "¡Se ha añadido el debate
+"<value 1>"!",
+        "fr": "Nouveau projet ajouté :
+<value 1>",
+        "jp": "『<value 1>』の
+議題が追加されました！",
+        "ko": "『<value 1>』
+의제가 추가되었습니다!",
+        "zh-TW": "「<value 1>」
+已追加議題！",
+      },
+      "3",
+      2,
+    ],
+    [
+      87,
+      Buffer [00 00 00 00 01 00 00 00 66 EB 00 00 01 00 00 00 66 EB 00 00 00 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 06 00 00 00 01 00 00 00 00 1E 0B 01 03 00 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2A 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ASSEMBLY_WISH_OPEN_14",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 1C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The "<value 1>" bill
+is now available!",
+        "es": "¡Se ha añadido el debate
+"<value 1>"!",
+        "fr": "Nouveau projet ajouté :
+<value 1>",
+        "jp": "『<value 1>』の
+議題が追加されました！",
+        "ko": "『<value 1>』
+의제가 추가되었습니다!",
+        "zh-TW": "「<value 1>」
+已追加議題！",
+      },
+      "3",
+      2,
+    ],
+    [
+      87,
+      Buffer [00 00 00 00 01 00 00 00 67 EB 00 00 01 00 00 00 67 EB 00 00 00 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 06 00 00 00 01 00 00 00 00 28 0B 01 03 00 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2B 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ASSEMBLY_WISH_OPEN_15",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 1C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The "<value 1>" bill
+is now available!",
+        "es": "¡Se ha añadido el debate
+"<value 1>"!",
+        "fr": "Nouveau projet ajouté :
+<value 1>",
+        "jp": "『<value 1>』の
+議題が追加されました！",
+        "ko": "『<value 1>』
+의제가 추가되었습니다!",
+        "zh-TW": "「<value 1>」
+已追加議題！",
+      },
+      "3",
+      2,
+    ],
+    [
+      87,
+      Buffer [00 00 00 00 01 00 00 00 68 EB 00 00 01 00 00 00 68 EB 00 00 00 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 06 00 00 00 01 00 00 00 00 32 0B 01 03 00 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2C 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ASSEMBLY_WISH_OPEN_16",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 1C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The "<value 1>" bill
+is now available!",
+        "es": "¡Se ha añadido el debate
+"<value 1>"!",
+        "fr": "Nouveau projet ajouté :
+<value 1>",
+        "jp": "『<value 1>』の
+議題が追加されました！",
+        "ko": "『<value 1>』
+의제가 추가되었습니다!",
+        "zh-TW": "「<value 1>」
+已追加議題！",
+      },
+      "3",
+      2,
+    ],
+    [
+      87,
+      Buffer [00 00 00 00 01 00 00 00 69 EB 00 00 01 00 00 00 69 EB 00 00 00 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 06 00 00 00 01 00 00 00 00 AA 91 02 03 00 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2D 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_ASSEMBLY_WISH_OPEN_17",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 1C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The "<value 1>" bill
+is now available!",
+        "es": "¡Se ha añadido el debate
+"<value 1>"!",
+        "fr": "Nouveau projet ajouté :
+<value 1>",
+        "jp": "『<value 1>』の
+議題が追加されました！",
+        "ko": "『<value 1>』
+의제가 추가되었습니다!",
+        "zh-TW": "「<value 1>」
+已追加議題！",
+      },
+      "3",
+      2,
+    ],
+    [
+      87,
+      Buffer [00 00 00 00 01 00 00 00 6A EB 00 00 01 00 00 00 6A EB 00 00 00 00 00 00 01 00 00 00 01 00 00 00 03 00 00 00 06 00 00 00 01 00 00 00 00 B4 91 02 03 00 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2E 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_INNOCENT_RANCH_BORN",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "<value 1> has been born at the Innocent Farm!
+",
+        "es": "¡Ha nacido <value 1> en la
+Granja de inocentes!",
+        "fr": "Naissance au ranch
+des Innocents : <value 1> !",
+        "jp": "イノセント牧場で
+<value 1>が生まれました！",
+        "ko": "이노센트 목장에서
+<value 1>(이)가 태어났습니다!",
+        "zh-TW": "純靈牧場有
+<value 1>出生了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      78,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2F 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHARACTER_WORLD_OPEN_1",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The Demon Class difficulty is now available
+at the Chara Worlder!",
+        "es": "¡Se ha añadido la dificultad
+"Demonio" a la guía de Mundo personaje!",
+        "fr": "Le Rang Démon
+a été ajoutée au Monde des persos !",
+        "jp": "キャラ界屋の難易度に
+『悪魔級』が追加されました！",
+        "ko": "캐릭터계 숍의 난이도에
+『악마급』이 추가되었습니다!",
+        "zh-TW": "角色界屋的難度中
+追加了『惡魔級』！",
+      },
+      "3",
+      2,
+    ],
+    [
+      94,
+      Buffer [01 00 00 00 8E 94 00 00 01 00 00 00 4E ED 00 00 02 00 00 00 4E ED 00 00 7B 94 00 00 00 00 00 00 01 00 00 00 02 00 00 00 05 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [30 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHARACTER_WORLD_OPEN_2",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The Demon Lord Class difficulty is now available
+at the Chara Worlder!",
+        "es": "¡Se ha añadido la dificultad
+"Majin" a la guía de Mundo personaje!",
+        "fr": "Le Rang Diable
+a été ajoutée au Monde des persos !",
+        "jp": "キャラ界屋の難易度に
+『魔神級』が追加されました！",
+        "ko": "캐릭터계 숍의 난이도에
+『마신급』이 추가되었습니다!",
+        "zh-TW": "角色界屋的難度中
+追加了『魔神級』！",
+      },
+      "3",
+      2,
+    ],
+    [
+      94,
+      Buffer [01 00 00 00 8F 94 00 00 01 00 00 00 4F ED 00 00 02 00 00 00 4F ED 00 00 7C 94 00 00 00 00 00 00 01 00 00 00 02 00 00 00 05 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [31 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHARACTER_WORLD_OPEN_3",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The Overlord Class difficulty is now available
+at the Chara Worlder!",
+        "es": "¡Se ha añadido la dificultad
+"Supremo" a la guía de Mundo personaje!",
+        "fr": "Le Rang Souverain
+a été ajoutée au Monde des persos !",
+        "jp": "キャラ界屋の難易度に
+『魔王級』が追加されました！",
+        "ko": "캐릭터계 숍의 난이도에
+『마왕급』이 추가되었습니다!",
+        "zh-TW": "角色界屋的難度中
+追加了『魔王級』！",
+      },
+      "3",
+      2,
+    ],
+    [
+      98,
+      Buffer [02 00 00 00 90 94 00 00 2F 2A 00 00 01 00 00 00 50 ED 00 00 02 00 00 00 50 ED 00 00 7D 94 00 00 00 00 00 00 01 00 00 00 02 00 00 00 05 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [32 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHARACTER_WORLD_OPEN_4",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The Super Overlord Class difficulty is now available
+at the Chara Worlder!",
+        "es": "¡Se ha añadido la dificultad
+"Megasupremo" a la guía de Mundo personaje!",
+        "fr": "Le Rang Super Souverain
+a été ajoutée au Monde des persos !",
+        "jp": "キャラ界屋の難易度に
+『超魔王級』が追加されました！",
+        "ko": "캐릭터계 숍의 난이도에
+『초마왕급』이 추가되었습니다!",
+        "zh-TW": "角色界屋的難度中
+追加了『超魔王級』！",
+      },
+      "3",
+      2,
+    ],
+    [
+      98,
+      Buffer [02 00 00 00 91 94 00 00 43 2F 00 00 01 00 00 00 51 ED 00 00 02 00 00 00 51 ED 00 00 7E 94 00 00 00 00 00 00 01 00 00 00 02 00 00 00 05 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [33 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHARACTER_WORLD_OPEN_5",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The Carnage Prinny Class difficulty
+is now available at the Chara Worlder!",
+        "es": "¡Se ha añadido la dificultad
+"Prini shura" a la guía de Mundo personaje!",
+        "fr": "Le Rang Prinny Carnage
+a été ajoutée au Monde des persos !",
+        "jp": "キャラ界屋の難易度に
+『修羅プリニー級』が追加されました！",
+        "ko": "캐릭터계 숍의 난이도에
+『수라 프리니급』이 추가되었습니다!",
+        "zh-TW": "角色界屋的難度中
+追加了『修羅普利尼級』！",
+      },
+      "3",
+      2,
+    ],
+    [
+      98,
+      Buffer [02 00 00 00 92 94 00 00 9E 75 00 00 01 00 00 00 52 ED 00 00 02 00 00 00 52 ED 00 00 7F 94 00 00 00 00 00 00 01 00 00 00 02 00 00 00 05 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [34 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHARACTER_WORLD_OPEN_6",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The Carnage Demon Class difficulty
+is now available at the Chara Worlder!",
+        "es": "¡Se ha añadido la dificultad
+"Demonio shura" a la guía de Mundo personaje!",
+        "fr": "Le Rang Démon Carnage
+a été ajoutée au Monde des persos !",
+        "jp": "キャラ界屋の難易度に
+『修羅悪魔級』が追加されました！",
+        "ko": "캐릭터계 숍의 난이도에
+『수라 악마급』이 추가되었습니다!",
+        "zh-TW": "角色界屋的難度中
+追加了『修羅惡魔級』！",
+      },
+      "3",
+      2,
+    ],
+    [
+      94,
+      Buffer [01 00 00 00 93 94 00 00 01 00 00 00 53 ED 00 00 02 00 00 00 53 ED 00 00 80 94 00 00 00 00 00 00 01 00 00 00 02 00 00 00 05 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [35 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHARACTER_WORLD_OPEN_7",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The Carnage Demon Lord Class difficulty
+is now available at the Chara Worlder!",
+        "es": "¡Se ha añadido la dificultad
+"Majin shura" a la guía de Mundo personaje!",
+        "fr": "Le Rang Diable Carnage
+a été ajoutée au Monde des persos !",
+        "jp": "キャラ界屋の難易度に
+『修羅魔神級』が追加されました！",
+        "ko": "캐릭터계 숍의 난이도에
+『수라 마신급』이 추가되었습니다!",
+        "zh-TW": "角色界屋的難度中
+追加了『修羅魔神級』！",
+      },
+      "3",
+      2,
+    ],
+    [
+      94,
+      Buffer [01 00 00 00 94 94 00 00 01 00 00 00 54 ED 00 00 02 00 00 00 54 ED 00 00 81 94 00 00 00 00 00 00 01 00 00 00 02 00 00 00 05 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [36 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHARACTER_WORLD_OPEN_8",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The Carnage Overlord Class difficulty
+is now available at the Chara Worlder!",
+        "es": "¡Se ha añadido la dificultad
+"Supremo shura" a la guía de Mundo personaje!",
+        "fr": "Le Rang Souverain Carnage
+a été ajoutée au Monde des persos !",
+        "jp": "キャラ界屋の難易度に
+『修羅魔王級』が追加されました！",
+        "ko": "캐릭터계 숍의 난이도에
+『수라 마왕급』이 추가되었습니다!",
+        "zh-TW": "角色界屋的難度中
+追加了『修羅魔王級』！",
+      },
+      "3",
+      2,
+    ],
+    [
+      94,
+      Buffer [01 00 00 00 95 94 00 00 01 00 00 00 55 ED 00 00 02 00 00 00 55 ED 00 00 82 94 00 00 00 00 00 00 01 00 00 00 02 00 00 00 05 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [37 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHARACTER_WORLD_OPEN_9",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "The Carnage Super Overlord Class difficulty
+is now available at the Chara Worlder!",
+        "es": "¡Se ha añadido la dificultad
+"Megasupremo shura" a la guía de Mundo personaje!",
+        "fr": "Le Rang Super Souverain Carnage
+a été ajoutée au Monde des persos !",
+        "jp": "キャラ界屋の難易度に
+『修羅超魔王級』が追加されました！",
+        "ko": "캐릭터계 숍의 난이도에
+『수라 초마왕급』이 추가되었습니다!",
+        "zh-TW": "角色界屋的難度中
+追加了『修羅超魔王級』！",
+      },
+      "3",
+      2,
+    ],
+    [
+      94,
+      Buffer [01 00 00 00 96 94 00 00 01 00 00 00 56 ED 00 00 02 00 00 00 56 ED 00 00 83 94 00 00 00 00 00 00 01 00 00 00 02 00 00 00 05 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [38 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_UP_0",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP has increased by <value 1>!
+",
+        "es": "¡Los PT de la Tienda de
+trampas aumentaron +<value 1>!",
+        "fr": "Les PT ont augmenté de <value 1>
+au Comptoir de la triche !",
+        "jp": "チート屋のＣＰが
++<value 1>されました！",
+        "ko": "치트 관리인의 CP가
++<value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP
++<value 1>了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      78,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [39 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_UP_1",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 38 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP has increased by <value 1>!
+",
+        "es": "¡Los PT de la Tienda de
+trampas aumentaron +<value 1>!",
+        "fr": "Les PT ont augmenté de <value 1>
+au Comptoir de la triche !",
+        "jp": "チート屋のＣＰが
++<value 1>されました！",
+        "ko": "치트 관리인의 CP가
++<value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP
++<value 1>了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 73 27 00 00 01 00 00 00 60 EA 00 00 01 00 00 00 60 EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 02 00 00 00 03 00 00 00 31 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3A 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_UP_2",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 38 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP has increased by <value 1>!
+",
+        "es": "¡Los PT de la Tienda de
+trampas aumentaron +<value 1>!",
+        "fr": "Les PT ont augmenté de <value 1>
+au Comptoir de la triche !",
+        "jp": "チート屋のＣＰが
++<value 1>されました！",
+        "ko": "치트 관리인의 CP가
++<value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP
++<value 1>了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 D7 27 00 00 01 00 00 00 61 EA 00 00 01 00 00 00 61 EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 02 00 00 00 03 00 00 00 31 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3B 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_UP_3",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 38 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP has increased by <value 1>!
+",
+        "es": "¡Los PT de la Tienda de
+trampas aumentaron +<value 1>!",
+        "fr": "Les PT ont augmenté de <value 1>
+au Comptoir de la triche !",
+        "jp": "チート屋のＣＰが
++<value 1>されました！",
+        "ko": "치트 관리인의 CP가
++<value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP
++<value 1>了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 3B 28 00 00 01 00 00 00 62 EA 00 00 01 00 00 00 62 EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 02 00 00 00 03 00 00 00 32 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3C 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_UP_4",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 38 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP has increased by <value 1>!
+",
+        "es": "¡Los PT de la Tienda de
+trampas aumentaron +<value 1>!",
+        "fr": "Les PT ont augmenté de <value 1>
+au Comptoir de la triche !",
+        "jp": "チート屋のＣＰが
++<value 1>されました！",
+        "ko": "치트 관리인의 CP가
++<value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP
++<value 1>了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 9F 28 00 00 01 00 00 00 63 EA 00 00 01 00 00 00 63 EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 02 00 00 00 03 00 00 00 32 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3D 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_UP_5",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 38 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP has increased by <value 1>!
+",
+        "es": "¡Los PT de la Tienda de
+trampas aumentaron +<value 1>!",
+        "fr": "Les PT ont augmenté de <value 1>
+au Comptoir de la triche !",
+        "jp": "チート屋のＣＰが
++<value 1>されました！",
+        "ko": "치트 관리인의 CP가
++<value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP
++<value 1>了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 03 29 00 00 01 00 00 00 64 EA 00 00 01 00 00 00 64 EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 02 00 00 00 03 00 00 00 33 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3E 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_UP_6",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 38 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP has increased by <value 1>!
+",
+        "es": "¡Los PT de la Tienda de
+trampas aumentaron +<value 1>!",
+        "fr": "Les PT ont augmenté de <value 1>
+au Comptoir de la triche !",
+        "jp": "チート屋のＣＰが
++<value 1>されました！",
+        "ko": "치트 관리인의 CP가
++<value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP
++<value 1>了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 67 29 00 00 01 00 00 00 65 EA 00 00 01 00 00 00 65 EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 02 00 00 00 03 00 00 00 33 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3F 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_UP_7",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 38 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP has increased by <value 1>!
+",
+        "es": "¡Los PT de la Tienda de
+trampas aumentaron +<value 1>!",
+        "fr": "Les PT ont augmenté de <value 1>
+au Comptoir de la triche !",
+        "jp": "チート屋のＣＰが
++<value 1>されました！",
+        "ko": "치트 관리인의 CP가
++<value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP
++<value 1>了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 CB 29 00 00 01 00 00 00 66 EA 00 00 01 00 00 00 66 EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 02 00 00 00 03 00 00 00 33 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [40 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_UP_8",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 38 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP has increased by <value 1>!
+",
+        "es": "¡Los PT de la Tienda de
+trampas aumentaron +<value 1>!",
+        "fr": "Les PT ont augmenté de <value 1>
+au Comptoir de la triche !",
+        "jp": "チート屋のＣＰが
++<value 1>されました！",
+        "ko": "치트 관리인의 CP가
++<value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP
++<value 1>了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 2F 2A 00 00 01 00 00 00 67 EA 00 00 01 00 00 00 67 EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 02 00 00 00 03 00 00 00 35 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [41 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_UP_9",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 38 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP has increased by <value 1>!
+",
+        "es": "¡Los PT de la Tienda de
+trampas aumentaron +<value 1>!",
+        "fr": "Les PT ont augmenté de <value 1>
+au Comptoir de la triche !",
+        "jp": "チート屋のＣＰが
++<value 1>されました！",
+        "ko": "치트 관리인의 CP가
++<value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP
++<value 1>了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      93,
+      Buffer [01 00 00 00 1C D9 00 00 01 00 00 00 68 EA 00 00 01 00 00 00 68 EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 02 00 00 00 04 00 00 00 31 30 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [42 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_UP_10",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 38 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP has increased by <value 1>!
+",
+        "es": "¡Los PT de la Tienda de
+trampas aumentaron +<value 1>!",
+        "fr": "Les PT ont augmenté de <value 1>
+au Comptoir de la triche !",
+        "jp": "チート屋のＣＰが
++<value 1>されました！",
+        "ko": "치트 관리인의 CP가
++<value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP
++<value 1>了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      93,
+      Buffer [01 00 00 00 1D D9 00 00 01 00 00 00 69 EA 00 00 01 00 00 00 69 EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 02 00 00 00 04 00 00 00 31 30 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [43 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_UP_11",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 38 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP has increased by <value 1>!
+",
+        "es": "¡Los PT de la Tienda de
+trampas aumentaron +<value 1>!",
+        "fr": "Les PT ont augmenté de <value 1>
+au Comptoir de la triche !",
+        "jp": "チート屋のＣＰが
++<value 1>されました！",
+        "ko": "치트 관리인의 CP가
++<value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP
++<value 1>了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      93,
+      Buffer [01 00 00 00 1E D9 00 00 01 00 00 00 6A EA 00 00 01 00 00 00 6A EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 02 00 00 00 04 00 00 00 31 30 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [44 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_UP_12",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 38 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP has increased by <value 1>!
+",
+        "es": "¡Los PT de la Tienda de
+trampas aumentaron +<value 1>!",
+        "fr": "Les PT ont augmenté de <value 1>
+au Comptoir de la triche !",
+        "jp": "チート屋のＣＰが
++<value 1>されました！",
+        "ko": "치트 관리인의 CP가
++<value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP
++<value 1>了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 29 D9 00 00 01 00 00 00 6B EA 00 00 01 00 00 00 6B EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 02 00 00 00 03 00 00 00 35 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [45 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_UP_13",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 38 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP has increased by <value 1>!
+",
+        "es": "¡Los PT de la Tienda de
+trampas aumentaron +<value 1>!",
+        "fr": "Les PT ont augmenté de <value 1>
+au Comptoir de la triche !",
+        "jp": "チート屋のＣＰが
++<value 1>されました！",
+        "ko": "치트 관리인의 CP가
++<value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP
++<value 1>了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 33 D9 00 00 01 00 00 00 6C EA 00 00 01 00 00 00 6C EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 02 00 00 00 03 00 00 00 35 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [46 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_UP_14",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 38 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP has increased by <value 1>!
+",
+        "es": "¡Los PT de la Tienda de
+trampas aumentaron +<value 1>!",
+        "fr": "Les PT ont augmenté de <value 1>
+au Comptoir de la triche !",
+        "jp": "チート屋のＣＰが
++<value 1>されました！",
+        "ko": "치트 관리인의 CP가
++<value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP
++<value 1>了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 3D D9 00 00 01 00 00 00 6D EA 00 00 01 00 00 00 6D EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 02 00 00 00 03 00 00 00 35 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [47 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_UP_15",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 38 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP has increased by <value 1>!
+",
+        "es": "¡Los PT de la Tienda de
+trampas aumentaron +<value 1>!",
+        "fr": "Les PT ont augmenté de <value 1>
+au Comptoir de la triche !",
+        "jp": "チート屋のＣＰが
++<value 1>されました！",
+        "ko": "치트 관리인의 CP가
++<value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP
++<value 1>了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 47 D9 00 00 01 00 00 00 6E EA 00 00 01 00 00 00 6E EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 02 00 00 00 03 00 00 00 35 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [48 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_UP_16",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 38 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP has increased by <value 1>!
+",
+        "es": "¡Los PT de la Tienda de
+trampas aumentaron +<value 1>!",
+        "fr": "Les PT ont augmenté de <value 1>
+au Comptoir de la triche !",
+        "jp": "チート屋のＣＰが
++<value 1>されました！",
+        "ko": "치트 관리인의 CP가
++<value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP
++<value 1>了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 51 D9 00 00 01 00 00 00 6F EA 00 00 01 00 00 00 6F EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 02 00 00 00 03 00 00 00 35 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [49 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_UP_17",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 38 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP has increased by <value 1>!
+",
+        "es": "¡Los PT de la Tienda de
+trampas aumentaron +<value 1>!",
+        "fr": "Les PT ont augmenté de <value 1>
+au Comptoir de la triche !",
+        "jp": "チート屋のＣＰが
++<value 1>されました！",
+        "ko": "치트 관리인의 CP가
++<value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP
++<value 1>了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 5B D9 00 00 01 00 00 00 70 EA 00 00 01 00 00 00 70 EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 02 00 00 00 03 00 00 00 35 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [4A 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_UP_18",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 38 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP has increased by <value 1>!
+",
+        "es": "¡Los PT de la Tienda de
+trampas aumentaron +<value 1>!",
+        "fr": "Les PT ont augmenté de <value 1>
+au Comptoir de la triche !",
+        "jp": "チート屋のＣＰが
++<value 1>されました！",
+        "ko": "치트 관리인의 CP가
++<value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP
++<value 1>了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 65 D9 00 00 01 00 00 00 71 EA 00 00 01 00 00 00 71 EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 02 00 00 00 03 00 00 00 35 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [4B 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_UP_19",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 38 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP has increased by <value 1>!
+",
+        "es": "¡Los PT de la Tienda de
+trampas aumentaron +<value 1>!",
+        "fr": "Les PT ont augmenté de <value 1>
+au Comptoir de la triche !",
+        "jp": "チート屋のＣＰが
++<value 1>されました！",
+        "ko": "치트 관리인의 CP가
++<value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP
++<value 1>了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 6C D9 00 00 01 00 00 00 72 EA 00 00 01 00 00 00 72 EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 01 00 00 00 02 00 00 00 03 00 00 00 35 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [4C 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_DOWN_0",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP minimum threshold
+has decreased to <value 1>!",
+        "es": "¡El mínimo de PT que se
+puede asignar ahora es <value 1>!",
+        "fr": "La limite minimale d’attribution des PT
+est passée à <value 1> au Comptoir de la triche !",
+        "jp": "チート屋のＣＰ割り振りの
+下限が<value 1>になりました！",
+        "ko": "치트 관리인의 CP 할당
+하한이 <value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP分配
+下限變成<value 1>！",
+      },
+      "3",
+      2,
+    ],
+    [
+      78,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 03 00 00 00 02 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [4D 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_DOWN_1",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 4C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP minimum threshold
+has decreased to <value 1>!",
+        "es": "¡El mínimo de PT que se
+puede asignar ahora es <value 1>!",
+        "fr": "La limite minimale d’attribution des PT
+est passée à <value 1> au Comptoir de la triche !",
+        "jp": "チート屋のＣＰ割り振りの
+下限が<value 1>になりました！",
+        "ko": "치트 관리인의 CP 할당
+하한이 <value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP分配
+下限變成<value 1>！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 73 27 00 00 01 00 00 00 92 EA 00 00 01 00 00 00 92 EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 02 00 00 00 02 00 00 00 03 00 00 00 38 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [4E 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_DOWN_2",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 4C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP minimum threshold
+has decreased to <value 1>!",
+        "es": "¡El mínimo de PT que se
+puede asignar ahora es <value 1>!",
+        "fr": "La limite minimale d’attribution des PT
+est passée à <value 1> au Comptoir de la triche !",
+        "jp": "チート屋のＣＰ割り振りの
+下限が<value 1>になりました！",
+        "ko": "치트 관리인의 CP 할당
+하한이 <value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP分配
+下限變成<value 1>！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 D7 27 00 00 01 00 00 00 93 EA 00 00 01 00 00 00 93 EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 02 00 00 00 02 00 00 00 03 00 00 00 37 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [4F 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_DOWN_3",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 4C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP minimum threshold
+has decreased to <value 1>!",
+        "es": "¡El mínimo de PT que se
+puede asignar ahora es <value 1>!",
+        "fr": "La limite minimale d’attribution des PT
+est passée à <value 1> au Comptoir de la triche !",
+        "jp": "チート屋のＣＰ割り振りの
+下限が<value 1>になりました！",
+        "ko": "치트 관리인의 CP 할당
+하한이 <value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP分配
+下限變成<value 1>！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 3B 28 00 00 01 00 00 00 94 EA 00 00 01 00 00 00 94 EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 02 00 00 00 02 00 00 00 03 00 00 00 36 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [50 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_DOWN_4",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 4C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP minimum threshold
+has decreased to <value 1>!",
+        "es": "¡El mínimo de PT que se
+puede asignar ahora es <value 1>!",
+        "fr": "La limite minimale d’attribution des PT
+est passée à <value 1> au Comptoir de la triche !",
+        "jp": "チート屋のＣＰ割り振りの
+下限が<value 1>になりました！",
+        "ko": "치트 관리인의 CP 할당
+하한이 <value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP分配
+下限變成<value 1>！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 9F 28 00 00 01 00 00 00 95 EA 00 00 01 00 00 00 95 EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 02 00 00 00 02 00 00 00 03 00 00 00 35 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [51 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_DOWN_5",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 4C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP minimum threshold
+has decreased to <value 1>!",
+        "es": "¡El mínimo de PT que se
+puede asignar ahora es <value 1>!",
+        "fr": "La limite minimale d’attribution des PT
+est passée à <value 1> au Comptoir de la triche !",
+        "jp": "チート屋のＣＰ割り振りの
+下限が<value 1>になりました！",
+        "ko": "치트 관리인의 CP 할당
+하한이 <value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP分配
+下限變成<value 1>！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 03 29 00 00 01 00 00 00 96 EA 00 00 01 00 00 00 96 EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 02 00 00 00 02 00 00 00 03 00 00 00 34 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [52 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_DOWN_6",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 4C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP minimum threshold
+has decreased to <value 1>!",
+        "es": "¡El mínimo de PT que se
+puede asignar ahora es <value 1>!",
+        "fr": "La limite minimale d’attribution des PT
+est passée à <value 1> au Comptoir de la triche !",
+        "jp": "チート屋のＣＰ割り振りの
+下限が<value 1>になりました！",
+        "ko": "치트 관리인의 CP 할당
+하한이 <value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP分配
+下限變成<value 1>！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 67 29 00 00 01 00 00 00 97 EA 00 00 01 00 00 00 97 EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 02 00 00 00 02 00 00 00 03 00 00 00 33 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [53 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_DOWN_7",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 4C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP minimum threshold
+has decreased to <value 1>!",
+        "es": "¡El mínimo de PT que se
+puede asignar ahora es <value 1>!",
+        "fr": "La limite minimale d’attribution des PT
+est passée à <value 1> au Comptoir de la triche !",
+        "jp": "チート屋のＣＰ割り振りの
+下限が<value 1>になりました！",
+        "ko": "치트 관리인의 CP 할당
+하한이 <value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP分配
+下限變成<value 1>！",
+      },
+      "3",
+      2,
+    ],
+    [
+      92,
+      Buffer [01 00 00 00 CB 29 00 00 01 00 00 00 98 EA 00 00 01 00 00 00 98 EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 02 00 00 00 02 00 00 00 03 00 00 00 32 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [54 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_CHEAT_CP_DOWN_8",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 4C 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cheat Shop CP minimum threshold
+has decreased to <value 1>!",
+        "es": "¡El mínimo de PT que se
+puede asignar ahora es <value 1>!",
+        "fr": "La limite minimale d’attribution des PT
+est passée à <value 1> au Comptoir de la triche !",
+        "jp": "チート屋のＣＰ割り振りの
+下限が<value 1>になりました！",
+        "ko": "치트 관리인의 CP 할당
+하한이 <value 1>(이)가 되었습니다!",
+        "zh-TW": "作弊屋的CP分配
+下限變成<value 1>！",
+      },
+      "3",
+      2,
+    ],
+    [
+      91,
+      Buffer [01 00 00 00 2F 2A 00 00 01 00 00 00 99 EA 00 00 01 00 00 00 99 EA 00 00 00 00 00 00 01 00 00 00 03 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [55 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_0",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      78,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [56 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_1",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 6C B6 00 00 01 00 00 00 48 EE 00 00 01 00 00 00 48 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [57 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_2",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 6D B6 00 00 01 00 00 00 49 EE 00 00 01 00 00 00 49 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [58 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_3",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 6E B6 00 00 01 00 00 00 4A EE 00 00 01 00 00 00 4A EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [59 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_4",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 6F B6 00 00 01 00 00 00 4B EE 00 00 01 00 00 00 4B EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [5A 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_5",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 70 B6 00 00 01 00 00 00 4C EE 00 00 01 00 00 00 4C EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 04 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [5B 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_6",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 71 B6 00 00 01 00 00 00 4D EE 00 00 01 00 00 00 4D EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [5C 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_7",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 72 B6 00 00 01 00 00 00 4E EE 00 00 01 00 00 00 4E EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [5D 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_8",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 73 B6 00 00 01 00 00 00 4F EE 00 00 01 00 00 00 4F EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [5E 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_9",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 74 B6 00 00 01 00 00 00 50 EE 00 00 01 00 00 00 50 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 08 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [5F 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_10",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 75 B6 00 00 01 00 00 00 51 EE 00 00 01 00 00 00 51 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 09 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [60 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_11",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 76 B6 00 00 01 00 00 00 52 EE 00 00 01 00 00 00 52 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 0A 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [61 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_12",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 77 B6 00 00 01 00 00 00 53 EE 00 00 01 00 00 00 53 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 0B 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [62 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_13",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 78 B6 00 00 01 00 00 00 54 EE 00 00 01 00 00 00 54 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 0C 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [63 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_14",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 79 B6 00 00 01 00 00 00 55 EE 00 00 01 00 00 00 55 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 0D 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [64 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_15",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 7A B6 00 00 01 00 00 00 56 EE 00 00 01 00 00 00 56 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 0E 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [65 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_16",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 7B B6 00 00 01 00 00 00 57 EE 00 00 01 00 00 00 57 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 0F 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [66 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_17",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 7C B6 00 00 01 00 00 00 58 EE 00 00 01 00 00 00 58 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 10 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [67 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_18",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 7D B6 00 00 01 00 00 00 59 EE 00 00 01 00 00 00 59 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 11 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [68 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_19",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 7E B6 00 00 01 00 00 00 5A EE 00 00 01 00 00 00 5A EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 12 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [69 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_20",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 7F B6 00 00 01 00 00 00 5B EE 00 00 01 00 00 00 5B EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 13 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6A 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_21",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 80 B6 00 00 01 00 00 00 5C EE 00 00 01 00 00 00 5C EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 14 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6B 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_22",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 81 B6 00 00 01 00 00 00 5D EE 00 00 01 00 00 00 5D EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 15 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6C 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_23",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 82 B6 00 00 01 00 00 00 5E EE 00 00 01 00 00 00 5E EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 16 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6D 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_24",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 83 B6 00 00 01 00 00 00 5F EE 00 00 01 00 00 00 5F EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 17 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6E 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_25",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 84 B6 00 00 01 00 00 00 60 EE 00 00 01 00 00 00 60 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 18 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6F 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_26",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 85 B6 00 00 01 00 00 00 61 EE 00 00 01 00 00 00 61 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 19 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [70 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_27",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 86 B6 00 00 01 00 00 00 62 EE 00 00 01 00 00 00 62 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 1A 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [71 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_28",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 87 B6 00 00 01 00 00 00 63 EE 00 00 01 00 00 00 63 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 1B 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [72 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_29",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 88 B6 00 00 01 00 00 00 64 EE 00 00 01 00 00 00 64 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 1C 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [73 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_30",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 89 B6 00 00 01 00 00 00 65 EE 00 00 01 00 00 00 65 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 1D 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [74 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_31",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 8A B6 00 00 01 00 00 00 66 EE 00 00 01 00 00 00 66 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 1E 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [75 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_32",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 8B B6 00 00 01 00 00 00 67 EE 00 00 01 00 00 00 67 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 1F 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [76 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_33",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 8C B6 00 00 01 00 00 00 68 EE 00 00 01 00 00 00 68 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 20 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [77 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_34",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 8D B6 00 00 01 00 00 00 69 EE 00 00 01 00 00 00 69 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 21 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [78 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_35",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 8E B6 00 00 01 00 00 00 6A EE 00 00 01 00 00 00 6A EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 22 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [79 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_36",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 8F B6 00 00 01 00 00 00 6B EE 00 00 01 00 00 00 6B EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 23 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [7A 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_37",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 90 B6 00 00 01 00 00 00 6C EE 00 00 01 00 00 00 6C EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 24 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [7B 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_38",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 91 B6 00 00 01 00 00 00 6D EE 00 00 01 00 00 00 6D EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 25 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [7C 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_39",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 92 B6 00 00 01 00 00 00 6E EE 00 00 01 00 00 00 6E EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 26 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [7D 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_40",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 93 B6 00 00 01 00 00 00 6F EE 00 00 01 00 00 00 6F EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 27 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [7E 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_41",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 94 B6 00 00 01 00 00 00 70 EE 00 00 01 00 00 00 70 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 28 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [7F 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_42",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 95 B6 00 00 01 00 00 00 71 EE 00 00 01 00 00 00 71 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 29 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [80 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_43",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 96 B6 00 00 01 00 00 00 72 EE 00 00 01 00 00 00 72 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 2A 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [81 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_RECORD_TROPHY_44",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 55 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the "<value 1>"
+achievement!",
+        "es": "¡Se ha obtenido el trofeo
+"<value 1>"!",
+        "fr": "Vous avez obtenu
+le trophée « <value 1> » !",
+        "jp": "『<value 1>』の
+実績を獲得しました！",
+        "ko": "『<value 1>』의
+실적을 획득했습니다!",
+        "zh-TW": "「<value 1>」
+已獲得成就！",
+      },
+      "3",
+      2,
+    ],
+    [
+      90,
+      Buffer [01 00 00 00 97 B6 00 00 01 00 00 00 73 EE 00 00 01 00 00 00 73 EE 00 00 00 00 00 00 01 00 00 00 08 00 00 00 06 00 00 00 06 00 00 00 01 00 00 00 00 2B 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [82 00 00 00],
+    ],
+    [
+      "key",
+      "NOTICE_DLC_ADD_DESCO",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 FF FF FF FF],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Desco is now one of your Battle Buddies!
+",
+        "es": "¡Ya puedes usar a Desco
+como tu familiar!",
+        "fr": "Desco est désormais disponible
+en tant que familier !",
+        "jp": "『デスコ』が従魔として
+使用できるようになりました！",
+        "ko": "『데스코』를 사역마로
+삼을 수 있습니다!",
+        "zh-TW": "已經可將「死亡子」
+作為使魔來使用了！",
+      },
+      "3",
+      2,
+    ],
+    [
+      94,
+      Buffer [02 00 00 00 99 75 00 00 7B D9 00 00 01 00 00 00 3E F0 00 00 01 00 00 00 3E F0 00 00 00 00 00 00 01 00 00 00 07 00 00 00 07 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]

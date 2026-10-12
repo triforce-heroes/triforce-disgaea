@@ -1,0 +1,138 @@
+[
+  [
+    [
+      4,
+      Buffer [E8 03 00 00],
+    ],
+    [
+      "key",
+      "VKEY_CATEGORY_UNIT",
+    ],
+    [
+      "notes",
+      "プレイヤー操作",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Player Controls",
+        "es": "Controles personaje",
+        "fr": "Commandes du personnage",
+        "jp": "プレイヤー操作",
+        "ko": "플레이어 조작",
+        "zh-TW": "玩家操作",
+      },
+      "4",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [E9 03 00 00],
+    ],
+    [
+      "key",
+      "VKEY_CATEGORY_TALK",
+    ],
+    [
+      "notes",
+      "会話操作",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Conversation Controls",
+        "es": "Controles diálogos",
+        "fr": "Commandes en dialogue",
+        "jp": "会話操作",
+        "ko": "대화 조작",
+        "zh-TW": "對話操作",
+      },
+      "4",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [EA 03 00 00],
+    ],
+    [
+      "key",
+      "VKEY_CATEGORY_UNIT_ACTION",
+    ],
+    [
+      "notes",
+      "アクション操作",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Action Controls",
+        "es": "Controles acción",
+        "fr": "Commandes des actions",
+        "jp": "アクション操作",
+        "ko": "액션 조작",
+        "zh-TW": "動作操作",
+      },
+      "4",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [EB 03 00 00],
+    ],
+    [
+      "key",
+      "VKEY_CATEGORY_SKILL",
+    ],
+    [
+      "notes",
+      "技操作",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Skill Controls",
+        "es": "Controles técnicas",
+        "fr": "Commandes des capacités",
+        "jp": "技操作",
+        "ko": "기술 조작",
+        "zh-TW": "技能操作",
+      },
+      "4",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]

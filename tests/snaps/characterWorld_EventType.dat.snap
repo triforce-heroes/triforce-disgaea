@@ -1,0 +1,793 @@
+[
+  [
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_NONE",
+    ],
+    [
+      "notes",
+      "なし",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Nothing happened.",
+        "es": "No ha pasado nada.",
+        "fr": "Rien ne se passe.",
+        "jp": "何も起きなかった。",
+        "ko": "아무 일도 일어나지 않았다.",
+        "zh-TW": "什麼事都沒發生。",
+      },
+      "3",
+      1,
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [01 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_STATUS_UP",
+    ],
+    [
+      "notes",
+      "ステータス_UP",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Bonus: <value 1>+<value 2>!
+",
+        "es": "¡Has obtenido <value 2>
+de bonus de <value 1>!",
+        "fr": "Bonus obtenu :
+<value 2><value 1> !",
+        "jp": "<value 1>ボーナスを
+<value 2>獲得した！",
+        "ko": "<value 1> 보너스를
+<value 2> 획득했다!",
+        "zh-TW": "<value 1>獎勵
+已獲得<value 2>！",
+      },
+      "3",
+      2,
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_STATUS_DOWN",
+    ],
+    [
+      "notes",
+      "ステータス_DOWN",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Stat bonuses reduced...",
+        "es": "El bonus de estadísticas ha disminuido...",
+        "fr": "Baisse du bonus de stats...",
+        "jp": "ステータスボーナスが減少した……。",
+        "ko": "스테이터스 보너스가 감소했다…",
+        "zh-TW": "能力值獎勵減少了……",
+      },
+      "3",
+      1,
+    ],
+    [
+      20,
+      Buffer [01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [03 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_TREASURE",
+    ],
+    [
+      "notes",
+      "宝箱",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained +<value 1>!
+",
+        "es": "¡Has obtenido
+<value 1>!",
+        "fr": "Obtenu :
+<value 1> !",
+        "jp": "<value 1>を
+獲得した！",
+        "ko": "<value 1>(을)를
+획득했다!",
+        "zh-TW": "已獲得
+<value 1>！",
+      },
+      "3",
+      2,
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [04 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_MANA_ADD",
+    ],
+    [
+      "notes",
+      "マナ獲得",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained +<value 1> Mana<icon ICON_ID_SYSTEM_TEXT_01_15>!
+",
+        "es": "¡Has obtenido
+<value 1> de maná <icon ICON_ID_SYSTEM_TEXT_01_15>!",
+        "fr": "<value 1> Mana<icon ICON_ID_SYSTEM_TEXT_01_15>
+obtenu !",
+        "jp": "<value 1>マナ<icon ICON_ID_SYSTEM_TEXT_01_15>を
+獲得した！",
+        "ko": "<value 1> 마나<icon ICON_ID_SYSTEM_TEXT_01_15>를
+획득했다!",
+        "zh-TW": "已獲得
+<value 1>瑪那<icon ICON_ID_SYSTEM_TEXT_01_15>！",
+      },
+      "3",
+      2,
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [05 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_MANA_SUB",
+    ],
+    [
+      "notes",
+      "マナ減少",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Lost <value 1> Mana<icon ICON_ID_SYSTEM_TEXT_01_15>...
+",
+        "es": "Has perdido
+<value 1> de maná <icon ICON_ID_SYSTEM_TEXT_01_15>...",
+        "fr": "<value 1> Mana<icon ICON_ID_SYSTEM_TEXT_01_15>
+perdu...",
+        "jp": "<value 1>マナ<icon ICON_ID_SYSTEM_TEXT_01_15>を
+失った……。",
+        "ko": "<value 1> 마나<icon ICON_ID_SYSTEM_TEXT_01_15>를
+잃었다…",
+        "zh-TW": "已失去
+<value 1>瑪那<icon ICON_ID_SYSTEM_TEXT_01_15>……",
+      },
+      "3",
+      2,
+    ],
+    [
+      20,
+      Buffer [01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [06 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_HEAL",
+    ],
+    [
+      "notes",
+      "回復",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Battle Buddies recovered HP!",
+        "es": "¡Los PV de los familiares se han recuperado!",
+        "fr": "PV des familiers restaurés !",
+        "jp": "従魔のＨＰが回復した！",
+        "ko": "사역마의 HP가 회복됐다!",
+        "zh-TW": "使魔的HP已恢復！",
+      },
+      "3",
+      1,
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [07 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_DAMAGE",
+    ],
+    [
+      "notes",
+      "ダメージ",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Battle Buddies took some damage...",
+        "es": "Los familiares han recibido daño...",
+        "fr": "Les familiers ont subi des dégâts...",
+        "jp": "従魔がダメージを受けた……。",
+        "ko": "사역마가 대미지를 받았다…",
+        "zh-TW": "使魔受到了傷害……",
+      },
+      "3",
+      1,
+    ],
+    [
+      20,
+      Buffer [01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [08 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_SHORTCUT",
+    ],
+    [
+      "notes",
+      "ショートカット",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Warped!",
+        "es": "¡Te has teletransportado!",
+        "fr": "Téléportation réussie !",
+        "jp": "ワープした！",
+        "ko": "워프했다!",
+        "zh-TW": "已傳送！",
+      },
+      "3",
+      1,
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [09 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_MONEY_ADD",
+    ],
+    [
+      "notes",
+      "お金獲得",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained <value 1> HL<icon ICON_ID_SYSTEM_TEXT_01_14>!
+",
+        "es": "¡Has obtenido
+<value 1> de HL <icon ICON_ID_SYSTEM_TEXT_01_14>!",
+        "fr": "<value 1> Hell<icon ICON_ID_SYSTEM_TEXT_01_14>
+obtenus !",
+        "jp": "<value 1>ヘル<icon ICON_ID_SYSTEM_TEXT_01_14>を
+獲得した！",
+        "ko": "<value 1> 헬<icon ICON_ID_SYSTEM_TEXT_01_14>을
+획득했다!",
+        "zh-TW": "已獲得
+<value 1>赫爾<icon ICON_ID_SYSTEM_TEXT_01_14>！",
+      },
+      "3",
+      2,
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0A 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_MONEY_SUB",
+    ],
+    [
+      "notes",
+      "お金減少",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Lost <value 1> HL<icon ICON_ID_SYSTEM_TEXT_01_14>...
+",
+        "es": "Has perdido
+<value 1> de HL <icon ICON_ID_SYSTEM_TEXT_01_14>...",
+        "fr": "<value 1> Hell<icon ICON_ID_SYSTEM_TEXT_01_14>
+perdus...",
+        "jp": "<value 1>ヘル<icon ICON_ID_SYSTEM_TEXT_01_14>を
+失った……。",
+        "ko": "<value 1> 헬<icon ICON_ID_SYSTEM_TEXT_01_14>을
+잃었다…",
+        "zh-TW": "已失去
+<value 1>赫爾<icon ICON_ID_SYSTEM_TEXT_01_14>……",
+      },
+      "3",
+      2,
+    ],
+    [
+      20,
+      Buffer [01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0B 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_ITEM_FIX",
+    ],
+    [
+      "notes",
+      "アイテム獲得_固定",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained <value 1>!
+",
+        "es": "¡Has obtenido
+<value 1>!",
+        "fr": "Obtenu :
+<value 1> !",
+        "jp": "<value 1>を
+獲得した！",
+        "ko": "<value 1>(을)를
+획득했다!",
+        "zh-TW": "已獲得
+<value 1>！",
+      },
+      "3",
+      2,
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0C 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_ITEM_RANDOM",
+    ],
+    [
+      "notes",
+      "アイテム獲得_ランダム",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained <value 1>!
+",
+        "es": "¡Has obtenido
+<value 1>!",
+        "fr": "Obtenu :
+<value 1> !",
+        "jp": "<value 1>を
+獲得した！",
+        "ko": "<value 1>(을)를
+획득했다!",
+        "zh-TW": "已獲得
+<value 1>！",
+      },
+      "3",
+      2,
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0D 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_ENERGY_ADD",
+    ],
+    [
+      "notes",
+      "エナジー回復",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Recovered <value 1> EN<icon ICON_ID_SYSTEM_TEXT_01_13>!",
+        "es": "¡Has recuperado <value 1> de energía <icon ICON_ID_SYSTEM_TEXT_01_13>!",
+        "fr": "<icon ICON_ID_SYSTEM_TEXT_01_13>Énergie restaurée de <value 1> !",
+        "jp": "エナジー<icon ICON_ID_SYSTEM_TEXT_01_13>が<value 1>回復した！",
+        "ko": "에너지<icon ICON_ID_SYSTEM_TEXT_01_13>가 <value 1> 회복됐다!",
+        "zh-TW": "能量<icon ICON_ID_SYSTEM_TEXT_01_13>已恢復<value 1>！",
+      },
+      "3",
+      1,
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0E 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_ENERGY_SUB",
+    ],
+    [
+      "notes",
+      "エナジー減少",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Lost <value 1> EN<icon ICON_ID_SYSTEM_TEXT_01_13>...",
+        "es": "Has perdido <value 1> de energía <icon ICON_ID_SYSTEM_TEXT_01_13>...",
+        "fr": "<icon ICON_ID_SYSTEM_TEXT_01_13>Énergie réduite de <value 1>...",
+        "jp": "エナジー<icon ICON_ID_SYSTEM_TEXT_01_13>を<value 1>失った……。",
+        "ko": "에너지<icon ICON_ID_SYSTEM_TEXT_01_13>를 <value 1> 잃었다…",
+        "zh-TW": "能量<icon ICON_ID_SYSTEM_TEXT_01_13>已失去<value 1>……",
+      },
+      "3",
+      1,
+    ],
+    [
+      20,
+      Buffer [01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0F 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_EVILITY",
+    ],
+    [
+      "notes",
+      "魔ビリティー獲得",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Learned <value 1><value 2>'s Evility!
+",
+        "es": "¡Has aprendido la
+demoarte <value 1><value 2>!",
+        "fr": "Maléfice obtenu :
+<value 1><value 2> !",
+        "jp": "<value 1><value 2>の
+魔ビリティーを習得した！",
+        "ko": "<value 1>, <value 2>
+마빌리티를 습득했다!",
+        "zh-TW": "已習得<value 1><value 2>
+的魔能力！",
+      },
+      "3",
+      2,
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [10 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_DICE_UP",
+    ],
+    [
+      "notes",
+      "出目アップ",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Slot machine results improved!",
+        "es": "¡El resultado de la ranura ha mejorado!",
+        "fr": "Résultats de la machine à sous améliorés !",
+        "jp": "スロットの出目が良くなった！",
+        "ko": "슬롯에 좋은 숫자가 나오게 되었다!",
+        "zh-TW": "拉霸的數字變好了！",
+      },
+      "3",
+      1,
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [11 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_DICE_DOWN",
+    ],
+    [
+      "notes",
+      "出目ダウン",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Next slot machine results
+weakened...",
+        "es": "El resultado de la ranura ha empeorado...
+",
+        "fr": "Résultats de la machine à sous dégradés...
+",
+        "jp": "スロットの出目が悪くなった……。
+",
+        "ko": "슬롯에 나쁜 숫자가 나오게 되었다…
+",
+        "zh-TW": "拉霸的數字變差了……
+",
+      },
+      "3",
+      2,
+    ],
+    [
+      20,
+      Buffer [01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [12 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_DISABLED",
+    ],
+    [
+      "notes",
+      "イベント無効",
+    ],
+    [
+      "dialog",
+      {
+        "en": "The event has been nullified!",
+        "es": "¡Evento anulado!",
+        "fr": "L’événement est désormais sans effet !",
+        "jp": "イベントを無効化した！",
+        "ko": "이벤트를 무효화했다!",
+        "zh-TW": "已將事件視為無效！",
+      },
+      "3",
+      1,
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [13 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_DISABLED_MINUS",
+    ],
+    [
+      "notes",
+      "マイナスイベント無効",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Nullified negative event!",
+        "es": "¡Evento negativo anulado!",
+        "fr": "L’événement Moins est désormais sans effet !",
+        "jp": "マイナスイベントを無効化した！",
+        "ko": "마이너스 이벤트를 무효화했다!",
+        "zh-TW": "已將減益事件視為無效！",
+      },
+      "3",
+      1,
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [14 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_DISABLED_MINUS_ITEM",
+    ],
+    [
+      "notes",
+      "マイナスイベント無効_アイテム",
+    ],
+    [
+      "dialog",
+      {
+        "en": "...But the lucky charm nullified
+it! The charm disappeared.",
+        "es": "Pero... ¡el amuleto de la suerte lo ha cancelado!
+El amuleto, ya sin efecto, ha desaparecido.",
+        "fr": "Mais le porte-bonheur a annulé l’effet !
+Ayant perdu son pouvoir, il disparaît.",
+        "jp": "……が、幸運のお守りが打ち消した！
+効果を失ったお守りは消滅した",
+        "ko": "…하지만 행운의 부적이 상쇄했다!
+효과가 사라진 부적은 소멸했다.",
+        "zh-TW": "……但被幸運護身符抵銷了！
+失去效果的護身符消散了。",
+      },
+      "3",
+      2,
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [15 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_BATTLE_REWARDS_STATUS_UP",
+    ],
+    [
+      "notes",
+      "戦闘報酬ステータス_UP",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Bonus: <value 1>+<value 2>!
+",
+        "es": "¡Has obtenido <value 2>
+de bonus de <value 1>!",
+        "fr": "Bonus obtenu :
+<value 2><value 1> !",
+        "jp": "<value 1>ボーナスを
+<value 2>獲得した！",
+        "ko": "<value 1> 보너스를
+<value 2> 획득했다!",
+        "zh-TW": "<value 1>獎勵
+已獲得<value 2>！",
+      },
+      "3",
+      2,
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [16 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_EVENT_TYPE_EVILITY_NON_MASTERY",
+    ],
+    [
+      "notes",
+      "魔ビリティー非習得",
+    ],
+    [
+      "dialog",
+      {
+        "en": "No more Evilities can be learned at
+this difficulty.",
+        "es": "Parece que ya no quedan demoartes que
+puedas aprender en esta dificultad.",
+        "fr": "Plus aucun maléfice à obtenir
+dans cette difficulté.",
+        "jp": "この難易度で習得できる魔ビリティーが
+もう無いようだ",
+        "ko": "이 난이도에서 습득할 수 있는 마빌리티는
+이제 없는 듯하다.",
+        "zh-TW": "已經沒有可在此難度中
+習得的魔能力。",
+      },
+      "3",
+      2,
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]

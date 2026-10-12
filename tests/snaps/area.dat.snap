@@ -1,0 +1,2003 @@
+[
+  [
+    [
+      4,
+      Buffer [01 00 00 00],
+    ],
+    [
+      "key",
+      "AREA_ID_00001",
+    ],
+    [
+      "languages",
+      {
+        "en": "Pestilence Plains",
+        "es": "Llanura infectada",
+        "fr": "Plaine Kraspec",
+        "jp": "病原",
+        "ko": "질병의 들판",
+        "zh-TW": "病原",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "A sprawling field near the Overlord's
+Castle. It was once the location of a
+massive battle, and the scars from that
+battle remain scattered across it.
+Eating flan on its peaceful fields on a
+clear day is the absolute best.",
+        "es": "Una planicie situada cerca del castillo.
+Una cruenta guerra que se libró en
+ella dejó cicatrices por todos lados.
+No hay sitio mejor para comerse un
+buen flan en un día soleado.
+",
+        "fr": "Vaste plaine s’étendant près du Château
+de la Souveraine, on peut y observer
+les restes d’une grande bataille passée.
+Il n’y a rien de mieux que d’y manger
+un flan par une journée ensoleillée.
+",
+        "jp": "魔王城の近くにひろがる広大な平原。
+かつて大きな戦いがあり、
+あちこちにその爪痕が残されている。
+晴れの日にのどかな大地で食べるプリンは
+控えめに言って最高である。
+",
+        "ko": "마왕성 부근에 펼쳐진 광대한 평원.
+일찍이 커다란 전투가 있었기에
+이곳저곳에 그 흔적이 남아 있다.
+화창한 날, 한적한 들판에서 먹는 푸딩은
+단언컨대 최고라고 할 수 있다.
+",
+        "zh-TW": "魔王城附近的寬闊平原。
+曾經發生過大規模的戰爭，
+到處都能看見當時留下的痕跡。
+晴天之下在綠意盎然的大地中享用布丁，
+含蓄地說，這簡直就是頂級的享受。
+",
+      },
+      "3",
+      6,
+    ],
+    [
+      44,
+      Buffer [01 00 00 00 11 27 00 00 00 00 00 00 8C 23 00 00 F0 23 00 00 22 24 00 00 8C 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "key",
+      "AREA_ID_00002",
+    ],
+    [
+      "languages",
+      {
+        "en": "Grotto of Agony",
+        "es": "Cueva angustias",
+        "fr": "Grotte Trounoir",
+        "jp": "悩窟",
+        "ko": "번뇌의 굴",
+        "zh-TW": "惱窟",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "A massive grotto that serves as Super
+Duper's main source of minerals. Its
+interior is dark and complex, leading
+those who wander in to get lost. It's
+nice and cool in the summer, making it a
+fine place to chill and eat flan.",
+        "es": "La cueva de minerales de Megamejor.
+Es confusa para los intrusos debido a su
+interior oscuro y laberíntico. Siempre
+se está fresquito; es el sitio ideal
+para comerse un flan.
+",
+        "fr": "Ressource principale de minerai du
+Sous-monde Suprême. L’obscurité ambiante
+déconcerte les intrus qui y pénètrent.
+Il y fait frais même en été, parfait
+pour manger un flan loin de la chaleur.
+",
+        "jp": "傑超魔界の鉱物資源を賄う巨大洞窟。
+内部は暗く入り組んでおり、侵入者を惑わせ
+る。
+夏でもひんやりしており、涼みながらプリン
+を食べると気持ちいい。
+",
+        "ko": "걸초마계에 광물 자원을 제공하는
+거대한 동굴. 내부는 어둡고 복잡하며
+침입자를 혼란스럽게 한다.
+여름에도 서늘해 바람을 쐬며 푸딩을
+먹으면 기분이 좋다.
+",
+        "zh-TW": "傑超魔界裡提供礦物資源的巨大洞窟。
+洞窟裡非常黑暗，且構造錯綜複雜，
+使入侵者容易迷失方向。
+即使是夏天，裡頭也十分涼爽，
+邊避暑邊吃布丁最舒服了。
+",
+      },
+      "3",
+      6,
+    ],
+    [
+      44,
+      Buffer [02 00 00 00 12 27 00 00 00 00 00 00 8D 23 00 00 F1 23 00 00 23 24 00 00 8D 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [03 00 00 00],
+    ],
+    [
+      "key",
+      "AREA_ID_00003",
+    ],
+    [
+      "languages",
+      {
+        "en": "Intoxicated Forest",
+        "es": "Bosque inundado",
+        "fr": "Bosquet Ploufplouf",
+        "jp": "酔没林",
+        "ko": "취기에 잠긴 숲",
+        "zh-TW": "醉沒林",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "A sunken, swamp-like forest. Its magic-
+rich water is intoxicating to those not
+used to it. There are some who take
+pleasure in purposely getting drunk and
+eating flan there, but that is strictly
+off limits for the underage!",
+        "es": "Un bosque inundado de agua. Su mágica
+agua puede emborrachar a los incautos.
+Al parecer, el flan sabe mejor si
+estás ebrio.
+(Que los menores no lo intenten).
+",
+        "fr": "L’eau qui inonde cette forêt est
+imprégnée de magie qui rend saouls
+ceux qui n’y sont pas habitués. On
+dit que manger un flan en étant enivré
+rend celui-ci particulièrement exquis.
+",
+        "jp": "豊富な水を湛えた水没林。
+魔力の溶け込んだ水は慣れていない者を
+酔わせてしまう。
+敢えて酔っ払いながら食べるプリンも乙なも
+のらしいが、未成年は駄目ですよ。
+",
+        "ko": "풍부한 물을 머금은 물에 잠긴 숲.
+마력이 녹아든 물은 익숙하지 않은 자를
+취하게 한다.
+굳이 취하면서 먹는 푸딩도 운치가
+있다고는 하지만, 미성년자는 금지입니다.
+",
+        "zh-TW": "具有大面積水域的水沒林。
+水中蘊藏著魔力，不諳魔力的人
+會陷入酒醉狀態。
+刻意醉醺醺地吃布丁也是別有一番風味，
+但未成年可不能這麼做喔。
+",
+      },
+      "3",
+      6,
+    ],
+    [
+      44,
+      Buffer [03 00 00 00 13 27 00 00 00 00 00 00 8E 23 00 00 F2 23 00 00 24 24 00 00 8E 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [04 00 00 00],
+    ],
+    [
+      "key",
+      "AREA_ID_00004",
+    ],
+    [
+      "languages",
+      {
+        "en": "Chaos Canyon",
+        "es": "Valle cruel",
+        "fr": "Vallée Grobobo",
+        "jp": "渓酷",
+        "ko": "가혹한 계곡",
+        "zh-TW": "溪酷",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "A ravine filled with ancient ruins.
+In the past, weak demons lived here, but
+now it is the stronghold of the Vroom
+Vroomers. They often hold flan parties,
+making their neighbors jealous.",
+        "es": "Un valle con ruinas antiguas. Antes,
+demonios débiles vivían en él, pero
+ahora es la base de los Furia Ardiente.
+Se dice que se dedican a comer flanes
+todo el día. Son la envidia de todos.",
+        "fr": "Si des démons plutôt faibles s’y étaient
+jadis réfugiés, cette vallée marquée par
+l’histoire est désormais la base du gang
+des Enragés, qui y organiserait
+régulièrement des dégustations de flan.",
+        "jp": "古代の遺跡がある渓谷。
+かつては力の弱い悪魔が隠れ住んでいたらし
+いが、今は焚憤団が根城にしている。
+彼らは頻繁にプリン盛りをしているらしく、
+周囲から羨ましがられている。",
+        "ko": "고대의 유적이 있는 계곡.
+한때 힘이 약한 악마가 숨어 살고 있었다고
+하지만, 지금은 분분단이 점거하고 있다.
+그들은 푸딩 파티를 자주 하는 모양이라
+주위의 부러움을 사고 있다.",
+        "zh-TW": "有著古代遺跡的溪谷。
+過去曾有弱小的惡魔隱居於此，
+但現今已成為焚憤團的根據地。
+他們似乎經常享用布丁大餐，
+旁人都十分羨慕。",
+      },
+      "3",
+      5,
+    ],
+    [
+      44,
+      Buffer [04 00 00 00 14 27 00 00 00 00 00 00 8F 23 00 00 F3 23 00 00 25 24 00 00 8F 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [05 00 00 00],
+    ],
+    [
+      "key",
+      "AREA_ID_00005",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mt. Calamity",
+        "es": "Volcán calamitoso",
+        "fr": "Mont Furax",
+        "jp": "禍火山",
+        "ko": "화화산",
+        "zh-TW": "禍火山",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "A volcanic mountain zone filled with
+lava. The demons here that have been
+tempered by its heat are without equal.
+The best kind of flan to eat here is, of
+course, a nice chilled flan.",
+        "es": "Una región volcánica llena de lava.
+La fuerza de los demonios de sus
+ardientes tierras no tiene rival.
+Si vas a comer flan en un sitio en
+llamas, que sea uno bien frío.",
+        "fr": "Connue pour ses nombreux bains de lave,
+cette région brûlante abrite les démons
+les plus redoutables. Y manger un flan
+frais rend ce dernier encore plus
+délicieux.",
+        "jp": "溶岩の溢れる火山地帯。
+灼熱の大地に鍛えられた悪魔たちの強さは、
+他の追随を許さないだろう。
+暑いところで食べるなら冷たいプリンがおす
+すめだ。",
+        "ko": "용암이 흘러넘치는 화산 지대.
+작열하는 대지에 단련된 악마들의 힘은
+타의 추종을 불허할 것이다.
+더운 곳에서 뭔가를 먹겠다면
+차가운 푸딩을 추천한다.",
+        "zh-TW": "充滿熔岩的火山地帶。
+飽經灼熱大地磨練的惡魔，
+其強大是任誰都無法匹敵的。
+要在炎熱的地方享用美食的話，
+首推冰冰涼涼的布丁。",
+      },
+      "3",
+      5,
+    ],
+    [
+      44,
+      Buffer [05 00 00 00 15 27 00 00 00 00 00 00 90 23 00 00 F4 23 00 00 26 24 00 00 90 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [06 00 00 00],
+    ],
+    [
+      "key",
+      "AREA_ID_00006",
+    ],
+    [
+      "languages",
+      {
+        "en": "Moon Surface",
+        "es": "Superficie lunar",
+        "fr": "Sol lunaire",
+        "jp": "月面",
+        "ko": "월면",
+        "zh-TW": "月面",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "The surface of the moon, where the power
+of the stars flows freely. Monsters here
+can harness the cosmic power to use
+supernatural abilities. Locals love
+enjoying flan while experiencing the
+weightlessness of low gravity.",
+        "es": "Un lugar que se mece al son de las
+estrellas. La cósmica energía que cae
+sobre ella otorga a los monstruos
+poderes extraordinarios. Aquí se lleva
+comer flan a gravedad cero.
+",
+        "fr": "Vacillant sous le pouvoir des étoiles,
+cette région compte des monstres dotés
+d’une force surnaturelle qui leur vient
+tout droit du cosmos. C’est l’endroit rêvé
+pour tester le flan à faible gravité.
+",
+        "jp": "星の力のたゆたう月面。
+直に降り注ぐ宇宙的なパワーを利用すること
+で、超自然的な力を発揮する魔物がいる。
+低重力の浮遊感を楽しみながらプリンを嗜む
+のが、ここでの流儀である。
+",
+        "ko": "별의 힘이 일렁이는 월면.
+곧장 내리쬐는 우주 에너지를 이용해
+초자연적인 힘을 발휘하는 마물이 있다.
+저중력의 부유감을 즐기면서
+푸딩을 음미하는 것이 이곳의 방식이다.
+",
+        "zh-TW": "搖曳著星星之力的月面。
+此處有些魔物利用直落於月面的
+宇宙力量來發揮超自然之力。
+在微重力狀態下邊漂浮邊享用布丁
+是這裡的作風。
+",
+      },
+      "3",
+      6,
+    ],
+    [
+      44,
+      Buffer [06 00 00 00 16 27 00 00 00 00 00 00 91 23 00 00 F5 23 00 00 27 24 00 00 91 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [07 00 00 00],
+    ],
+    [
+      "key",
+      "AREA_ID_00007",
+    ],
+    [
+      "languages",
+      {
+        "en": "Following Wurst",
+        "es": "Tras Brust",
+        "fr": "À la poursuite de Brust",
+        "jp": "ブルーストを追って",
+        "ko": "부르스트를 쫓아서",
+        "zh-TW": "追上布魯斯特",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Wurst has stolen the Pristine Gleam Flan
+and fled! Pursue him!
+He appears to be aimlessly running
+around Pestilence Plains, but why...?",
+        "es": "¡Persigue a Brust, el ladrón del Flan
+radiante prístino!
+Se ve que está dando vueltas por
+Llanura infectada.",
+        "fr": "Rattrapez Brust qui s’est enfui après
+avoir volé le Flan primordial !
+Il semble être en train de courir dans
+tous les sens dans la Plaine Kraspec...",
+        "jp": "始煌のプリンを盗み、逃亡したブルーストを
+追え！
+ブルーストは闇雲に病原を走り回っているよ
+うにみえるが……",
+        "ko": "시황의 푸딩을 훔쳐 도망친 부르스트를
+쫓아라!
+부르스트는 무작정 질병의 들판을 달리는
+것처럼 보이는데…",
+        "zh-TW": "追上偷走始煌布丁
+並逃跑的布魯斯特！
+布魯斯特似乎漫無目的地在病原裡
+四處逃竄……",
+      },
+      "3",
+      4,
+    ],
+    [
+      44,
+      Buffer [07 00 00 00 17 27 00 00 00 00 00 00 92 23 00 00 F6 23 00 00 28 24 00 00 92 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [08 00 00 00],
+    ],
+    [
+      "key",
+      "AREA_ID_00008",
+    ],
+    [
+      "languages",
+      {
+        "en": "Pristine Gleam Battlefield",
+        "es": "Campo de batalla radiante prístino",
+        "fr": "Champ de bataille primordial",
+        "jp": "始煌の戰場",
+        "ko": "시황의 전장",
+        "zh-TW": "始煌戰場",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "A mysterious area born out of the
+Pristine Gleam Flan's power.
+The weak are overcome by its power and
+instantly turned into flan.
+",
+        "es": "Un misterioso espacio creado con el
+poder del Flan radiante prístino.
+Los débiles se ven invadidos por su
+magia y son transformados en flanes.
+",
+        "fr": "Espace mystérieux qui a émergé par
+la force du Flan primordial. Il aspire
+ceux qui ne sont pas assez puissants
+pour y résister et les transforme
+immédiatement en flan.",
+        "jp": "始煌のプリンの力によって生み出された
+謎の空間。
+弱き者は魔力に侵食されて、たちまちの
+うちにプリンに変化してしまう。
+",
+        "ko": "시황의 푸딩이 가진 힘으로 인해 생겨난
+수수께끼의 공간.
+약한 자는 마력에 침식당해
+순식간에 푸딩으로 변하고 만다.
+",
+        "zh-TW": "透過始煌布丁之力所生成的
+神秘空間。
+弱者將被魔力侵蝕，並逐漸
+變為布丁。
+",
+      },
+      "3",
+      5,
+    ],
+    [
+      44,
+      Buffer [08 00 00 00 18 27 00 00 00 00 00 00 93 23 00 00 F7 23 00 00 29 24 00 00 93 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [65 00 00 00],
+    ],
+    [
+      "key",
+      "AREA_ID_00101",
+    ],
+    [
+      "languages",
+      {
+        "en": "Flan Toppings Rally Venue",
+        "es": "Rally de flanestampas",
+        "fr": "Site de la chasse aux sauces",
+        "jp": "スタンプリンラリー会場",
+        "ko": "스탬푸딩 랠리 회장",
+        "zh-TW": "集布丁活動會場",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Let the Flan Toppings Rally begin!
+Despite having a bad feeling about this
+weird event that even the residents of
+Super Duper know nothing about, N.A.
+participates to help Tichelle save face.",
+        "es": "¡Que comience el rally de flanestampas!
+Un mal presentimiento, que ni los
+nativos de Megamejor conocen, corroe a
+Enea. Pero decide participar para
+salvar las apariencias con Tisiel.",
+        "fr": "La chasse aux sauces est ouverte !
+N/A a un mauvais pressentiment concernant
+cette tradition méconnue même au sein du
+Sous-monde Suprême, mais il accepte tout
+de même d’y participer pour Tichelle.",
+        "jp": "スタンプリンラリー、開催！
+なぜか傑超魔界の住人でも知らない催しに
+エヌエーは嫌な予感がしつつもティシエル
+の顔を立てて行事に挑むのだった。
+",
+        "ko": "스탬푸딩 랠리, 개최!
+어째선지 걸초마계의 주민도 모르는 행사에
+에누아는 안 좋은 예감이 들었지만,
+티시엘의 체면을 위해 행사에 참여한다.
+",
+        "zh-TW": "集布丁活動，開始！
+雖然艾恩埃不禁對這個就連傑超魔界居民
+都沒聽說過的活動產生不好的預感，但仍然
+為了守住緹榭兒的顏面而前往參加。
+",
+      },
+      "3",
+      5,
+    ],
+    [
+      44,
+      Buffer [09 00 00 00 19 27 00 00 00 00 00 00 94 23 00 00 F8 23 00 00 2A 24 00 00 94 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [E9 03 00 00],
+    ],
+    [
+      "key",
+      "AREA_ID_01001",
+    ],
+    [
+      "languages",
+      {
+        "en": "Pestilence Plains",
+        "es": "Llanura infectada",
+        "fr": "Plaine Kraspec",
+        "jp": "病原",
+        "ko": "질병의 들판",
+        "zh-TW": "病原",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "A sprawling field near the Overlord's
+Castle. It was once the location of a
+massive battle, and the scars from that
+battle remain scattered across it.
+Eating flan on its peaceful fields on a
+clear day is the absolute best.",
+        "es": "Una planicie situada cerca del castillo.
+Una cruenta guerra que se libró en
+ella dejó cicatrices por todos lados.
+No hay sitio mejor para comerse un
+buen flan en un día soleado.
+",
+        "fr": "Vaste plaine s’étendant près du Château
+de la Souveraine, on peut y observer
+les restes d’une grande bataille passée.
+Il n’y a rien de mieux que d’y manger
+un flan par une journée ensoleillée.
+",
+        "jp": "魔王城の近くにひろがる広大な平原。
+かつて大きな戦いがあり、
+あちこちにその爪痕が残されている。
+晴れの日にのどかな大地で食べるプリンは
+控えめに言って最高である。
+",
+        "ko": "마왕성 부근에 펼쳐진 광대한 평원.
+일찍이 커다란 전투가 있었기에
+이곳저곳에 그 흔적이 남아 있다.
+화창한 날, 한적한 들판에서 먹는 푸딩은
+단언컨대 최고라고 할 수 있다.
+",
+        "zh-TW": "魔王城附近的寬闊平原。
+曾經發生過大規模的戰爭，
+到處都能看見當時留下的痕跡。
+晴天之下在綠意盎然的大地中享用布丁，
+退一步來講可真是頂級的享受。
+",
+      },
+      "3",
+      6,
+    ],
+    [
+      44,
+      Buffer [01 00 00 00 21 4E 00 00 01 00 00 00 8C 23 00 00 F0 23 00 00 22 24 00 00 BE 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [EA 03 00 00],
+    ],
+    [
+      "key",
+      "AREA_ID_01002",
+    ],
+    [
+      "languages",
+      {
+        "en": "Grotto of Agony",
+        "es": "Cueva angustias",
+        "fr": "Grotte Trounoir",
+        "jp": "悩窟",
+        "ko": "번뇌의 굴",
+        "zh-TW": "惱窟",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "A massive grotto that serves as Super
+Duper's main source of minerals. Its
+interior is dark and complex, leading
+those who wander in to get lost. It's
+nice and cool in the summer, making it a
+fine place to chill and eat flan.",
+        "es": "La cueva de minerales de Megamejor.
+Es confusa para los intrusos debido a su
+interior oscuro y laberíntico. Siempre
+se está fresquito; es el sitio ideal
+para comerse un flan.
+",
+        "fr": "Ressource principale de minerai du
+Sous-monde Suprême. L’obscurité ambiante
+déconcerte les intrus qui y pénètrent.
+Il y fait frais même en été, parfait
+pour manger un flan loin de la chaleur.
+",
+        "jp": "傑超魔界の鉱物資源を賄う巨大洞窟。
+内部は暗く入り組んでおり、侵入者を惑わせ
+る。
+夏でもひんやりしており、涼みながらプリン
+を食べると気持ちいい。
+",
+        "ko": "걸초마계에 광물 자원을 제공하는
+거대한 동굴. 내부는 어둡고 복잡하며
+침입자를 혼란스럽게 한다.
+여름에도 서늘해 바람을 쐬며 푸딩을
+먹으면 기분이 좋다.
+",
+        "zh-TW": "傑超魔界裡提供礦物資源的巨大洞窟。
+洞窟裡非常黑暗，且構造錯綜複雜，
+使入侵者容易迷失方向。
+即使是夏天，裡頭也十分涼爽，
+邊避暑邊吃布丁最舒服了。
+",
+      },
+      "3",
+      6,
+    ],
+    [
+      44,
+      Buffer [02 00 00 00 22 4E 00 00 01 00 00 00 8D 23 00 00 F1 23 00 00 23 24 00 00 BF 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [EB 03 00 00],
+    ],
+    [
+      "key",
+      "AREA_ID_01003",
+    ],
+    [
+      "languages",
+      {
+        "en": "Intoxicated Forest",
+        "es": "Bosque inundado",
+        "fr": "Bosquet Ploufplouf",
+        "jp": "酔没林",
+        "ko": "취기에 잠긴 숲",
+        "zh-TW": "醉沒林",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "A sunken, swamp-like forest. Its magic-
+rich water is intoxicating to those not
+used to it. There are some who take
+pleasure in purposely getting drunk and
+eating flan there, but that is strictly
+off limits for the underage!",
+        "es": "Un bosque inundado de agua. Su mágica
+agua puede emborrachar a los incautos.
+Al parecer, el flan sabe mejor si
+estás ebrio.
+(Que los menores no lo intenten).
+",
+        "fr": "L’eau qui inonde cette forêt est
+imprégnée de magie qui rend saouls
+ceux qui n’y sont pas habitués. On
+dit que manger un flan en étant enivré
+rend celui-ci particulièrement exquis.
+",
+        "jp": "豊富な水を湛えた水没林。
+魔力の溶け込んだ水は慣れていない者を
+酔わせてしまう。
+敢えて酔っ払いながら食べるプリンも乙なも
+のらしいが、未成年は駄目ですよ。
+",
+        "ko": "풍부한 물을 머금은 물에 잠긴 숲.
+마력이 녹아든 물은 익숙하지 않은 자를
+취하게 한다.
+굳이 취하면서 먹는 푸딩도 운치가
+있다고는 하지만, 미성년자는 금지입니다.
+",
+        "zh-TW": "具有大面積水域的水沒林。
+水中蘊藏著魔力，不諳魔力的人
+會陷入酒醉狀態。
+刻意醉醺醺地吃布丁也是別有一番風味，
+但未成年可不能這麼做喔。
+",
+      },
+      "3",
+      6,
+    ],
+    [
+      44,
+      Buffer [03 00 00 00 23 4E 00 00 01 00 00 00 8E 23 00 00 F2 23 00 00 24 24 00 00 C0 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [EC 03 00 00],
+    ],
+    [
+      "key",
+      "AREA_ID_01004",
+    ],
+    [
+      "languages",
+      {
+        "en": "Chaos Canyon",
+        "es": "Valle cruel",
+        "fr": "Vallée Grobobo",
+        "jp": "渓酷",
+        "ko": "가혹한 계곡",
+        "zh-TW": "溪酷",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "A ravine filled with ancient ruins.
+In the past, weak demons lived here, but
+now it is the stronghold of the Vroom
+Vroomers. They often hold flan parties,
+making their neighbors jealous.",
+        "es": "Un valle con ruinas antiguas. Antes,
+demonios débiles vivían en él, pero
+ahora es la base de los Furia Ardiente.
+Se dice que se dedican a comer flanes
+todo el día. Son la envidia de todos.",
+        "fr": "Si des démons plutôt faibles s’y étaient
+jadis réfugiés, cette vallée marquée par
+l’histoire est désormais la base du gang
+des Enragés, qui y organiserait
+régulièrement des dégustations de flan.",
+        "jp": "古代の遺跡がある渓谷。
+かつては力の弱い悪魔が隠れ住んでいたらし
+いが、今は焚憤団が根城にしている。
+彼らは頻繁にプリン盛りをしているらしく、
+周囲から羨ましがられている。",
+        "ko": "고대의 유적이 있는 계곡.
+한때 힘이 약한 악마가 숨어 살고 있었다고
+하지만, 지금은 분분단이 점거하고 있다.
+그들은 푸딩 파티를 자주 하는 모양이라
+주위의 부러움을 사고 있다.",
+        "zh-TW": "有著古代遺跡的溪谷。
+過去曾有弱小的惡魔隱居於此，
+但現今已成為焚憤團的根據地。
+他們似乎經常享用布丁大餐，
+旁人都十分羨慕。",
+      },
+      "3",
+      5,
+    ],
+    [
+      44,
+      Buffer [04 00 00 00 24 4E 00 00 01 00 00 00 8F 23 00 00 F3 23 00 00 25 24 00 00 C1 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [ED 03 00 00],
+    ],
+    [
+      "key",
+      "AREA_ID_01005",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mt. Calamity",
+        "es": "Volcán calamitoso",
+        "fr": "Mont Furax",
+        "jp": "禍火山",
+        "ko": "화화산",
+        "zh-TW": "禍火山",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "A volcanic mountain zone filled with
+lava. The demons here that have been
+tempered by its heat are without equal.
+The best kind of flan to eat here is, of
+course, a nice chilled flan.",
+        "es": "Una región volcánica llena de lava.
+La fuerza de los demonios de sus
+ardientes tierras no tiene rival.
+Si vas a comer flan en un sitio en
+llamas, que sea uno bien frío.",
+        "fr": "Connue pour ses nombreux bains de lave,
+cette région brûlante abrite les démons
+les plus redoutables. Y manger un flan
+frais rend ce dernier encore plus
+délicieux.",
+        "jp": "溶岩の溢れる火山地帯。
+灼熱の大地に鍛えられた悪魔たちの強さは、
+他の追随を許さないだろう。
+暑いところで食べるなら冷たいプリンがおす
+すめだ。",
+        "ko": "용암이 흘러넘치는 화산 지대.
+작열하는 대지에 단련된 악마들의 힘은
+타의 추종을 불허할 것이다.
+더운 곳에서 뭔가를 먹겠다면
+차가운 푸딩을 추천한다.",
+        "zh-TW": "充滿熔岩的火山地帶。
+飽經灼熱大地磨練的惡魔，
+其強大是任誰都無法匹敵的。
+要在炎熱的地方享用美食的話，
+首推冰冰涼涼的布丁。",
+      },
+      "3",
+      5,
+    ],
+    [
+      44,
+      Buffer [05 00 00 00 25 4E 00 00 01 00 00 00 90 23 00 00 F4 23 00 00 26 24 00 00 C2 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [EE 03 00 00],
+    ],
+    [
+      "key",
+      "AREA_ID_01006",
+    ],
+    [
+      "languages",
+      {
+        "en": "Moon Surface",
+        "es": "Superficie lunar",
+        "fr": "Sol lunaire",
+        "jp": "月面",
+        "ko": "월면",
+        "zh-TW": "月面",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "The surface of the moon, where the power
+of the stars flows freely. Monsters here
+can harness the cosmic power to use
+supernatural abilities. Locals love
+enjoying flan while experiencing the
+weightlessness of low gravity.",
+        "es": "Un lugar que se mece al son de las
+estrellas. La cósmica energía que cae
+sobre ella otorga a los monstruos
+poderes extraordinarios. Aquí se lleva
+comer flan a gravedad cero.
+",
+        "fr": "Vacillant sous le pouvoir des étoiles,
+cette région compte des monstres dotés
+d’une force surnaturelle qui leur vient
+tout droit du cosmos. C’est l’endroit rêvé
+pour tester le flan à faible gravité.
+",
+        "jp": "星の力のたゆたう月面。
+直に降り注ぐ宇宙的なパワーを利用すること
+で、超自然的な力を発揮する魔物がいる。
+低重力の浮遊感を楽しみながらプリンを嗜む
+のが、ここでの流儀である。
+",
+        "ko": "별의 힘이 일렁이는 월면.
+곧장 내리쬐는 우주 에너지를 이용해
+초자연적인 힘을 발휘하는 마물이 있다.
+저중력의 부유감을 즐기면서
+푸딩을 음미하는 것이 이곳의 방식이다.
+",
+        "zh-TW": "搖曳著星星之力的月面。
+此處有些魔物利用直落於月面的
+宇宙力量來發揮超自然之力。
+在微重力狀態下邊漂浮邊享用布丁
+是這裡的作風。
+",
+      },
+      "3",
+      6,
+    ],
+    [
+      44,
+      Buffer [06 00 00 00 26 4E 00 00 01 00 00 00 91 23 00 00 F5 23 00 00 27 24 00 00 C3 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [EF 03 00 00],
+    ],
+    [
+      "key",
+      "AREA_ID_01007",
+    ],
+    [
+      "languages",
+      {
+        "en": "Following Wurst",
+        "es": "Tras Brust",
+        "fr": "À la poursuite de Brust",
+        "jp": "ブルーストを追って",
+        "ko": "부르스트를 쫓아서",
+        "zh-TW": "追上布魯斯特",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Wurst has stolen the Pristine Gleam Flan
+and fled! Pursue him!
+He appears to be aimlessly running
+around Pestilence Plains, but why...?",
+        "es": "¡Persigue a Brust, el ladrón del Flan
+radiante prístino!
+Se ve que está dando vueltas por
+Llanura infectada.",
+        "fr": "Rattrapez Brust qui s’est enfui après
+avoir volé le Flan primordial !
+Il semble être en train de courir dans
+tous les sens dans la Plaine Kraspec...",
+        "jp": "始煌のプリンを盗み、逃亡したブルーストを
+追え！
+ブルーストは闇雲に病原を走り回っているよ
+うにみえるが……",
+        "ko": "시황의 푸딩을 훔쳐 도망친 부르스트를
+쫓아라!
+부르스트는 무작정 질병의 들판을 달리는
+것처럼 보이는데…",
+        "zh-TW": "追上偷走始煌布丁
+並逃跑的布魯斯特！
+布魯斯特似乎漫無目的地在病原裡
+四處逃竄……",
+      },
+      "3",
+      4,
+    ],
+    [
+      44,
+      Buffer [07 00 00 00 27 4E 00 00 01 00 00 00 92 23 00 00 F6 23 00 00 28 24 00 00 C4 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F0 03 00 00],
+    ],
+    [
+      "key",
+      "AREA_ID_01008",
+    ],
+    [
+      "languages",
+      {
+        "en": "Pristine Gleam Battlefield",
+        "es": "Campo bat. radiante prístino",
+        "fr": "Champ de bataille primordial",
+        "jp": "始煌の戰場",
+        "ko": "시황의 전장",
+        "zh-TW": "始煌戰場",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "A mysterious area born out of the
+Pristine Gleam Flan's power.
+The weak are overcome by its power and
+instantly turned into flan.
+",
+        "es": "Un misterioso espacio creado con el
+poder del Flan radiante prístino.
+Los débiles se ven invadidos por su
+magia y son transformados en flanes.
+",
+        "fr": "Espace mystérieux qui a émergé par
+la force du Flan primordial. Il aspire
+ceux qui ne sont pas assez puissants
+pour y résister et les transforme
+immédiatement en flan.",
+        "jp": "始煌のプリンの力によって生み出された
+謎の空間。
+弱き者は魔力に侵食されて、たちまちの
+うちにプリンに変化してしまう。
+",
+        "ko": "시황의 푸딩이 가진 힘으로 인해 생겨난
+수수께끼의 공간.
+약한 자는 마력에 침식당해
+순식간에 푸딩으로 변하고 만다.
+",
+        "zh-TW": "透過始煌布丁之力所生成的
+神秘空間。
+弱者將被魔力侵蝕，並逐漸
+變為布丁。
+",
+      },
+      "3",
+      5,
+    ],
+    [
+      44,
+      Buffer [08 00 00 00 28 4E 00 00 01 00 00 00 93 23 00 00 F7 23 00 00 29 24 00 00 C5 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [D1 07 00 00],
+    ],
+    [
+      "key",
+      "AREA_ID_02001",
+    ],
+    [
+      "languages",
+      {
+        "en": "Catastrophe Flan Arc",
+        "es": "El Flan del desastre",
+        "fr": "Le Flan de l’apocalypse",
+        "jp": "災禍のプリン編",
+        "ko": "재앙의 푸딩 편",
+        "zh-TW": "災禍布丁篇",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "The land where the Catastrophe Flan was
+hidden away. A powerful seal had been
+placed upon it, but Desco broke it.
+Eating flan here while enjoying the
+scenery that changes with the seasons is
+truly sublime.",
+        "es": "La tierra donde el Flan del desastre fue
+sellado. Su sello era fuerte, pero Desco
+logró romperlo. Es maravilloso poder
+disfrutar de un flan con unas vistas
+tan estacionales.
+",
+        "fr": "Après avoir été scellé sur ces terres, le Flan
+de l’apocalypse a été libéré par Desco.
+Son paysage enchanteur à chaque saison
+rend la dégustation d’un flan des plus
+agréables.
+",
+        "jp": "災禍のプリンが封印されていた地。
+強固な封印が施されていたが、
+今はデスコの手によって解かれている。
+四季折々の風景を楽しみながら
+食すプリンも、いとをかし。
+",
+        "ko": "재앙의 푸딩이 봉인되었던 땅.
+한때 강력하게 봉인되어 있었지만
+지금은 데스코가 해제했다.
+사계절의 풍경과 함께 즐기는
+푸딩 또한 별미다.
+",
+        "zh-TW": "封印著災禍布丁之地。
+雖然過去受到牢固的封印，
+但目前封印已被死亡子解開。
+邊欣賞四季變換的美景
+邊享用布丁，也是別有風雅。
+",
+      },
+      "3",
+      6,
+    ],
+    [
+      44,
+      Buffer [0A 00 00 00 31 75 00 00 00 00 00 00 95 23 00 00 FA 23 00 00 2C 24 00 00 97 23 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [58 1B 00 00],
+    ],
+    [
+      "key",
+      "AREA_ID_07000",
+    ],
+    [
+      "languages",
+      {
+        "en": "Special Demo Stage",
+        "es": "Escenario especial de la Demo",
+        "fr": "Niveau spécial de la Démo",
+        "jp": "体験版用特別ステージ",
+        "ko": "제1화 『히노모토 오타쿠와 떠돌이 무사』",
+        "zh-TW": "第1話〈日之本御宅族與流浪武士〉",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "A stage made just for this demo.
+Please enjoy all the flan and fracas of
+Disgaea Mayhem to your heart's content.",
+        "es": "Un escenario exclusivo de la Demo.
+¡Disfruta al máximo del mundo de
+Disgaea Mayhem!",
+        "fr": "Un niveau exclusif à la Démo.
+Profitez à votre guise du monde
+de Disgaea Mayhem.",
+        "jp": "体験版用の特別ステージです。
+凶乱マカイズムの世界を心ゆくまで
+お楽しみください。",
+        "ko": "이벤트용 특별 스테이지입니다.
+흉란 마계이즘의 세계를 마음껏
+즐겨 보세요.",
+        "zh-TW": "
+
+",
+      },
+      "3",
+      3,
+    ],
+    [
+      44,
+      Buffer [46 00 00 00 C1 CF 6A 00 00 00 00 00 8C 23 00 00 FA 23 00 00 2C 24 00 00 EE 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [11 27 00 00],
+    ],
+    [
+      "key",
+      "AREA_ID_10001",
+    ],
+    [
+      "languages",
+      {
+        "en": "Test Ver. Area",
+        "es": "Zona de la versión de prueba",
+        "fr": "Zone de la version test",
+        "jp": "テスト版エリア",
+        "ko": "제1화 『히노모토 오타쿠와 떠돌이 무사』",
+        "zh-TW": "第1話〈日之本御宅族與流浪武士〉",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "An area for challenging the test
+version. Clearing one stage unlocks the
+second. There is no third stage.
+",
+        "es": "Una zona de desafíos de la versión de
+prueba. Cuando te pases la primera,
+aparecerá una segunda.
+No hay tercera.",
+        "fr": "Zone où se déroule la version test.
+Un second niveau vous attend après le premier,
+mais il n’y en a pas de troisième.
+",
+        "jp": "テスト版へ挑むためのエリア。
+１ステージ目をクリアすると２ステージ目が出るぞ。
+３ステージ目は無い。
+",
+        "ko": "테스트 버전에 도전하기 위한 에어리어.
+첫 번째 스테이지를 클리어하면 두 번째 스테이지가 나온다.
+세 번째 스테이지는 없다.
+",
+        "zh-TW": "
+
+
+",
+      },
+      "3",
+      4,
+    ],
+    [
+      44,
+      Buffer [65 00 00 00 31 C8 07 00 00 00 00 00 00 00 00 00 FA 23 00 00 2C 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [96 86 01 00],
+    ],
+    [
+      "key",
+      "AREA_ID_99990",
+    ],
+    [
+      "languages",
+      {
+        "en": "Test Area",
+        "es": "Zona de pruebas",
+        "fr": "Zone test",
+        "jp": "テストエリア",
+        "ko": "테스트 에리어",
+        "zh-TW": "Test Area",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Description 1
+Description 2
+Description 3",
+        "es": "Explicación 1
+Explicación 2
+Explicación 3",
+        "fr": "Explications 1
+Explications 2
+Explications 3",
+        "jp": "説明文1
+説明文2
+説明文3",
+        "ko": "설명문 1
+설명문 2
+설명문 3",
+        "zh-TW": "
+
+",
+      },
+      "3",
+      3,
+    ],
+    [
+      44,
+      Buffer [85 03 00 00 31 1B 0F 00 00 00 00 00 00 00 00 00 FA 23 00 00 2C 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [97 86 01 00],
+    ],
+    [
+      "key",
+      "AREA_ID_99991",
+    ],
+    [
+      "languages",
+      {
+        "en": "Map Check Area",
+        "es": "Zona para revisar el mapa",
+        "fr": "Zone de vérification de la carte",
+        "jp": "マップ確認エリア",
+        "ko": "테스트 에리어",
+        "zh-TW": "Test Area",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Description 1",
+        "es": "Explicación 1",
+        "fr": "Explications 1",
+        "jp": "説明文1",
+        "ko": "설명문 1",
+        "zh-TW": "",
+      },
+      "3",
+      1,
+    ],
+    [
+      44,
+      Buffer [86 03 00 00 32 1B 0F 00 00 00 00 00 00 00 00 00 FA 23 00 00 2C 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [98 86 01 00],
+    ],
+    [
+      "key",
+      "AREA_ID_99992",
+    ],
+    [
+      "languages",
+      {
+        "en": "Tutorial",
+        "es": "Tutorial",
+        "fr": "Tutoriel",
+        "jp": "チュートリアル",
+        "ko": "테스트 에리어",
+        "zh-TW": "Test Area",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Description 1",
+        "es": "Explicación 1",
+        "fr": "Explications 1",
+        "jp": "説明文1",
+        "ko": "설명문 1",
+        "zh-TW": "",
+      },
+      "3",
+      1,
+    ],
+    [
+      44,
+      Buffer [87 03 00 00 33 1B 0F 00 00 00 00 00 00 00 00 00 FA 23 00 00 2C 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [99 86 01 00],
+    ],
+    [
+      "key",
+      "AREA_ID_99993",
+    ],
+    [
+      "languages",
+      {
+        "en": "Confirm Item World",
+        "es": "Para comprobar Mundo objeto",
+        "fr": "Vérification du Monde des objets",
+        "jp": "アイテム界確認用",
+        "ko": "테스트 에리어",
+        "zh-TW": "Test Area",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Description 1",
+        "es": "Explicación 1",
+        "fr": "Explications 1",
+        "jp": "説明文1",
+        "ko": "설명문 1",
+        "zh-TW": "",
+      },
+      "3",
+      1,
+    ],
+    [
+      44,
+      Buffer [88 03 00 00 34 1B 0F 00 00 00 00 00 00 00 00 00 FA 23 00 00 2C 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [9A 86 01 00],
+    ],
+    [
+      "key",
+      "AREA_ID_99994",
+    ],
+    [
+      "languages",
+      {
+        "en": "Battle Test (Trash Mob)",
+        "es": "Prueba de combate (Súbdito)",
+        "fr": "Test de combat (ennemi standard)",
+        "jp": "戦闘テスト（ザコ）",
+        "ko": "테스트 에리어",
+        "zh-TW": "Test Area",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Trash Mob Behavior Check Area - A single
+one of the enemy selected will be
+generated.",
+        "es": "Zona para probar el comportamiento
+de los súbditos. Solo aparecerá uno.
+",
+        "fr": "Zone de vérification du comportement
+des ennemis standards. Un seul ennemi
+à la fois.",
+        "jp": "ザコ敵の挙動確認エリア
+選択した敵が１匹のみ出現する
+",
+        "ko": "졸병 몬스터의 거동 확인용 에어리어
+선택한 적이 한 체만 출현한다.
+",
+        "zh-TW": "
+
+",
+      },
+      "3",
+      3,
+    ],
+    [
+      44,
+      Buffer [89 03 00 00 3A 1B 0F 00 00 00 00 00 00 00 00 00 FA 23 00 00 2C 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [9B 86 01 00],
+    ],
+    [
+      "key",
+      "AREA_ID_99995",
+    ],
+    [
+      "languages",
+      {
+        "en": "Battle Test (Leader)",
+        "es": "Prueba de combate (Líder)",
+        "fr": "Test de combat (chef)",
+        "jp": "戦闘テスト（リーダー）",
+        "ko": "테스트 에리어",
+        "zh-TW": "Test Area",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Leader Enemy Behavior Check Area - A
+single one of the enemy selected will be
+generated.",
+        "es": "Zona para probar el comportamiento de
+los líderes. Solo aparecerá uno.
+",
+        "fr": "Zone de vérification du comportement
+des chefs. Un seul ennemi à la fois.
+",
+        "jp": "リーダー敵の挙動確認エリア
+選択した敵が１匹のみ出現する
+",
+        "ko": "리더 몬스터의 거동 확인용 에어리어
+선택한 적이 한 체만 출현한다.
+",
+        "zh-TW": "
+
+",
+      },
+      "3",
+      3,
+    ],
+    [
+      44,
+      Buffer [8A 03 00 00 3B 1B 0F 00 00 00 00 00 00 00 00 00 FA 23 00 00 2C 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [9C 86 01 00],
+    ],
+    [
+      "key",
+      "AREA_ID_99996",
+    ],
+    [
+      "languages",
+      {
+        "en": "Battle Test (Boss)",
+        "es": "Prueba de combate (Jefe)",
+        "fr": "Test de combat (boss)",
+        "jp": "戦闘テスト（ボス）",
+        "ko": "테스트 에리어",
+        "zh-TW": "Test Area",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Boss Enemy Behavior Check Area - A
+single one of the enemy selected will be
+generated.",
+        "es": "Zona para probar el comportamiento
+de los jefes. Solo aparecerá uno.
+",
+        "fr": "Zone de vérification du comportement
+des boss. Un seul ennemi à la fois.
+",
+        "jp": "ボス敵の挙動確認エリア
+選択した敵が１匹のみ出現する
+",
+        "ko": "보스 몬스터의 거동 확인용 에어리어
+선택한 적이 한 체만 출현한다.
+",
+        "zh-TW": "
+
+",
+      },
+      "3",
+      3,
+    ],
+    [
+      44,
+      Buffer [8B 03 00 00 3C 1B 0F 00 00 00 00 00 00 00 00 00 FA 23 00 00 2C 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [9D 86 01 00],
+    ],
+    [
+      "key",
+      "AREA_ID_99997",
+    ],
+    [
+      "languages",
+      {
+        "en": "Battle Test (Story Boss)",
+        "es": "Prueba de combate (Jefe historia)",
+        "fr": "Test de combat (boss d’histoire)",
+        "jp": "戦闘テスト（ストーリーボス）",
+        "ko": "테스트 에리어",
+        "zh-TW": "Test Area",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Story Boss Behavior Check Area - A
+single one of the enemy selected will be
+generated.",
+        "es": "Zona para probar el comportamiento
+de los jefes de historia. Solo
+aparecerá uno.",
+        "fr": "Zone de vérification du comportement
+des boss d’histoire. Un seul ennemi à la fois.
+",
+        "jp": "ストーリーボス敵の挙動確認エリア
+選択した敵が１匹のみ出現する
+",
+        "ko": "스토리 보스 몬스터의 거동 확인용 에어리어
+선택한 적이 한 체만 출현한다.
+",
+        "zh-TW": "
+
+",
+      },
+      "3",
+      3,
+    ],
+    [
+      44,
+      Buffer [8C 03 00 00 3D 1B 0F 00 00 00 00 00 00 00 00 00 FA 23 00 00 2C 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [9E 86 01 00],
+    ],
+    [
+      "key",
+      "AREA_ID_99998",
+    ],
+    [
+      "languages",
+      {
+        "en": "Animation Test (Story Boss)",
+        "es": "Prueba de evento (Jefe de historia)",
+        "fr": "Test d’animation (boss d’histoire)",
+        "jp": "演出テスト（ストーリーボス）",
+        "ko": "테스트 에리어",
+        "zh-TW": "Test Area",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Boss Enemy Defeated Animation Check Area
+- A single one of the enemy selected
+will be generated.",
+        "es": "Zona para confirmar el comportamiento
+de los jefes. Solo aparecerá uno.
+",
+        "fr": "Zone de vérification de l’animation
+d’élimination des boss. Un seul ennemi
+à la fois.",
+        "jp": "ボス敵の撃破演出確認エリア
+選択した敵が１匹のみ出現する
+",
+        "ko": "보스 몬스터의 격파 연출 확인용 에어리어
+선택한 적이 한 체만 출현한다.
+",
+        "zh-TW": "
+
+",
+      },
+      "3",
+      3,
+    ],
+    [
+      44,
+      Buffer [8D 03 00 00 3E 1B 0F 00 00 00 00 00 00 00 00 00 FA 23 00 00 2C 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [9F 86 01 00],
+    ],
+    [
+      "key",
+      "AREA_ID_99999",
+    ],
+    [
+      "languages",
+      {
+        "en": "Battle Test (Carnage Boss)",
+        "es": "Prueba de combate (Jefe shura)",
+        "fr": "Test de combat (boss du Carnage)",
+        "jp": "戦闘テスト（修羅ボス）",
+        "ko": "테스트 에리어",
+        "zh-TW": "Test Area",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Carnage Story Boss Behavior Check Area -
+A single one of the enemy selected will
+be generated.",
+        "es": "Zona para confirmar el comportamiento
+de los jefes shura. Solo aparecerá uno.
+",
+        "fr": "Zone de vérification du comportement
+des boss du Carnage. Un seul ennemi à la fois.
+",
+        "jp": "修羅ストーリーボス敵の挙動確認エリア
+選択した敵が１匹のみ出現する
+",
+        "ko": "수라 스토리 보스 몬스터의 거동 확인용 에어리어
+선택한 적이 한 체만 출현한다.
+",
+        "zh-TW": "
+
+",
+      },
+      "3",
+      3,
+    ],
+    [
+      44,
+      Buffer [8D 03 00 00 3F 1B 0F 00 00 00 00 00 00 00 00 00 FA 23 00 00 2C 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [A0 86 01 00],
+    ],
+    [
+      "key",
+      "AREA_ID_100000",
+    ],
+    [
+      "languages",
+      {
+        "en": "Battle Test (DLC Trash Mob)",
+        "es": "Prueba de combate (Súbditos c. adicional)",
+        "fr": "Test de combat (ennemi standard de DLC)",
+        "jp": "戦闘テスト（DLCザコ）",
+        "ko": "테스트 에리어",
+        "zh-TW": "Test Area",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Trash Mob Behavior Check Area - A single
+one of the enemy selected will be
+generated.",
+        "es": "Zona para probar el comportamiento
+de los súbditos. Solo aparecerá uno.
+",
+        "fr": "Zone de vérification du comportement
+des ennemis standards. Un seul ennemi
+à la fois.",
+        "jp": "ザコ敵の挙動確認エリア
+選択した敵が１匹のみ出現する
+",
+        "ko": "졸병 몬스터의 거동 확인용 에어리어
+선택한 적이 한 체만 출현한다.
+",
+        "zh-TW": "
+
+",
+      },
+      "3",
+      3,
+    ],
+    [
+      44,
+      Buffer [8E 03 00 00 40 1B 0F 00 00 00 00 00 00 00 00 00 FA 23 00 00 2C 24 00 00 00 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [A1 86 01 00],
+    ],
+    [
+      "key",
+      "AREA_ID_100001",
+    ],
+    [
+      "languages",
+      {
+        "en": "Battle Test (DLC Leader)",
+        "es": "Prueba de combate (Líder c. adicional)",
+        "fr": "Test de combat (chef de DLC)",
+        "jp": "戦闘テスト（DLCリーダー）",
+        "ko": "전투 테스트(DLC 리더)",
+        "zh-TW": "",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Leader Enemy Behavior Check Area - A
+single one of the enemy selected will be
+generated.",
+        "es": "Zona para probar el comportamiento de
+los líderes. Solo aparecerá uno.
+",
+        "fr": "Zone de vérification du comportement
+des chefs. Un seul ennemi à la fois.
+",
+        "jp": "リーダー敵の挙動確認エリア
+選択した敵が１匹のみ出現する
+",
+        "ko": "리더 몬스터의 거동 확인용 에어리어
+선택한 적이 한 체만 출현한다.
+",
+        "zh-TW": "
+
+",
+      },
+      "3",
+      3,
+    ],
+    [
+      44,
+      Buffer [8F 03 00 00 41 1B 0F 00 00 00 00 00 00 00 00 00 FA 23 00 00 2C 24 00 00 00 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [A2 86 01 00],
+    ],
+    [
+      "key",
+      "AREA_ID_100002",
+    ],
+    [
+      "languages",
+      {
+        "en": "Battle Test (DLC Boss)",
+        "es": "Prueba de combate (Jefe c. adicional)",
+        "fr": "Test de combat (boss de DLC)",
+        "jp": "戦闘テスト（DLCボス）",
+        "ko": "전투 테스트(DLC 보스)",
+        "zh-TW": "",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Boss Enemy Behavior Check Area - A
+single one of the enemy selected will be
+generated.",
+        "es": "Zona para probar el comportamiento
+de los jefes. Solo aparecerá uno.
+",
+        "fr": "Zone de vérification du comportement
+des boss. Un seul ennemi à la fois.
+",
+        "jp": "ボス敵の挙動確認エリア
+選択した敵が１匹のみ出現する
+",
+        "ko": "보스 몬스터의 거동 확인용 에어리어
+선택한 적이 한 체만 출현한다.
+",
+        "zh-TW": "
+
+",
+      },
+      "3",
+      3,
+    ],
+    [
+      44,
+      Buffer [90 03 00 00 42 1B 0F 00 00 00 00 00 00 00 00 00 FA 23 00 00 2C 24 00 00 00 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [A3 86 01 00],
+    ],
+    [
+      "key",
+      "AREA_ID_100003",
+    ],
+    [
+      "languages",
+      {
+        "en": "Staging Test (DLC Story Boss)",
+        "es": "Prueba de evento (Jefe de historia c. adicional)",
+        "fr": "Test d’animation (boss d’histoire de DLC)",
+        "jp": "演出テスト（DLCストーリーボス）",
+        "ko": "연출 테스트(DLC 스토리 보스)",
+        "zh-TW": "",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Boss Enemy Defeated Animation Check Area
+- A single one of the enemy selected
+will be generated.",
+        "es": "Zona para confirmar el comportamiento
+de los jefes. Solo aparecerá uno.
+",
+        "fr": "Zone de vérification de l’animation
+d’élimination des boss. Un seul ennemi
+à la fois.",
+        "jp": "ボス敵の撃破演出確認エリア
+選択した敵が１匹のみ出現する
+",
+        "ko": "보스 몬스터의 격파 연출 확인용 에어리어
+선택한 적이 한 체만 출현한다.
+",
+        "zh-TW": "
+
+",
+      },
+      "3",
+      3,
+    ],
+    [
+      44,
+      Buffer [91 03 00 00 43 1B 0F 00 00 00 00 00 00 00 00 00 FA 23 00 00 2C 24 00 00 00 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [A4 86 01 00],
+    ],
+    [
+      "key",
+      "AREA_ID_100004",
+    ],
+    [
+      "languages",
+      {
+        "en": "Map Check Area (DLC 1)",
+        "es": "Zona para comprobar el mapa (c. adicional1)",
+        "fr": "Zone de vérification de la carte (DLC 1)",
+        "jp": "マップ確認エリア（DLC1）",
+        "ko": "맵 확인용 에어리어(DLC 1)",
+        "zh-TW": "",
+      },
+      "2",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Description 1",
+        "es": "Explicación 1",
+        "fr": "Explications 1",
+        "jp": "説明文1",
+        "ko": "설명문 1",
+        "zh-TW": "",
+      },
+      "3",
+      1,
+    ],
+    [
+      44,
+      Buffer [92 03 00 00 44 1B 0F 00 00 00 00 00 00 00 00 00 FA 23 00 00 2C 24 00 00 00 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]

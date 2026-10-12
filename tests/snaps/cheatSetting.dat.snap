@@ -1,0 +1,3845 @@
+[
+  [
+    [
+      12,
+      Buffer [75 27 00 00 01 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_SETTING_EXP",
+    ],
+    [
+      "languages",
+      {
+        "en": "EXP",
+        "es": "Experiencia",
+        "fr": "Expérience",
+        "jp": "経験値",
+        "ko": "경험치",
+        "zh-TW": "經驗值",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Adjust EXP earned.",
+        "es": "Define la tasa de obtención de experiencia.",
+        "fr": "Définit le taux d’obtention d’EXP.",
+        "jp": "経験値の取得率を設定します",
+        "ko": "경험치 획득률을 설정합니다.",
+        "zh-TW": "設定經驗值取得率。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust EXP earned.
+<space>
+<c t_cmd>100%</c> is the default.
+The higher the percentage,
+the more EXP you gain.
+The lower the percentage,
+the less EXP you gain.
+<space>
+The value can be raised with <c t_notice>CP</c>.
+<space>
+There is a maximum percentage
+limit, but this will increase as
+you progress the main story.
+
+
+",
+        "es": "Ajusta la tasa de obtención de
+experiencia.
+<space>
+El valor estándar es <c t_cmd>[100 %]</c>.
+Cuanto más la subas,
+más porcentaje consigues.
+Cuanto más la bajes,
+menos porcentaje obtienes.
+
+Puedes ajustar la tasa hasta el
+valor de <c t_notice>PT</c>.
+<space>
+Hay un límite para cambiar la tasa,
+y se irá desbloqueando conforme
+avances en la historia.
+",
+        "fr": "Permet d’ajuster le taux
+d’obtention d’expérience.
+<space>
+Le taux de base est fixé à <c t_cmd>100 %</c>.
+L’augmenter accroît la quantité
+obtenue, tandis que le baisser
+la réduit.
+<space>
+Le taux d’obtention peut être
+alloué dans la limite des
+<c t_notice>PT</c> disponibles.
+<space>
+Une limite s’applique à la
+modification du taux d’obtention,
+laquelle pourra être repoussée
+au fil de votre progression.",
+        "jp": "経験値取得率を調節します
+<space>
+<c t_cmd>【100%】</c>を基準として
+上げるほど取得割合がアップ
+下げるほど取得割合がダウンします
+<space>
+取得率は<c t_notice>CP</c>の値まで
+割り振ることができます
+<space>
+取得率の変更には限度があり
+物語の進行に伴い解放されます
+
+
+
+
+",
+        "ko": "경험치 획득률을 조정합니다.
+
+<c t_cmd>【100％】</c>를 기준으로
+올릴수록 획득 비율이 증가
+내릴수록 획득 비율이 감소됩니다.
+
+획득률은 <c t_notice>CP</c>의 값까지
+할당할 수 있습니다.
+
+획득률 변경에는 한도가 있으며
+이야기의 진행에 따라 개방됩니다.
+
+
+
+
+",
+        "zh-TW": "調整經驗值取得率。
+
+以<c t_cmd>【100%】</c>為基準，
+數值越高，取得率就越高。
+數值越低，取得率就越低。
+
+取得率的數值最多
+可調整至<c t_notice>CP</c>。
+
+變更取得率也有數值上限，
+將隨著故事的推進解鎖。
+
+
+
+
+",
+      },
+      "5",
+      16,
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 64 00 00 00 5A 00 00 00 F4 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [76 27 00 00 01 00 00 00 02 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_SETTING_MANA",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mana<icon ICON_ID_SYSTEM_TEXT_01_15>",
+        "es": "Maná <icon ICON_ID_SYSTEM_TEXT_01_15>",
+        "fr": "Mana <icon ICON_ID_SYSTEM_TEXT_01_15>",
+        "jp": "マナ<icon ICON_ID_SYSTEM_TEXT_01_15>",
+        "ko": "마나<icon ICON_ID_SYSTEM_TEXT_01_15>",
+        "zh-TW": "瑪那<icon ICON_ID_SYSTEM_TEXT_01_15>",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Adjust Mana earned.",
+        "es": "Define la tasa de obtención de maná.",
+        "fr": "Définit le taux d’obtention de mana.",
+        "jp": "マナの取得率を設定します",
+        "ko": "마나 획득률을 설정합니다.",
+        "zh-TW": "設定瑪那取得率。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust Mana<icon ICON_ID_SYSTEM_TEXT_01_15> earned.
+<space>
+<c t_cmd>100%</c> is the default.
+The higher the percentage,
+the more Mana<icon ICON_ID_SYSTEM_TEXT_01_15> you gain.
+The lower the percentage,
+the less Mana<icon ICON_ID_SYSTEM_TEXT_01_15> you gain.
+<space>
+The value can be raised with <c t_notice>CP</c>.
+<space>
+There is a maximum percentage
+limit, but this will increase as
+you progress the main story.
+
+
+",
+        "es": "Ajusta la tasa de obtención de
+maná<icon ICON_ID_SYSTEM_TEXT_01_15>.
+<space>
+El valor estándar es <c t_cmd>[100 %]</c>.
+Cuanto más la subas,
+más porcentaje consigues.
+Cuanto más la bajes,
+menos porcentaje obtienes.
+<space>
+Puedes ajustar la tasa hasta el
+valor de <c t_notice>PT</c>.
+<space>
+Hay un límite para cambiar la tasa,
+y se irá desbloqueando conforme
+avances en la historia.
+",
+        "fr": "Permet d’ajuster le taux
+d’obtention de mana <icon ICON_ID_SYSTEM_TEXT_01_15>.
+<space>
+Le taux de base est fixé à <c t_cmd>100 %</c>.
+L’augmenter accroît la quantité
+obtenue, tandis que le baisser
+la réduit.
+<space>
+Le taux d’obtention peut être
+alloué dans la limite des
+<c t_notice>PT</c> disponibles.
+<space>
+Une limite s’applique à la
+modification du taux d’obtention,
+laquelle pourra être repoussée
+au fil de votre progression.",
+        "jp": "マナ<icon ICON_ID_SYSTEM_TEXT_01_15>取得率を調節します
+<space>
+<c t_cmd>【100%】</c>を基準として
+上げるほど取得割合がアップ
+下げるほど取得割合がダウンします
+<space>
+取得率は<c t_notice>CP</c>の値まで
+割り振ることができます
+<space>
+取得率の変更には限度があり
+物語の進行に伴い解放されます
+
+
+
+
+",
+        "ko": "마나 <icon ICON_ID_SYSTEM_TEXT_01_15>획득률을 조정합니다.
+
+<c t_cmd>【100％】</c>를 기준으로
+올릴수록 획득 비율이 증가
+내릴수록 획득 비율이 감소됩니다.
+
+획득률은 <c t_notice>CP</c>의 값까지
+할당할 수 있습니다.
+
+획득률 변경에는 한도가 있으며
+이야기의 진행에 따라 개방됩니다.
+
+
+
+
+",
+        "zh-TW": "調整瑪那<icon ICON_ID_SYSTEM_TEXT_01_15>取得率。
+
+以<c t_cmd>【100%】</c>為基準，
+數值越高，取得率就越高。
+數值越低，取得率就越低。
+
+取得率的數值最多
+可調整至<c t_notice>CP</c>。
+
+變更取得率也有數值上限，
+將隨著故事的推進解鎖。
+
+
+
+
+",
+      },
+      "5",
+      16,
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 64 00 00 00 5A 00 00 00 F4 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [77 27 00 00 01 00 00 00 03 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_SETTING_HL",
+    ],
+    [
+      "languages",
+      {
+        "en": "Money<icon ICON_ID_SYSTEM_TEXT_01_14>",
+        "es": "Dinero <icon ICON_ID_SYSTEM_TEXT_01_14>",
+        "fr": "Hell <icon ICON_ID_SYSTEM_TEXT_01_14>",
+        "jp": "お金<icon ICON_ID_SYSTEM_TEXT_01_14>",
+        "ko": "돈<icon ICON_ID_SYSTEM_TEXT_01_14>",
+        "zh-TW": "金錢<icon ICON_ID_SYSTEM_TEXT_01_14>",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Adjust HL earned.",
+        "es": "Define la tasa de obtención de HL.",
+        "fr": "Définit le taux d’obtention des HL.",
+        "jp": "ＨＬの取得率を設定します",
+        "ko": "HL 획득률을 설정합니다.",
+        "zh-TW": "設定HL取得率。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust the amount of HL<icon ICON_ID_SYSTEM_TEXT_01_14>
+earned.
+<space>
+<c t_cmd>100%</c> is the default.
+The higher the percentage,
+the more HL<icon ICON_ID_SYSTEM_TEXT_01_14>you gain.
+The lower the percentage,
+the less HL<icon ICON_ID_SYSTEM_TEXT_01_14>you gain.
+<space>
+The value can be raised with <c t_notice>CP</c>.
+<space>
+There is a maximum percentage
+limit, but this will increase as
+you progress the main story.
+
+",
+        "es": "Ajusta la tasa de obtención de
+dinero (HL)<icon ICON_ID_SYSTEM_TEXT_01_14>.
+<space>
+El valor estándar es <c t_cmd>[100 %]</c>.
+Cuanto más la subas,
+más porcentaje consigues.
+Cuanto más la bajes,
+menos porcentaje obtienes.
+<space>
+Puedes ajustar la tasa hasta el
+valor de <c t_notice>PT</c>.
+<space>
+Hay un límite para cambiar la tasa,
+y se irá desbloqueando conforme
+avances en la historia.
+",
+        "fr": "Permet d’ajuster le taux
+d’obtention des Hell (HL) <icon ICON_ID_SYSTEM_TEXT_01_14>.
+<space>
+Le taux de base est fixé à <c t_cmd>100 %</c>.
+L’augmenter accroît la quantité
+obtenue, tandis que le baisser
+la réduit.
+<space>
+Le taux d’obtention peut être
+alloué dans la limite des
+<c t_notice>PT</c> disponibles.
+<space>
+Une limite s’applique à la
+modification du taux d’obtention,
+laquelle pourra être repoussée
+au fil de votre progression.",
+        "jp": "お金（ＨＬ）<icon ICON_ID_SYSTEM_TEXT_01_14>取得率を調節します
+<space>
+<c t_cmd>【100%】</c>を基準として
+上げるほど取得割合がアップ
+下げるほど取得割合がダウンします
+<space>
+取得率は<c t_notice>CP</c>の値まで
+割り振ることができます
+<space>
+取得率の変更には限度があり
+物語の進行に伴い解放されます
+
+
+
+
+",
+        "ko": "돈(HL) <icon ICON_ID_SYSTEM_TEXT_01_14>획득률을 조정합니다.
+
+<c t_cmd>【100％】</c>를 기준으로
+올릴수록 획득 비율이 증가
+내릴수록 획득 비율이 감소됩니다.
+
+획득률은 <c t_notice>CP</c>의 값까지
+할당할 수 있습니다.
+
+획득률 변경에는 한도가 있으며
+이야기의 진행에 따라 개방됩니다.
+
+
+
+
+",
+        "zh-TW": "調整金錢（ＨＬ）<icon ICON_ID_SYSTEM_TEXT_01_14>取得率。
+
+以<c t_cmd>【100%】</c>為基準，
+數值越高，取得率就越高。
+數值越低，取得率就越低。
+
+取得率的數值最多
+可調整至<c t_notice>CP</c>。
+
+變更取得率也有數值上限，
+將隨著故事的推進解鎖。
+
+
+
+
+",
+      },
+      "5",
+      16,
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 64 00 00 00 5A 00 00 00 F4 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [78 27 00 00 01 00 00 00 04 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_SETTING_WM",
+    ],
+    [
+      "languages",
+      {
+        "en": "Weapon Mastery",
+        "es": "Maestría de armas",
+        "fr": "Maîtrise d’armes",
+        "jp": "ウェポンマスタリー",
+        "ko": "웨폰 마스터리",
+        "zh-TW": "武器熟練度",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Adjust Weapon Mastery earned.",
+        "es": "Define la tasa de obtención de maestría de armas.",
+        "fr": "Définit le taux d’obtention de maîtrise d’armes.",
+        "jp": "ウェポンマスタリーの取得率を設定します",
+        "ko": "웨폰 마스터리 획득률을 설정합니다.",
+        "zh-TW": "設定武器熟練度取得率。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust Weapon Mastery earned.
+<space>
+<c t_cmd>100%</c> is the default.
+The higher the percentage,
+the more Weapon Mastery you
+gain.
+The lower the percentage,
+the less Weapon Mastery you
+gain.
+<space>
+The value can be raised with <c t_notice>CP</c>.
+<space>
+There is a maximum percentage
+limit, but this will increase as
+you progress the main story.
+",
+        "es": "Ajusta la tasa de obtención de
+maestría de armas.
+<space>
+El valor estándar es <c t_cmd>[100 %]</c>.
+Cuanto más la subas,
+más porcentaje consigues.
+Cuanto más la bajes,
+menos porcentaje obtienes.
+<space>
+Puedes ajustar la tasa hasta el
+valor de <c t_notice>PT</c>.
+<space>
+Hay un límite para cambiar la tasa,
+y se irá desbloqueando conforme
+avances en la historia.
+",
+        "fr": "Permet d’ajuster le taux
+d’obtention de maîtrise d’armes.
+<space>
+Le taux de base est fixé à <c t_cmd>100 %</c>.
+L’augmenter accroît la quantité
+obtenue, tandis que le baisser
+la réduit.
+<space>
+Le taux d’obtention peut être
+alloué dans la limite des
+<c t_notice>PT</c> disponibles.
+<space>
+Une limite s’applique à la
+modification du taux d’obtention,
+laquelle pourra être repoussée
+au fil de votre progression.",
+        "jp": "ウェポンマスタリー取得率を
+調節します
+<space>
+<c t_cmd>【100%】</c>を基準として
+上げるほど取得割合がアップ
+下げるほど取得割合がダウンします
+<space>
+取得率は<c t_notice>CP</c>の値まで
+割り振ることができます
+<space>
+取得率の変更には限度があり
+物語の進行に伴い解放されます
+
+
+
+",
+        "ko": "웨폰 마스터리 획득률을
+조정합니다.
+
+<c t_cmd>【100％】</c>를 기준으로
+올릴수록 획득 비율이 증가
+내릴수록 획득 비율이 감소됩니다.
+
+획득률은 <c t_notice>CP</c>의 값까지
+할당할 수 있습니다.
+
+획득률 변경에는 한도가 있으며
+이야기의 진행에 따라 개방됩니다.
+
+
+
+",
+        "zh-TW": "調整
+武器熟練度取得率。
+
+以<c t_cmd>【100%】</c>為基準，
+數值越高，取得率就越高。
+數值越低，取得率就越低。
+
+取得率的數值最多
+可調整至<c t_notice>CP</c>。
+
+變更取得率也有數值上限，
+將隨著故事的推進解鎖。
+
+
+
+",
+      },
+      "5",
+      16,
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 64 00 00 00 5A 00 00 00 F4 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [79 27 00 00 01 00 00 00 05 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_SETTING_ITEM_DROPS",
+    ],
+    [
+      "languages",
+      {
+        "en": "Items",
+        "es": "Objetos",
+        "fr": "Objets",
+        "jp": "アイテム",
+        "ko": "아이템",
+        "zh-TW": "道具",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Adjust items earned.",
+        "es": "Define la tasa de obtención de objetos.",
+        "fr": "Définit le taux d’obtention des objets.",
+        "jp": "アイテムの取得率を設定します",
+        "ko": "아이템 획득률을 설정합니다.",
+        "zh-TW": "設定道具取得率。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust items earned.
+<space>
+<c t_cmd>100%</c> is the default.
+The higher the percentage,
+the more items you gain.
+The lower the percentage,
+the fewer items you gain.
+<space>
+The value can be raised with <c t_notice>CP</c>.
+<space>
+There is a maximum percentage
+limit, but this will increase as
+you progress the main story.
+
+
+",
+        "es": "Ajusta la tasa de obtención de
+objetos.
+<space>
+El valor estándar es <c t_cmd>[100 %]</c>.
+Cuanto más la subas,
+más probabilidad tienes.
+Cuanto más la bajes,
+menos probabilidad tienes.
+<space>
+Puedes ajustar la tasa hasta el
+valor de <c t_notice>PT</c>.
+<space>
+Hay un límite para cambiar la tasa,
+y se irá desbloqueando conforme
+avances en la historia.
+",
+        "fr": "Permet d’ajuster le taux
+d’obtention des objets.
+<space>
+Le taux de base est fixé à <c t_cmd>100 %</c>.
+L’augmenter accroît la quantité
+obtenue, tandis que le baisser
+la réduit.
+<space>
+Le taux d’obtention peut être
+alloué dans la limite des
+<c t_notice>PT</c> disponibles.
+<space>
+Une limite s’applique à la
+modification du taux d’obtention,
+laquelle pourra être repoussée
+au fil de votre progression.",
+        "jp": "アイテム取得率を調節します
+<space>
+<c t_cmd>【100%】</c>を基準として
+上げるほど取得確率がアップ
+下げるほど取得確率がダウンします
+<space>
+取得率は<c t_notice>CP</c>の値まで
+割り振ることができます
+<space>
+取得率の変更には限度があり
+物語の進行に伴い解放されます
+
+
+
+
+",
+        "ko": "아이템 획득률을 조정합니다.
+
+<c t_cmd>【100％】</c>를 기준으로
+올릴수록 획득 확률이 증가
+내릴수록 획득 확률이 감소됩니다.
+
+획득률은 <c t_notice>CP</c>의 값까지
+할당할 수 있습니다.
+
+획득률 변경에는 한도가 있으며
+이야기의 진행에 따라 개방됩니다.
+
+
+
+
+",
+        "zh-TW": "調整道具取得率。
+
+以<c t_cmd>【100%】</c>為基準，
+數值越高，取得率就越高。
+數值越低，取得率就越低。
+
+取得率的數值最多
+可調整至<c t_notice>CP</c>。
+
+變更取得率也有數值上限，
+將隨著故事的推進解鎖。
+
+
+
+
+",
+      },
+      "5",
+      16,
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 64 00 00 00 5A 00 00 00 F4 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [85 4E 00 00 02 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_SETTING_ENEMY_LV",
+    ],
+    [
+      "languages",
+      {
+        "en": "Enemy Strength",
+        "es": "Fuerza de los enemigos",
+        "fr": "Force des ennemis",
+        "jp": "敵の強さ",
+        "ko": "적의 파워",
+        "zh-TW": "敵人強度",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Adjust enemy strength.",
+        "es": "Define la fuerza de los enemigos.",
+        "fr": "Définit la force des ennemis.",
+        "jp": "敵の強さを設定します",
+        "ko": "적의 파워를 설정합니다.",
+        "zh-TW": "設定敵人強度。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust enemy strength.
+<space>
+Enemy strength:
+<c t_cmd><Value 1></c>.
+<space>
+If the enemies aren't strong
+enough for your liking, feel
+free to toughen 'em up.
+",
+        "es": "Ajusta la fuerza de los enemigos
+<space>
+La fuerza actual de los enemigos es
+<c t_cmd>[<Value 1>]</c>.
+<space>
+Si se te quedan cortos los enemigos,
+cámbiala.
+
+",
+        "fr": "Permet d’ajuster la force des
+ennemis.
+<space>
+La force actuelle des ennemis
+est réglée sur
+<c t_cmd><Value 1></c>.
+<space>
+Modifiez-la si les ennemis vous
+paraissent faibles.",
+        "jp": "敵の強さを調節します
+<space>
+現在の敵の強さは
+<c t_cmd>【<Value 1>】</c>です
+<space>
+敵の強さに物足りなくなったら
+変更してください
+
+",
+        "ko": "적의 파워를 조정합니다.
+
+현재 적의 파워는
+<c t_cmd>【<Value 1>】</c>입니다.
+
+적의 파워가 부족하다면
+변경해 주십시오.
+
+",
+        "zh-TW": "調整敵人強度。
+
+目前敵人強度為
+<c t_cmd>【<Value 1>】</c>。
+
+若感覺敵人強度不足時，
+請變更此項目。
+
+",
+      },
+      "5",
+      9,
+    ],
+    [
+      40,
+      Buffer [04 00 00 00 00 00 00 00 00 00 00 00 14 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [86 4E 00 00 02 00 00 00 02 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_SETTING_INITIAL_HP_RATE",
+    ],
+    [
+      "languages",
+      {
+        "en": "Base HP",
+        "es": "PV iniciales",
+        "fr": "PV de départ",
+        "jp": "初期HP",
+        "ko": "초기 HP",
+        "zh-TW": "初期HP",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Adjust the protagonist's base HP.",
+        "es": "Define el porcentaje de PV inicial del protagonista.",
+        "fr": "Définit le nombre de PV de départ du héros.",
+        "jp": "主人公の初期HPの割合を設定します",
+        "ko": "주인공의 초기 HP 비율을 설정합니다.",
+        "zh-TW": "設定主角初期HP的比率。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust N.A.'s base HP.
+<space>
+If you think N.A. is too
+overpowered, feel free to hit
+him with a handicap.
+",
+        "es": "Define el porcentaje de PV de Enea.
+<space>
+Si te has vuelto demasiado fuerte y
+te da problemas, cámbialo.
+
+",
+        "fr": "Permet d’ajuster les PV de
+départ de N/A.
+<space>
+N’hésitez pas à les modifier
+si vous avez l’impression
+d’être trop fort.",
+        "jp": "エヌエーのHP割合を設定します
+<space>
+強くなりすぎて困った方は
+変更してください
+
+",
+        "ko": "에누아의 HP 비율을 설정합니다.
+
+너무 강해져서 곤란하신 분은
+변경해 주십시오.
+
+",
+        "zh-TW": "設定艾恩埃的HP比率。
+
+若因敵人太強而感到棘手，
+請變更此項目。
+
+",
+      },
+      "5",
+      6,
+    ],
+    [
+      40,
+      Buffer [03 00 00 00 64 00 00 00 01 00 00 00 64 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [87 4E 00 00 02 00 00 00 02 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_SETTING_MOVE_UPPER_LIMIT",
+    ],
+    [
+      "languages",
+      {
+        "en": "Max Movement Speed",
+        "es": "Límite de velocidad de mov.",
+        "fr": "Vitesse de déplacement max",
+        "jp": "移動速度上限",
+        "ko": "이동 속도 상한",
+        "zh-TW": "移動速度上限",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Adjust the protagonist's max movement speed.",
+        "es": "Define el límite de velocidad de movimiento de Enea.",
+        "fr": "Définit la vitesse de déplacement max du héros.",
+        "jp": "主人公の移動速度上限を設定します",
+        "ko": "주인공의 이동 속도 상한을 설정합니다.",
+        "zh-TW": "設定主角的移動速度上限。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust N.A.'s max movement
+speed.
+<space>
+If you think N.A. is too
+overpowered, feel free to hit
+him with a handicap.",
+        "es": "Define el límite de velocidad de
+movimiento del protagonista.
+<space>
+Si te has vuelto demasiado fuerte y
+te da problemas, cámbialo.
+",
+        "fr": "Permet d’ajuster la vitesse de
+déplacement max de N/A.
+<space>
+N’hésitez pas à la modifier
+si vous avez l’impression
+d’être trop fort.",
+        "jp": "エヌエーの移動速度上限を
+設定します
+<space>
+強くなりすぎて困った方は
+変更してください
+",
+        "ko": "에누아의 이동 속도 상한을
+설정합니다.
+
+너무 강해져서 곤란하신 분은
+변경해 주십시오.
+",
+        "zh-TW": "設定艾恩埃的
+移動速度上限。
+
+若因敵人太強而感到棘手，
+請變更此項目。
+",
+      },
+      "5",
+      6,
+    ],
+    [
+      40,
+      Buffer [02 00 00 00 C8 00 00 00 32 00 00 00 C8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [95 75 00 00 03 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_AUTOMATIC_SALE",
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Sell",
+        "es": "Venta automática",
+        "fr": "Vente auto",
+        "jp": "自動売却",
+        "ko": "자동 매각",
+        "zh-TW": "自動出售",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatically sell acquired items.",
+        "es": "Vende automáticamente los objetos obtenidos.",
+        "fr": "Vend automatiquement les objets obtenus.",
+        "jp": "入手したアイテムを自動で売却します",
+        "ko": "획득한 아이템을 자동으로 매각합니다.",
+        "zh-TW": "自動出售獲得的道具。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust whether or not to
+automatically sell items gained
+from battles.
+<space>
+<c t_cmd>Disable</c>
+Items will not be auto-sold
+UNLESS your item bag is full.
+<space>
+<c t_cmd>Enable</c>
+Items will be auto-sold.
+
+
+",
+        "es": "Define si vendes automáticamente
+los objetos obtenidos.
+<space>
+<c t_cmd>[No]</c>
+No se venderán automáticamente.
+Eso sí, si superas el límite de
+objetos, se venderán
+automáticamente.
+<space>
+<c t_cmd>[Sí]</c>
+Se venderán automáticamente
+siguiendo las condiciones de
+venta automática.",
+        "fr": "Permet d’activer ou de désactiver
+la vente auto des objets obtenus.
+<space>
+<c t_cmd>Désactivé :</c>
+La vente auto ne s’applique pas.
+Les objets obtenus au-delà de la
+limite fixée serons vendus
+quoi qu’il arrive.
+<space>
+<c t_cmd>Activé :</c>
+La vente auto s’applique
+selon les conditions définies.
+",
+        "jp": "取得したアイテムを自動的に
+売却するかを設定します
+<space>
+<c t_cmd>【しない】</c>
+自動で売却しません
+ただし、アイテムが所持限界を
+超えると自動売却されます
+<space>
+<c t_cmd>【する】</c>
+自動売却条件に従って
+自動で売却します
+
+",
+        "ko": "획득한 아이템을 자동으로
+매각할지 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 매각하지 않습니다.
+단, 아이템이 소지 가능 한계를
+초과하면 자동 매각됩니다.
+
+<c t_cmd>【한다】</c>
+자동 매각 조건에 따라
+자동으로 매각합니다.
+
+",
+        "zh-TW": "設定是否自動出售
+獲得的道具。
+
+<c t_cmd>【否】</c>
+將不會自動出售道具。
+但是，若道具已達持有上限，
+將會自動出售。
+
+<c t_cmd>【是】</c>
+將根據自動出售條件
+自動出售道具。
+
+",
+      },
+      "5",
+      13,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Disable",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "7.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enable",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "7.1",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [F9 75 00 00 03 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_AUTOMATIC_SALE_OPTION_1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Sell Fists",
+        "es": "Condición puños",
+        "fr": "Condition de vente auto (Poings)",
+        "jp": "自動売却条件（拳）",
+        "ko": "자동 매각 조건(권)",
+        "zh-TW": "自動出售條件（拳）",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatically sell acquired items.",
+        "es": "Vende automáticamente los objetos obtenidos.",
+        "fr": "Vend automatiquement les objets obtenus.",
+        "jp": "入手したアイテムを自動で売却します",
+        "ko": "획득한 아이템을 자동으로 매각합니다.",
+        "zh-TW": "自動出售獲得的道具。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Set whether or not to auto-sell
+<c t_notice>Fists</c>.
+<space>
+<c t_cmd>Disable</c>
+Items will not be auto-sold.
+<space>
+<c t_cmd>Enable</c>
+Items will be auto-sold.
+
+",
+        "es": "Si la venta automática está en <c t_cmd>[Sí]</c>,
+establece si se venden los objetos
+de la categoría <c t_notice>[Puños]</c>.
+<space>
+<c t_cmd>[No]</c>
+No se venderán.
+<space>
+<c t_cmd>[Sí]</c>
+Se venderán.
+",
+        "fr": "Permet d’activer ou de désactiver
+la vente auto des objets de la
+catégorie <c t_notice>Armes : Poings</c>
+.
+<space>
+<c t_cmd>Désactivé :</c>
+La vente ne s’applique pas.
+<space>
+<c t_cmd>Activé :</c>
+La vente s’applique.",
+        "jp": "自動売却が<c t_cmd>【する】</c>の場合に
+<c t_notice>【武器・拳】</c>カテゴリーの
+アイテムを売却するかを設定します
+<space>
+<c t_cmd>【しない】</c>
+売却しません
+<space>
+<c t_cmd>【する】</c>
+売却します
+",
+        "ko": "자동 매각이 <c t_cmd>【한다】</c>인 경우
+<c t_notice>【무기·권】</c> 카테고리의
+아이템을 매각할지 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 매각하지 않습니다.
+
+<c t_cmd>【한다】</c>
+매각합니다.
+",
+        "zh-TW": "自動出售設定為<c t_cmd>【是】</c>時，
+設定是否將<c t_notice>【武器‧拳】</c>類別的
+道具自動出售。
+
+<c t_cmd>【否】</c>
+將不會自動出售道具。
+
+<c t_cmd>【是】</c>
+出售
+",
+      },
+      "5",
+      10,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Disable",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "7.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enable",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "7.1",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [FA 75 00 00 03 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_AUTOMATIC_SALE_OPTION_2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Sell Swords",
+        "es": "Condición espadas",
+        "fr": "Vente auto (Épées)",
+        "jp": "自動売却条件（剣）",
+        "ko": "자동 매각 조건(검)",
+        "zh-TW": "自動出售條件（劍）",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatically sell acquired items.",
+        "es": "Vende automáticamente los objetos obtenidos.",
+        "fr": "Vend automatiquement les objets obtenus.",
+        "jp": "入手したアイテムを自動で売却します",
+        "ko": "획득한 아이템을 자동으로 매각합니다.",
+        "zh-TW": "自動出售獲得的道具。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Set whether or not to auto-sell
+<c t_notice>Swords</c>.
+<space>
+<c t_cmd>Disable</c>
+Items will not be auto-sold.
+<space>
+<c t_cmd>Enable</c>
+Items will be auto-sold.
+
+",
+        "es": "Si la venta automática está en <c t_cmd>[Sí]</c>,
+establece si se venden los objetos
+de la categoría <c t_notice>[Espada]</c>.
+<space>
+<c t_cmd>[No]</c>
+No se venderán.
+<space>
+<c t_cmd>[Sí]</c>
+Se venderán.
+",
+        "fr": "Permet d’activer ou de désactiver
+la vente auto des objets de la
+catégorie <c t_notice>Armes : Épées</c>
+.
+<space>
+<c t_cmd>Désactivé :</c>
+La vente ne s’applique pas.
+<space>
+<c t_cmd>Activé :</c>
+La vente s’applique.",
+        "jp": "自動売却が<c t_cmd>【する】</c>の場合に
+<c t_notice>【武器・剣】</c>カテゴリーの
+アイテムを売却するかを設定します
+<space>
+<c t_cmd>【しない】</c>
+売却しません
+<space>
+<c t_cmd>【する】</c>
+売却します
+",
+        "ko": "자동 매각이 <c t_cmd>【한다】</c>인 경우
+<c t_notice>【무기·검】</c> 카테고리의
+아이템을 매각할지 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 매각하지 않습니다.
+
+<c t_cmd>【한다】</c>
+매각합니다.
+",
+        "zh-TW": "自動出售設定為<c t_cmd>【是】</c>時，
+設定是否將<c t_notice>【武器‧劍】</c>類別的
+道具自動出售。
+
+<c t_cmd>【否】</c>
+將不會自動出售道具。
+
+<c t_cmd>【是】</c>
+出售
+",
+      },
+      "5",
+      10,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Disable",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "7.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enable",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "7.1",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [FB 75 00 00 03 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_AUTOMATIC_SALE_OPTION_3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Sell Spears",
+        "es": "Condición lanzas",
+        "fr": "Vente auto (Lances)",
+        "jp": "自動売却条件（槍）",
+        "ko": "자동 매각 조건(창)",
+        "zh-TW": "自動出售條件（槍）",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatically sell acquired items.",
+        "es": "Vende automáticamente los objetos obtenidos.",
+        "fr": "Vend automatiquement les objets obtenus.",
+        "jp": "入手したアイテムを自動で売却します",
+        "ko": "획득한 아이템을 자동으로 매각합니다.",
+        "zh-TW": "自動出售獲得的道具。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Set whether or not to auto-sell
+<c t_notice>Spears</c>.
+<space>
+<c t_cmd>Disable</c>
+Items will not be auto-sold.
+<space>
+<c t_cmd>Enable</c>
+Items will be auto-sold.
+
+",
+        "es": "Si la venta automática está en <c t_cmd>[Sí]</c>,
+establece si se venden los objetos
+de la categoría <c t_notice>[Lanza]</c>.
+<space>
+<c t_cmd>[No]</c>
+No se venderán.
+<space>
+<c t_cmd>[Sí]</c>
+Se venderán.
+",
+        "fr": "Permet d’activer ou de désactiver
+la vente des objets de la
+catégorie <c t_notice>Armes : Lances</c>
+.
+<space>
+<c t_cmd>Désactivé :</c>
+La vente ne s’applique pas.
+<space>
+<c t_cmd>Activé :</c>
+La vente s’applique.",
+        "jp": "自動売却が<c t_cmd>【する】</c>の場合に
+<c t_notice>【武器・槍】</c>カテゴリーの
+アイテムを売却するかを設定します
+<space>
+<c t_cmd>【しない】</c>
+売却しません
+<space>
+<c t_cmd>【する】</c>
+売却します
+",
+        "ko": "자동 매각이 <c t_cmd>【한다】</c>인 경우
+<c t_notice>【무기·창】</c> 카테고리의
+아이템을 매각할지 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 매각하지 않습니다.
+
+<c t_cmd>【한다】</c>
+매각합니다.
+",
+        "zh-TW": "自動出售設定為<c t_cmd>【是】</c>時，
+設定是否將<c t_notice>【武器‧槍】</c>類別的
+道具自動出售。
+
+<c t_cmd>【否】</c>
+將不會自動出售道具。
+
+<c t_cmd>【是】</c>
+出售
+",
+      },
+      "5",
+      10,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Disable",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "7.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enable",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "7.1",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [FC 75 00 00 03 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_AUTOMATIC_SALE_OPTION_4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Sell Axes",
+        "es": "Condición hachas",
+        "fr": "Vente auto (Haches)",
+        "jp": "自動売却条件（斧）",
+        "ko": "자동 매각 조건(도끼)",
+        "zh-TW": "自動出售條件（斧）",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatically sell acquired items.",
+        "es": "Vende automáticamente los objetos obtenidos.",
+        "fr": "Vend automatiquement les objets obtenus.",
+        "jp": "入手したアイテムを自動で売却します",
+        "ko": "획득한 아이템을 자동으로 매각합니다.",
+        "zh-TW": "自動出售獲得的道具。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Set whether or not to auto-sell
+<c t_notice>Axes</c>.
+<space>
+<c t_cmd>Disable</c>
+Items will not be auto-sold.
+<space>
+<c t_cmd>Enable</c>
+Items will be auto-sold.
+
+",
+        "es": "Si la venta automática está en <c t_cmd>[Sí]</c>,
+establece si se venden los objetos
+de la categoría <c t_notice>[Hacha]</c>.
+<space>
+<c t_cmd>[No]</c>
+No se venderán.
+<space>
+<c t_cmd>[Sí]</c>
+Se venderán.
+",
+        "fr": "Permet d’activer ou de désactiver
+la vente auto des objets de la
+catégorie <c t_notice>Armes : Haches</c>
+.
+<space>
+<c t_cmd>Désactivé :</c>
+La vente ne s’applique pas.
+<space>
+<c t_cmd>Activé :</c>
+La vente s’applique.",
+        "jp": "自動売却が<c t_cmd>【する】</c>の場合に
+<c t_notice>【武器・斧】</c>カテゴリーの
+アイテムを売却するかを設定します
+<space>
+<c t_cmd>【しない】</c>
+売却しません
+<space>
+<c t_cmd>【する】</c>
+売却します
+",
+        "ko": "자동 매각이 <c t_cmd>【한다】</c>인 경우
+<c t_notice>【무기·도끼】</c> 카테고리의
+아이템을 매각할지 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 매각하지 않습니다.
+
+<c t_cmd>【한다】</c>
+매각합니다.
+",
+        "zh-TW": "自動出售設定為<c t_cmd>【是】</c>時，
+設定是否將<c t_notice>【武器‧斧】</c>類別的
+道具自動出售。
+
+<c t_cmd>【否】</c>
+將不會自動出售道具。
+
+<c t_cmd>【是】</c>
+出售
+",
+      },
+      "5",
+      10,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Disable",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "7.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enable",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "7.1",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [FD 75 00 00 03 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_AUTOMATIC_SALE_OPTION_5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Sell Bows",
+        "es": "Condición arcos",
+        "fr": "Vente auto (Arcs)",
+        "jp": "自動売却条件（弓）",
+        "ko": "자동 매각 조건(활)",
+        "zh-TW": "自動出售條件（弓）",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatically sell acquired items.",
+        "es": "Vende automáticamente los objetos obtenidos.",
+        "fr": "Vend automatiquement les objets obtenus.",
+        "jp": "入手したアイテムを自動で売却します",
+        "ko": "획득한 아이템을 자동으로 매각합니다.",
+        "zh-TW": "自動出售獲得的道具。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Set whether or not to auto-sell
+<c t_notice>Bows</c>.
+<space>
+<c t_cmd>Disable</c>
+Items will not be auto-sold.
+<space>
+<c t_cmd>Enable</c>
+Items will be auto-sold.
+
+",
+        "es": "Si la venta automática está en <c t_cmd>[Sí]</c>,
+establece si se venden los objetos
+de la categoría <c t_notice>[Arco]</c>.
+<space>
+<c t_cmd>[No]</c>
+No se venderán.
+<space>
+<c t_cmd>[Sí]</c>
+Se venderán.
+",
+        "fr": "Permet d’activer ou de désactiver
+la vente auto des objets de la
+catégorie <c t_notice>Armes : Arcs</c>
+.
+<space>
+<c t_cmd>Désactivé :</c>
+La vente ne s’applique pas.
+<space>
+<c t_cmd>Activé :</c>
+La vente s’applique.",
+        "jp": "自動売却が<c t_cmd>【する】</c>の場合に
+<c t_notice>【武器・弓】</c>カテゴリーの
+アイテムを売却するかを設定します
+<space>
+<c t_cmd>【しない】</c>
+売却しません
+<space>
+<c t_cmd>【する】</c>
+売却します
+",
+        "ko": "자동 매각이 <c t_cmd>【한다】</c>인 경우
+<c t_notice>【무기·활】</c> 카테고리의
+아이템을 매각할지 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 매각하지 않습니다.
+
+<c t_cmd>【한다】</c>
+매각합니다.
+",
+        "zh-TW": "自動出售設定為<c t_cmd>【是】</c>時，
+設定是否將<c t_notice>【武器‧弓】</c>類別的
+道具自動出售。
+
+<c t_cmd>【否】</c>
+將不會自動出售道具。
+
+<c t_cmd>【是】</c>
+出售
+",
+      },
+      "5",
+      10,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Disable",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "7.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enable",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "7.1",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [FE 75 00 00 03 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_AUTOMATIC_SALE_OPTION_6",
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Sell Guns",
+        "es": "Condición pistolas",
+        "fr": "Vente auto (Pistolets)",
+        "jp": "自動売却条件（銃）",
+        "ko": "자동 매각 조건(총)",
+        "zh-TW": "自動出售條件（銃）",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatically sell acquired items.",
+        "es": "Vende automáticamente los objetos obtenidos.",
+        "fr": "Vend automatiquement les objets obtenus.",
+        "jp": "入手したアイテムを自動で売却します",
+        "ko": "획득한 아이템을 자동으로 매각합니다.",
+        "zh-TW": "自動出售獲得的道具。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Set whether or not to auto-sell
+<c t_notice>Guns</c>.
+<space>
+<c t_cmd>Disable</c>
+Items will not be auto-sold.
+<space>
+<c t_cmd>Enable</c>
+Items will be auto-sold.
+
+",
+        "es": "Si la venta automática está en <c t_cmd>[Sí]</c>,
+establece si se venden los objetos
+de la categoría <c t_notice>[Pistola]</c>.
+<space>
+<c t_cmd>[No]</c>
+No se venderán.
+<space>
+<c t_cmd>[Sí]</c>
+Se venderán.
+",
+        "fr": "Permet d’activer ou de désactiver
+la vente auto des objets de la
+catégorie <c t_notice>Armes : Pistolets</c>
+.
+<space>
+<c t_cmd>Désactivé :</c>
+La vente ne s’applique pas.
+<space>
+<c t_cmd>Activé :</c>
+La vente s’applique.",
+        "jp": "自動売却が<c t_cmd>【する】</c>の場合に
+<c t_notice>【武器・銃】</c>カテゴリーの
+アイテムを売却するかを設定します
+<space>
+<c t_cmd>【しない】</c>
+売却しません
+<space>
+<c t_cmd>【する】</c>
+売却します
+",
+        "ko": "자동 매각이 <c t_cmd>【한다】</c>인 경우
+<c t_notice>【무기·총】</c> 카테고리의
+아이템을 매각할지 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 매각하지 않습니다.
+
+<c t_cmd>【한다】</c>
+매각합니다.
+",
+        "zh-TW": "自動出售設定為<c t_cmd>【是】</c>時，
+設定是否將<c t_notice>【武器‧銃】</c>類別的
+道具自動出售。
+
+<c t_cmd>【否】</c>
+將不會自動出售道具。
+
+<c t_cmd>【是】</c>
+出售
+",
+      },
+      "5",
+      10,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Disable",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "7.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enable",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "7.1",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [FF 75 00 00 03 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_AUTOMATIC_SALE_OPTION_7",
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Sell Staves",
+        "es": "Condición bastones",
+        "fr": "Vente auto (Bâtons)",
+        "jp": "自動売却条件（杖）",
+        "ko": "자동 매각 조건(지팡이)",
+        "zh-TW": "自動出售條件（杖）",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatically sell acquired items.",
+        "es": "Vende automáticamente los objetos obtenidos.",
+        "fr": "Vend automatiquement les objets obtenus.",
+        "jp": "入手したアイテムを自動で売却します",
+        "ko": "획득한 아이템을 자동으로 매각합니다.",
+        "zh-TW": "自動出售獲得的道具。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Set whether or not to auto-sell
+<c t_notice>Staves</c>.
+<space>
+<c t_cmd>Disable</c>
+Items will not be auto-sold.
+<space>
+<c t_cmd>Enable</c>
+Items will be auto-sold.
+
+",
+        "es": "Si la venta automática está en <c t_cmd>[Sí]</c>,
+establece si se venden los objetos
+de la categoría <c t_notice>[Bastón]</c>.
+<space>
+<c t_cmd>[No]</c>
+No se venderán.
+<space>
+<c t_cmd>[Sí]</c>
+Se venderán.
+",
+        "fr": "Permet d’activer ou de désactiver
+la vente auto des objets de la
+catégorie <c t_notice>Armes : Bâtons</c>
+.
+<space>
+<c t_cmd>Désactivé :</c>
+La vente ne s’applique pas.
+<space>
+<c t_cmd>Activé :</c>
+La vente s’applique.",
+        "jp": "自動売却が<c t_cmd>【する】</c>の場合に
+<c t_notice>【武器・杖】</c>カテゴリーの
+アイテムを売却するかを設定します
+<space>
+<c t_cmd>【しない】</c>
+売却しません
+<space>
+<c t_cmd>【する】</c>
+売却します
+",
+        "ko": "자동 매각이 <c t_cmd>【한다】</c>인 경우
+<c t_notice>【무기·지팡이】</c> 카테고리의
+아이템을 매각할지 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 매각하지 않습니다.
+
+<c t_cmd>【한다】</c>
+매각합니다.
+",
+        "zh-TW": "自動出售設定為<c t_cmd>【是】</c>時，
+設定是否將<c t_notice>【武器‧杖】</c>類別的
+道具自動出售。
+
+<c t_cmd>【否】</c>
+將不會自動出售道具。
+
+<c t_cmd>【是】</c>
+出售
+",
+      },
+      "5",
+      10,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Disable",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "7.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enable",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "7.1",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [00 76 00 00 03 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_AUTOMATIC_SALE_OPTION_8",
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Sell Monster Weapons",
+        "es": "Condición armas de monstruo",
+        "fr": "Vente auto (Armes monstres)",
+        "jp": "自動売却条件（魔物武器）",
+        "ko": "자동 매각 조건(마물 무기)",
+        "zh-TW": "自動出售條件（魔物武器）",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatically sell acquired items.",
+        "es": "Vende automáticamente los objetos obtenidos.",
+        "fr": "Vend automatiquement les objets obtenus.",
+        "jp": "入手したアイテムを自動で売却します",
+        "ko": "획득한 아이템을 자동으로 매각합니다.",
+        "zh-TW": "自動出售獲得的道具。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Set whether or not to auto-sell
+<c t_notice>MWs</c>.
+<space>
+<c t_cmd>Disable</c>
+Items will not be auto-sold.
+<space>
+<c t_cmd>Enable</c>
+Items will be auto-sold.
+
+",
+        "es": "Si la venta automática está en <c t_cmd>[Sí]</c>,
+establece si se venden los objetos
+de la categoría <c t_notice>[Monstruo]</c>.
+<space>
+<c t_cmd>[No]</c>
+No se venderán.
+<space>
+<c t_cmd>[Sí]</c>
+Se venderán.
+",
+        "fr": "Permet d’activer ou de désactiver
+la vente auto des objets de la
+catégorie <c t_notice>Armes : Monstres</c>
+.
+<space>
+<c t_cmd>Désactivé :</c>
+La vente ne s’applique pas.
+<space>
+<c t_cmd>Activé :</c>
+La vente s’applique.",
+        "jp": "自動売却が<c t_cmd>【する】</c>の場合に
+<c t_notice>【武器・魔物】</c>カテゴリーの
+アイテムを売却するかを設定します
+<space>
+<c t_cmd>【しない】</c>
+売却しません
+<space>
+<c t_cmd>【する】</c>
+売却します
+",
+        "ko": "자동 매각이 <c t_cmd>【한다】</c>인 경우
+<c t_notice>【무기·마물】</c> 카테고리의
+아이템을 매각할지 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 매각하지 않습니다.
+
+<c t_cmd>【한다】</c>
+매각합니다.
+",
+        "zh-TW": "自動出售設定為<c t_cmd>【是】</c>時，
+設定是否將<c t_notice>【武器‧魔物】</c>類別的
+道具自動出售。
+
+<c t_cmd>【否】</c>
+將不會自動出售道具。
+
+<c t_cmd>【是】</c>
+出售
+",
+      },
+      "5",
+      10,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Disable",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "7.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enable",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "7.1",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [01 76 00 00 03 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_AUTOMATIC_SALE_OPTION_9",
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Sell Armor",
+        "es": "Condición armaduras",
+        "fr": "Vente auto (Armures)",
+        "jp": "自動売却条件（防具）",
+        "ko": "자동 매각 조건(방어구)",
+        "zh-TW": "自動出售條件（防具）",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatically sell acquired items.",
+        "es": "Vende automáticamente los objetos obtenidos.",
+        "fr": "Vend automatiquement les objets obtenus.",
+        "jp": "入手したアイテムを自動で売却します",
+        "ko": "획득한 아이템을 자동으로 매각합니다.",
+        "zh-TW": "自動出售獲得的道具。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Set whether or not to auto-sell
+<c t_notice>Armors</c>.
+<space>
+<c t_cmd>Disable</c>
+Items will not be auto-sold.
+<space>
+<c t_cmd>Enable</c>
+Items will be auto-sold.
+
+",
+        "es": "Si la venta automática está en <c t_cmd>[Sí]</c>,
+establece si se venden los objetos
+de la categoría <c t_notice>[Armadura]</c>.
+<space>
+<c t_cmd>[No]</c>
+No se venderán.
+<space>
+<c t_cmd>[Sí]</c>
+Se venderán.
+",
+        "fr": "Permet d’activer ou de désactiver
+la vente auto des objets de la
+catégorie <c t_notice>Armures</c>
+.
+<space>
+<c t_cmd>Désactivé :</c>
+La vente ne s’applique pas.
+<space>
+<c t_cmd>Activé :</c>
+La vente s’applique.",
+        "jp": "自動売却が<c t_cmd>【する】</c>の場合に
+<c t_notice>【防具】</c>カテゴリーの
+アイテムを売却するかを設定します
+<space>
+<c t_cmd>【しない】</c>
+売却しません
+<space>
+<c t_cmd>【する】</c>
+売却します
+",
+        "ko": "자동 매각이 <c t_cmd>【한다】</c>인 경우
+<c t_notice>【방어구】</c> 카테고리의
+아이템을 매각할지 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 매각하지 않습니다.
+
+<c t_cmd>【한다】</c>
+매각합니다.
+",
+        "zh-TW": "自動出售設定為<c t_cmd>【是】</c>時，
+設定是否將<c t_notice>【防具】</c>類別的
+道具自動出售。
+
+<c t_cmd>【否】</c>
+將不會自動出售道具。
+
+<c t_cmd>【是】</c>
+出售
+",
+      },
+      "5",
+      10,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Disable",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "7.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enable",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "7.1",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [02 76 00 00 03 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_AUTOMATIC_SALE_OPTION_10",
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Sell Belts",
+        "es": "Condición cinturones",
+        "fr": "Vente auto (Ceintures)",
+        "jp": "自動売却条件（ベルト）",
+        "ko": "자동 매각 조건(벨트)",
+        "zh-TW": "自動出售條件（腰帶）",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatically sell acquired items.",
+        "es": "Vende automáticamente los objetos obtenidos.",
+        "fr": "Vend automatiquement les objets obtenus.",
+        "jp": "入手したアイテムを自動で売却します",
+        "ko": "획득한 아이템을 자동으로 매각합니다.",
+        "zh-TW": "自動出售獲得的道具。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Set whether or not to auto-sell
+<c t_notice>Belts</c>.
+<space>
+<c t_cmd>Disable</c>
+Items will not be auto-sold.
+<space>
+<c t_cmd>Enable</c>
+Items will be auto-sold.
+
+",
+        "es": "Si la venta automática está en <c t_cmd>[Sí]</c>,
+establece si se venden los objetos
+de la categoría <c t_notice>[Cinturón]</c>.
+<space>
+<c t_cmd>[No]</c>
+No se venderán.
+<space>
+<c t_cmd>[Sí]</c>
+Se venderán.
+",
+        "fr": "Permet d’activer ou de désactiver
+la vente des objets de la
+catégorie <c t_notice>Ornements : Ceintures</c>
+.
+<space>
+<c t_cmd>Désactivé :</c>
+La vente ne s’applique pas.
+<space>
+<c t_cmd>Activé :</c>
+La vente s’applique.",
+        "jp": "自動売却が<c t_cmd>【する】</c>の場合に
+<c t_notice>【装飾品・ベルト】</c>カテゴリーの
+アイテムを売却するかを設定します
+<space>
+<c t_cmd>【しない】</c>
+売却しません
+<space>
+<c t_cmd>【する】</c>
+売却します
+",
+        "ko": "자동 매각이 <c t_cmd>【한다】</c>인 경우
+<c t_notice>【장식품·벨트】</c> 카테고리의
+아이템을 매각할지 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 매각하지 않습니다.
+
+<c t_cmd>【한다】</c>
+매각합니다.
+",
+        "zh-TW": "自動出售設定為<c t_cmd>【是】</c>時，
+設定是否將<c t_notice>【飾品‧腰帶】</c>類別的
+道具自動出售。
+
+<c t_cmd>【否】</c>
+將不會自動出售道具。
+
+<c t_cmd>【是】</c>
+出售
+",
+      },
+      "5",
+      10,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Disable",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "7.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enable",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "7.1",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [03 76 00 00 03 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_AUTOMATIC_SALE_OPTION_11",
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Sell Shoes",
+        "es": "Condición calzado",
+        "fr": "Vente auto (Chaussures)",
+        "jp": "自動売却条件（靴）",
+        "ko": "자동 매각 조건(신발)",
+        "zh-TW": "自動出售條件（鞋子）",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatically sell acquired items.",
+        "es": "Vende automáticamente los objetos obtenidos.",
+        "fr": "Vend automatiquement les objets obtenus.",
+        "jp": "入手したアイテムを自動で売却します",
+        "ko": "획득한 아이템을 자동으로 매각합니다.",
+        "zh-TW": "自動出售獲得的道具。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Set whether or not to auto-sell
+<c t_notice>Shoes</c>.
+<space>
+<c t_cmd>Disable</c>
+Items will not be auto-sold.
+<space>
+<c t_cmd>Enable</c>
+Items will be auto-sold.
+
+",
+        "es": "Si la venta automática está en <c t_cmd>[Sí]</c>,
+establece si se venden los objetos
+de la categoría <c t_notice>[Calzado]</c>.
+<space>
+<c t_cmd>[No]</c>
+No se venderán.
+<space>
+<c t_cmd>[Sí]</c>
+Se venderán.
+",
+        "fr": "Permet d’activer ou de désactiver
+la vente auto des objets de la
+catégorie <c t_notice>Ornements : Chaussures</c>
+.
+<space>
+<c t_cmd>Désactivé :</c>
+La vente ne s’applique pas.
+<space>
+<c t_cmd>Activé :</c>
+La vente s’applique.",
+        "jp": "自動売却が<c t_cmd>【する】</c>の場合に
+<c t_notice>【装飾品・靴】</c>カテゴリーの
+アイテムを売却するかを設定します
+<space>
+<c t_cmd>【しない】</c>
+売却しません
+<space>
+<c t_cmd>【する】</c>
+売却します
+",
+        "ko": "자동 매각이 <c t_cmd>【한다】</c>인 경우
+<c t_notice>【장식품·신발】</c> 카테고리의
+아이템을 매각할지 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 매각하지 않습니다.
+
+<c t_cmd>【한다】</c>
+매각합니다.
+",
+        "zh-TW": "自動出售設定為<c t_cmd>【是】</c>時，
+設定是否將<c t_notice>【飾品‧鞋子】</c>類別的
+道具自動出售。
+
+<c t_cmd>【否】</c>
+將不會自動出售道具。
+
+<c t_cmd>【是】</c>
+出售
+",
+      },
+      "5",
+      10,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Disable",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "7.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enable",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "7.1",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [04 76 00 00 03 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_AUTOMATIC_SALE_OPTION_12",
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Sell Orbs",
+        "es": "Condición orbes",
+        "fr": "Vente auto (Orbes)",
+        "jp": "自動売却条件（オーブ）",
+        "ko": "자동 매각 조건(오브)",
+        "zh-TW": "自動出售條件（靈珠）",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatically sell acquired items.",
+        "es": "Vende automáticamente los objetos obtenidos.",
+        "fr": "Vend automatiquement les objets obtenus.",
+        "jp": "入手したアイテムを自動で売却します",
+        "ko": "획득한 아이템을 자동으로 매각합니다.",
+        "zh-TW": "自動出售獲得的道具。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Set whether or not to auto-sell
+<c t_notice>Orbs</c>.
+<space>
+<c t_cmd>Disable</c>
+Items will not be auto-sold.
+<space>
+<c t_cmd>Enable</c>
+Items will be auto-sold.
+
+",
+        "es": "Si la venta automática está en <c t_cmd>[Sí]</c>,
+establece si se venden los objetos
+de la categoría <c t_notice>[Orbe]</c>.
+<space>
+<c t_cmd>[No]</c>
+No se venderán.
+<space>
+<c t_cmd>[Sí]</c>
+Se venderán.
+",
+        "fr": "Permet d’activer ou de désactiver
+la vente des objets de la
+catégorie <c t_notice>Ornements : Orbes</c>
+.
+<space>
+<c t_cmd>Désactivé :</c>
+La vente ne s’applique pas.
+<space>
+<c t_cmd>Activé :</c>
+La vente s’applique.",
+        "jp": "自動売却が<c t_cmd>【する】</c>の場合に
+<c t_notice>【装飾品・オーブ】</c>カテゴリーの
+アイテムを売却するかを設定します
+<space>
+<c t_cmd>【しない】</c>
+売却しません
+<space>
+<c t_cmd>【する】</c>
+売却します
+",
+        "ko": "자동 매각이 <c t_cmd>【한다】</c>인 경우
+<c t_notice>【장식품·오브】</c> 카테고리의
+아이템을 매각할지 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 매각하지 않습니다.
+
+<c t_cmd>【한다】</c>
+매각합니다.
+",
+        "zh-TW": "自動出售設定為<c t_cmd>【是】</c>時，
+設定是否將<c t_notice>【飾品‧靈珠】</c>類別的
+道具自動出售。
+
+<c t_cmd>【否】</c>
+將不會自動出售道具。
+
+<c t_cmd>【是】</c>
+出售
+",
+      },
+      "5",
+      10,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Disable",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "7.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enable",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "7.1",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [05 76 00 00 03 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_AUTOMATIC_SALE_OPTION_13",
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Sell Glasses",
+        "es": "Condición gafas",
+        "fr": "Vente auto (Lunettes)",
+        "jp": "自動売却条件（眼鏡）",
+        "ko": "자동 매각 조건(안경)",
+        "zh-TW": "自動出售條件（眼鏡）",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatically sell acquired items.",
+        "es": "Vende automáticamente los objetos obtenidos.",
+        "fr": "Vend automatiquement les objets obtenus.",
+        "jp": "入手したアイテムを自動で売却します",
+        "ko": "획득한 아이템을 자동으로 매각합니다.",
+        "zh-TW": "自動出售獲得的道具。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Set whether or not to auto-sell
+<c t_notice>Glasses</c>.
+<space>
+<c t_cmd>Disable</c>
+Items will not be auto-sold.
+<space>
+<c t_cmd>Enable</c>
+Items will be auto-sold.
+
+",
+        "es": "Si la venta automática está en <c t_cmd>[Sí]</c>,
+establece si se venden los objetos
+de la categoría <c t_notice>[Gafas]</c>.
+<space>
+<c t_cmd>[No]</c>
+No se venderán.
+<space>
+<c t_cmd>[Sí]</c>
+Se venderán.
+",
+        "fr": "Permet d’activer ou de désactiver
+la vente auto des objets de la
+catégorie <c t_notice>Ornements : Lunettes</c>
+.
+<space>
+<c t_cmd>Désactivé :</c>
+La vente ne s’applique pas.
+<space>
+<c t_cmd>Activé :</c>
+La vente s’applique.",
+        "jp": "自動売却が<c t_cmd>【する】</c>の場合に
+<c t_notice>【装飾品・眼鏡】</c>カテゴリーの
+アイテムを売却するかを設定します
+<space>
+<c t_cmd>【しない】</c>
+売却しません
+<space>
+<c t_cmd>【する】</c>
+売却します
+",
+        "ko": "자동 매각이 <c t_cmd>【한다】</c>인 경우
+<c t_notice>【장식품·안경】</c> 카테고리의
+아이템을 매각할지 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 매각하지 않습니다.
+
+<c t_cmd>【한다】</c>
+매각합니다.
+",
+        "zh-TW": "自動出售設定為<c t_cmd>【是】</c>時，
+設定是否將<c t_notice>【飾品‧眼鏡】</c>類別的
+道具自動出售。
+
+<c t_cmd>【否】</c>
+將不會自動出售道具。
+
+<c t_cmd>【是】</c>
+出售
+",
+      },
+      "5",
+      10,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Disable",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "7.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enable",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "7.1",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [06 76 00 00 03 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_AUTOMATIC_SALE_OPTION_14",
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Sell Muscles",
+        "es": "Condición músculos",
+        "fr": "Vente auto (Muscles)",
+        "jp": "自動売却条件（筋肉）",
+        "ko": "자동 매각 조건(근육)",
+        "zh-TW": "自動出售條件（肌肉）",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatically sell acquired items.",
+        "es": "Vende automáticamente los objetos obtenidos.",
+        "fr": "Vend automatiquement les objets obtenus.",
+        "jp": "入手したアイテムを自動で売却します",
+        "ko": "획득한 아이템을 자동으로 매각합니다.",
+        "zh-TW": "自動出售獲得的道具。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Set whether or not to auto-sell
+<c t_notice>Muscles</c>.
+<space>
+<c t_cmd>Disable</c>
+Items will not be auto-sold.
+<space>
+<c t_cmd>Enable</c>
+Items will be auto-sold.
+
+",
+        "es": "Si la venta automática está en <c t_cmd>[Sí]</c>,
+establece si se venden los objetos
+de la categoría <c t_notice>[Músculo]</c>.
+<space>
+<c t_cmd>[No]</c>
+No se venderán.
+<space>
+<c t_cmd>[Sí]</c>
+Se venderán.
+",
+        "fr": "Permet d’activer ou de désactiver
+la vente des objets de la
+catégorie <c t_notice>Ornements : Muscles</c>
+.
+<space>
+<c t_cmd>Désactivé :</c>
+La vente ne s’applique pas.
+<space>
+<c t_cmd>Activé :</c>
+La vente s’applique.",
+        "jp": "自動売却が<c t_cmd>【する】</c>の場合に
+<c t_notice>【装飾品・筋肉】</c>カテゴリーの
+アイテムを売却するかを設定します
+<space>
+<c t_cmd>【しない】</c>
+売却しません
+<space>
+<c t_cmd>【する】</c>
+売却します
+",
+        "ko": "자동 매각이 <c t_cmd>【한다】</c>인 경우
+<c t_notice>【장식품·근육】</c> 카테고리의
+아이템을 매각할지 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 매각하지 않습니다.
+
+<c t_cmd>【한다】</c>
+매각합니다.
+",
+        "zh-TW": "自動出售設定為<c t_cmd>【是】</c>時，
+設定是否將<c t_notice>【飾品‧肌肉】</c>類別的
+道具自動出售。
+
+<c t_cmd>【否】</c>
+將不會自動出售道具。
+
+<c t_cmd>【是】</c>
+出售
+",
+      },
+      "5",
+      10,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Disable",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "7.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enable",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "7.1",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [07 76 00 00 03 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_AUTOMATIC_SALE_OPTION_15",
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Sell Treasure",
+        "es": "Condición emblemas",
+        "fr": "Vente auto (Emblèmes)",
+        "jp": "自動売却条件（秘宝）",
+        "ko": "자동 매각 조건(비보)",
+        "zh-TW": "自動出售條件（祕寶）",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatically sell acquired items.",
+        "es": "Vende automáticamente los objetos obtenidos.",
+        "fr": "Vend automatiquement les objets obtenus.",
+        "jp": "入手したアイテムを自動で売却します",
+        "ko": "획득한 아이템을 자동으로 매각합니다.",
+        "zh-TW": "自動出售獲得的道具。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Set whether or not to auto-sell
+<c t_notice>Treasure</c>.
+<space>
+<c t_cmd>Disable</c>
+Items will not be auto-sold.
+<space>
+<c t_cmd>Enable</c>
+Items will be auto-sold.
+
+",
+        "es": "Si la venta automática está en <c t_cmd>[Sí]</c>,
+establece si se venden los objetos
+de la categoría <c t_notice>[Emblema]</c>.
+<space>
+<c t_cmd>[No]</c>
+No se venderán.
+<space>
+<c t_cmd>[Sí]</c>
+Se venderán.
+",
+        "fr": "Permet d’activer ou de désactiver
+la vente auto des objets de la
+catégorie <c t_notice>Ornements : Emblèmes</c>
+.
+<space>
+<c t_cmd>Désactivé :</c>
+La vente ne s’applique pas.
+<space>
+<c t_cmd>Activé :</c>
+La vente s’applique.",
+        "jp": "自動売却が<c t_cmd>【する】</c>の場合に
+<c t_notice>【装飾品・秘宝】</c>カテゴリーの
+アイテムを売却するかを設定します
+<space>
+<c t_cmd>【しない】</c>
+売却しません
+<space>
+<c t_cmd>【する】</c>
+売却します
+",
+        "ko": "자동 매각이 <c t_cmd>【한다】</c>인 경우
+<c t_notice>【장식품·비보】</c> 카테고리의
+아이템을 매각할지 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 매각하지 않습니다.
+
+<c t_cmd>【한다】</c>
+매각합니다.
+",
+        "zh-TW": "自動出售設定為<c t_cmd>【是】</c>時，
+設定是否將<c t_notice>【飾品‧祕寶】</c>類別的
+道具自動出售。
+
+<c t_cmd>【否】</c>
+將不會自動出售道具。
+
+<c t_cmd>【是】</c>
+出售
+",
+      },
+      "5",
+      10,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Disable",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "7.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enable",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "7.1",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [08 76 00 00 03 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_AUTOMATIC_SALE_OPTION_16",
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Sell Consumables",
+        "es": "Condición consumibles",
+        "fr": "Vente auto (Consommables)",
+        "jp": "自動売却条件（消耗品）",
+        "ko": "자동 매각 조건(소모품)",
+        "zh-TW": "自動出售條件（消耗品）",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatically sell acquired items.",
+        "es": "Vende automáticamente los objetos obtenidos.",
+        "fr": "Vend automatiquement les objets obtenus.",
+        "jp": "入手したアイテムを自動で売却します",
+        "ko": "획득한 아이템을 자동으로 매각합니다.",
+        "zh-TW": "自動出售獲得的道具。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Set whether or not to auto-sell
+<c t_notice>Consumables</c>.
+<space>
+<c t_cmd>Disable</c>
+Items will not be auto-sold.
+<space>
+<c t_cmd>Enable</c>
+Items will be auto-sold.
+
+",
+        "es": "Si la venta automática está en <c t_cmd>[Sí]</c>,
+establece si se venden los objetos
+de la categoría <c t_notice>[Consumible]</c>.
+<space>
+<c t_cmd>[No]</c>
+No se venderán.
+<space>
+<c t_cmd>[Sí]</c>
+Se venderán.
+",
+        "fr": "Permet d’activer ou de désactiver
+la vente auto des objets de la
+catégorie <c t_notice>Consommables</c>
+.
+<space>
+<c t_cmd>Désactivé :</c>
+La vente ne s’applique pas.
+<space>
+<c t_cmd>Activé :</c>
+La vente s’applique.",
+        "jp": "自動売却が<c t_cmd>【する】</c>の場合に
+<c t_notice>【消耗品】</c>カテゴリーの
+アイテムを売却するかを設定します
+<space>
+<c t_cmd>【しない】</c>
+売却しません
+<space>
+<c t_cmd>【する】</c>
+売却します
+",
+        "ko": "자동 매각이 <c t_cmd>【한다】</c>인 경우
+<c t_notice>【소모품】</c> 카테고리의
+아이템을 매각할지 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 매각하지 않습니다.
+
+<c t_cmd>【한다】</c>
+매각합니다.
+",
+        "zh-TW": "自動出售設定為<c t_cmd>【是】</c>時，
+設定是否將<c t_notice>【消耗品】</c>類別的
+道具自動出售。
+
+<c t_cmd>【否】</c>
+將不會自動出售道具。
+
+<c t_cmd>【是】</c>
+出售
+",
+      },
+      "5",
+      10,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Disable",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "7.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enable",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "7.1",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [09 76 00 00 03 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_AUTOMATIC_SALE_OPTION_17",
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Sell Others",
+        "es": "Condición otros",
+        "fr": "Vente auto (Autres)",
+        "jp": "自動売却条件（その他）",
+        "ko": "자동 매각 조건(기타)",
+        "zh-TW": "自動出售條件（其他）",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatically sell acquired items.",
+        "es": "Vende automáticamente los objetos obtenidos.",
+        "fr": "Vend automatiquement les objets obtenus.",
+        "jp": "入手したアイテムを自動で売却します",
+        "ko": "획득한 아이템을 자동으로 매각합니다.",
+        "zh-TW": "自動出售獲得的道具。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Set whether or not to auto-sell
+<c t_notice>Others</c>.
+<space>
+<c t_cmd>Disable</c>
+Items will not be auto-sold.
+<space>
+<c t_cmd>Enable</c>
+Items will be auto-sold.
+
+",
+        "es": "Si la venta automática está en <c t_cmd>[Sí]</c>,
+establece si se venden los objetos
+de la categoría <c t_notice>[Otros]</c>.
+<space>
+<c t_cmd>[No]</c>
+No se venderán.
+<space>
+<c t_cmd>[Sí]</c>
+Se venderán.
+",
+        "fr": "Permet d’activer ou de désactiver
+la vente auto des objets de la
+catégorie <c t_notice>Autres</c>
+.
+<space>
+<c t_cmd>Désactivé :</c>
+La vente ne s’applique pas.
+<space>
+<c t_cmd>Activé :</c>
+La vente s’applique.",
+        "jp": "自動売却が<c t_cmd>【する】</c>の場合に
+<c t_notice>【その他】</c>カテゴリーの
+アイテムを売却するかを設定します
+<space>
+<c t_cmd>【しない】</c>
+売却しません
+<space>
+<c t_cmd>【する】</c>
+売却します
+",
+        "ko": "자동 매각이 <c t_cmd>【한다】</c>인 경우
+<c t_notice>【기타】</c> 카테고리의
+아이템을 매각할지 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 매각하지 않습니다.
+
+<c t_cmd>【한다】</c>
+매각합니다.
+",
+        "zh-TW": "自動出售設定為<c t_cmd>【是】</c>時，
+設定是否將<c t_notice>【其他】</c>類別的
+道具自動出售。
+
+<c t_cmd>【否】</c>
+將不會自動出售道具。
+
+<c t_cmd>【是】</c>
+出售
+",
+      },
+      "5",
+      10,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Disable",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "7.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enable",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "7.1",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [0A 76 00 00 03 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_AUTOMATIC_SALE_OPTION_18",
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Sell Commons",
+        "es": "Condición comunes",
+        "fr": "Vente auto (Communs)",
+        "jp": "自動売却条件（コモン）",
+        "ko": "자동 매각 조건(노멀)",
+        "zh-TW": "自動出售條件（常見）",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatically sell acquired items.",
+        "es": "Vende automáticamente los objetos obtenidos.",
+        "fr": "Vend automatiquement les objets obtenus.",
+        "jp": "入手したアイテムを自動で売却します",
+        "ko": "획득한 아이템을 자동으로 매각합니다.",
+        "zh-TW": "自動出售獲得的道具。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Set whether or not to auto-sell
+<c t_notice>Commons</c>.
+<space>
+<c t_cmd>Disable</c>
+Items will not be auto-sold.
+<space>
+<c t_cmd>Enable</c>
+Items will be auto-sold.
+",
+        "es": "Si la venta automática está en <c t_cmd>[Sí]</c>,
+establece si se venden los objetos
+de la rareza <c t_notice>[Común]</c>.
+<space>
+<c t_cmd>[No]</c>
+No se venderán.
+<space>
+<c t_cmd>[Sí]</c>
+Se venderán.",
+        "fr": "Permet d’activer ou de désactiver
+la vente auto des objets <c t_notice>communs</c>.
+<space>
+<c t_cmd>Désactivé :</c>
+La vente ne s’applique pas.
+<space>
+<c t_cmd>Activé :</c>
+La vente s’applique.
+",
+        "jp": "自動売却が<c t_cmd>【する】</c>の場合に
+<c t_notice>【コモン】</c>レアリティーの
+アイテムを売却するかを設定します
+<space>
+<c t_cmd>【しない】</c>
+売却しません
+<space>
+<c t_cmd>【する】</c>
+売却します",
+        "ko": "자동 매각이 <c t_cmd>【한다】</c>인 경우
+<c t_notice>【노멀】</c> 레어리티의
+아이템을 매각할지 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 매각하지 않습니다.
+
+<c t_cmd>【한다】</c>
+매각합니다.",
+        "zh-TW": "自動出售設定為<c t_cmd>【是】</c>時，
+設定是否將<c t_notice>【常見】</c>稀有度的
+道具自動出售。
+
+<c t_cmd>【否】</c>
+將不會自動出售道具。
+
+<c t_cmd>【是】</c>
+出售",
+      },
+      "5",
+      9,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Disable",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "7.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enable",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "7.1",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [0B 76 00 00 03 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_AUTOMATIC_SALE_OPTION_19",
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Sell Rares",
+        "es": "Condición raros",
+        "fr": "Vente auto (Rares)",
+        "jp": "自動売却条件（レア）",
+        "ko": "자동 매각 조건(레어)",
+        "zh-TW": "自動出售條件（罕見）",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatically sell acquired items.",
+        "es": "Vende automáticamente los objetos obtenidos.",
+        "fr": "Vend automatiquement les objets obtenus.",
+        "jp": "入手したアイテムを自動で売却します",
+        "ko": "획득한 아이템을 자동으로 매각합니다.",
+        "zh-TW": "自動出售獲得的道具。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Set whether or not to auto-sell
+<c t_notice>Rares</c>.
+<space>
+<c t_cmd>Disable</c>
+Items will not be auto-sold.
+<space>
+<c t_cmd>Enable</c>
+Items will be auto-sold.
+",
+        "es": "Si la venta automática está en <c t_cmd>[Sí]</c>,
+establece si se venden los objetos
+de la rareza <c t_notice>[Raro]</c>.
+<space>
+<c t_cmd>[No]</c>
+No se venderán.
+<space>
+<c t_cmd>[Sí]</c>
+Se venderán.",
+        "fr": "Permet d’activer ou de désactiver
+la vente auto des objets <c t_notice>rares</c>.
+<space>
+<c t_cmd>Désactivé :</c>
+La vente ne s’applique pas.
+<space>
+<c t_cmd>Activé :</c>
+La vente s’applique.
+",
+        "jp": "自動売却が<c t_cmd>【する】</c>の場合に
+<c t_notice>【レア】</c>レアリティーの
+アイテムを売却するかを設定します
+<space>
+<c t_cmd>【しない】</c>
+売却しません
+<space>
+<c t_cmd>【する】</c>
+売却します",
+        "ko": "자동 매각이 <c t_cmd>【한다】</c>인 경우
+<c t_notice>【레어】</c> 레어리티의
+아이템을 매각할지 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 매각하지 않습니다.
+
+<c t_cmd>【한다】</c>
+매각합니다.",
+        "zh-TW": "自動出售設定為<c t_cmd>【是】</c>時，
+設定是否將<c t_notice>【罕見】</c>稀有度的
+道具自動出售。
+
+<c t_cmd>【否】</c>
+將不會自動出售道具。
+
+<c t_cmd>【是】</c>
+出售",
+      },
+      "5",
+      9,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Disable",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "7.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enable",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "7.1",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      12,
+      Buffer [0C 76 00 00 03 00 00 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "CHEAT_AUTOMATIC_SALE_OPTION_20",
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Sell Legends",
+        "es": "Condición legendarios",
+        "fr": "Vente auto (Légendaires)",
+        "jp": "自動売却条件（レジェンド）",
+        "ko": "자동 매각 조건(레전드)",
+        "zh-TW": "自動出售條件（傳說）",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatically sell acquired items.",
+        "es": "Vende automáticamente los objetos obtenidos.",
+        "fr": "Vend automatiquement les objets obtenus.",
+        "jp": "入手したアイテムを自動で売却します",
+        "ko": "획득한 아이템을 자동으로 매각합니다.",
+        "zh-TW": "自動出售獲得的道具。",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Set whether or not to auto-sell
+<c t_notice>Legends</c>.
+<space>
+<c t_cmd>Disable</c>
+Items will not be auto-sold.
+<space>
+<c t_cmd>Enable</c>
+Items will be auto-sold.
+",
+        "es": "Si la venta automática está en <c t_cmd>[Sí]</c>,
+establece si se venden los objetos
+de la rareza <c t_notice>[Legendario]</c>.
+<space>
+<c t_cmd>[No]</c>
+No se venderán.
+<space>
+<c t_cmd>[Sí]</c>
+Se venderán.",
+        "fr": "Permet d’activer ou de désactiver
+la vente auto des objets
+<c t_notice>légendaires</c>.
+<space>
+<c t_cmd>Désactivé :</c>
+La vente ne s’applique pas.
+<space>
+<c t_cmd>Activé :</c>
+La vente s’applique.",
+        "jp": "自動売却が<c t_cmd>【する】</c>の場合に
+<c t_notice>【レジェンド】</c>レアリティーの
+アイテムを売却するかを設定します
+<space>
+<c t_cmd>【しない】</c>
+売却しません
+<space>
+<c t_cmd>【する】</c>
+売却します",
+        "ko": "자동 매각이 <c t_cmd>【한다】</c>인 경우
+<c t_notice>【레전드】</c> 레어리티의
+아이템을 매각할지 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 매각하지 않습니다.
+
+<c t_cmd>【한다】</c>
+매각합니다.",
+        "zh-TW": "自動出售設定為<c t_cmd>【是】</c>時，
+設定是否將<c t_notice>【傳說】</c>稀有度的
+道具自動出售。
+
+<c t_cmd>【否】</c>
+將不會自動出售道具。
+
+<c t_cmd>【是】</c>
+出售",
+      },
+      "5",
+      9,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Disable",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "7.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enable",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "7.1",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]

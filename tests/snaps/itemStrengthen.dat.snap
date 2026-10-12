@@ -1,0 +1,502 @@
+[
+  [
+    [
+      4,
+      Buffer [01 00 00 00],
+    ],
+    [
+      "key",
+      "ITEM_NAME_EDIT",
+    ],
+    [
+      "languages",
+      {
+        "en": "Change Item Name",
+        "es": "Quiero cambiar el nombre del objeto",
+        "fr": "Renommer l’objet",
+        "jp": "アイテムの名前を変えたい",
+        "ko": "아이템 이름을 바꾸자.",
+        "zh-TW": "想改變道具名稱",
+      },
+      "2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Change the name of an item.",
+        "es": "El nombre el objeto cambiará.",
+        "fr": "L’objet va être renommé.",
+        "jp": "アイテムの名前を変更します",
+        "ko": "아이템 이름을 변경합니다.",
+        "zh-TW": "變更道具名稱",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "N/A",
+        "es": "Nada",
+        "fr": "Sans",
+        "jp": "なし",
+        "ko": "없음",
+        "zh-TW": "無",
+      },
+      "4",
+    ],
+    [
+      40,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 FF FF FF FF 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "key",
+      "ITEM_GRAPH_CHANGE",
+    ],
+    [
+      "languages",
+      {
+        "en": "Change Item Looks",
+        "es": "Quiero cambiar el aspecto del objeto",
+        "fr": "Changer l’apparence",
+        "jp": "アイテムの見た目を変えたい",
+        "ko": "아이템 외형을 바꾸자.",
+        "zh-TW": "想改變道具外觀",
+      },
+      "2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Change the look of an item.",
+        "es": "El objeto cambiará de aspecto a otra arma.",
+        "fr": "L’apparence de l’objet va être modifiée.",
+        "jp": "アイテムの見た目を違う武器の見た目に変更します",
+        "ko": "아이템 외형을 다른 무기의 외형으로 변경합니다.",
+        "zh-TW": "將道具外觀變更為不同武器的外觀",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "N/A",
+        "es": "Nada",
+        "fr": "Sans",
+        "jp": "なし",
+        "ko": "없음",
+        "zh-TW": "無",
+      },
+      "4",
+    ],
+    [
+      40,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 FF FF FF FF 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [03 00 00 00],
+    ],
+    [
+      "key",
+      "ITEM_GROWTH_UP_HP_1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Increase HP",
+        "es": "Quiero subir los PV",
+        "fr": "Augmenter les PV",
+        "jp": "ＨＰを上げたい",
+        "ko": "HP를 올리자.",
+        "zh-TW": "想提升HP",
+      },
+      "2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Increase this item's HP.",
+        "es": "Los PV del objeto subirán.",
+        "fr": "Les PV de l’objet vont être augmentés.",
+        "jp": "アイテムのＨＰが上がります",
+        "ko": "아이템의 HP가 상승합니다.",
+        "zh-TW": "提升道具的HP",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "increase HP?",
+        "es": "mejorar los PV?",
+        "fr": "Augmenter les PV ?",
+        "jp": "ＨＰを強化しますか？",
+        "ko": "HP를 강화하시겠습니까?",
+        "zh-TW": "確定要強化HP嗎？",
+      },
+      "4",
+    ],
+    [
+      40,
+      Buffer [64 00 00 00 00 00 00 40 00 00 00 00 64 00 00 00 14 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [04 00 00 00],
+    ],
+    [
+      "key",
+      "ITEM_GROWTH_UP_ATK_1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Increase ATK",
+        "es": "Quiero subir el ATQ",
+        "fr": "Augmenter l’ATQ",
+        "jp": "ＡＴＫを上げたい",
+        "ko": "ATK를 올리자.",
+        "zh-TW": "想提升ATK",
+      },
+      "2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Increase this item's ATK.",
+        "es": "El ATQ del objeto subirá.",
+        "fr": "L’ATQ de l’objet va être augmentée.",
+        "jp": "アイテムのＡＴＫが上がります",
+        "ko": "아이템의 ATK가 상승합니다.",
+        "zh-TW": "提升道具的ATK",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "increase ATK?",
+        "es": "mejorar el ATQ?",
+        "fr": "Augmenter l’ATQ ?",
+        "jp": "ＡＴＫを強化しますか？",
+        "ko": "ATK를 강화하시겠습니까?",
+        "zh-TW": "確定要強化ATK嗎？",
+      },
+      "4",
+    ],
+    [
+      40,
+      Buffer [64 00 00 00 00 00 00 40 00 00 00 00 0A 00 00 00 14 00 00 00 09 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [05 00 00 00],
+    ],
+    [
+      "key",
+      "ITEM_GROWTH_UP_DEF_1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Increase DEF",
+        "es": "Quiero subir la DEF",
+        "fr": "Augmenter la DÉF",
+        "jp": "ＤＥＦを上げたい",
+        "ko": "DEF를 올리자.",
+        "zh-TW": "想提升DEF",
+      },
+      "2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Increase this item's DEF.",
+        "es": "La DEF del objeto subirá.",
+        "fr": "La DÉF de l’objet va être augmentée.",
+        "jp": "アイテムのＤＥＦが上がります",
+        "ko": "아이템의 DEF가 상승합니다.",
+        "zh-TW": "提升道具的DEF",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "increase DEF?",
+        "es": "mejorar la DEF?",
+        "fr": "Augmenter la DÉF ?",
+        "jp": "ＤＥＦを強化しますか？",
+        "ko": "DEF를 강화하시겠습니까?",
+        "zh-TW": "確定要強化DEF嗎？",
+      },
+      "4",
+    ],
+    [
+      40,
+      Buffer [64 00 00 00 00 00 00 40 00 00 00 00 0A 00 00 00 14 00 00 00 0A 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [06 00 00 00],
+    ],
+    [
+      "key",
+      "ITEM_PARAM_UP_MOVE",
+    ],
+    [
+      "languages",
+      {
+        "en": "Increase MOVE",
+        "es": "Quiero subir el MOV",
+        "fr": "Augmenter le MOUV.",
+        "jp": "MOVEを上げたい",
+        "ko": "MOVE를 올리자.",
+        "zh-TW": "想提升MOVE",
+      },
+      "2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Increase this item's MOVE by <value 1>.",
+        "es": "El MOV del objeto subirá <value 1>.",
+        "fr": "Le MOUV. de l’objet va être augmenté.",
+        "jp": "アイテムのMOVEが<value 1>上がります",
+        "ko": "아이템의 MOVE가 <value 1> 상승합니다.",
+        "zh-TW": "道具的MOVE提升<value 1>",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "increase MOVE?",
+        "es": "mejorar el MOV?",
+        "fr": "Augmenter le MOUV. ?",
+        "jp": "ＭＯＶＥを強化しますか？",
+        "ko": "MOVE를 강화하시겠습니까?",
+        "zh-TW": "確定要強化ＭＯＶＥ嗎？",
+      },
+      "4",
+    ],
+    [
+      40,
+      Buffer [64 00 00 00 00 00 00 40 00 00 00 00 01 00 00 00 14 00 00 00 0F 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [07 00 00 00],
+    ],
+    [
+      "key",
+      "ITEM_PARAM_UP_CRITICAL",
+    ],
+    [
+      "languages",
+      {
+        "en": "Increase CRITICAL",
+        "es": "Quiero subir el CRÍTICO",
+        "fr": "Augmenter le CRIT.",
+        "jp": "CRITICALを上げたい",
+        "ko": "CRITICAL을 올리자.",
+        "zh-TW": "想提升CRITICAL",
+      },
+      "2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Increase this item's CRITICAL by <value 1>%.",
+        "es": "El CRÍTICO del objeto subirá un <value 1> %.",
+        "fr": "Le CRIT. de l’objet va être augmenté.",
+        "jp": "アイテムのCRITICALが<value 1>％上がります",
+        "ko": "아이템의 CRITICAL이 <value 1> 상승합니다.",
+        "zh-TW": "道具的CRITICAL提升<value 1>",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "increase CRITICAL?",
+        "es": "mejorar el CRÍTICO?",
+        "fr": "Augmenter le CRIT. ?",
+        "jp": "ＣＲＩＴＩＣＡＬを強化しますか？",
+        "ko": "CRITICAL을 강화하시겠습니까?",
+        "zh-TW": "確定要強化ＣＲＩＴＩＣＡＬ嗎？",
+      },
+      "4",
+    ],
+    [
+      40,
+      Buffer [64 00 00 00 00 00 00 40 00 00 00 00 01 00 00 00 14 00 00 00 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [08 00 00 00],
+    ],
+    [
+      "key",
+      "ITEM_PARAM_UP_POP",
+    ],
+    [
+      "languages",
+      {
+        "en": "Increase POP Level",
+        "es": "Quiero mejorar la POB",
+        "fr": "Augmenter la POP.",
+        "jp": "ＰＯＰ．を増やしたい",
+        "ko": "POP.를 늘리자.",
+        "zh-TW": "想提升ＰＯＰ．",
+      },
+      "2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Increase this item's POP Level by <value 1>.",
+        "es": "La POB del objeto aumentará en <value 1>.",
+        "fr": "La POP. de l’objet va être augmentée.",
+        "jp": "アイテムのＰＯＰ．が<value 1>増えます",
+        "ko": "아이템의 POP.가 <value 1> 증가합니다.",
+        "zh-TW": "道具的ＰＯＰ．增加<value 1>",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "increase POP?",
+        "es": "aumentar la POB?",
+        "fr": "Augmenter la POP. ?",
+        "jp": "ＰＯＰ．を増やしますか？",
+        "ko": "POP.를 증가시키시겠습니까?",
+        "zh-TW": "確定要增加ＰＯＰ．嗎？",
+      },
+      "4",
+    ],
+    [
+      40,
+      Buffer [10 27 00 00 00 00 80 40 00 00 00 00 01 00 00 00 07 00 00 00 12 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [09 00 00 00],
+    ],
+    [
+      "key",
+      "ITEM_PARAM_UP_RARE",
+    ],
+    [
+      "languages",
+      {
+        "en": "Increase RARE",
+        "es": "Quiero mejorar la RAREZA",
+        "fr": "Augmenter la rareté",
+        "jp": "RAREを上げたい",
+        "ko": "RARE를 올리자.",
+        "zh-TW": "想提升RARE",
+      },
+      "2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Increase this item's Rarity by <value 1>.",
+        "es": "La RAREZA del objeto subirá <value 1>.",
+        "fr": "La rareté de l’objet va être augmentée.",
+        "jp": "アイテムのＲＡＲＥが<value 1>上がります",
+        "ko": "아이템의 RARE가 <value 1> 상승합니다.",
+        "zh-TW": "道具的ＲＡＲＥ提升<value 1>",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "increase RARE?",
+        "es": "mejorar la RAREZA?",
+        "fr": "Augmenter la rareté ?",
+        "jp": "ＲＡＲＥを強化しますか？",
+        "ko": "RARE를 강화하시겠습니까?",
+        "zh-TW": "確定要強化ＲＡＲＥ嗎？",
+      },
+      "4",
+    ],
+    [
+      40,
+      Buffer [E8 03 00 00 00 00 00 40 00 00 00 00 05 00 00 00 14 00 00 00 11 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0A 00 00 00],
+    ],
+    [
+      "key",
+      "ITEM_ACT_LEARN",
+    ],
+    [
+      "languages",
+      {
+        "en": "Learn Special Skill",
+        "es": "Quiero aprender una técnica especial",
+        "fr": "Obtenir une cap. spé.",
+        "jp": "特殊技を習得したい",
+        "ko": "특수 기술을 습득하자.",
+        "zh-TW": "想習得特殊技",
+      },
+      "2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Learn a Special Skill.",
+        "es": "Se va a aprender una técnica especial.",
+        "fr": "Vous allez obtenir une cap. spé.",
+        "jp": "特殊技を習得します",
+        "ko": "특수 기술을 습득합니다.",
+        "zh-TW": "習得特殊技",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "4",
+    ],
+    [
+      40,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 FF FF FF FF 1E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]

@@ -1,0 +1,2483 @@
+[
+  [
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_NONE",
+    ],
+    [
+      "notes",
+      "",
+    ],
+    [
+      "languages",
+      {
+        "en": "N/A",
+        "es": "Nada",
+        "fr": "Sans",
+        "jp": "なし",
+        "ko": "없음",
+        "zh-TW": "無",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "N/A",
+        "es": "Nada",
+        "fr": "Sans",
+        "jp": "なし",
+        "ko": "없음",
+        "zh-TW": "無",
+      },
+      "4",
+      1,
+    ],
+    [
+      108,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0B 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_HP",
+    ],
+    [
+      "notes",
+      "イノセント_ＨＰ強化屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Dietician",
+        "es": "Dietista",
+        "fr": "Vigoureux",
+        "jp": "ＨＰ強化屋",
+        "ko": "사도 HP 강화",
+        "zh-TW": "ＨＰ強化屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases an equipment's HP.
+",
+        "es": "Añade PV extra al equipamiento.
+",
+        "fr": "Ajoute la valeur du pouvoir au bonus
+de PV de l’objet.",
+        "jp": "装備品のＨＰ補正値が
+パワー分アップ",
+        "ko": "장비품의 HP 보정치가
+파워만큼 증가.",
+        "zh-TW": "裝備的HP補正數值
+依威力等量提升。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [50 C3 00 00 00 00 00 00 A8 61 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 1E 00 00 00 14 00 00 00 0A 00 00 00 14 00 00 00 28 00 00 00 19 00 00 00 1E 00 00 00 21 00 00 00 0A 00 00 00 0A 00 00 00 1E 00 00 00 32 00 00 00 0A 00 00 00 32 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0C 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_ATK",
+    ],
+    [
+      "notes",
+      "イノセント_ＡＴＫ強化屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Gladiator",
+        "es": "Gladiador",
+        "fr": "Costaud",
+        "jp": "ＡＴＫ強化屋",
+        "ko": "사도 ATK 강화",
+        "zh-TW": "ＡＴＫ強化屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases an equipment's ATK.
+",
+        "es": "Añade ATQ extra al equipamiento.
+",
+        "fr": "Ajoute la valeur du pouvoir au bonus
+d’ATQ de l’objet.",
+        "jp": "装備品のＡＴＫ補正値が
+パワー分アップ",
+        "ko": "장비품의 ATK 보정치가
+파워만큼 증가.",
+        "zh-TW": "裝備的ATK補正數值
+依威力等量提升。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [50 C3 00 00 00 00 00 00 A8 61 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 64 00 00 00 64 00 00 00 64 00 00 00 64 00 00 00 64 00 00 00 64 00 00 00 64 00 00 00 64 00 00 00 05 00 00 00 32 00 00 00 1E 00 00 00 0A 00 00 00 32 00 00 00 0A 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0D 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_DEF",
+    ],
+    [
+      "notes",
+      "イノセント_ＤＥＦ強化屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Sentry",
+        "es": "Guardián",
+        "fr": "Résistant",
+        "jp": "ＤＥＦ強化屋",
+        "ko": "사도 DEF 강화",
+        "zh-TW": "ＤＥＦ強化屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases an an equipment's DEF.
+",
+        "es": "Añade DEF extra al equipamiento.
+",
+        "fr": "Ajoute la valeur du pouvoir au bonus
+de DÉF de l’objet.",
+        "jp": "装備品のＤＥＦ補正値が
+パワー分アップ",
+        "ko": "장비품의 DEF 보정치가
+파워만큼 증가.",
+        "zh-TW": "裝備的DEF補正數值
+依威力等量提升。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [50 C3 00 00 00 00 00 00 A8 61 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 14 00 00 00 1E 00 00 00 28 00 00 00 1E 00 00 00 0A 00 00 00 19 00 00 00 14 00 00 00 21 00 00 00 64 00 00 00 32 00 00 00 28 00 00 00 32 00 00 00 32 00 00 00 32 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [15 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_HP_ATK",
+    ],
+    [
+      "notes",
+      "イノセント_たくましい屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Trainer",
+        "es": "Protector",
+        "fr": "Imposant",
+        "jp": "たくましい屋",
+        "ko": "사도 늠름",
+        "zh-TW": "強壯屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases an equipment's HP and
+ATK.",
+        "es": "Añade PV y ATQ extra al equipamiento.
+",
+        "fr": "Ajoute la valeur du pouvoir au bonus
+de PV et d’ATQ de l’objet.",
+        "jp": "装備品のＨＰ、ＡＴＫ補正値が
+パワー分アップ",
+        "ko": "장비품의 HP, ATK 보정치가
+파워만큼 증가.",
+        "zh-TW": "裝備的HP、ATK補正數值
+依威力等量提升。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [50 C3 00 00 00 00 00 00 A8 61 00 00 00 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [16 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_HP_DEF",
+    ],
+    [
+      "notes",
+      "イノセント_かちかち屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Smith",
+        "es": "Defensor",
+        "fr": "Robuste",
+        "jp": "かちかち屋",
+        "ko": "사도 딱딱",
+        "zh-TW": "堅硬屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases an equipment's HP and
+DEF.",
+        "es": "Añade PV y DEF extra al equipamiento.
+",
+        "fr": "Ajoute la valeur du pouvoir au bonus
+de PV et de DÉF de l’objet.",
+        "jp": "装備品のＨＰ、ＤＥＦ補正値が
+パワー分アップ",
+        "ko": "장비품의 HP, DEF 보정치가
+파워만큼 증가.",
+        "zh-TW": "裝備的HP、DEF補正數值
+依威力等量提升。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [50 C3 00 00 00 00 00 00 A8 61 00 00 00 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [17 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_ATK_DEF",
+    ],
+    [
+      "notes",
+      "イノセント_のうきん屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Moneylender",
+        "es": "Cobrador",
+        "fr": "Intrépide",
+        "jp": "のうきん屋",
+        "ko": "사도 근육뇌",
+        "zh-TW": "蠻力屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases an equipment's ATK and
+DEF.",
+        "es": "Añade ATQ y DEF extra
+al equipamiento.",
+        "fr": "Ajoute la valeur du pouvoir au bonus
+d’ATQ et de DÉF de l’objet.",
+        "jp": "装備品のＡＴＫ、ＤＥＦ補正値が
+パワー分アップ",
+        "ko": "장비품의 ATK, DEF 보정치가
+파워만큼 증가.",
+        "zh-TW": "裝備的ATK、DEF補正數值
+依威力等量提升。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [50 C3 00 00 00 00 00 00 A8 61 00 00 00 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [18 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_HP_ATK_DEF",
+    ],
+    [
+      "notes",
+      "イノセント_かんぺき屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Perfectionist",
+        "es": "Perfeccionista",
+        "fr": "Polyvalent",
+        "jp": "かんぺき屋",
+        "ko": "사도 완벽",
+        "zh-TW": "完美屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increase an equipment's HP, ATK,
+and DEF.",
+        "es": "Añade PV, ATQ y DEF extra
+al equipamiento.",
+        "fr": "Ajoute la valeur du pouvoir au bonus
+de PV, d’ATQ et de DÉF de l’objet.",
+        "jp": "装備品のＨＰ、ＡＴＫ、ＤＥＦ補正値が
+パワー分アップ",
+        "ko": "장비품의 HP, ATK, DEF 보정치가
+파워만큼 증가.",
+        "zh-TW": "裝備的HP、ATK、DEF補正數值
+依威力等量提升。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [50 C3 00 00 00 00 00 00 A8 61 00 00 00 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1F 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_MOVE",
+    ],
+    [
+      "notes",
+      "イノセント_移動屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mover",
+        "es": "Gimnasta",
+        "fr": "Pressé",
+        "jp": "移動屋",
+        "ko": "사도 이동력",
+        "zh-TW": "移動屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases an equipment's MOVE.
+",
+        "es": "Añade MOV extra al equipamiento.
+",
+        "fr": "Ajoute la valeur du pouvoir au bonus
+de MOUV. de l’objet.",
+        "jp": "装備品のＭＯＶＥ補正値が
+パワー分アップ",
+        "ko": "장비품의 MOVE 보정치가
+파워만큼 증가.",
+        "zh-TW": "裝備的MOVE補正數值
+依威力等量提升。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [64 00 00 00 00 00 00 00 32 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [20 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_CRITECAL",
+    ],
+    [
+      "notes",
+      "イノセント_クリティカル屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Criticalist",
+        "es": "Crítico",
+        "fr": "Concentré",
+        "jp": "クリティカル屋",
+        "ko": "사도 크리티컬",
+        "zh-TW": "暴擊屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases an equipment's CRITICAL.
+",
+        "es": "Añade CRÍTICO extra al equipamiento.
+",
+        "fr": "Ajoute la valeur du pouvoir au bonus
+de CRIT. de l’objet.",
+        "jp": "装備品のＣＲＩＴＩＣＡＬ補正値が
+パワー分アップ",
+        "ko": "장비품의 CRITICAL 보정치가
+파워만큼 증가.",
+        "zh-TW": "裝備的CRITICAL補正數值
+依威力等量提升。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [64 00 00 00 00 00 00 00 32 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [21 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_CRITECAL_DAMAGE",
+    ],
+    [
+      "notes",
+      "イノセント_クリティカルＤ屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Criti-Damager",
+        "es": "Crítico D",
+        "fr": "Effréné",
+        "jp": "クリティカルＤ屋",
+        "ko": "사도 크리티컬 D",
+        "zh-TW": "暴擊Ｄ屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases the amount of damage
+crits deal.",
+        "es": "Aumenta el daño del crítico.
+",
+        "fr": "Augmente les dégâts infligés par
+les coups critiques.",
+        "jp": "クリティカル発生時のダメージが
+パワー分アップ",
+        "ko": "크리티컬 발생 시의 대미지가
+파워만큼 증가.",
+        "zh-TW": "發生暴擊時的傷害
+依威力等量提升。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [64 00 00 00 00 00 00 00 32 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [29 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_ADD_PARALYSIS",
+    ],
+    [
+      "notes",
+      "イノセント_マヒ追加屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Paralyzer",
+        "es": "Hechicero",
+        "fr": "Tétanisant",
+        "jp": "マヒ追加屋",
+        "ko": "사도 마비 추가",
+        "zh-TW": "麻痺追加屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Normal attacks occasionally inflict
+paralysis.",
+        "es": "Puede infligir parálisis con cualquier
+ataque.",
+        "fr": "Possibilité d’infliger Paralysie avec
+des attaques normales.",
+        "jp": "通常攻撃時、攻撃対象を
+マヒ状態にすることがある",
+        "ko": "일반 공격 시, 공격 대상을
+마비 상태로 만들 때가 있다.",
+        "zh-TW": "進行一般攻擊時，使攻擊對象
+有機會陷入麻痺狀態",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [64 00 00 00 00 00 00 00 32 00 00 00 00 00 00 00 01 00 00 00 02 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 65 3B 58 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2A 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_ADD_POISON",
+    ],
+    [
+      "notes",
+      "イノセント_毒追加屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Poisoner",
+        "es": "Alquimista",
+        "fr": "Toxique",
+        "jp": "毒追加屋",
+        "ko": "사도 독 추가",
+        "zh-TW": "中毒追加屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Normal attacks occasionally inflict
+poison.",
+        "es": "Puede infligir veneno con cualquier
+ataque.",
+        "fr": "Possibilité d’infliger Poison avec
+des attaques normales.",
+        "jp": "通常攻撃時、攻撃対象を
+毒状態にすることがある",
+        "ko": "일반 공격 시, 공격 대상을
+독 상태로 만들 때가 있다.",
+        "zh-TW": "進行一般攻擊時，使攻擊對象
+有機會陷入中毒狀態",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [64 00 00 00 00 00 00 00 32 00 00 00 00 00 00 00 01 00 00 00 02 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 C9 3B 58 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2B 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_ADD_SLEEP",
+    ],
+    [
+      "notes",
+      "イノセント_眠り追加屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Sleeper",
+        "es": "Hipnotizador",
+        "fr": "Assommant",
+        "jp": "眠り追加屋",
+        "ko": "사도 수면 추가",
+        "zh-TW": "睡眠追加屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Normal attacks occasionally inflict
+sleep.",
+        "es": "Puede infligir sueño con cualquier
+ataque.",
+        "fr": "Possibilité d’infliger Sommeil avec
+des attaques normales.",
+        "jp": "通常攻撃時、攻撃対象を
+眠り状態にすることがある",
+        "ko": "일반 공격 시, 공격 대상을
+수면 상태로 만들 때가 있다.",
+        "zh-TW": "進行一般攻擊時，使攻擊對象
+有機會陷入睡眠狀態",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [64 00 00 00 00 00 00 00 32 00 00 00 00 00 00 00 01 00 00 00 02 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 2D 3C 58 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2C 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_ADD_CHARM",
+    ],
+    [
+      "notes",
+      "イノセント_魅了追加屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Charmer",
+        "es": "Ídolo",
+        "fr": "Envoûtant",
+        "jp": "魅了追加屋",
+        "ko": "사도 매료 추가",
+        "zh-TW": "魅惑追加屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Normal attacks occasionally inflict
+charm.",
+        "es": "Puede infligir encanto con cualquier
+ataque.",
+        "fr": "Possibilité d’infliger Charme avec
+des attaques normales.",
+        "jp": "通常攻撃時、攻撃対象を
+魅了状態にすることがある",
+        "ko": "일반 공격 시, 공격 대상을
+매료 상태로 만들 때가 있다.",
+        "zh-TW": "進行一般攻擊時，使攻擊對象
+有機會陷入魅惑狀態",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [64 00 00 00 00 00 00 00 32 00 00 00 00 00 00 00 01 00 00 00 02 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 91 3C 58 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [33 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_RESIST_PARALYSIS",
+    ],
+    [
+      "notes",
+      "イノセント_耐マヒ屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Anti-Paralyzer",
+        "es": "Médico",
+        "fr": "Fortifiant",
+        "jp": "耐マヒ屋",
+        "ko": "사도 마비내성",
+        "zh-TW": "耐麻痺屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Decreases chances of being
+paralyzed.",
+        "es": "Aumenta la resistencia a la parálisis.
+",
+        "fr": "Augmente la résistance
+à l’état Paralysie.",
+        "jp": "マヒ状態異常を受ける時
+パワー分の確率で無効化する",
+        "ko": "마비 상태 이상을 당했을 때
+파워만큼의 확률로 무효화한다.",
+        "zh-TW": "當受到麻痺狀態異常時
+依威力等量的比例使其無效。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [64 00 00 00 00 00 00 00 32 00 00 00 00 00 00 00 01 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [34 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_RESIST_POISON",
+    ],
+    [
+      "notes",
+      "イノセント_耐毒屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Anti-Poisoner",
+        "es": "Farmacéutico",
+        "fr": "Remède",
+        "jp": "耐毒屋",
+        "ko": "사도 독내성",
+        "zh-TW": "耐中毒屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Decreases chances of being
+poisoned.",
+        "es": "Aumenta la resistencia al veneno.
+",
+        "fr": "Augmente la résistance
+à l’état Poison.",
+        "jp": "毒状態異常を受ける時
+パワー分の確率で無効化する",
+        "ko": "독 상태 이상을 당했을 때
+파워만큼의 확률로 무효화한다.",
+        "zh-TW": "當受到中毒狀態異常時
+依威力等量的比例使其無效。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [64 00 00 00 00 00 00 00 32 00 00 00 00 00 00 00 01 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [35 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_RESIST_SLEEP",
+    ],
+    [
+      "notes",
+      "イノセント_耐眠り屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Anti-Sleeper",
+        "es": "Barista",
+        "fr": "Énergisant",
+        "jp": "耐眠り屋",
+        "ko": "사도 수면내성",
+        "zh-TW": "耐睡眠屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Decreases chances of being put to
+sleep.",
+        "es": "Aumenta la resistencia al sueño.
+",
+        "fr": "Augmente la résistance
+à l’état Sommeil.",
+        "jp": "眠り状態異常を受ける時
+パワー分の確率で無効化する",
+        "ko": "수면 상태 이상을 당했을 때
+파워만큼의 확률로 무효화한다.",
+        "zh-TW": "當受到睡眠狀態異常時
+依威力等量的比例使其無效。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [64 00 00 00 00 00 00 00 32 00 00 00 00 00 00 00 01 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [36 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_RESIST_CHARM",
+    ],
+    [
+      "notes",
+      "イノセント_耐魅了屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Anti-Charmer",
+        "es": "Hater",
+        "fr": "Insensible",
+        "jp": "耐魅了屋",
+        "ko": "사도 매료내성",
+        "zh-TW": "耐魅惑屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Decreases chances of being charmed.
+",
+        "es": "Aumenta la resistencia al encanto.
+",
+        "fr": "Augmente la résistance
+à l’état Charme.",
+        "jp": "魅了状態異常を受ける時
+パワー分の確率で無効化する",
+        "ko": "매료 상태 이상을 당했을 때
+파워만큼의 확률로 무효화한다.",
+        "zh-TW": "當受到魅惑狀態異常時
+依威力等量的比例使其無效。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [64 00 00 00 00 00 00 00 32 00 00 00 00 00 00 00 01 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3D 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_ATTRIBUTE_DAMAGE_UP_FIRE",
+    ],
+    [
+      "notes",
+      "イノセント_火力発電屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Fire Enthusiast",
+        "es": "Pirómano",
+        "fr": "Générateur de feu",
+        "jp": "火力発電屋",
+        "ko": "사도 화력 발전",
+        "zh-TW": "火力發電屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases fire attack damage.
+",
+        "es": "Aumenta el daño de los ataques
+de fuego.",
+        "fr": "Augmente les dégâts de feu
+d’un pourcentage égal au pouvoir.",
+        "jp": "炎属性攻撃のダメージが
+パワー分の割合アップ",
+        "ko": "불속성 공격의 대미지가
+파워만큼의 비율 증가.",
+        "zh-TW": "炎屬性攻擊的傷害
+依威力等量的比例提升。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [64 00 00 00 00 00 00 00 32 00 00 00 00 00 00 00 01 00 00 00 02 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3E 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_ATTRIBUTE_DAMAGE_UP_WIND",
+    ],
+    [
+      "notes",
+      "イノセント_風力発電屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Wind Enthusiast",
+        "es": "Piloto",
+        "fr": "Générateur de vent",
+        "jp": "風力発電屋",
+        "ko": "사도 풍력 발전",
+        "zh-TW": "風力發電屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases wind attack damage.
+",
+        "es": "Aumenta el daño de los ataques
+de viento.",
+        "fr": "Augmente les dégâts de vent
+d’un pourcentage égal au pouvoir.",
+        "jp": "風属性攻撃のダメージが
+パワー分の割合アップ",
+        "ko": "바람속성 공격의 대미지가
+파워만큼의 비율 증가.",
+        "zh-TW": "風屬性攻擊的傷害
+依威力等量的比例提升。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [64 00 00 00 00 00 00 00 32 00 00 00 00 00 00 00 01 00 00 00 02 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3F 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_ATTRIBUTE_DAMAGE_UP_WATER",
+    ],
+    [
+      "notes",
+      "イノセント_水力発電屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Water Enthusiast",
+        "es": "Nadador",
+        "fr": "Générateur d’eau",
+        "jp": "水力発電屋",
+        "ko": "사도 수력 발전",
+        "zh-TW": "水力發電屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases water attack damage.
+",
+        "es": "Aumenta el daño de los ataques
+de agua.",
+        "fr": "Augmente les dégâts d’eau
+d’un pourcentage égal au pouvoir.",
+        "jp": "水属性攻撃のダメージが
+パワー分の割合アップ",
+        "ko": "물속성 공격의 대미지가
+파워만큼의 비율 증가.",
+        "zh-TW": "水屬性攻擊的傷害
+依威力等量的比例提升。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [64 00 00 00 00 00 00 00 32 00 00 00 00 00 00 00 01 00 00 00 02 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [40 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_ATTRIBUTE_DAMAGE_UP_STAR",
+    ],
+    [
+      "notes",
+      "イノセント_星力発電屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Star Enthusiast",
+        "es": "Astrólogo",
+        "fr": "Générateur d’étoiles",
+        "jp": "星力発電屋",
+        "ko": "사도 성력 발전",
+        "zh-TW": "星力發電屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases star power attack damage.
+",
+        "es": "Aumenta el daño de los ataques
+estelares.",
+        "fr": "Augmente les dégâts d’étoile
+d’un pourcentage égal au pouvoir.",
+        "jp": "星属性攻撃のダメージが
+パワー分の割合アップ",
+        "ko": "별속성 공격의 대미지가
+파워만큼의 비율 증가.",
+        "zh-TW": "星屬性攻擊的傷害
+依威力等量的比例提升。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [64 00 00 00 00 00 00 00 32 00 00 00 00 00 00 00 01 00 00 00 02 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [47 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_ATTRIBUTE_RESIST_FIRE",
+    ],
+    [
+      "notes",
+      "イノセント_耐炎屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Anti-Arsonist",
+        "es": "Bombero",
+        "fr": "Pare-feu",
+        "jp": "耐炎屋",
+        "ko": "사도 불내성",
+        "zh-TW": "耐炎屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Power up an equipment's fire
+resistance.",
+        "es": "Aumenta la resistencia al fuego.
+",
+        "fr": "Ajoute la valeur du pouvoir au bonus
+de résistance au feu de l’objet.",
+        "jp": "装備品の炎耐性補正値が
+パワー分アップ",
+        "ko": "장비품의 불내성 보정치가
+파워만큼 증가.",
+        "zh-TW": "裝備的炎耐性補正數值
+依威力等量提升。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [64 00 00 00 00 00 00 00 32 00 00 00 00 00 00 00 01 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [48 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_ATTRIBUTE_RESIST_WIND",
+    ],
+    [
+      "notes",
+      "イノセント_耐風屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Anti-Tornadist",
+        "es": "Aeronauta",
+        "fr": "Pare-vent",
+        "jp": "耐風屋",
+        "ko": "사도 바람내성",
+        "zh-TW": "耐風屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Power up an equipment's wind
+resistance.",
+        "es": "Aumenta la resistencia al viento.
+",
+        "fr": "Ajoute la valeur du pouvoir au bonus
+de résistance au vent de l’objet.",
+        "jp": "装備品の風耐性補正値が
+パワー分アップ",
+        "ko": "장비품의 바람내성 보정치가
+파워만큼 증가.",
+        "zh-TW": "裝備的風耐性補正數值
+依威力等量提升。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [64 00 00 00 00 00 00 00 32 00 00 00 00 00 00 00 01 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [49 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_ATTRIBUTE_RESIST_WATER",
+    ],
+    [
+      "notes",
+      "イノセント_耐水屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Anti-Tsunamist",
+        "es": "Navegante",
+        "fr": "Pare-eau",
+        "jp": "耐水屋",
+        "ko": "사도 물내성",
+        "zh-TW": "耐水屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Power up an equipment's water
+resistance.",
+        "es": "Aumenta la resistencia al agua.
+",
+        "fr": "Ajoute la valeur du pouvoir au bonus
+de résistance à l’eau de l’objet.",
+        "jp": "装備品の水耐性補正値が
+パワー分アップ",
+        "ko": "장비품의 물내성 보정치가
+파워만큼 증가.",
+        "zh-TW": "裝備的水耐性補正數值
+依威力等量提升。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [64 00 00 00 00 00 00 00 32 00 00 00 00 00 00 00 01 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [51 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_MONEY_CORRECT",
+    ],
+    [
+      "notes",
+      "イノセント_ヘル増加屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Finance Guy",
+        "es": "Banquero",
+        "fr": "Optimiseur de Hell",
+        "jp": "ヘル増加屋",
+        "ko": "사도 헬 증가",
+        "zh-TW": "赫爾增加屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases the amount of HL you
+gain.",
+        "es": "Aumenta la cantidad de HL obtenido.
+",
+        "fr": "Augmente les Hell obtenus
+d’un pourcentage égal au pouvoir.",
+        "jp": "取得ヘルがパワー分の割合で
+増加する",
+        "ko": "획득 헬이 파워만큼의 비율로
+증가한다.",
+        "zh-TW": "獲得的赫爾依威力等量的比例
+增加。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [2C 01 00 00 00 00 00 00 96 00 00 00 00 00 00 00 01 00 00 00 04 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [52 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_EXP_CORRECT",
+    ],
+    [
+      "notes",
+      "イノセント_ＥＸＰ増加屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Lifestyle Guru",
+        "es": "Estadístico",
+        "fr": "Optimiseur d’EXP",
+        "jp": "ＥＸＰ増加屋",
+        "ko": "사도 EXP 증가",
+        "zh-TW": "ＥＸＰ增加屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases the amount of EXP you
+gain.",
+        "es": "Aumenta la cantidad de experiencia
+obtenida.",
+        "fr": "Augmente l’expérience obtenue
+d’un pourcentage égal au pouvoir.",
+        "jp": "取得経験値がパワー分の割合で
+増加する",
+        "ko": "획득한 경험치가 파워만큼의 비율로
+증가한다.",
+        "zh-TW": "獲得經驗值依威力等量的比例
+增加。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [84 03 00 00 00 00 00 00 C2 01 00 00 00 00 00 00 01 00 00 00 04 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [53 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_MANA_CORRECT",
+    ],
+    [
+      "notes",
+      "イノセント_マナ増加屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mana Amasser",
+        "es": "Maná-ger",
+        "fr": "Optimiseur de mana",
+        "jp": "マナ増加屋",
+        "ko": "사도 마나 증가",
+        "zh-TW": "瑪那增加屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases the amount of Mana you
+gain.",
+        "es": "Aumenta la cantidad de maná obtenido.
+",
+        "fr": "Augmente le mana obtenu
+d’un pourcentage égal au pouvoir.",
+        "jp": "取得マナがパワー分の割合で
+増加する",
+        "ko": "획득한 마나가 파워만큼의 비율로
+증가한다.",
+        "zh-TW": "獲得的瑪那依威力等量的比例
+增加。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [2C 01 00 00 00 00 00 00 96 00 00 00 00 00 00 00 01 00 00 00 04 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [54 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_WM_EXP_CORRECT",
+    ],
+    [
+      "notes",
+      "イノセント_装備上達屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Weaponmaster",
+        "es": "Instructor",
+        "fr": "Maître d’armes",
+        "jp": "装備上達屋",
+        "ko": "사도 장비 향상",
+        "zh-TW": "裝備改良屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases the speed Weapon Mastery
+rises.",
+        "es": "Aumenta la cantidad de maestría
+de armas obtenida.",
+        "fr": "Augmente l’amélio. de maîtrise d’armes
+d’un pourcentage égal au pouvoir.",
+        "jp": "ウェポンマスタリー上昇量が
+パワー分の割合で増加する",
+        "ko": "웨폰 마스터리 상승량이
+파워만큼의 비율로 증가한다.",
+        "zh-TW": "武器熟練度的提升量
+依威力等量的比例增加。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [6C 07 00 00 00 00 00 00 B6 03 00 00 00 00 00 00 01 00 00 00 04 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [55 00 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_CAPTURE_CORRECT",
+    ],
+    [
+      "notes",
+      "イノセント_捕獲屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Social Butterfly",
+        "es": "Cazador",
+        "fr": "Chasseur",
+        "jp": "捕獲屋",
+        "ko": "사도 포획",
+        "zh-TW": "捕獲屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases the chance to befriend
+enemies.",
+        "es": "Aumenta la probabilidad
+de captura de monstruos.",
+        "fr": "Augmente les chances de capture
+d’un pourcentage égal au pouvoir.",
+        "jp": "魔物の捕獲確率がパワー分の
+割合で増加する",
+        "ko": "마물 포획 확률이 파워만큼의
+비율로 증가한다.",
+        "zh-TW": "魔物的捕獲機率依威力等量的
+比例增加",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [6C 07 00 00 00 00 00 00 B6 03 00 00 00 00 00 00 01 00 00 00 04 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [E9 03 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_UNIQUE_ATTACK_ATTRIBUTE_FIRE",
+    ],
+    [
+      "notes",
+      "イノセント_燃えたぎる屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Igniter",
+        "es": "Quemador",
+        "fr": "Invocateur de feu",
+        "jp": "燃えたぎる屋",
+        "ko": "사도 버닝 하트",
+        "zh-TW": "烈火奔騰屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Converts elementless attacks to
+fire element.",
+        "es": "Todos los ataques se vuelven
+de tipo fuego.",
+        "fr": "Transforme les attaques sans élément
+en attaques de feu.",
+        "jp": "無属性攻撃の属性が炎属性になる
+",
+        "ko": "무속성 공격 속성이 불속성이 된다.
+",
+        "zh-TW": "無屬性攻擊的屬性變成炎屬性
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [EA 03 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_UNIQUE_ATTACK_ATTRIBUTE_WIND",
+    ],
+    [
+      "notes",
+      "イノセント_吹きすさぶ屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Blower",
+        "es": "Soplador",
+        "fr": "Invocateur de vent",
+        "jp": "吹きすさぶ屋",
+        "ko": "사도 레이징 윈드",
+        "zh-TW": "狂風怒號屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Converts elementless attacks to
+wind element.",
+        "es": "Todos los ataques se vuelven
+de tipo viento.",
+        "fr": "Transforme les attaques sans élément
+en attaques de vent.",
+        "jp": "無属性攻撃の属性が風属性になる
+",
+        "ko": "무속성 공격 속성이 바람속성이 된다.
+",
+        "zh-TW": "無屬性攻擊的屬性變成風屬性
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [EB 03 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_UNIQUE_ATTACK_ATTRIBUTE_WATER",
+    ],
+    [
+      "notes",
+      "イノセント_凍える屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Freezer",
+        "es": "Inundador",
+        "fr": "Invocateur d’eau",
+        "jp": "凍える屋",
+        "ko": "사도 프로즌",
+        "zh-TW": "凍寒屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Converts elementless attacks to
+water element.",
+        "es": "Todos los ataques se vuelven
+de tipo agua.",
+        "fr": "Transforme les attaques sans élément
+en attaques d’eau.",
+        "jp": "無属性攻撃の属性が水属性になる
+",
+        "ko": "무속성 공격 속성이 물속성이 된다.
+",
+        "zh-TW": "無屬性攻擊的屬性變成水屬性
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [EC 03 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_UNIQUE_INVALID_VIBRATION",
+    ],
+    [
+      "notes",
+      "イノセント_足元が確か屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Solid Grounder",
+        "es": "Levitador",
+        "fr": "Stabilisateur",
+        "jp": "足元が確か屋",
+        "ko": "사도 발밑 든든",
+        "zh-TW": "腳步穩健屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Nullifies tremors.",
+        "es": "Anula seísmo.",
+        "fr": "Immunise contre les secousses.",
+        "jp": "震動を無効化する",
+        "ko": "진동을 무효화한다.",
+        "zh-TW": "將震動視為無效",
+      },
+      "4",
+      1,
+    ],
+    [
+      108,
+      Buffer [01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 11 D3 F0 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [ED 03 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_UNIQUE_CAPTURE_UP",
+    ],
+    [
+      "notes",
+      "イノセント_降伏勧告屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Extrovert",
+        "es": "Subyugador",
+        "fr": "Ravisseur",
+        "jp": "降伏勧告屋",
+        "ko": "사도 항복 권고",
+        "zh-TW": "投降勸告屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Befriends 1 additional enemy upon
+clearing a stage.",
+        "es": "Capturas un prisionero extra
+al superar una etapa.",
+        "fr": "Permet d’obtenir un prisonnier
+supplémentaire en fin de niveau.",
+        "jp": "ステージクリア時、獲得する捕虜が
+1匹増える",
+        "ko": "스테이지 클리어 시, 획득하는 포로가
+1마리 증가한다.",
+        "zh-TW": "通關關卡時，獲得的俘虜
+增加１隻",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 75 D3 F0 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [EE 03 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_UNIQUE_REGENERATE_HP",
+    ],
+    [
+      "notes",
+      "イノセント_甘い誘惑屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Sweetheart",
+        "es": "Seductor",
+        "fr": "Aguicheur",
+        "jp": "甘い誘惑屋",
+        "ko": "사도 달콤한 유혹",
+        "zh-TW": "甜蜜誘惑屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Heals 1% HP every so often.
+",
+        "es": "Recuperas un 1 % de PV
+cada cierto tiempo.",
+        "fr": "Permet de récupérer régulièrement
+1 % des PV.",
+        "jp": "一定時間ごとにＨＰが１％回復する
+",
+        "ko": "일정 시간마다 HP를 1％ 회복한다.
+",
+        "zh-TW": "每隔一段時間恢復１％HP
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 D9 D3 F0 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [EF 03 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_UNIQUE_SLIPPING",
+    ],
+    [
+      "notes",
+      "イノセント_火事場屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Hotblood",
+        "es": "Incendiario",
+        "fr": "Incendiaire",
+        "jp": "火事場屋",
+        "ko": "사도 긴급 파워",
+        "zh-TW": "火災現場屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases stats by 20% when
+remaining HP is 30% or less.",
+        "es": "Habilidades +20 % cuando los PV
+estén a menos del 30 %.",
+        "fr": "Potentiel +20 % quand PV à 30 %
+ou moins.",
+        "jp": "HPが30％以下の時、能力＋20％
+",
+        "ko": "HP가 30％ 이하일 때, 능력 +20％
+",
+        "zh-TW": "當HP在30％以下時，能力＋20％
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3D D4 F0 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F0 03 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_UNIQUE_LICKING",
+    ],
+    [
+      "notes",
+      "イノセント_昆虫の王者屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Bug King",
+        "es": "Rey de los bichos",
+        "fr": "Roi des mouches",
+        "jp": "昆虫の王者屋",
+        "ko": "사도 곤충의 왕자",
+        "zh-TW": "昆蟲王者屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adds +10% knockback to attacks.
+",
+        "es": "Poder de empuje de los ATQ +10 %.
+",
+        "fr": "Force de projection des
+attaques +10 %.",
+        "jp": "攻撃の吹き飛ばし力+10%
+",
+        "ko": "공격의 날려 버리는 힘 +10％
+",
+        "zh-TW": "攻擊的擊飛力＋10%
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 A1 D4 F0 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F1 03 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_UNIQUE_TRAINING",
+    ],
+    [
+      "notes",
+      "イノセント_ふりまわし屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Combo Guide Maker",
+        "es": "Abusón",
+        "fr": "Indécis",
+        "jp": "ふりまわし屋",
+        "ko": "사도 휘두르기",
+        "zh-TW": "擺佈戲耍屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases number of normal attacks
+by 1.",
+        "es": "Combo de ataques normales +1.
+",
+        "fr": "Nombre de combos des attaques
+normales +1.",
+        "jp": "通常攻撃のコンボ回数+1
+",
+        "ko": "일반 공격의 콤보 횟수 +1
+",
+        "zh-TW": "一般攻擊的連擊數＋１
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 05 D5 F0 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F2 03 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_UNIQUE_INDOORDRYING",
+    ],
+    [
+      "notes",
+      "イノセント_ゼロ距離ファイ屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Melee Mage",
+        "es": "Fuego a quemarropa",
+        "fr": "Feu distance zéro",
+        "jp": "ゼロ距離ファイ屋",
+        "ko": "사도 영거리 사격",
+        "zh-TW": "零距離開火屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cuts staff range in half, but
+increases damage by 50%.",
+        "es": "Reduce el rango del bastón a la mitad,
+pero aumenta el daño +50 %.",
+        "fr": "Réduit de moitié la portée du bâton,
+mais dégâts infligés +50 %.",
+        "jp": "杖攻撃の射程が半分になるが
+与ダメージ+50%",
+        "ko": "지팡이 공격의 사거리가 반으로 줄지만
+주는 대미지 +50％",
+        "zh-TW": "杖攻擊射程減半，
+造成的傷害＋50%",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 69 D5 F0 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F3 03 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_UNIQUE_DUMPLING",
+    ],
+    [
+      "notes",
+      "イノセント_やさしくして屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Nice Person",
+        "es": "Samaritano",
+        "fr": "Solide",
+        "jp": "やさしくして屋",
+        "ko": "사도 상냥하게",
+        "zh-TW": "溫柔一點屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Reduces damage taken by 15%.",
+        "es": "Daño recibido -15 %.",
+        "fr": "Dégâts subis -15 %.",
+        "jp": "被ダメージ－15％",
+        "ko": "받는 대미지 -15％",
+        "zh-TW": "受到的傷害－15％",
+      },
+      "4",
+      1,
+    ],
+    [
+      108,
+      Buffer [01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 CD D5 F0 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F4 03 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_UNIQUE_DAMAGE_CUT_PHYSICS",
+    ],
+    [
+      "notes",
+      "イノセント_叩くべからず屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Armor Salesman",
+        "es": "Pacifista",
+        "fr": "Coach physique",
+        "jp": "叩くべからず屋",
+        "ko": "사도 구타 금지",
+        "zh-TW": "禁止敲打屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Reduces damage taken from physical
+attacks by 20%.",
+        "es": "Reduce un 20 % el daño recibido por
+ataques físicos.",
+        "fr": "Dégâts physiques subis -20 %.
+",
+        "jp": "物理攻撃による被ダメージ－20％
+",
+        "ko": "물리 공격으로 받는 대미지 -20％
+",
+        "zh-TW": "因物理攻擊受到的傷害－20％
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 31 D6 F0 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F5 03 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_UNIQUE_DAMAGE_CUT_MAGIC",
+    ],
+    [
+      "notes",
+      "イノセント_やさしさ差し伸べ屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Astrologist",
+        "es": "Voluntario",
+        "fr": "Coach magique",
+        "jp": "やさしさ差し伸べ屋",
+        "ko": "사도 상냥한 손길",
+        "zh-TW": "伸出關懷之手屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Reduces damage taken from magic
+attacks by 20%.",
+        "es": "Reduce un 20 % el daño recibido
+por ataques mágicos.",
+        "fr": "Dégâts magiques subis -20 %.
+",
+        "jp": "魔法攻撃による被ダメージ－20％
+",
+        "ko": "마법 공격으로 받는 대미지 -20％
+",
+        "zh-TW": "因魔法攻擊受到的傷害－20％
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 95 D6 F0 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F6 03 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_UNIQUE_ADRENALINERUSH",
+    ],
+    [
+      "notes",
+      "イノセント_レインボー屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Rainbow Warrior",
+        "es": "Guerrero arcoíris",
+        "fr": "Arc-en-ciel",
+        "jp": "レインボー屋",
+        "ko": "사도 레인보",
+        "zh-TW": "彩虹屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases fire, wind, and water
+resistance by 10.",
+        "es": "Aumenta +10 la resistencia
+a fuego, agua y viento.",
+        "fr": "Résistance au feu, à l’eau et
+au vent +10.",
+        "jp": "炎、水、風属性耐性＋10
+",
+        "ko": "불, 물, 바람속성 내성 +10
+",
+        "zh-TW": "炎、水、風屬性耐性＋10
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 F9 D6 F0 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F7 03 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_UNIQUE_GRAVY",
+    ],
+    [
+      "notes",
+      "イノセント_突きん棒屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Spear Fisherman",
+        "es": "Boxeador",
+        "fr": "Bâtonneur",
+        "jp": "突きん棒屋",
+        "ko": "사도 작살",
+        "zh-TW": "魚叉屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Recovers 5% HP when performing an
+attack.",
+        "es": "Recuperas un 5 % de PV
+por cada ataque.",
+        "fr": "Restaure 5 % des PV à chaque attaque.
+",
+        "jp": "攻撃時、自分のHPを5％回復する
+",
+        "ko": "공격 시, 자신의 HP를 5％ 회복한다.
+",
+        "zh-TW": "進行攻擊時，自己的HP恢復5％
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 5D D7 F0 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F8 03 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_UNIQUE_HEALING",
+    ],
+    [
+      "notes",
+      "イノセント_食べやすい屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Gourmet Chef",
+        "es": "Comilón",
+        "fr": "Comestible",
+        "jp": "食べやすい屋",
+        "ko": "사도 잘 먹겠습니다",
+        "zh-TW": "好消化屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Recovers 10% of HP when defeating
+an enemy.",
+        "es": "Recuperas un 10 % de PV
+por cada enemigo derrotado.",
+        "fr": "Restaure 10 % des PV à chaque
+ennemi éliminé.",
+        "jp": "敵ユニットを撃破した時
+自分のHPを10％回復する",
+        "ko": "적 유닛을 격파했을 때
+자신의 HP를 10％ 회복한다.",
+        "zh-TW": "擊倒敵方單位時
+自己的HP恢復10％",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 C1 D7 F0 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F9 03 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_UNIQUE_LOVER",
+    ],
+    [
+      "notes",
+      "イノセント_マナ泥棒屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mana Thief",
+        "es": "Ladrón de maná",
+        "fr": "Voleur de mana",
+        "jp": "マナ泥棒屋",
+        "ko": "사도 마나 강탈",
+        "zh-TW": "瑪那小偷屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Gains 5% of an enemy's total mana
+yield on hit.",
+        "es": "Al atacar a un enemigo, recuperas 5 %
+de maná por cada enemigo derrotado.",
+        "fr": "Restaure 5 % du mana en attaquant
+ou éliminant un ennemi.",
+        "jp": "敵ユニットへの攻撃時
+撃破時に獲得するマナの5％を獲得する",
+        "ko": "적 유닛 공격 시
+격파 시 획득하는 마나의 5％를 획득.",
+        "zh-TW": "攻擊敵方單位時
+獲得擊倒時可獲瑪那量的5%",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 25 D8 F0 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [FA 03 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_UNIQUE_EMBEZZLEMENT ",
+    ],
+    [
+      "notes",
+      "イノセント_ねこばば屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Cat Burglar",
+        "es": "Maquillador",
+        "fr": "Fouilleur",
+        "jp": "ねこばば屋",
+        "ko": "사도 분실물 습득",
+        "zh-TW": "暗中私吞屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Gains 1 additional item upon
+clearing a stage.",
+        "es": "Obtienes un objeto extra
+al completar una etapa.",
+        "fr": "Permet d’obtenir un objet
+supplémentaire en fin de niveau.",
+        "jp": "ステージクリア時
+獲得アイテムが1つ増える",
+        "ko": "스테이지 클리어 시,
+획득 아이템이 1개 증가한다.",
+        "zh-TW": "通關關卡時，
+增加１個獲得道具",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 89 D8 F0 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [FB 03 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_UNIQUE_VICTORY",
+    ],
+    [
+      "notes",
+      "イノセント_ゴシゴシ屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Scrubbadubber",
+        "es": "Frotador",
+        "fr": "Persévérant",
+        "jp": "ゴシゴシ屋",
+        "ko": "사도 일타쌍피",
+        "zh-TW": "刷刷屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Doubles the critical hit chance
+bonus from combo count.",
+        "es": "El bonificador de prob. de crítico se
+duplica en base al número de combos.",
+        "fr": "Multiplie par 2 le bonus de CRIT.
+en fonction du nombre de combos.",
+        "jp": "コンボ数によるクリティカル発生率の
+補正が2倍になる",
+        "ko": "콤보 수에 따른 크리티컬 발생 확률의
+보정이 2배가 된다.",
+        "zh-TW": "依連擊數變化的暴擊發生率，
+補正變成２倍",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ED D8 F0 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [FC 03 00 00],
+    ],
+    [
+      "key",
+      "INNOCENT_ID_UNIQUE_OVERFILLING",
+    ],
+    [
+      "notes",
+      "イノセント_過充填屋",
+    ],
+    [
+      "languages",
+      {
+        "en": "Excessive Reloader",
+        "es": "Sheriff",
+        "fr": "Excessif",
+        "jp": "過充填屋",
+        "ko": "사도 과충전",
+        "zh-TW": "過度填充屋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increases the Mega Launcher's power
+by 20%.",
+        "es": "Potencia un 20 % el Megadisparo.
+",
+        "fr": "Force du Méga-lanceur +20 %.
+",
+        "jp": "メガランチャーの威力を
+２０％アップする",
+        "ko": "메가 런처의 위력이
+20％ 증가한다.",
+        "zh-TW": "巨型火箭砲的威力
+上升20％。",
+      },
+      "4",
+      2,
+    ],
+    [
+      108,
+      Buffer [01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 51 D9 F0 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]

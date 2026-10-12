@@ -1,0 +1,496 @@
+[
+  [
+    [
+      "keyId",
+      1000,
+    ],
+    [
+      8,
+      Buffer [09 00 00 00 EA 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Jump",
+        "es": "Saltar",
+        "fr": "Saut",
+        "jp": "ジャンプ",
+        "ko": "점프",
+        "zh-TW": "跳躍",
+      },
+      "2",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      "keyId",
+      1001,
+    ],
+    [
+      8,
+      Buffer [0A 00 00 00 EA 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Dash",
+        "es": "Paso",
+        "fr": "Esquive",
+        "jp": "ステップ",
+        "ko": "스텝",
+        "zh-TW": "墊步",
+      },
+      "2",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      "keyId",
+      1002,
+    ],
+    [
+      8,
+      Buffer [0B 00 00 00 EA 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Weak Attack",
+        "es": "ATQ débil",
+        "fr": "Attaque faible",
+        "jp": "弱攻撃",
+        "ko": "약공격",
+        "zh-TW": "弱攻擊",
+      },
+      "2",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      "keyId",
+      1003,
+    ],
+    [
+      8,
+      Buffer [0C 00 00 00 EA 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Strong Attack",
+        "es": "ATQ fuerte",
+        "fr": "Attaque puissante",
+        "jp": "強攻撃",
+        "ko": "강공격",
+        "zh-TW": "強攻擊",
+      },
+      "2",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      "keyId",
+      1004,
+    ],
+    [
+      8,
+      Buffer [0D 00 00 00 EA 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Weapon Skills",
+        "es": "Técnica de arma",
+        "fr": "Capacité d’arme",
+        "jp": "武器技",
+        "ko": "무기 기술",
+        "zh-TW": "武器技能",
+      },
+      "2",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      "keyId",
+      1005,
+    ],
+    [
+      8,
+      Buffer [0C 00 00 00 EB 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Special Skill 1",
+        "es": "Téc. especial 1",
+        "fr": "Capacité spéciale 1",
+        "jp": "特殊技１",
+        "ko": "특수 기술 1",
+        "zh-TW": "特殊技1",
+      },
+      "2",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      "keyId",
+      1006,
+    ],
+    [
+      8,
+      Buffer [0A 00 00 00 EB 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Special Skill 2",
+        "es": "Téc. especial 2",
+        "fr": "Capacité spéciale 2",
+        "jp": "特殊技２",
+        "ko": "특수 기술 2",
+        "zh-TW": "特殊技2",
+      },
+      "2",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      "keyId",
+      1007,
+    ],
+    [
+      8,
+      Buffer [09 00 00 00 EB 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Special Skill 3",
+        "es": "Téc. especial 3",
+        "fr": "Capacité spéciale 3",
+        "jp": "特殊技３",
+        "ko": "특수 기술 3",
+        "zh-TW": "特殊技3",
+      },
+      "2",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      "keyId",
+      1008,
+    ],
+    [
+      8,
+      Buffer [0B 00 00 00 EB 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Special Skill 4",
+        "es": "Téc. especial 4",
+        "fr": "Capacité spéciale 4",
+        "jp": "特殊技４",
+        "ko": "특수 기술 4",
+        "zh-TW": "特殊技4",
+      },
+      "2",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      "keyId",
+      1009,
+    ],
+    [
+      8,
+      Buffer [0E 00 00 00 EB 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Magichange/Magichange Skill",
+        "es": "Magicambio/Técnica magicambio",
+        "fr": "Magimorph/Capacité de magimorph",
+        "jp": "魔チェンジ／魔チェンジ技",
+        "ko": "마체인지/마체인지 기술",
+        "zh-TW": "魔變換／魔變換技能",
+      },
+      "2",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      "keyId",
+      1010,
+    ],
+    [
+      8,
+      Buffer [0E 00 00 00 EA 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Run",
+        "es": "Esprintar",
+        "fr": "Courir",
+        "jp": "ダッシュ",
+        "ko": "대시",
+        "zh-TW": "衝刺",
+      },
+      "2",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      "keyId",
+      1011,
+    ],
+    [
+      8,
+      Buffer [10 00 00 00 EA 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Guard",
+        "es": "Guardia",
+        "fr": "Garde/Viser",
+        "jp": "ガード",
+        "ko": "가드",
+        "zh-TW": "防禦",
+      },
+      "2",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      "keyId",
+      1012,
+    ],
+    [
+      8,
+      Buffer [12 00 00 00 EA 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Lock-On",
+        "es": "Fijar",
+        "fr": "Verrouiller",
+        "jp": "ロックオン",
+        "ko": "록온",
+        "zh-TW": "鎖定",
+      },
+      "2",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      "keyId",
+      1013,
+    ],
+    [
+      8,
+      Buffer [1F 00 00 00 E8 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Talk",
+        "es": "Hablar",
+        "fr": "Parler",
+        "jp": "話しかける",
+        "ko": "말을 건다",
+        "zh-TW": "交談",
+      },
+      "2",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      "keyId",
+      1014,
+    ],
+    [
+      8,
+      Buffer [0F 00 00 00 EA 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Reset Camera",
+        "es": "Reiniciar cámara",
+        "fr": "Réinitialiser la caméra",
+        "jp": "カメラリセット",
+        "ko": "카메라 초기화",
+        "zh-TW": "重置視角",
+      },
+      "2",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      "keyId",
+      1015,
+    ],
+    [
+      8,
+      Buffer [1F 00 00 00 E9 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Talk Text Progression",
+        "es": "Avanzar diálogos",
+        "fr": "Dialogue suivant",
+        "jp": "会話メッセージ進行",
+        "ko": "대화 메시지 진행",
+        "zh-TW": "推進對話訊息",
+      },
+      "2",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      "keyId",
+      1016,
+    ],
+    [
+      8,
+      Buffer [20 00 00 00 E9 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Talk Text Progression Speed",
+        "es": "Avance rápido",
+        "fr": "Accélérer les dialogues",
+        "jp": "会話メッセージ高速進行",
+        "ko": "대화 메시지 고속 진행",
+        "zh-TW": "高速推進對話訊息",
+      },
+      "2",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      "keyId",
+      1017,
+    ],
+    [
+      8,
+      Buffer [0C 00 00 00 E9 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Talk Event Skip",
+        "es": "Saltar escena",
+        "fr": "Passer l’événement",
+        "jp": "会話イベントスキップ",
+        "ko": "대화 이벤트 스킵",
+        "zh-TW": "略過對話事件",
+      },
+      "2",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      "keyId",
+      1018,
+    ],
+    [
+      8,
+      Buffer [0B 00 00 00 E9 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Talk Text Auto-Scroll",
+        "es": "Avance automático",
+        "fr": "Défilement auto des dialogues",
+        "jp": "会話メッセージ自動送り",
+        "ko": "대화 메시지 자동 넘김",
+        "zh-TW": "自動播放對話訊息",
+      },
+      "2",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]

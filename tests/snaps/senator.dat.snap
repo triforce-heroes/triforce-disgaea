@@ -1,0 +1,4034 @@
+[
+  [
+    [
+      4,
+      Buffer [F3 03 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_1_1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Sardine Tail Trainee",
+        "es": "Aprendiz cola de sardina",
+        "fr": "Apprenti Sardiqueue",
+        "jp": "時給イワシの尾見習い",
+        "ko": "시급이 정어리인 꼬리 수습생",
+        "zh-TW": "時薪領沙丁魚尾巴見習生",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [FF FF FF FF],
+    ],
+    [
+      "languages",
+      {
+        "en": "Prinny Kitchen",
+        "es": "Facción prini",
+        "fr": "Faction des Prinnies",
+        "jp": "プリニー族派閥",
+        "ko": "프리니족 파벌",
+        "zh-TW": "普利尼族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [24 C7 2D 00 B5 AF D2 23 0A 00 00 00 01 00 00 00 01 00 00 00 05 00 00 00 D2 07 00 00 02 00 00 00 1E 00 00 00 1E 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F4 03 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_1_2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Sardine Bone Confectioner",
+        "es": "Artesano espina",
+        "fr": "Artisan Sardarête",
+        "jp": "時給イワシの骨職人",
+        "ko": "시급이 정어리인 뼈 장인",
+        "zh-TW": "時薪領沙丁魚的骨頭工匠",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [F3 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Prinny Kitchen",
+        "es": "Facción prini",
+        "fr": "Faction des Prinnies",
+        "jp": "プリニー族派閥",
+        "ko": "프리니족 파벌",
+        "zh-TW": "普利尼族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [24 C7 2D 00 B6 AF D2 23 1E 00 00 00 02 00 00 00 01 00 00 00 05 00 00 00 D2 07 00 00 02 00 00 00 1E 00 00 00 1E 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F5 03 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_1_3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Sardine Eye Manager",
+        "es": "Jefe ojo de sardina",
+        "fr": "Gérant Sardœil",
+        "jp": "時給イワシの目玉主任",
+        "ko": "시급이 정어리인 눈알 주임",
+        "zh-TW": "時薪領沙丁魚的眼球主任",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [F3 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Prinny Kitchen",
+        "es": "Facción prini",
+        "fr": "Faction des Prinnies",
+        "jp": "プリニー族派閥",
+        "ko": "프리니족 파벌",
+        "zh-TW": "普利尼族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [24 C7 2D 00 B7 AF D2 23 5A 00 00 00 04 00 00 00 02 00 00 00 05 00 00 00 D2 07 00 00 02 00 00 00 1E 00 00 00 1E 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F6 03 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_1_4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Sardine Belly Advisor",
+        "es": "Consejero sardina",
+        "fr": "Assistant Sardichair",
+        "jp": "時給イワシの腹肉補佐",
+        "ko": "시급이 정어리인 복근 보좌관",
+        "zh-TW": "時薪領沙丁魚的肚肉輔佐",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [F3 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Prinny Kitchen",
+        "es": "Facción prini",
+        "fr": "Faction des Prinnies",
+        "jp": "プリニー族派閥",
+        "ko": "프리니족 파벌",
+        "zh-TW": "普利尼族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [24 C7 2D 00 B8 AF D2 23 0E 01 00 00 08 00 00 00 02 00 00 00 05 00 00 00 D2 07 00 00 02 00 00 00 1E 00 00 00 1E 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F7 03 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_1_5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Whole Sardine Head Chef",
+        "es": "Chef 1 sardina",
+        "fr": "Cuisinier Sardentière",
+        "jp": "時給イワシ１匹料理長",
+        "ko": "시급이 정어리 하나인 주방장",
+        "zh-TW": "時薪領一隻沙丁魚的主廚",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [F3 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Prinny Kitchen",
+        "es": "Facción prini",
+        "fr": "Faction des Prinnies",
+        "jp": "プリニー族派閥",
+        "ko": "프리니족 파벌",
+        "zh-TW": "普利尼族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [24 C7 2D 00 B9 AF D2 23 2A 03 00 00 10 00 00 00 03 00 00 00 00 00 00 00 D2 07 00 00 02 00 00 00 1E 00 00 00 1E 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F8 03 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_1_6",
+    ],
+    [
+      "languages",
+      {
+        "en": "Isekai Applicant",
+        "es": "Candidato a reencarnarse",
+        "fr": "Primension",
+        "jp": "異世界転生志願者",
+        "ko": "이세계 전생 지원자",
+        "zh-TW": "異世界轉生志願者",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [F3 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Prinny Kitchen",
+        "es": "Facción prini",
+        "fr": "Faction des Prinnies",
+        "jp": "プリニー族派閥",
+        "ko": "프리니족 파벌",
+        "zh-TW": "普利尼族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [24 C7 2D 00 BA AF D2 23 7E 09 00 00 20 00 00 00 04 00 00 00 FB FF FF FF D2 07 00 00 02 00 00 00 1E 00 00 00 1E 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [FD 03 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_2_1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Barely-Flying Trainee",
+        "es": "Aprendiz volador",
+        "fr": "Apprenti Novivol",
+        "jp": "なんとか飛べる見習い",
+        "ko": "겨우 날 수 있는 수습생",
+        "zh-TW": "勉強算是會飛的見習生",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [FF FF FF FF],
+    ],
+    [
+      "languages",
+      {
+        "en": "Winged Warrior Kitchen",
+        "es": "Facción polilla",
+        "fr": "Faction des Mites",
+        "jp": "魔翔族派閥",
+        "ko": "비행 마족 파벌",
+        "zh-TW": "魔翔族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [88 C7 2D 00 C5 D6 D2 23 0F 00 00 00 01 00 00 00 01 00 00 00 FB FF FF FF 9C 08 00 00 02 00 00 00 00 00 00 00 00 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [FE 03 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_2_2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Disliked Confectioner",
+        "es": "Artesano odiado",
+        "fr": "Artisan Mépriz",
+        "jp": "嫌われがち職人",
+        "ko": "자주 미움받는 장인",
+        "zh-TW": "總是被討厭的工匠",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [FD 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Winged Warrior Kitchen",
+        "es": "Facción polilla",
+        "fr": "Faction des Mites",
+        "jp": "魔翔族派閥",
+        "ko": "비행 마족 파벌",
+        "zh-TW": "魔翔族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [88 C7 2D 00 C6 D6 D2 23 2D 00 00 00 02 00 00 00 01 00 00 00 FB FF FF FF 9C 08 00 00 02 00 00 00 00 00 00 00 00 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [FF 03 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_2_3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Scale-Sprinkler Manager",
+        "es": "Mánager con muchas escamas",
+        "fr": "Gérant Perdécaille",
+        "jp": "リンプン出しすぎ主任",
+        "ko": "인분이 과다한 주임",
+        "zh-TW": "鱗粉灑太多主任",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [FD 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Winged Warrior Kitchen",
+        "es": "Facción polilla",
+        "fr": "Faction des Mites",
+        "jp": "魔翔族派閥",
+        "ko": "비행 마족 파벌",
+        "zh-TW": "魔翔族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [88 C7 2D 00 C7 D6 D2 23 87 00 00 00 04 00 00 00 02 00 00 00 FB FF FF FF 9C 08 00 00 02 00 00 00 00 00 00 00 00 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [00 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_2_4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Surprisingly Good Advisor",
+        "es": "Asistente bastante útil",
+        "fr": "Assistant Pratik",
+        "jp": "意外と便利な補佐",
+        "ko": "의외로 편리한 보좌관",
+        "zh-TW": "意外地好用的輔佐",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [FD 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Winged Warrior Kitchen",
+        "es": "Facción polilla",
+        "fr": "Faction des Mites",
+        "jp": "魔翔族派閥",
+        "ko": "비행 마족 파벌",
+        "zh-TW": "魔翔族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [88 C7 2D 00 C8 D6 D2 23 95 01 00 00 08 00 00 00 02 00 00 00 FB FF FF FF 9C 08 00 00 02 00 00 00 00 00 00 00 00 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [01 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_2_5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Poison-Eating Head Chef",
+        "es": "Chef esparce veneno",
+        "fr": "Cuisinier Venim",
+        "jp": "毒の粉を散らす料理長",
+        "ko": "독 가루를 퍼뜨리는 주방장",
+        "zh-TW": "散播毒粉的主廚",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [FD 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Winged Warrior Kitchen",
+        "es": "Facción polilla",
+        "fr": "Faction des Mites",
+        "jp": "魔翔族派閥",
+        "ko": "비행 마족 파벌",
+        "zh-TW": "魔翔族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [88 C7 2D 00 C9 D6 D2 23 BF 04 00 00 10 00 00 00 03 00 00 00 F6 FF FF FF 9C 08 00 00 02 00 00 00 00 00 00 00 00 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [02 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_2_6",
+    ],
+    [
+      "languages",
+      {
+        "en": "Momthra",
+        "es": "Indumu",
+        "fr": "Mothre",
+        "jp": "インドゥムウ",
+        "ko": "인두무",
+        "zh-TW": "因杜姆",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [FD 03 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Winged Warrior Kitchen",
+        "es": "Facción polilla",
+        "fr": "Faction des Mites",
+        "jp": "魔翔族派閥",
+        "ko": "비행 마족 파벌",
+        "zh-TW": "魔翔族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [88 C7 2D 00 CA D6 D2 23 3D 0E 00 00 20 00 00 00 04 00 00 00 F1 FF FF FF 9C 08 00 00 02 00 00 00 00 00 00 00 00 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [07 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_3_1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Trainee Erieri",
+        "es": "Aprendiz erieri",
+        "fr": "Apprenti Champipi",
+        "jp": "エリエリ見習い",
+        "ko": "에리에리 수습생",
+        "zh-TW": "菇菇見習生",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [FF FF FF FF],
+    ],
+    [
+      "languages",
+      {
+        "en": "Shroom Kitchen",
+        "es": "Facción champiñón",
+        "fr": "Faction des Champignons",
+        "jp": "珍茸族派閥",
+        "ko": "진이족 파벌",
+        "zh-TW": "珍茸族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [EC C7 2D 00 D5 FD D2 23 0F 00 00 00 01 00 00 00 01 00 00 00 0A 00 00 00 9D 08 00 00 02 00 00 00 00 00 00 00 00 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [08 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_3_2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Ex-Mascot Confectioner",
+        "es": "Artesano exmascota",
+        "fr": "Artisan ex-mascotte",
+        "jp": "元マスコット職人",
+        "ko": "전 마스코트 장인",
+        "zh-TW": "前吉祥物工匠",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [07 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Shroom Kitchen",
+        "es": "Facción champiñón",
+        "fr": "Faction des Champignons",
+        "jp": "珍茸族派閥",
+        "ko": "진이족 파벌",
+        "zh-TW": "珍茸族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [EC C7 2D 00 D6 FD D2 23 2D 00 00 00 02 00 00 00 01 00 00 00 0A 00 00 00 9D 08 00 00 02 00 00 00 00 00 00 00 00 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [09 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_3_3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Marl Kingdom Manager",
+        "es": "Jefe del reino de Marl",
+        "fr": "Gérant Marlien",
+        "jp": "マール王国出身主任",
+        "ko": "마알 왕국 출신 주임",
+        "zh-TW": "來自瑪魯王國的主任",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [07 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Shroom Kitchen",
+        "es": "Facción champiñón",
+        "fr": "Faction des Champignons",
+        "jp": "珍茸族派閥",
+        "ko": "진이족 파벌",
+        "zh-TW": "珍茸族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [EC C7 2D 00 D7 FD D2 23 87 00 00 00 04 00 00 00 02 00 00 00 0A 00 00 00 9D 08 00 00 02 00 00 00 00 00 00 00 00 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0A 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_3_4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Humidity-Loving Advisor",
+        "es": "Asistente húmedo",
+        "fr": "Assistant Umid",
+        "jp": "ジメジメ大好き補佐",
+        "ko": "꿉꿉함이 너무 좋은 보좌관",
+        "zh-TW": "超愛潮濕環境的輔佐",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [07 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Shroom Kitchen",
+        "es": "Facción champiñón",
+        "fr": "Faction des Champignons",
+        "jp": "珍茸族派閥",
+        "ko": "진이족 파벌",
+        "zh-TW": "珍茸族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [EC C7 2D 00 D8 FD D2 23 95 01 00 00 08 00 00 00 02 00 00 00 0A 00 00 00 9D 08 00 00 02 00 00 00 00 00 00 00 00 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0B 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_3_5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Heartthrob Head Chef",
+        "es": "Chef quitahuesos",
+        "fr": "Cuisinier Dézoss",
+        "jp": "女性も骨抜き料理長",
+        "ko": "여성도 홀리는 주방장",
+        "zh-TW": "讓女性也神魂顛倒的主廚",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [07 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Shroom Kitchen",
+        "es": "Facción champiñón",
+        "fr": "Faction des Champignons",
+        "jp": "珍茸族派閥",
+        "ko": "진이족 파벌",
+        "zh-TW": "珍茸族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [EC C7 2D 00 D9 FD D2 23 BF 04 00 00 10 00 00 00 03 00 00 00 05 00 00 00 9D 08 00 00 02 00 00 00 00 00 00 00 00 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0C 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_3_6",
+    ],
+    [
+      "languages",
+      {
+        "en": "Gimme My Mascot Role Back!",
+        "es": "Candidato a mascota",
+        "fr": "Champenvieux",
+        "jp": "マスコットの座返せ丸",
+        "ko": "마스코트 자리 돌려줘마루",
+        "zh-TW": "把吉祥物寶座還來丸",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [07 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Shroom Kitchen",
+        "es": "Facción champiñón",
+        "fr": "Faction des Champignons",
+        "jp": "珍茸族派閥",
+        "ko": "진이족 파벌",
+        "zh-TW": "珍茸族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [EC C7 2D 00 DA FD D2 23 3D 0E 00 00 20 00 00 00 04 00 00 00 00 00 00 00 9D 08 00 00 02 00 00 00 00 00 00 00 00 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [11 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_4_1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Cat-Eyed Trainee",
+        "es": "Aprendiz con vista de lince",
+        "fr": "Apprenti Œil-de-chat",
+        "jp": "猫視眈々見習い",
+        "ko": "묘시탐탐 수습생",
+        "zh-TW": "貓視眈眈見習生",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [FF FF FF FF],
+    ],
+    [
+      "languages",
+      {
+        "en": "Slumber Cat Kitchen",
+        "es": "Facción gato dormilón",
+        "fr": "Faction des Chalanguis",
+        "jp": "寝子猫族派閥",
+        "ko": "고양고양이족 파벌",
+        "zh-TW": "寢子貓族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [50 C8 2D 00 E5 24 D3 23 0F 00 00 00 01 00 00 00 01 00 00 00 05 00 00 00 EA 03 00 00 02 00 00 00 14 00 00 00 14 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [12 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_4_2",
+    ],
+    [
+      "languages",
+      {
+        "en": "No. 1 Cutie Confectioner",
+        "es": "Artesano superadorable",
+        "fr": "Artisan Mimignon",
+        "jp": "可愛さナンバー１職人",
+        "ko": "귀여움 넘버원 장인",
+        "zh-TW": "可愛第一名工匠",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [11 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Slumber Cat Kitchen",
+        "es": "Facción gato dormilón",
+        "fr": "Faction des Chalanguis",
+        "jp": "寝子猫族派閥",
+        "ko": "고양고양이족 파벌",
+        "zh-TW": "寢子貓族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [50 C8 2D 00 E6 24 D3 23 2D 00 00 00 02 00 00 00 01 00 00 00 05 00 00 00 EA 03 00 00 02 00 00 00 14 00 00 00 14 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [13 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_4_3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Purring Manager",
+        "es": "Mánager revoltoso",
+        "fr": "Gérant Tournenrond",
+        "jp": "ぐるぐるニャー主任",
+        "ko": "빙글빙글냥 주임",
+        "zh-TW": "圓圓滾滾喵主任",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [11 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Slumber Cat Kitchen",
+        "es": "Facción gato dormilón",
+        "fr": "Faction des Chalanguis",
+        "jp": "寝子猫族派閥",
+        "ko": "고양고양이족 파벌",
+        "zh-TW": "寢子貓族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [50 C8 2D 00 E7 24 D3 23 87 00 00 00 04 00 00 00 02 00 00 00 05 00 00 00 EA 03 00 00 02 00 00 00 14 00 00 00 14 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [14 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_4_4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Never-Been-Fed Advisor",
+        "es": "Asistente carnívoro",
+        "fr": "Assistant Audas",
+        "jp": "意外と肉食系補佐",
+        "ko": "의외로 육식계 보좌관",
+        "zh-TW": "意外地是肉食系的輔佐",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [11 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Slumber Cat Kitchen",
+        "es": "Facción gato dormilón",
+        "fr": "Faction des Chalanguis",
+        "jp": "寝子猫族派閥",
+        "ko": "고양고양이족 파벌",
+        "zh-TW": "寢子貓族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [50 C8 2D 00 E8 24 D3 23 95 01 00 00 08 00 00 00 02 00 00 00 05 00 00 00 EA 03 00 00 02 00 00 00 14 00 00 00 14 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [15 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_4_5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Plushie Head Chef",
+        "es": "Chef de peluche",
+        "fr": "Cuisinier Pelush",
+        "jp": "ぬいぐるみ料理長",
+        "ko": "인형 주방장",
+        "zh-TW": "布偶主廚",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [11 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Slumber Cat Kitchen",
+        "es": "Facción gato dormilón",
+        "fr": "Faction des Chalanguis",
+        "jp": "寝子猫族派閥",
+        "ko": "고양고양이족 파벌",
+        "zh-TW": "寢子貓族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [50 C8 2D 00 E9 24 D3 23 BF 04 00 00 10 00 00 00 03 00 00 00 00 00 00 00 EA 03 00 00 02 00 00 00 14 00 00 00 14 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [16 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_4_6",
+    ],
+    [
+      "languages",
+      {
+        "en": "No Live-Action Adapatations!",
+        "es": "No más live-actions, miau",
+        "fr": "Chapuriste",
+        "jp": "実写化は勘弁ニャ！",
+        "ko": "실사화는 사양이다냥!",
+        "zh-TW": "拜託不要真人化喵！",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [11 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Slumber Cat Kitchen",
+        "es": "Facción gato dormilón",
+        "fr": "Faction des Chalanguis",
+        "jp": "寝子猫族派閥",
+        "ko": "고양고양이족 파벌",
+        "zh-TW": "寢子貓族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [50 C8 2D 00 EA 24 D3 23 3D 0E 00 00 20 00 00 00 04 00 00 00 FB FF FF FF EA 03 00 00 02 00 00 00 14 00 00 00 14 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1B 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_5_1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Pork-Loving Trainee",
+        "es": "Aprendiz fan del tonkatsu",
+        "fr": "Apprenti Tonkat",
+        "jp": "トンカツ好き見習い",
+        "ko": "돈가스를 좋아하는 수습생",
+        "zh-TW": "喜歡炸豬排的見習生",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [FF FF FF FF],
+    ],
+    [
+      "languages",
+      {
+        "en": "Orc Kitchen",
+        "es": "Facción orco",
+        "fr": "Faction des Orques",
+        "jp": "猪人族派閥",
+        "ko": "오크족 파벌",
+        "zh-TW": "豬人族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [B4 C8 2D 00 F5 4B D3 23 0F 00 00 00 01 00 00 00 01 00 00 00 F6 FF FF FF D6 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1C 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_5_2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Jumbo Orcs? Confectioner",
+        "es": "Artesano ¿orco gigante?",
+        "fr": "Artisan Gigaork",
+        "jp": "デカオークは？職人",
+        "ko": "대형 오크는? 장인",
+        "zh-TW": "總在找巨大豬人的工匠",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [1B 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Orc Kitchen",
+        "es": "Facción orco",
+        "fr": "Faction des Orques",
+        "jp": "猪人族派閥",
+        "ko": "오크족 파벌",
+        "zh-TW": "豬人族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [B4 C8 2D 00 F6 4B D3 23 2D 00 00 00 02 00 00 00 01 00 00 00 F6 FF FF FF D6 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1D 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_5_3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Prinny-Hating Manager",
+        "es": "Mánager odiaprinis",
+        "fr": "Gérant Antiprin",
+        "jp": "プリニーを敵視！主任",
+        "ko": "프리니를 적대시! 주임",
+        "zh-TW": "敵視普利尼的主任",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [1B 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Orc Kitchen",
+        "es": "Facción orco",
+        "fr": "Faction des Orques",
+        "jp": "猪人族派閥",
+        "ko": "오크족 파벌",
+        "zh-TW": "豬人族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [B4 C8 2D 00 F7 4B D3 23 87 00 00 00 04 00 00 00 02 00 00 00 F6 FF FF FF D6 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1E 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_5_4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Actually Brave(?) Advisor",
+        "es": "Asistente ¿poderoso?",
+        "fr": "Assistant Brav",
+        "jp": "意外と？勇敢補佐",
+        "ko": "의외로? 용감한 보좌관",
+        "zh-TW": "意外地？勇敢的輔佐",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [1B 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Orc Kitchen",
+        "es": "Facción orco",
+        "fr": "Faction des Orques",
+        "jp": "猪人族派閥",
+        "ko": "오크족 파벌",
+        "zh-TW": "豬人族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [B4 C8 2D 00 F8 4B D3 23 95 01 00 00 08 00 00 00 02 00 00 00 F6 FF FF FF D6 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1F 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_5_5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Heavy-Breathing Head Chef",
+        "es": "Chef que respira fuerte",
+        "fr": "Cuisinier Expirfor",
+        "jp": "鼻息の荒い料理長",
+        "ko": "콧김이 거친 주방장",
+        "zh-TW": "鼻息粗重的主廚",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [1B 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Orc Kitchen",
+        "es": "Facción orco",
+        "fr": "Faction des Orques",
+        "jp": "猪人族派閥",
+        "ko": "오크족 파벌",
+        "zh-TW": "豬人族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [B4 C8 2D 00 F9 4B D3 23 BF 04 00 00 10 00 00 00 03 00 00 00 F1 FF FF FF D6 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [20 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_5_6",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mascot Candidate",
+        "es": "Candidato a mascota",
+        "fr": "Mascorque",
+        "jp": "マスコット志願者",
+        "ko": "마스코트 지원자",
+        "zh-TW": "吉祥物志願者",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [1B 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Orc Kitchen",
+        "es": "Facción orco",
+        "fr": "Faction des Orques",
+        "jp": "猪人族派閥",
+        "ko": "오크족 파벌",
+        "zh-TW": "豬人族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [B4 C8 2D 00 FA 4B D3 23 3D 0E 00 00 20 00 00 00 04 00 00 00 EC FF FF FF D6 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [25 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_6_1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Unfortunate Trainee",
+        "es": "Aprendiz celoso",
+        "fr": "Apprenti Roublard",
+        "jp": "うらめし見習い",
+        "ko": "원통한 수습생",
+        "zh-TW": "心懷怨念的見習生",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [FF FF FF FF],
+    ],
+    [
+      "languages",
+      {
+        "en": "Spirit Kitchen",
+        "es": "Facción espíritu",
+        "fr": "Faction des Esprits",
+        "jp": "妖霊族派閥",
+        "ko": "요령족 파벌",
+        "zh-TW": "妖靈族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [18 C9 2D 00 05 73 D3 23 0F 00 00 00 01 00 00 00 01 00 00 00 F1 FF FF FF D7 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [26 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_6_2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Prank-Loving Confectioner",
+        "es": "Artesano travieso",
+        "fr": "Artisan Farceur",
+        "jp": "イタズラ好き職人",
+        "ko": "장난을 좋아하는 장인",
+        "zh-TW": "喜歡惡作劇的工匠",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [25 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Spirit Kitchen",
+        "es": "Facción espíritu",
+        "fr": "Faction des Esprits",
+        "jp": "妖霊族派閥",
+        "ko": "요령족 파벌",
+        "zh-TW": "妖靈族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [18 C9 2D 00 06 73 D3 23 2D 00 00 00 02 00 00 00 01 00 00 00 F1 FF FF FF D7 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [27 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_6_3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Pro Annoyer Manager",
+        "es": "Mánager bromista",
+        "fr": "Gérant Moqueur",
+        "jp": "からかい上手主任",
+        "ko": "장난을 잘 치는 주임",
+        "zh-TW": "擅長捉弄人的主任",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [25 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Spirit Kitchen",
+        "es": "Facción espíritu",
+        "fr": "Faction des Esprits",
+        "jp": "妖霊族派閥",
+        "ko": "요령족 파벌",
+        "zh-TW": "妖靈族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [18 C9 2D 00 07 73 D3 23 87 00 00 00 04 00 00 00 02 00 00 00 F1 FF FF FF D7 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [28 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_6_4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Skinny ASSet Advisor",
+        "es": "Asistente feo",
+        "fr": "Assistant Trompeur",
+        "jp": "服を脱ぐと貧相補佐",
+        "ko": "옷을 벗으면 빈약한 보좌관",
+        "zh-TW": "一脫衣就顯得單薄的輔佐",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [25 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Spirit Kitchen",
+        "es": "Facción espíritu",
+        "fr": "Faction des Esprits",
+        "jp": "妖霊族派閥",
+        "ko": "요령족 파벌",
+        "zh-TW": "妖靈族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [18 C9 2D 00 08 73 D3 23 95 01 00 00 08 00 00 00 02 00 00 00 F1 FF FF FF D7 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [29 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_6_5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Skinny-Fat Head Chef",
+        "es": "Chef inteligente",
+        "fr": "Cuisinier Fourbe",
+        "jp": "能力的には賢い料理長",
+        "ko": "능력만 보면 영리한 주방장",
+        "zh-TW": "只看能力還不錯的主廚",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [25 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Spirit Kitchen",
+        "es": "Facción espíritu",
+        "fr": "Faction des Esprits",
+        "jp": "妖霊族派閥",
+        "ko": "요령족 파벌",
+        "zh-TW": "妖靈族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [18 C9 2D 00 09 73 D3 23 BF 04 00 00 10 00 00 00 03 00 00 00 EC FF FF FF D7 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2A 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_6_6",
+    ],
+    [
+      "languages",
+      {
+        "en": "Cheap Rooms for Rent",
+        "es": "Habitación barata",
+        "fr": "Proprieau",
+        "jp": "家賃の安い部屋",
+        "ko": "집세가 저렴한 방",
+        "zh-TW": "租金便宜的房間",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [25 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Spirit Kitchen",
+        "es": "Facción espíritu",
+        "fr": "Faction des Esprits",
+        "jp": "妖霊族派閥",
+        "ko": "요령족 파벌",
+        "zh-TW": "妖靈族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [18 C9 2D 00 0A 73 D3 23 3D 0E 00 00 20 00 00 00 04 00 00 00 E7 FF FF FF D7 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2F 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_7_1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Boingboing Trainee",
+        "es": "Aprendiz musculitos",
+        "fr": "Apprentie Grassouille",
+        "jp": "ムチプリ見習い",
+        "ko": "풍만한 수습생",
+        "zh-TW": "肉肉系見習生",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [FF FF FF FF],
+    ],
+    [
+      "languages",
+      {
+        "en": "Felynn Kitchen",
+        "es": "Facción felina",
+        "fr": "Faction des Félines",
+        "jp": "猫娘族派閥",
+        "ko": "묘랑족 파벌",
+        "zh-TW": "貓娘族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [7C C9 2D 00 15 9A D3 23 14 00 00 00 02 00 00 00 01 00 00 00 0A 00 00 00 D1 07 00 00 02 00 00 00 00 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [30 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_7_2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Jacked Confectioner",
+        "es": "Asistenta mazada",
+        "fr": "Artisane Musclette",
+        "jp": "ムキムキ職人",
+        "ko": "울근불근 장인",
+        "zh-TW": "肌肉滿滿的工匠",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [2F 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Felynn Kitchen",
+        "es": "Facción felina",
+        "fr": "Faction des Félines",
+        "jp": "猫娘族派閥",
+        "ko": "묘랑족 파벌",
+        "zh-TW": "貓娘族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [7C C9 2D 00 16 9A D3 23 3C 00 00 00 04 00 00 00 01 00 00 00 0A 00 00 00 D1 07 00 00 02 00 00 00 00 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [31 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_7_3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Cat-pletely Naked Manager",
+        "es": "Mánager en bolas",
+        "fr": "Gérante",
+        "jp": "実は全裸だニャ主任",
+        "ko": "사실은 알몸이다냥 주임",
+        "zh-TW": "其實是全裸的喵主任",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [2F 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Felynn Kitchen",
+        "es": "Facción felina",
+        "fr": "Faction des Félines",
+        "jp": "猫娘族派閥",
+        "ko": "묘랑족 파벌",
+        "zh-TW": "貓娘族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [7C C9 2D 00 17 9A D3 23 B4 00 00 00 08 00 00 00 02 00 00 00 0A 00 00 00 D1 07 00 00 02 00 00 00 00 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [32 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_7_4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Succubus Buddy Advisor",
+        "es": "Asistenta endemoniada",
+        "fr": "Assistante Succuba",
+        "jp": "夜魔族と仲良し補佐",
+        "ko": "야마족과 사이좋은 보좌관",
+        "zh-TW": "跟夜魔族關係很好的輔佐",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [2F 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Felynn Kitchen",
+        "es": "Facción felina",
+        "fr": "Faction des Félines",
+        "jp": "猫娘族派閥",
+        "ko": "묘랑족 파벌",
+        "zh-TW": "貓娘族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [7C C9 2D 00 18 9A D3 23 1C 02 00 00 10 00 00 00 02 00 00 00 0A 00 00 00 D1 07 00 00 02 00 00 00 00 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [33 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_7_5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Battlemaster Head Chef",
+        "es": "Chef karateca",
+        "fr": "Cuisinière Bellique",
+        "jp": "武闘を極めし料理長",
+        "ko": "극한의 무투가 주방장",
+        "zh-TW": "窮究武鬥之道的主廚",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [2F 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Felynn Kitchen",
+        "es": "Facción felina",
+        "fr": "Faction des Félines",
+        "jp": "猫娘族派閥",
+        "ko": "묘랑족 파벌",
+        "zh-TW": "貓娘族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [7C C9 2D 00 19 9A D3 23 54 06 00 00 20 00 00 00 03 00 00 00 05 00 00 00 D1 07 00 00 02 00 00 00 00 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [34 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_7_6",
+    ],
+    [
+      "languages",
+      {
+        "en": "Meownder Girl",
+        "es": "Chica gato",
+        "fr": "Féligirl",
+        "jp": "ニャンダーガール",
+        "ko": "냥더걸",
+        "zh-TW": "邪喵女孩",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [2F 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Felynn Kitchen",
+        "es": "Facción felina",
+        "fr": "Faction des Félines",
+        "jp": "猫娘族派閥",
+        "ko": "묘랑족 파벌",
+        "zh-TW": "貓娘族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [7C C9 2D 00 1A 9A D3 23 FC 12 00 00 40 00 00 00 04 00 00 00 00 00 00 00 D1 07 00 00 02 00 00 00 00 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [39 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_8_1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Pheromone Trainee",
+        "es": "Aprendiz salida",
+        "fr": "Apprentie Férone",
+        "jp": "フェロモン見習い",
+        "ko": "페로몬 수습생",
+        "zh-TW": "費洛蒙見習生",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [FF FF FF FF],
+    ],
+    [
+      "languages",
+      {
+        "en": "Succubus Kitchen",
+        "es": "Facción súcubo",
+        "fr": "Faction des Succubes",
+        "jp": "夜魔族派閥",
+        "ko": "야마족 파벌",
+        "zh-TW": "夜魔族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [E0 C9 2D 00 25 C1 D3 23 14 00 00 00 02 00 00 00 01 00 00 00 14 00 00 00 9B 08 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3A 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_8_2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Alluring Confectioner",
+        "es": "Artesana sexy",
+        "fr": "Artisane Fragranza",
+        "jp": "色香ムンムン職人",
+        "ko": "요염함을 풍기는 장인",
+        "zh-TW": "色氣滿滿工匠",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [39 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Succubus Kitchen",
+        "es": "Facción súcubo",
+        "fr": "Faction des Succubes",
+        "jp": "夜魔族派閥",
+        "ko": "야마족 파벌",
+        "zh-TW": "夜魔族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [E0 C9 2D 00 26 C1 D3 23 3C 00 00 00 04 00 00 00 01 00 00 00 14 00 00 00 9B 08 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3B 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_8_3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Woman-Hating Manager",
+        "es": "Mánager contra féminas",
+        "fr": "Gérante Sororée",
+        "jp": "女性の敵！主任",
+        "ko": "여성의 적! 주임",
+        "zh-TW": "被女人當作公敵的主任",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [39 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Succubus Kitchen",
+        "es": "Facción súcubo",
+        "fr": "Faction des Succubes",
+        "jp": "夜魔族派閥",
+        "ko": "야마족 파벌",
+        "zh-TW": "夜魔族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [E0 C9 2D 00 27 C1 D3 23 B4 00 00 00 08 00 00 00 02 00 00 00 14 00 00 00 9B 08 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3C 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_8_4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Felynn Buddy Advisor",
+        "es": "Asistenta gatuna",
+        "fr": "Assistante Félina",
+        "jp": "猫娘族と仲良し補佐",
+        "ko": "묘랑족과 사이좋은 보좌관",
+        "zh-TW": "跟貓娘族關係很好的輔佐",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [39 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Succubus Kitchen",
+        "es": "Facción súcubo",
+        "fr": "Faction des Succubes",
+        "jp": "夜魔族派閥",
+        "ko": "야마족 파벌",
+        "zh-TW": "夜魔族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [E0 C9 2D 00 28 C1 D3 23 1C 02 00 00 10 00 00 00 02 00 00 00 14 00 00 00 9B 08 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3D 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_8_5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Reverse Harem Head Chef",
+        "es": "Chef harén invertido",
+        "fr": "Cuisinière Harème",
+        "jp": "逆ハーレム料理長",
+        "ko": "역하렘 주방장",
+        "zh-TW": "逆後宮主廚",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [39 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Succubus Kitchen",
+        "es": "Facción súcubo",
+        "fr": "Faction des Succubes",
+        "jp": "夜魔族派閥",
+        "ko": "야마족 파벌",
+        "zh-TW": "夜魔族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [E0 C9 2D 00 29 C1 D3 23 54 06 00 00 20 00 00 00 03 00 00 00 0F 00 00 00 9B 08 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3E 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_8_6",
+    ],
+    [
+      "languages",
+      {
+        "en": "Average Isekai Story",
+        "es": "Reencarnada",
+        "fr": "Métème",
+        "jp": "素直に転生です",
+        "ko": "솔직하게 전생입니다",
+        "zh-TW": "乖乖地轉生",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [39 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Succubus Kitchen",
+        "es": "Facción súcubo",
+        "fr": "Faction des Succubes",
+        "jp": "夜魔族派閥",
+        "ko": "야마족 파벌",
+        "zh-TW": "夜魔族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [E0 C9 2D 00 2A C1 D3 23 FC 12 00 00 40 00 00 00 04 00 00 00 0A 00 00 00 9B 08 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [43 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_9_1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Gust Trainee",
+        "es": "Aprendiz viento",
+        "fr": "Apprenti Briz",
+        "jp": "そよ風見習い",
+        "ko": "산들바람 수습생",
+        "zh-TW": "微風見習生",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [FF FF FF FF],
+    ],
+    [
+      "languages",
+      {
+        "en": "Dragon Kitchen",
+        "es": "Facción dragón",
+        "fr": "Faction des Dragons",
+        "jp": "邪竜族派閥",
+        "ko": "사룡족 파벌",
+        "zh-TW": "邪龍族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [44 CA 2D 00 35 E8 D3 23 28 00 00 00 03 00 00 00 01 00 00 00 FB FF FF FF 9E 08 00 00 02 00 00 00 1E 00 00 00 1E 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [44 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_9_2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Zephyr Confectioner",
+        "es": "Artesano vendaval",
+        "fr": "Artisan Bourask",
+        "jp": "疾風職人",
+        "ko": "질풍 장인",
+        "zh-TW": "疾風工匠",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [43 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Dragon Kitchen",
+        "es": "Facción dragón",
+        "fr": "Faction des Dragons",
+        "jp": "邪竜族派閥",
+        "ko": "사룡족 파벌",
+        "zh-TW": "邪龍族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [44 CA 2D 00 36 E8 D3 23 78 00 00 00 06 00 00 00 01 00 00 00 FB FF FF FF 9E 08 00 00 02 00 00 00 1E 00 00 00 1E 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [45 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_9_3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Heavenly Wind Manager",
+        "es": "Mánager galerna",
+        "fr": "Gérant Raphal",
+        "jp": "天空疾風主任",
+        "ko": "천공 질풍 주임",
+        "zh-TW": "天空疾風主任",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [43 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Dragon Kitchen",
+        "es": "Facción dragón",
+        "fr": "Faction des Dragons",
+        "jp": "邪竜族派閥",
+        "ko": "사룡족 파벌",
+        "zh-TW": "邪龍族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [44 CA 2D 00 37 E8 D3 23 68 01 00 00 0C 00 00 00 02 00 00 00 FB FF FF FF 9E 08 00 00 02 00 00 00 1E 00 00 00 1E 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [46 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_9_4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Great Heavenly Wind Advisor",
+        "es": "Asistente tifón",
+        "fr": "Assistant Houragan",
+        "jp": "大天空疾風補佐",
+        "ko": "대천공 질풍 보좌관",
+        "zh-TW": "大天空疾風輔佐",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [43 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Dragon Kitchen",
+        "es": "Facción dragón",
+        "fr": "Faction des Dragons",
+        "jp": "邪竜族派閥",
+        "ko": "사룡족 파벌",
+        "zh-TW": "邪龍族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [44 CA 2D 00 38 E8 D3 23 38 04 00 00 18 00 00 00 02 00 00 00 FB FF FF FF 9E 08 00 00 02 00 00 00 1E 00 00 00 1E 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [47 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_9_5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Great Heavenstorm Head Chef",
+        "es": "Chef tempestad",
+        "fr": "Cuisinier Ciklon",
+        "jp": "大天空疾風雷轟料理長",
+        "ko": "대천공 질풍 뇌굉 주방장",
+        "zh-TW": "大天空疾風雷轟主廚",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [43 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Dragon Kitchen",
+        "es": "Facción dragón",
+        "fr": "Faction des Dragons",
+        "jp": "邪竜族派閥",
+        "ko": "사룡족 파벌",
+        "zh-TW": "邪龍族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [44 CA 2D 00 39 E8 D3 23 A8 0C 00 00 30 00 00 00 03 00 00 00 F6 FF FF FF 9E 08 00 00 02 00 00 00 1E 00 00 00 1E 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [48 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_9_6",
+    ],
+    [
+      "languages",
+      {
+        "en": "Draconic Dragon",
+        "es": "Dragón dragónico",
+        "fr": "Drakodragon",
+        "jp": "ドラゴニックドラゴン",
+        "ko": "드래고닉 드래곤",
+        "zh-TW": "超級龍的魔龍",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [43 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Dragon Kitchen",
+        "es": "Facción dragón",
+        "fr": "Faction des Dragons",
+        "jp": "邪竜族派閥",
+        "ko": "사룡족 파벌",
+        "zh-TW": "邪龍族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [44 CA 2D 00 3A E8 D3 23 F8 25 00 00 60 00 00 00 04 00 00 00 F1 FF FF FF 9E 08 00 00 02 00 00 00 1E 00 00 00 1E 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [4D 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_10_1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Handgun Trainee",
+        "es": "Aprendiz pistola",
+        "fr": "Apprenti Pistol",
+        "jp": "ハンドガン見習い",
+        "ko": "권총 수습생",
+        "zh-TW": "手鎗見習生",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [FF FF FF FF],
+    ],
+    [
+      "languages",
+      {
+        "en": "Rifle Demon Kitchen",
+        "es": "Facción pistolademonio",
+        "fr": "Faction des Carabinodémons",
+        "jp": "銃魔神族派閥",
+        "ko": "총 마신족 파벌",
+        "zh-TW": "銃魔神族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [A8 CA 2D 00 45 0F D4 23 28 00 00 00 03 00 00 00 01 00 00 00 F6 FF FF FF D5 07 00 00 02 00 00 00 00 00 00 00 50 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [4E 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_10_2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Shotgun Confectioner",
+        "es": "Artesano escopeta",
+        "fr": "Artisan Fuzil",
+        "jp": "ショットガン職人",
+        "ko": "산탄총 장인",
+        "zh-TW": "霰彈鎗工匠",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [4D 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Rifle Demon Kitchen",
+        "es": "Facción pistolademonio",
+        "fr": "Faction des Carabinodémons",
+        "jp": "銃魔神族派閥",
+        "ko": "총 마신족 파벌",
+        "zh-TW": "銃魔神族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [A8 CA 2D 00 46 0F D4 23 78 00 00 00 06 00 00 00 01 00 00 00 F6 FF FF FF D5 07 00 00 02 00 00 00 00 00 00 00 50 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [4F 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_10_3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Grenade Launcher Manager",
+        "es": "Mánager lanzagranadas",
+        "fr": "Gérant Grenadet",
+        "jp": "グレラン主任",
+        "ko": "유탄 발사기 주임",
+        "zh-TW": "榴彈發射器主任",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [4D 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Rifle Demon Kitchen",
+        "es": "Facción pistolademonio",
+        "fr": "Faction des Carabinodémons",
+        "jp": "銃魔神族派閥",
+        "ko": "총 마신족 파벌",
+        "zh-TW": "銃魔神族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [A8 CA 2D 00 47 0F D4 23 68 01 00 00 0C 00 00 00 02 00 00 00 F6 FF FF FF D5 07 00 00 02 00 00 00 00 00 00 00 50 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [50 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_10_4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Machine Gun Advisor",
+        "es": "Asistente ametralladora",
+        "fr": "Assistant Mitrayet",
+        "jp": "マシンガン補佐",
+        "ko": "기관총 보좌관",
+        "zh-TW": "機關鎗輔佐",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [4D 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Rifle Demon Kitchen",
+        "es": "Facción pistolademonio",
+        "fr": "Faction des Carabinodémons",
+        "jp": "銃魔神族派閥",
+        "ko": "총 마신족 파벌",
+        "zh-TW": "銃魔神族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [A8 CA 2D 00 48 0F D4 23 38 04 00 00 18 00 00 00 02 00 00 00 F6 FF FF FF D5 07 00 00 02 00 00 00 00 00 00 00 50 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [51 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_10_5",
+    ],
+    [
+      "languages",
+      {
+        "en": "∞ Magnum Head Chef",
+        "es": "Chef revolver ∞",
+        "fr": "Cuisinier Magnum",
+        "jp": "∞マグナム料理長",
+        "ko": "∞ 매그넘 주방장",
+        "zh-TW": "∞麥格農主廚",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [4D 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Rifle Demon Kitchen",
+        "es": "Facción pistolademonio",
+        "fr": "Faction des Carabinodémons",
+        "jp": "銃魔神族派閥",
+        "ko": "총 마신족 파벌",
+        "zh-TW": "銃魔神族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [A8 CA 2D 00 49 0F D4 23 A8 0C 00 00 30 00 00 00 03 00 00 00 F1 FF FF FF D5 07 00 00 02 00 00 00 00 00 00 00 50 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [52 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_10_6",
+    ],
+    [
+      "languages",
+      {
+        "en": "Demon Boy Gun Gun",
+        "es": "Joven pistolero",
+        "fr": "Piter Panpan",
+        "jp": "魔少年ガンガン",
+        "ko": "마소년 건건",
+        "zh-TW": "魔少年GANGAN",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [4D 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Rifle Demon Kitchen",
+        "es": "Facción pistolademonio",
+        "fr": "Faction des Carabinodémons",
+        "jp": "銃魔神族派閥",
+        "ko": "총 마신족 파벌",
+        "zh-TW": "銃魔神族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [A8 CA 2D 00 4A 0F D4 23 F8 25 00 00 60 00 00 00 04 00 00 00 EC FF FF FF D5 07 00 00 02 00 00 00 00 00 00 00 50 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [57 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_11_1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Sparkler Trainee",
+        "es": "Asistente chispa",
+        "fr": "Apprenti Pétart",
+        "jp": "火花見習い",
+        "ko": "불꽃놀이 수습생",
+        "zh-TW": "火花見習生",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [FF FF FF FF],
+    ],
+    [
+      "languages",
+      {
+        "en": "Light Bat Kitchen",
+        "es": "Facción murciélago",
+        "fr": "Faction des Chauffe-souris",
+        "jp": "光蝠族派閥",
+        "ko": "광복족 파벌",
+        "zh-TW": "光蝠族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [0C CB 2D 00 55 36 D4 23 0F 00 00 00 01 00 00 00 01 00 00 00 05 00 00 00 D8 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [58 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_11_2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Lighter Confectioner",
+        "es": "Artesano mechero",
+        "fr": "Artisan Briket",
+        "jp": "ライター職人",
+        "ko": "라이터 장인",
+        "zh-TW": "打火機工匠",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [57 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Light Bat Kitchen",
+        "es": "Facción murciélago",
+        "fr": "Faction des Chauffe-souris",
+        "jp": "光蝠族派閥",
+        "ko": "광복족 파벌",
+        "zh-TW": "光蝠族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [0C CB 2D 00 56 36 D4 23 2D 00 00 00 02 00 00 00 01 00 00 00 05 00 00 00 D8 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [59 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_11_3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Fireball Manager",
+        "es": "Mánager bola de fuego",
+        "fr": "Gérant Incendy",
+        "jp": "火だるま主任",
+        "ko": "불덩이 주임",
+        "zh-TW": "火球主任",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [57 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Light Bat Kitchen",
+        "es": "Facción murciélago",
+        "fr": "Faction des Chauffe-souris",
+        "jp": "光蝠族派閥",
+        "ko": "광복족 파벌",
+        "zh-TW": "光蝠族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [0C CB 2D 00 57 36 D4 23 87 00 00 00 04 00 00 00 02 00 00 00 05 00 00 00 D8 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [5A 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_11_4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Hellfire Advisor",
+        "es": "Asistente infernal",
+        "fr": "Assistant Inferno",
+        "jp": "地獄の業火補佐",
+        "ko": "지옥의 업화 보좌관",
+        "zh-TW": "地獄業火輔佐",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [57 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Light Bat Kitchen",
+        "es": "Facción murciélago",
+        "fr": "Faction des Chauffe-souris",
+        "jp": "光蝠族派閥",
+        "ko": "광복족 파벌",
+        "zh-TW": "光蝠族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [0C CB 2D 00 58 36 D4 23 95 01 00 00 08 00 00 00 02 00 00 00 05 00 00 00 D8 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [5B 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_11_5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Plasma Head Chef",
+        "es": "Chef plasma",
+        "fr": "Cuisinier Plasma",
+        "jp": "プラズマ料理長",
+        "ko": "플라스마 주방장",
+        "zh-TW": "電漿主廚",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [57 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Light Bat Kitchen",
+        "es": "Facción murciélago",
+        "fr": "Faction des Chauffe-souris",
+        "jp": "光蝠族派閥",
+        "ko": "광복족 파벌",
+        "zh-TW": "光蝠族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [0C CB 2D 00 59 36 D4 23 BF 04 00 00 10 00 00 00 03 00 00 00 00 00 00 00 D8 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [5C 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_11_6",
+    ],
+    [
+      "languages",
+      {
+        "en": "Symbol of Terror",
+        "es": "Representante del miedo",
+        "fr": "Peur incarnée",
+        "jp": "恐怖の象徴です",
+        "ko": "공포의 상징입니다",
+        "zh-TW": "恐怖的象徵",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [57 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Light Bat Kitchen",
+        "es": "Facción murciélago",
+        "fr": "Faction des Chauffe-souris",
+        "jp": "光蝠族派閥",
+        "ko": "광복족 파벌",
+        "zh-TW": "光蝠族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [0C CB 2D 00 5A 36 D4 23 3D 0E 00 00 20 00 00 00 04 00 00 00 FB FF FF FF D8 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [61 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_12_1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Crust-Scratching Trainee",
+        "es": "Aprendiz corteza fina",
+        "fr": "Apprenti Krouter",
+        "jp": "浅めの地殻見習い",
+        "ko": "얕은 지각 수습생",
+        "zh-TW": "地殼表面見習生",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [FF FF FF FF],
+    ],
+    [
+      "languages",
+      {
+        "en": "Fireblazer Kitchen",
+        "es": "Facción topo de fuego",
+        "fr": "Faction des Totaupes",
+        "jp": "火猛族派閥",
+        "ko": "화맹족 파벌",
+        "zh-TW": "火猛族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [70 CB 2D 00 65 5D D4 23 1E 00 00 00 02 00 00 00 01 00 00 00 0A 00 00 00 99 08 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [62 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_12_2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Upper Mantle Confectioner",
+        "es": "Artesano manto superior",
+        "fr": "Artisan Mantos",
+        "jp": "上部マントル職人",
+        "ko": "상부 맨틀 장인",
+        "zh-TW": "上層地函工匠",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [61 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Fireblazer Kitchen",
+        "es": "Facción topo de fuego",
+        "fr": "Faction des Totaupes",
+        "jp": "火猛族派閥",
+        "ko": "화맹족 파벌",
+        "zh-TW": "火猛族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [70 CB 2D 00 66 5D D4 23 5A 00 00 00 04 00 00 00 01 00 00 00 0A 00 00 00 99 08 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [63 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_12_3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Lower Mantle Manager",
+        "es": "Mánager manto",
+        "fr": "Gérant Mantoinf",
+        "jp": "下部マントル主任",
+        "ko": "하부 맨틀 주임",
+        "zh-TW": "下層地函工匠",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [61 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Fireblazer Kitchen",
+        "es": "Facción topo de fuego",
+        "fr": "Faction des Totaupes",
+        "jp": "火猛族派閥",
+        "ko": "화맹족 파벌",
+        "zh-TW": "火猛族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [70 CB 2D 00 67 5D D4 23 0E 01 00 00 08 00 00 00 02 00 00 00 0A 00 00 00 99 08 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [64 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_12_4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Molten Core Advisor",
+        "es": "Asistente núcleo externo",
+        "fr": "Assistant Noilleau",
+        "jp": "熱々外核補佐",
+        "ko": "뜨끈뜨끈 외핵 보좌관",
+        "zh-TW": "滾燙外核輔佐",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [61 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Fireblazer Kitchen",
+        "es": "Facción topo de fuego",
+        "fr": "Faction des Totaupes",
+        "jp": "火猛族派閥",
+        "ko": "화맹족 파벌",
+        "zh-TW": "火猛族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [70 CB 2D 00 68 5D D4 23 2A 03 00 00 10 00 00 00 02 00 00 00 0A 00 00 00 99 08 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [65 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_12_5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Solar Core Chef",
+        "es": "Chef núcleo interno",
+        "fr": "Cuisinier Greine",
+        "jp": "太陽級内核料理長",
+        "ko": "태양급 내핵 주방장",
+        "zh-TW": "太陽級內核主廚",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [61 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Fireblazer Kitchen",
+        "es": "Facción topo de fuego",
+        "fr": "Faction des Totaupes",
+        "jp": "火猛族派閥",
+        "ko": "화맹족 파벌",
+        "zh-TW": "火猛族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [70 CB 2D 00 69 5D D4 23 7E 09 00 00 20 00 00 00 03 00 00 00 05 00 00 00 99 08 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [66 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_12_6",
+    ],
+    [
+      "languages",
+      {
+        "en": "I Love Diggin' Tunnels!",
+        "es": "Excava túneles",
+        "fr": "Tunello",
+        "jp": "趣味はトンネル掘り",
+        "ko": "취미는 터널 뚫기",
+        "zh-TW": "興趣是挖隧道",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [61 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Fireblazer Kitchen",
+        "es": "Facción topo de fuego",
+        "fr": "Faction des Totaupes",
+        "jp": "火猛族派閥",
+        "ko": "화맹족 파벌",
+        "zh-TW": "火猛族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [70 CB 2D 00 6A 5D D4 23 7A 1C 00 00 40 00 00 00 04 00 00 00 00 00 00 00 99 08 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6B 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_13_1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Herring Trainee",
+        "es": "Asistente arenque",
+        "fr": "Apprenti Haran",
+        "jp": "ニシン見習い",
+        "ko": "청어 수습생",
+        "zh-TW": "鯡魚見習生",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [FF FF FF FF],
+    ],
+    [
+      "languages",
+      {
+        "en": "Water Sprite Kitchen",
+        "es": "Facción demonio de agua",
+        "fr": "Faction des Sahagins",
+        "jp": "水妖族派閥",
+        "ko": "수요족 파벌",
+        "zh-TW": "水妖族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [D4 CB 2D 00 75 84 D4 23 0F 00 00 00 01 00 00 00 01 00 00 00 14 00 00 00 D3 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6C 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_13_2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mackerel Confectioner",
+        "es": "Artesano caballa",
+        "fr": "Artisan Makero",
+        "jp": "サバ職人",
+        "ko": "고등어 장인",
+        "zh-TW": "鯖魚工匠",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [6B 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Water Sprite Kitchen",
+        "es": "Facción demonio de agua",
+        "fr": "Faction des Sahagins",
+        "jp": "水妖族派閥",
+        "ko": "수요족 파벌",
+        "zh-TW": "水妖族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [D4 CB 2D 00 76 84 D4 23 2D 00 00 00 02 00 00 00 01 00 00 00 14 00 00 00 D3 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6D 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_13_3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Scad Manager",
+        "es": "Mánager jurel",
+        "fr": "Gérant Chinchar",
+        "jp": "アジ主任",
+        "ko": "전갱이 주임",
+        "zh-TW": "鰺魚主任",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [6B 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Water Sprite Kitchen",
+        "es": "Facción demonio de agua",
+        "fr": "Faction des Sahagins",
+        "jp": "水妖族派閥",
+        "ko": "수요족 파벌",
+        "zh-TW": "水妖族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [D4 CB 2D 00 77 84 D4 23 87 00 00 00 04 00 00 00 02 00 00 00 14 00 00 00 D3 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6E 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_13_4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Flounder Advisor",
+        "es": "Asistente rodaballo",
+        "fr": "Assistant Limende",
+        "jp": "カレイ補佐",
+        "ko": "가자미 보좌관",
+        "zh-TW": "鰈魚輔佐",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [6B 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Water Sprite Kitchen",
+        "es": "Facción demonio de agua",
+        "fr": "Faction des Sahagins",
+        "jp": "水妖族派閥",
+        "ko": "수요족 파벌",
+        "zh-TW": "水妖族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [D4 CB 2D 00 78 84 D4 23 95 01 00 00 08 00 00 00 02 00 00 00 14 00 00 00 D3 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6F 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_13_5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Tilefish Head Chef",
+        "es": "Chef platija",
+        "fr": "Cuisinier Amaday",
+        "jp": "アマダイ料理長",
+        "ko": "옥돔 주방장",
+        "zh-TW": "馬頭魚主廚",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [6B 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Water Sprite Kitchen",
+        "es": "Facción demonio de agua",
+        "fr": "Faction des Sahagins",
+        "jp": "水妖族派閥",
+        "ko": "수요족 파벌",
+        "zh-TW": "水妖族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [D4 CB 2D 00 79 84 D4 23 BF 04 00 00 10 00 00 00 03 00 00 00 0F 00 00 00 D3 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [70 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_13_6",
+    ],
+    [
+      "languages",
+      {
+        "en": "Judge Bobby Fillet",
+        "es": "Juez del fileteo",
+        "fr": "Sashimiste",
+        "jp": "裁け「身卸」",
+        "ko": "심판해라 「회칼」",
+        "zh-TW": "裁決吧「去骨削肉」",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [6B 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Water Sprite Kitchen",
+        "es": "Facción demonio de agua",
+        "fr": "Faction des Sahagins",
+        "jp": "水妖族派閥",
+        "ko": "수요족 파벌",
+        "zh-TW": "水妖族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [D4 CB 2D 00 7A 84 D4 23 3D 0E 00 00 20 00 00 00 04 00 00 00 0A 00 00 00 D3 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [75 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_14_1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Puddle Trainee",
+        "es": "Aprendiz charco",
+        "fr": "Apprenti Flac",
+        "jp": "水たまり見習い",
+        "ko": "물웅덩이 수습생",
+        "zh-TW": "水漥見習生",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [FF FF FF FF],
+    ],
+    [
+      "languages",
+      {
+        "en": "Dragon God Kitchen",
+        "es": "Facción tibudragón",
+        "fr": "Faction des Draco-requins",
+        "jp": "竜神族派閥",
+        "ko": "용신족 파벌",
+        "zh-TW": "龍神族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [38 CC 2D 00 85 AB D4 23 1E 00 00 00 02 00 00 00 01 00 00 00 F6 FF FF FF 35 08 00 00 02 00 00 00 00 00 00 00 14 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [76 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_14_2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Pond Confectioner",
+        "es": "Artesano estanque",
+        "fr": "Artisan Mar",
+        "jp": "裏庭の池職人",
+        "ko": "뒤뜰의 연못 장인",
+        "zh-TW": "後院池塘工匠",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [75 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Dragon God Kitchen",
+        "es": "Facción tibudragón",
+        "fr": "Faction des Draco-requins",
+        "jp": "竜神族派閥",
+        "ko": "용신족 파벌",
+        "zh-TW": "龍神族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [38 CC 2D 00 86 AB D4 23 5A 00 00 00 04 00 00 00 01 00 00 00 F6 FF FF FF 35 08 00 00 02 00 00 00 00 00 00 00 14 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [77 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_14_3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Swamp Manager",
+        "es": "Mánager ciega gigante",
+        "fr": "Gérant Lak",
+        "jp": "大きめの沼主任",
+        "ko": "커다란 늪 주임",
+        "zh-TW": "大型沼澤主任",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [75 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Dragon God Kitchen",
+        "es": "Facción tibudragón",
+        "fr": "Faction des Draco-requins",
+        "jp": "竜神族派閥",
+        "ko": "용신족 파벌",
+        "zh-TW": "龍神族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [38 CC 2D 00 87 AB D4 23 0E 01 00 00 08 00 00 00 02 00 00 00 F6 FF FF FF 35 08 00 00 02 00 00 00 00 00 00 00 14 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [78 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_14_4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Open Sea Advisor",
+        "es": "Asistente mar amplio",
+        "fr": "Assistant Mair",
+        "jp": "広大な海補佐",
+        "ko": "광대한 바다 보좌관",
+        "zh-TW": "廣大海原輔佐",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [75 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Dragon God Kitchen",
+        "es": "Facción tibudragón",
+        "fr": "Faction des Draco-requins",
+        "jp": "竜神族派閥",
+        "ko": "용신족 파벌",
+        "zh-TW": "龍神族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [38 CC 2D 00 88 AB D4 23 2A 03 00 00 10 00 00 00 02 00 00 00 F6 FF FF FF 35 08 00 00 02 00 00 00 00 00 00 00 14 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [79 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_14_5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Open Ocean Head Chef",
+        "es": "Chef océano mundial",
+        "fr": "Cuisinier Aucéan",
+        "jp": "世界級大洋料理長",
+        "ko": "세계급 대양 주방장",
+        "zh-TW": "世界級大洋主廚",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [75 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Dragon God Kitchen",
+        "es": "Facción tibudragón",
+        "fr": "Faction des Draco-requins",
+        "jp": "竜神族派閥",
+        "ko": "용신족 파벌",
+        "zh-TW": "龍神族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [38 CC 2D 00 89 AB D4 23 7E 09 00 00 20 00 00 00 03 00 00 00 F1 FF FF FF 35 08 00 00 02 00 00 00 00 00 00 00 14 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [7A 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_14_6",
+    ],
+    [
+      "languages",
+      {
+        "en": "Unlimited Shrimps",
+        "es": "Fan de tiburones gamba",
+        "fr": "Recrevett",
+        "jp": "推しはシュリンプな鮫",
+        "ko": "최애는 슈림프한 상어",
+        "zh-TW": "熱愛蝦子的鯊魚",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [75 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Dragon God Kitchen",
+        "es": "Facción tibudragón",
+        "fr": "Faction des Draco-requins",
+        "jp": "竜神族派閥",
+        "ko": "용신족 파벌",
+        "zh-TW": "龍神族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [38 CC 2D 00 8A AB D4 23 7A 1C 00 00 40 00 00 00 04 00 00 00 EC FF FF FF 35 08 00 00 02 00 00 00 00 00 00 00 14 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [7F 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_15_1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Hummingbird Trainee",
+        "es": "Aprendiz colibrí",
+        "fr": "Apprenti Kolibri",
+        "jp": "ハチドリ見習い",
+        "ko": "물웅덩이 수습생",
+        "zh-TW": "水漥見習生",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [FF FF FF FF],
+    ],
+    [
+      "languages",
+      {
+        "en": "Bone Bird Kitchen",
+        "es": "Facción pájaro",
+        "fr": "Faction des Wazos",
+        "jp": "骨鳥族派閥",
+        "ko": "골조족 파벌",
+        "zh-TW": "骨鳥族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [9C CC 2D 00 95 D2 D4 23 0F 00 00 00 01 00 00 00 01 00 00 00 0A 00 00 00 D4 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [80 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_15_2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Sparrow Confectioner",
+        "es": "Artesano bulbul",
+        "fr": "Artisan Bulbule",
+        "jp": "ヒヨドリ職人",
+        "ko": "뒤뜰의 연못 장인",
+        "zh-TW": "後院池塘工匠",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [7F 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Bone Bird Kitchen",
+        "es": "Facción pájaro",
+        "fr": "Faction des Wazos",
+        "jp": "骨鳥族派閥",
+        "ko": "골조족 파벌",
+        "zh-TW": "骨鳥族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [9C CC 2D 00 96 D2 D4 23 2D 00 00 00 02 00 00 00 01 00 00 00 0A 00 00 00 D4 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [81 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_15_3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Cuckoo Manager",
+        "es": "Mánager cuco",
+        "fr": "Gérant Cukou",
+        "jp": "カッコウ主任",
+        "ko": "커다란 늪 주임",
+        "zh-TW": "大型沼澤主任",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [7F 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Bone Bird Kitchen",
+        "es": "Facción pájaro",
+        "fr": "Faction des Wazos",
+        "jp": "骨鳥族派閥",
+        "ko": "골조족 파벌",
+        "zh-TW": "骨鳥族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [9C CC 2D 00 97 D2 D4 23 87 00 00 00 04 00 00 00 02 00 00 00 0A 00 00 00 D4 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [82 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_15_4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Falcon Advisor",
+        "es": "Asistente halcón",
+        "fr": "Assistant Focon",
+        "jp": "ハヤブサ補佐",
+        "ko": "광대한 바다 보좌관",
+        "zh-TW": "廣大海原輔佐",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [7F 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Bone Bird Kitchen",
+        "es": "Facción pájaro",
+        "fr": "Faction des Wazos",
+        "jp": "骨鳥族派閥",
+        "ko": "골조족 파벌",
+        "zh-TW": "骨鳥族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [9C CC 2D 00 98 D2 D4 23 95 01 00 00 08 00 00 00 02 00 00 00 0A 00 00 00 D4 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [83 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_15_5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Sea Eagle Head Chef",
+        "es": "Chef pigargo",
+        "fr": "Cuisinier Pirarg",
+        "jp": "オオワシ料理長",
+        "ko": "세계급 대양 주방장",
+        "zh-TW": "世界級大洋主廚",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [7F 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Bone Bird Kitchen",
+        "es": "Facción pájaro",
+        "fr": "Faction des Wazos",
+        "jp": "骨鳥族派閥",
+        "ko": "골조족 파벌",
+        "zh-TW": "骨鳥族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [9C CC 2D 00 99 D2 D4 23 BF 04 00 00 10 00 00 00 03 00 00 00 05 00 00 00 D4 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [84 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_15_6",
+    ],
+    [
+      "languages",
+      {
+        "en": "Truly Suave Bird",
+        "es": "Pájaro guaperas",
+        "fr": "Beloiseau",
+        "jp": "素顔はイケメンバード",
+        "ko": "최애는 슈림프한 상어",
+        "zh-TW": "熱愛蝦子的鯊魚",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [7F 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Bone Bird Kitchen",
+        "es": "Facción pájaro",
+        "fr": "Faction des Wazos",
+        "jp": "骨鳥族派閥",
+        "ko": "골조족 파벌",
+        "zh-TW": "骨鳥族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [9C CC 2D 00 9A D2 D4 23 3D 0E 00 00 20 00 00 00 04 00 00 00 00 00 00 00 D4 07 00 00 02 00 00 00 0A 00 00 00 0A 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [89 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_16_1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Omega Trainee",
+        "es": "Aprendiz omega",
+        "fr": "Apprenti Omega",
+        "jp": "オメガ見習い",
+        "ko": "오메가 수습생",
+        "zh-TW": "奧米伽見習生",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [FF FF FF FF],
+    ],
+    [
+      "languages",
+      {
+        "en": "Genju Kitchen",
+        "es": "Facción críptidos",
+        "fr": "Faction des Cu Siths",
+        "jp": "幻獣族派閥",
+        "ko": "환수족 파벌",
+        "zh-TW": "幻獸族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [00 CD 2D 00 A5 F9 D4 23 1E 00 00 00 02 00 00 00 01 00 00 00 0F 00 00 00 9A 08 00 00 02 00 00 00 0A 00 00 00 00 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [8A 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_16_2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Sigma Confectioner",
+        "es": "Artesano sigma",
+        "fr": "Artisan Sigma",
+        "jp": "シグマ職人",
+        "ko": "시그마 장인",
+        "zh-TW": "希格瑪工匠",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [89 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Genju Kitchen",
+        "es": "Facción críptidos",
+        "fr": "Faction des Cu Siths",
+        "jp": "幻獣族派閥",
+        "ko": "환수족 파벌",
+        "zh-TW": "幻獸族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [00 CD 2D 00 A6 F9 D4 23 5A 00 00 00 04 00 00 00 01 00 00 00 0F 00 00 00 9A 08 00 00 02 00 00 00 0A 00 00 00 00 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [8B 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_16_3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Theta Manager",
+        "es": "Mánager zeta",
+        "fr": "Gérant Thêta",
+        "jp": "シータ主任",
+        "ko": "세타 주임",
+        "zh-TW": "西塔主任",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [89 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Genju Kitchen",
+        "es": "Facción críptidos",
+        "fr": "Faction des Cu Siths",
+        "jp": "幻獣族派閥",
+        "ko": "환수족 파벌",
+        "zh-TW": "幻獸族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [00 CD 2D 00 A7 F9 D4 23 0E 01 00 00 08 00 00 00 02 00 00 00 0F 00 00 00 9A 08 00 00 02 00 00 00 0A 00 00 00 00 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [8C 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_16_4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Beta Advisor",
+        "es": "Asistente beta",
+        "fr": "Assistant Bêta",
+        "jp": "ベータ補佐",
+        "ko": "베타 보좌관",
+        "zh-TW": "貝塔輔佐",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [89 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Genju Kitchen",
+        "es": "Facción críptidos",
+        "fr": "Faction des Cu Siths",
+        "jp": "幻獣族派閥",
+        "ko": "환수족 파벌",
+        "zh-TW": "幻獸族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [00 CD 2D 00 A8 F9 D4 23 2A 03 00 00 10 00 00 00 02 00 00 00 0F 00 00 00 9A 08 00 00 02 00 00 00 0A 00 00 00 00 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [8D 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_16_5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Alpha Head Chef",
+        "es": "Chef alfa",
+        "fr": "Cuisinier Alpha",
+        "jp": "アルファ料理長",
+        "ko": "알파 주방장",
+        "zh-TW": "阿爾法主廚",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [89 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Genju Kitchen",
+        "es": "Facción críptidos",
+        "fr": "Faction des Cu Siths",
+        "jp": "幻獣族派閥",
+        "ko": "환수족 파벌",
+        "zh-TW": "幻獸族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [00 CD 2D 00 A9 F9 D4 23 7E 09 00 00 20 00 00 00 03 00 00 00 0A 00 00 00 9A 08 00 00 02 00 00 00 0A 00 00 00 00 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [8E 04 00 00],
+    ],
+    [
+      "key",
+      "SENATOR_1_16_6",
+    ],
+    [
+      "languages",
+      {
+        "en": "I'm Not a Dog, Woof!",
+        "es": "No es perro, es lobo",
+        "fr": "Loupachien",
+        "jp": "犬じゃない狼だワン",
+        "ko": "개가 아니라 늑대다멍",
+        "zh-TW": "不是狗而是狼啦汪",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [89 04 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Genju Kitchen",
+        "es": "Facción críptidos",
+        "fr": "Faction des Cu Siths",
+        "jp": "幻獣族派閥",
+        "ko": "환수족 파벌",
+        "zh-TW": "幻獸族派系",
+      },
+      "4",
+    ],
+    [
+      60,
+      Buffer [00 CD 2D 00 AA F9 D4 23 7A 1C 00 00 40 00 00 00 04 00 00 00 05 00 00 00 9A 08 00 00 02 00 00 00 0A 00 00 00 00 00 00 00 80 96 98 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]

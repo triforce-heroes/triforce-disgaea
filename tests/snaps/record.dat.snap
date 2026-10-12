@@ -1,0 +1,1094 @@
+[
+  [
+    [
+      4,
+      Buffer [01 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_01_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Total Playtime",
+        "es": "Tiempo de juego",
+        "fr": "Temps de jeu",
+        "jp": "総プレイ時間",
+        "ko": "총 플레이 시간",
+        "zh-TW": "累計遊玩時間",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_01_02",
+    ],
+    [
+      "languages",
+      {
+        "en": "Time Spent in Base",
+        "es": "Tiempo en el castillo",
+        "fr": "Temps passé au château",
+        "jp": "魔王城にいる時間",
+        "ko": "마왕성에 있었던 시간",
+        "zh-TW": "待在魔王城的時間",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [03 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_01_03",
+    ],
+    [
+      "languages",
+      {
+        "en": "Time Spent in Battle",
+        "es": "Tiempo peleando",
+        "fr": "Temps passé en combat",
+        "jp": "戦闘している時間",
+        "ko": "전투한 시간",
+        "zh-TW": "進行戰鬥的時間",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [04 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_01_04",
+    ],
+    [
+      "languages",
+      {
+        "en": "Time Spent in Item Worlds",
+        "es": "Tiempo en Mundo objeto",
+        "fr": "Temps passé dans le MDO",
+        "jp": "アイテム界にいる時間",
+        "ko": "아이템계에 있었던 시간",
+        "zh-TW": "待在道具界的時間",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [98 75 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [05 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_01_05",
+    ],
+    [
+      "languages",
+      {
+        "en": "Time Spent in Chara Worlds",
+        "es": "Tiempo en Mundo personaje",
+        "fr": "Temps passé dans le MDP",
+        "jp": "キャラ界にいる時間",
+        "ko": "캐릭터계에 있었던 시간",
+        "zh-TW": "待在角色界的時間",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [97 75 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [06 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_01_06",
+    ],
+    [
+      "languages",
+      {
+        "en": "Highest Level",
+        "es": "Nivel más alto",
+        "fr": "Meilleur niveau",
+        "jp": "最高レベル",
+        "ko": "최고 레벨",
+        "zh-TW": "最高等級",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [07 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_01_07",
+    ],
+    [
+      "languages",
+      {
+        "en": "Highest Cumulative Level",
+        "es": "Nivel total más alto",
+        "fr": "Meilleur niveau cumulé",
+        "jp": "最高総レベル",
+        "ko": "최고 총 레벨",
+        "zh-TW": "最高總和等級",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [08 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_01_08",
+    ],
+    [
+      "languages",
+      {
+        "en": "Total Reincarnation Count",
+        "es": "Veces reencarnado",
+        "fr": "Réincarnations réalisées",
+        "jp": "累計転生回数",
+        "ko": "누적 전생 횟수",
+        "zh-TW": "累計轉生次數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [09 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_02_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Max Single Hit Damage",
+        "es": "Daño máx.",
+        "fr": "Meilleurs dégâts",
+        "jp": "最大ダメージ量",
+        "ko": "최대 대미지",
+        "zh-TW": "最高傷害值",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0A 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_02_02",
+    ],
+    [
+      "languages",
+      {
+        "en": "Max Ult. Damage",
+        "es": "Daño máx. arte secreta",
+        "fr": "Meilleurs dégâts totaux d’essence",
+        "jp": "最大奥義トータルダメージ量",
+        "ko": "최대 총 대미지",
+        "zh-TW": "最高總和傷害值",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0B 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_02_03",
+    ],
+    [
+      "languages",
+      {
+        "en": "Total Damage",
+        "es": "Daño acumulado",
+        "fr": "Dégâts totaux",
+        "jp": "累計ダメージ量",
+        "ko": "누적 대미지",
+        "zh-TW": "累計傷害值",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0C 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_02_04",
+    ],
+    [
+      "languages",
+      {
+        "en": "Largest Combo",
+        "es": "Mejor combo",
+        "fr": "Meilleur combo",
+        "jp": "最大コンボ数",
+        "ko": "최대 콤보 수",
+        "zh-TW": "最高連擊數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0D 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_02_05",
+    ],
+    [
+      "languages",
+      {
+        "en": "Enemy Kill Count",
+        "es": "Enemigos derrotados",
+        "fr": "Ennemis éliminés",
+        "jp": "敵撃破数",
+        "ko": "적 격파 수",
+        "zh-TW": "擊倒敵人數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0E 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_02_06",
+    ],
+    [
+      "languages",
+      {
+        "en": "Max Combo Total Damage",
+        "es": "Daño máx. por combo",
+        "fr": "Meilleurs dégâts totaux des combos",
+        "jp": "最大コンボトータルダメージ量",
+        "ko": "최대 콤보 총 대미지",
+        "zh-TW": "最高連擊總和傷害值",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0F 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_03_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Distance Traveled",
+        "es": "Distancia recorrida",
+        "fr": "Distance parcourue",
+        "jp": "移動した距離",
+        "ko": "이동한 거리",
+        "zh-TW": "移動距離",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [10 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_03_02",
+    ],
+    [
+      "languages",
+      {
+        "en": "Dash Count",
+        "es": "Esquivas",
+        "fr": "Esquives réalisées",
+        "jp": "ステップを踏んだ回数",
+        "ko": "스텝을 밟은 횟수",
+        "zh-TW": "發動墊步次數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [11 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_03_03",
+    ],
+    [
+      "languages",
+      {
+        "en": "Jump Count",
+        "es": "Saltos",
+        "fr": "Sauts réalisés",
+        "jp": "ジャンプした回数",
+        "ko": "점프한 횟수",
+        "zh-TW": "跳躍次數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [12 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_03_04",
+    ],
+    [
+      "languages",
+      {
+        "en": "Conversations Started",
+        "es": "Veces habladas",
+        "fr": "Conversations engagées",
+        "jp": "話しかけた回数",
+        "ko": "말을 건넨 횟수",
+        "zh-TW": "交談互動次數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [13 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_03_05",
+    ],
+    [
+      "languages",
+      {
+        "en": "Special Skills Initiated",
+        "es": "Técnicas especiales usadas",
+        "fr": "Capacités spéciales utilisées",
+        "jp": "特殊技を使った回数",
+        "ko": "특수 기술을 사용한 횟수",
+        "zh-TW": "使用特殊技次數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [14 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_03_06",
+    ],
+    [
+      "languages",
+      {
+        "en": "Magichanges Performed",
+        "es": "Magicambio",
+        "fr": "Utilisation du magimorph",
+        "jp": "魔チェンジした回数",
+        "ko": "마체인지한 횟수",
+        "zh-TW": "發動魔變換次數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [15 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_04_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Money Given to Rosen Queen",
+        "es": "Compras en RQ",
+        "fr": "Total de ventes de Rosen Queen",
+        "jp": "RQ商会総売上",
+        "ko": "RQ 상회 총매상",
+        "zh-TW": "RQ商會總營業額",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [16 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_04_02",
+    ],
+    [
+      "languages",
+      {
+        "en": "Stages Cleared",
+        "es": "Etapas completadas",
+        "fr": "Niveaux terminés",
+        "jp": "ステージクリア回数",
+        "ko": "스테이지 클리어 횟수",
+        "zh-TW": "通關關卡次數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [17 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_04_03",
+    ],
+    [
+      "languages",
+      {
+        "en": "Item World Visits",
+        "es": "Veces en Mundo objeto",
+        "fr": "Utilisation du Monde des objets",
+        "jp": "アイテム界利用回数",
+        "ko": "아이템계 이용 횟수",
+        "zh-TW": "使用道具界的次數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [98 75 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [18 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_04_04",
+    ],
+    [
+      "languages",
+      {
+        "en": "Item World Waves Fought",
+        "es": "Oleadas en Mundo objeto",
+        "fr": "Total de vagues (MDO)",
+        "jp": "アイテム界累計WAVE数",
+        "ko": "아이템계 누적 WAVE 수",
+        "zh-TW": "道具界累計WAVE數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [98 75 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [19 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_04_05",
+    ],
+    [
+      "languages",
+      {
+        "en": "Innocents Defeated",
+        "es": "Inocentes derrotados",
+        "fr": "Innocents éliminés",
+        "jp": "イノセント撃破数",
+        "ko": "이노센트 격파 수",
+        "zh-TW": "純靈擊倒數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [98 75 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1A 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_04_06",
+    ],
+    [
+      "languages",
+      {
+        "en": "Item Gods Defeated",
+        "es": "Objetos divinos derrotados",
+        "fr": "Éliminations (MDO)",
+        "jp": "アイテム神撃破数",
+        "ko": "아이템 신 격파 수",
+        "zh-TW": "道具神擊倒數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [98 75 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1B 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_04_07",
+    ],
+    [
+      "languages",
+      {
+        "en": "Innocents Born",
+        "es": "Inocentes nacidos",
+        "fr": "Naissances d’Innocents",
+        "jp": "イノセントが生まれた数",
+        "ko": "이노센트가 태어난 횟수",
+        "zh-TW": "純靈出生數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [5F 76 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1C 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_05_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Assemblies Held",
+        "es": "Asambleas",
+        "fr": "Assemblées tenues",
+        "jp": "議会開催数",
+        "ko": "의회 개최 횟수",
+        "zh-TW": "召開議會次數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [95 75 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1D 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_05_02",
+    ],
+    [
+      "languages",
+      {
+        "en": "Bribes Given",
+        "es": "Sobornos",
+        "fr": "Pots-de-vin donnés",
+        "jp": "ワイロを贈った数",
+        "ko": "뇌물을 준 횟수",
+        "zh-TW": "行賄次數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [95 75 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1E 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_05_03",
+    ],
+    [
+      "languages",
+      {
+        "en": "Paid to Pass",
+        "es": "Persuadido con "honestidad"",
+        "fr": "Persuasion par bonne foi",
+        "jp": "誠意を見せて説得した回数",
+        "ko": "성의를 보이고 설득한 횟수",
+        "zh-TW": "展現誠意說服對方的次數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [95 75 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1F 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_05_04",
+    ],
+    [
+      "languages",
+      {
+        "en": "HL Given",
+        "es": "Dinero ofrecido con "honestidad"",
+        "fr": "Montant de la bonne foi",
+        "jp": "誠意を見せた金額",
+        "ko": "성의를 보인 금액",
+        "zh-TW": "展現誠意的金額",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [95 75 00 00 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [20 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_05_05",
+    ],
+    [
+      "languages",
+      {
+        "en": "Persuaded by Force",
+        "es": "Persuadido a la fuerza",
+        "fr": "Persuasion par détermination",
+        "jp": "力ずくで説得した回数",
+        "ko": "힘으로 설득한 횟수",
+        "zh-TW": "展現武力說服對方的次數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [95 75 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [21 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_05_06",
+    ],
+    [
+      "languages",
+      {
+        "en": "Buddy Bonds Forged",
+        "es": "Contratos con familiares",
+        "fr": "Prisonniers contractés",
+        "jp": "捕虜と契約した数",
+        "ko": "포로와 계약한 횟수",
+        "zh-TW": "與俘虜締結契約的次數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [99 75 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [22 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_05_07",
+    ],
+    [
+      "languages",
+      {
+        "en": "Monsters Befriended",
+        "es": "Enemigos capturados",
+        "fr": "Ennemis capturés",
+        "jp": "敵を捕まえた数",
+        "ko": "적을 붙잡은 횟수",
+        "zh-TW": "捕捉敵人的次數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [99 75 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [23 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_06_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Chara World Visits",
+        "es": "Veces en Mundo personaje",
+        "fr": "Utilisation du Monde des persos",
+        "jp": "キャラ界利用回数",
+        "ko": "캐릭터계 이용 횟수",
+        "zh-TW": "使用角色界的次數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [97 75 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [24 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_06_02",
+    ],
+    [
+      "languages",
+      {
+        "en": "CW Tiles Traversed",
+        "es": "Casillas pisadas",
+        "fr": "Cases parcourues (MDP)",
+        "jp": "キャラ界踏破マス数",
+        "ko": "캐릭터계 답파 칸 수",
+        "zh-TW": "在角色界走過的格子數量",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [97 75 00 00 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [25 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_06_03",
+    ],
+    [
+      "languages",
+      {
+        "en": "CW Maximum Damage",
+        "es": "Mejor daño en Mundo personaje",
+        "fr": "Dégâts max (MDP)",
+        "jp": "キャラ界最大ダメージ量",
+        "ko": "캐릭터계 최대 대미지",
+        "zh-TW": "在角色界的最高傷害值",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [97 75 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [26 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_06_04",
+    ],
+    [
+      "languages",
+      {
+        "en": "CW Total Amount of Damage",
+        "es": "Daño en Mundo personaje",
+        "fr": "Dégâts totaux (MDP)",
+        "jp": "キャラ界累計ダメージ量",
+        "ko": "캐릭터계 누적 대미지",
+        "zh-TW": "在角色界的累計傷害值",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [97 75 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [27 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_06_05",
+    ],
+    [
+      "languages",
+      {
+        "en": "CW Enemy Kill Count",
+        "es": "Enemigos derrotados en Mundo personaje",
+        "fr": "Ennemis éliminés (MDP)",
+        "jp": "キャラ界敵撃破数",
+        "ko": "캐릭터계 적 격파 수",
+        "zh-TW": "在角色界的擊倒敵人數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [97 75 00 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [28 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_07_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Minister Wurst Kill Count",
+        "es": "Brust derrotado",
+        "fr": "Éliminations du ministre Brust",
+        "jp": "大臣ブルースト撃破回数",
+        "ko": "대신 부르스트 격파 횟수",
+        "zh-TW": "擊倒大臣布魯斯特的次數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 03 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [29 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_07_02",
+    ],
+    [
+      "languages",
+      {
+        "en": "Carnage Minister Wurst Kill Count",
+        "es": "Brust shura derrotado",
+        "fr": "Éliminations de Brust, ministre du Carnage",
+        "jp": "修羅大臣ブルースト撃破回数",
+        "ko": "수라 대신 부르스트 격파 횟수",
+        "zh-TW": "擊倒修羅大臣布魯斯特的次數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 03 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2A 00 00 00],
+    ],
+    [
+      "key",
+      "RECORD_07_03",
+    ],
+    [
+      "languages",
+      {
+        "en": "Carnage Supreme Ruler Asha Kill Count",
+        "es": "Asha shura derrotada",
+        "fr": "Éliminations d’Asha, seigneuresse du Carnage",
+        "jp": "修羅覇王アーシャ撃破回数",
+        "ko": "수라 패왕 아샤 격파 횟수",
+        "zh-TW": "擊倒修羅霸王雅夏的次數",
+      },
+      "2",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 03 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]

@@ -1,0 +1,1052 @@
+[
+  [
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_STAND",
+    ],
+    [
+      "notes",
+      "停止",
+    ],
+    [
+      "languages",
+      {
+        "en": "Stop",
+        "es": "Parar",
+        "fr": "Arrêt",
+        "jp": "停止",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [01 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_IDLE",
+    ],
+    [
+      "notes",
+      "待機",
+    ],
+    [
+      "languages",
+      {
+        "en": "Standby",
+        "es": "A la espera",
+        "fr": "Attente",
+        "jp": "待機",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_IDLE_AIR",
+    ],
+    [
+      "notes",
+      "空中待機",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mid-Air Standby",
+        "es": "A la espera en el aire",
+        "fr": "Attente (vol)",
+        "jp": "空中待機",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [03 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_IDLE_DIVE",
+    ],
+    [
+      "notes",
+      "潜水待機",
+    ],
+    [
+      "languages",
+      {
+        "en": "Underwater Standby",
+        "es": "A la espera sumergido",
+        "fr": "Attente (nage)",
+        "jp": "潜水待機",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [04 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_WALK",
+    ],
+    [
+      "notes",
+      "歩き",
+    ],
+    [
+      "languages",
+      {
+        "en": "Walk",
+        "es": "Caminar",
+        "fr": "Marche",
+        "jp": "歩き",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [05 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_WALK_LEFT",
+    ],
+    [
+      "notes",
+      "横歩き(左)",
+    ],
+    [
+      "languages",
+      {
+        "en": "Walk Sideways (Left)",
+        "es": "Paso lateral (←)",
+        "fr": "Pas vers la gauche",
+        "jp": "横歩き(左)",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [06 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_WALK_RIGHT",
+    ],
+    [
+      "notes",
+      "横歩き(右)",
+    ],
+    [
+      "languages",
+      {
+        "en": "Walk Sideways (Right)",
+        "es": "Paso lateral (→)",
+        "fr": "Pas vers la droite",
+        "jp": "横歩き(右)",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [07 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_RUN",
+    ],
+    [
+      "notes",
+      "走り",
+    ],
+    [
+      "languages",
+      {
+        "en": "Run",
+        "es": "Correr",
+        "fr": "Course",
+        "jp": "走り",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [08 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_RUN_AIR",
+    ],
+    [
+      "notes",
+      "空中走り",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mid-Air Run",
+        "es": "Correr en el aire",
+        "fr": "Course (vol)",
+        "jp": "空中走り",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [09 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_DASH",
+    ],
+    [
+      "notes",
+      "ダッシュ",
+    ],
+    [
+      "languages",
+      {
+        "en": "Run",
+        "es": "Esprintar",
+        "fr": "Course",
+        "jp": "ダッシュ",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0A 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_JUMP",
+    ],
+    [
+      "notes",
+      "ジャンプ",
+    ],
+    [
+      "languages",
+      {
+        "en": "Jump",
+        "es": "Saltar",
+        "fr": "Saut",
+        "jp": "ジャンプ",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0B 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_DAMAGE",
+    ],
+    [
+      "notes",
+      "ダメージ",
+    ],
+    [
+      "languages",
+      {
+        "en": "Damage",
+        "es": "Daño",
+        "fr": "Dégâts",
+        "jp": "ダメージ",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0C 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_DOWN",
+    ],
+    [
+      "notes",
+      "ダウン",
+    ],
+    [
+      "languages",
+      {
+        "en": "Down",
+        "es": "Caída",
+        "fr": "À terre",
+        "jp": "ダウン",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0D 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_BLOW_AWAY_POSE",
+    ],
+    [
+      "notes",
+      "吹き飛ばしポーズ",
+    ],
+    [
+      "languages",
+      {
+        "en": "Knockback Pose",
+        "es": "Bonificación de empuje",
+        "fr": "Projection",
+        "jp": "吹き飛ばしポーズ",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0E 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_GET_UP",
+    ],
+    [
+      "notes",
+      "起き上がり",
+    ],
+    [
+      "languages",
+      {
+        "en": "Get Up",
+        "es": "Levantarse",
+        "fr": "Redressement",
+        "jp": "起き上がり",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0F 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_FALL_DOWN",
+    ],
+    [
+      "notes",
+      "その場倒れ",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [10 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_FALTER",
+    ],
+    [
+      "notes",
+      "怯み",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [11 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_SPECIAL_IDLE",
+    ],
+    [
+      "notes",
+      "特殊待機",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [12 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_SPECIAL_IDLE_LOOP",
+    ],
+    [
+      "notes",
+      "特殊待機_ループ",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [13 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_HEROINE_INCAPACITATED",
+    ],
+    [
+      "notes",
+      "ヒロイン_戦闘不能",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [14 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_HEROINE_STOP",
+    ],
+    [
+      "notes",
+      "ヒロイン_停止",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [15 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_HEROINE_HAPPY",
+    ],
+    [
+      "notes",
+      "ヒロイン_喜ぶ",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [16 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_HEROINE_SURPRISED",
+    ],
+    [
+      "notes",
+      "ヒロイン_驚く",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [17 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_HEROINE_POINTING",
+    ],
+    [
+      "notes",
+      "ヒロイン_指さし",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [18 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_HEROINE_APPEARANCE",
+    ],
+    [
+      "notes",
+      "ヒロイン_登場",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [19 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_HEROINE_WORRY",
+    ],
+    [
+      "notes",
+      "ヒロイン_悩む",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1A 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_HEROINE_SAD",
+    ],
+    [
+      "notes",
+      "ヒロイン_悲しむ",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1B 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_HEROINE_NOD",
+    ],
+    [
+      "notes",
+      "ヒロイン_頷く",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1C 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_HEROINE_ANGER",
+    ],
+    [
+      "notes",
+      "ヒロイン_怒る",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1D 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_HEROINE_LOOKAROUND",
+    ],
+    [
+      "notes",
+      "ヒロイン_見渡す",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1E 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_CHARACTER_WORLD_ATTACK",
+    ],
+    [
+      "notes",
+      "キャラ界用_攻撃",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1F 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_CHARACTER_WORLD_STRONG_ATTACK",
+    ],
+    [
+      "notes",
+      "キャラ界用_強攻撃",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [20 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_REINCARNATION_COMPLETION",
+    ],
+    [
+      "notes",
+      "転生完了",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [21 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_QUEST_CLEAR",
+    ],
+    [
+      "notes",
+      "クエストクリア",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [22 00 00 00],
+    ],
+    [
+      "key",
+      "MODEL_SEQ_IDLE_MENU",
+    ],
+    [
+      "notes",
+      "待機メニュー",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]

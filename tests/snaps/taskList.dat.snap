@@ -1,0 +1,2296 @@
+[
+  [
+    [
+      4,
+      Buffer [01 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0001",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Prepare for battle and then
+talk to the Dimension Guide",
+        "es": "Cuando lo tengas todo listo, habla
+con el barquero interdimensional.",
+        "fr": "Préparez-vous au combat et
+parlez au Guide dimensionnel.",
+        "jp": "戦闘の準備を済ませて
+時空の渡し人に話しかける",
+        "ko": "전투 준비를 마치고
+시공의 뱃사공에게 말을 건다",
+        "zh-TW": "和穿越時空者對話
+做好戰鬥準備",
+      },
+      "3",
+      2,
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 01 00 00 00 FE 75 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0002",
+    ],
+    [
+      8,
+      Buffer [02 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "To Those Who Seek
+Great Strength"",
+        "es": "Completa:
+"Para los que desean fuerza"",
+        "fr": "Terminez « À ceux qui
+cherchent la puissance ».",
+        "jp": "『剛力を求めし者へ』
+をクリアする",
+        "ko": "『힘을 추구하는 자에게』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「獻給尋求剛力之人」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 FE 75 00 00 01 00 00 00 CC D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [03 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0003",
+    ],
+    [
+      8,
+      Buffer [03 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "For He Who Desires
+Finesse"",
+        "es": "Completa:
+"Para los que anhelan técnica"",
+        "fr": "Terminez « À ceux qui
+convoitent le savoir-faire ».",
+        "jp": "『技巧を欲する者へ』
+をクリアする",
+        "ko": "『기교를 원하는 자에게』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「獻給渴望技巧之人」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 CC D8 00 00 01 00 00 00 CD D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [04 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0004",
+    ],
+    [
+      8,
+      Buffer [04 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "For He Who Wants
+Super Speed"",
+        "es": "Completa:
+"Para los que quieren velocidad"",
+        "fr": "Terminez « À ceux qui
+aspirent à la vitesse ».",
+        "jp": "『瞬速を望みし者へ』
+をクリアする",
+        "ko": "『순속을 바라는 자에게』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「獻給渴求瞬速之人」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 CD D8 00 00 01 00 00 00 CE D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [05 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0005",
+    ],
+    [
+      8,
+      Buffer [05 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Bring the Fight to
+John-Zuck"",
+        "es": "Completa:
+"Contra John Huck"",
+        "fr": "Terminez
+« Duel : Rondinou ».",
+        "jp": "『対決・ジョンハック』
+をクリアする",
+        "ko": "『대결·존핵』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「對決‧喬哈克」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 CE D8 00 00 01 00 00 00 CF D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [06 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0006",
+    ],
+    [
+      8,
+      Buffer [06 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Dark Lode"
+",
+        "es": "Completa:
+"El filón oscuro"",
+        "fr": "Terminez « Filon
+d’obscurité »",
+        "jp": "『暗所の鉱脈』
+をクリアする",
+        "ko": "『어두운 광맥』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「暗處的礦脈」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 CF D8 00 00 01 00 00 00 D6 D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [07 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0007",
+    ],
+    [
+      8,
+      Buffer [07 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Luxury Lode"
+",
+        "es": "Completa:
+"El filón del oro"",
+        "fr": "Terminez « Filon
+de valeur ».",
+        "jp": "『金目の鉱脈』
+をクリアする",
+        "ko": "『값비싼 광맥』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「值錢的礦脈」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 D6 D8 00 00 01 00 00 00 D7 D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [08 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0008",
+    ],
+    [
+      8,
+      Buffer [08 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Valiant Lode"
+",
+        "es": "Completa:
+"El filón del valiente"",
+        "fr": "Terminez « Filon
+de vaillance ».",
+        "jp": "『豪気の鉱脈』
+をクリアする",
+        "ko": "『호화로운 광맥』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「豪氣的礦脈」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 D7 D8 00 00 01 00 00 00 D8 D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [09 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0009",
+    ],
+    [
+      8,
+      Buffer [09 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Voracious Lode"
+",
+        "es": "Completa:
+"El filón del glotón"",
+        "fr": "Terminez « Filon
+d’appétit ».",
+        "jp": "『食い気の鉱脈』
+をクリアする",
+        "ko": "『식욕의 광맥』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「貪食的礦脈」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 D8 D8 00 00 01 00 00 00 D9 D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0A 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0010",
+    ],
+    [
+      8,
+      Buffer [0A 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Fishing Out Kory
+of the Watery Depths"",
+        "es": "Completa:
+"En el fondo con Kory"",
+        "fr": "Terminez « Chez Poulpita
+des profondeurs ».",
+        "jp": "『水底のコリィのもとへ』
+をクリアする",
+        "ko": "『물밑의 코리에게로』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「前往水底的柯莉所在處」",
+      },
+      "3",
+      2,
+    ],
+    [
+      40,
+      Buffer [02 00 00 00 D9 D8 00 00 F4 D6 00 00 02 00 00 00 E0 D8 00 00 DA 27 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0B 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0011",
+    ],
+    [
+      8,
+      Buffer [0B 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "He Who Protects
+the Spigot"",
+        "es": "Completa:
+"El protector del grifo"",
+        "fr": "Terminez « Un robinet
+bien gardé ».",
+        "jp": "『蛇口を守る者』
+をクリアする",
+        "ko": "『수도꼭지를 지키는 자』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「水龍頭守護者」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 D9 D8 00 00 01 00 00 00 E0 D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0C 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0012",
+    ],
+    [
+      8,
+      Buffer [0C 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Sanctuary of the
+Spigot"",
+        "es": "Completa:
+"El santuario del grifo"",
+        "fr": "Terminez « Sanctuaire
+du robinet ».",
+        "jp": "『蛇口の聖域』
+をクリアする",
+        "ko": "『수도꼭지의 성역』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「水龍頭聖域」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 E0 D8 00 00 01 00 00 00 E1 D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0D 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0013",
+    ],
+    [
+      8,
+      Buffer [0D 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Bulwark of the
+Spigot"",
+        "es": "Completa:
+"La barrera del grifo"",
+        "fr": "Terminez « Rempart
+du robinet ».",
+        "jp": "『蛇口の防壁』
+をクリアする",
+        "ko": "『수도꼭지의 방벽』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「水龍頭防壁」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 E1 D8 00 00 01 00 00 00 E2 D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0E 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0014",
+    ],
+    [
+      8,
+      Buffer [0E 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Bottom of the
+Drained Reservoir"",
+        "es": "Completa:
+"En el fondo de la sequía"",
+        "fr": "Terminez « Profondeurs
+du lac asséché ».",
+        "jp": "『干上がった水の底で』
+をクリアする",
+        "ko": "『물이 말라 버린 바닥에서』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「已乾涸的水底」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 E2 D8 00 00 01 00 00 00 E3 D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0F 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0015",
+    ],
+    [
+      8,
+      Buffer [0F 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Piss Me Off,
+And I'll Kick Your Ass!"",
+        "es": "Completa:
+"¡Adiós a los plastas!"",
+        "fr": "Terminez « Ici, on butte
+les relous ! ».",
+        "jp": "『ムカつくやつはブッとばす！』
+をクリアする",
+        "ko": "『짜증 나는 녀석은 날려 버린다!』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「討厭鬼就該被揍飛！」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 E3 D8 00 00 01 00 00 00 EA D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [10 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0016",
+    ],
+    [
+      8,
+      Buffer [10 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Wassup! We're the
+Vroom Vroomers! ♪"",
+        "es": "Completa:
+"Somos los Furia Ardiente ♪"",
+        "fr": "Terminez « Les frères,
+c’est nous, les Enragés ♪ ».",
+        "jp": "『ＹＯＹＯ俺たちゃ焚憤団♪』
+をクリアする",
+        "ko": "『YOYO 우리는 분분단♪』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「YO～YO我們是焚憤團♪」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 EA D8 00 00 01 00 00 00 EB D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [11 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0017",
+    ],
+    [
+      8,
+      Buffer [11 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "This is Lord
+Cane's Turf, Yo!"",
+        "es": "Completa:
+"Esta es MI isla"",
+        "fr": "Terminez « Territoire
+du grand Coqueluche ! ».",
+        "jp": "『ここはワサン様のシマだぜ』
+をクリアする",
+        "ko": "『여기는 와산 님의 구역이야』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「這裡可是瓦桑大人的地盤」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 EB D8 00 00 01 00 00 00 EC D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [12 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0018",
+    ],
+    [
+      8,
+      Buffer [12 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "There Any
+Tough Guys Around?"",
+        "es": "Completa:
+"¿No hay tíos fuertes o qué?"",
+        "fr": "Terminez « Où sont
+les hommes forts ? ».",
+        "jp": "『強い男はいないのかい？』
+をクリアする",
+        "ko": "『강한 남자는 없나?』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「就沒有強悍的男人了嗎？」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 EC D8 00 00 01 00 00 00 ED D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [13 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0019",
+    ],
+    [
+      8,
+      Buffer [13 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Let's Rumble,
+Vroom Vroomers Leader!"",
+        "es": "Completa:
+"Yo soy el jefazo, ¡encantado!"",
+        "fr": "Terminez « On compte
+sur vous, chancelier ! ».",
+        "jp": "『焚憤団総長、夜露死苦！』
+をクリアする",
+        "ko": "『분분단 총장, 잘 부탁해!』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「焚憤團總長，夜露死苦！」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 ED D8 00 00 01 00 00 00 EE D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [14 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0020",
+    ],
+    [
+      8,
+      Buffer [14 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Round 1:
+Preliminaries"",
+        "es": "Completa:
+"1ª parte: Eliminatoria"",
+        "fr": "Terminez « Site
+des qualifications ».",
+        "jp": "『第１回予選会場』
+をクリアする",
+        "ko": "『제1회 예선 회장』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「第一次預賽會場」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 EE D8 00 00 01 00 00 00 F4 D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [15 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0021",
+    ],
+    [
+      8,
+      Buffer [15 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Round 2: Main
+Card"",
+        "es": "Completa:
+"2ª parte: Cuartos"",
+        "fr": "Terminez « Site
+du tournoi ».",
+        "jp": "『第２回本戦会場』
+をクリアする",
+        "ko": "『제2회 본선 회장』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「第二次決賽會場」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 F4 D8 00 00 01 00 00 00 F5 D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [16 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0022",
+    ],
+    [
+      8,
+      Buffer [16 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Round 3: Finals"
+",
+        "es": "Completa:
+"3ª parte: Final"",
+        "fr": "Terminez « Site de
+la finale ».",
+        "jp": "『第３回決勝戦会場』
+をクリアする",
+        "ko": "『제3회 결승전 회장』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「第三次總決賽會場」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 F5 D8 00 00 01 00 00 00 F6 D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [17 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0023",
+    ],
+    [
+      8,
+      Buffer [17 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Award Ceremony"
+",
+        "es": "Completa:
+"Entrega de premios"",
+        "fr": "Terminez « Site de
+la remise de prix ».",
+        "jp": "『賞品授与式会場』
+をクリアする",
+        "ko": "『상품 수여식 회장』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「頒獎典禮會場」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 F6 D8 00 00 01 00 00 00 F7 D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [18 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0024",
+    ],
+    [
+      8,
+      Buffer [18 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Moon Rabbit's
+Ritual Site"",
+        "es": "Completa:
+"Templo del conejo lunar"",
+        "fr": "Terminez « Site de rituel
+de la lapine lunaire ».",
+        "jp": "『月の兎の儀式場』
+をクリアする",
+        "ko": "『달토끼의 의식 장소』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「月兔的典禮會場」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 F7 D8 00 00 01 00 00 00 FE D8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [19 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0025",
+    ],
+    [
+      8,
+      Buffer [19 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "That Darn Wurst!
+After Him!"",
+        "es": "Completa:
+"¡A por Brust!"",
+        "fr": "Terminez « Sus
+à Brust ! ».",
+        "jp": "『追撃！　ブルースト』
+をクリアする",
+        "ko": "『추격! 부르스트』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「追擊！布魯斯特」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 FE D8 00 00 01 00 00 00 08 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1A 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0026",
+    ],
+    [
+      8,
+      Buffer [1A 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "The Second Wurst?"
+",
+        "es": "Completa:
+"¿Brust 2?"",
+        "fr": "Terminez « Deuxième
+Brust ? ».",
+        "jp": "『第２のブルースト？』
+をクリアする",
+        "ko": "『제2의 부르스트?』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「第二布魯斯特？」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 08 D9 00 00 01 00 00 00 09 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1B 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0027",
+    ],
+    [
+      8,
+      Buffer [1B 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "The Third Wurst?"
+",
+        "es": "Completa:
+"¿Brust 3?"",
+        "fr": "Terminez « Troisième
+Brust ? ».",
+        "jp": "『第３のブルースト？』
+をクリアする",
+        "ko": "『제3의 부르스트?』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「第三布魯斯特？」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 09 D9 00 00 01 00 00 00 0A D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1C 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0028",
+    ],
+    [
+      8,
+      Buffer [1C 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "The Fourth Wurst?"
+",
+        "es": "Completa:
+"¿Brust 4?"",
+        "fr": "Terminez « Quatrième
+Brust ? ».",
+        "jp": "『第４のブルースト？』
+をクリアする",
+        "ko": "『제4의 부르스트?』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「第四布魯斯特？」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 0A D9 00 00 01 00 00 00 0B D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1D 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0029",
+    ],
+    [
+      8,
+      Buffer [1D 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "End of the
+Line"",
+        "es": "Completa:
+"El final del cebo"",
+        "fr": "Terminez « Au bout
+du leurre ».",
+        "jp": "『囮の果て』
+をクリアする",
+        "ko": "『미끼의 최후』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「誘餌的結局」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 0B D9 00 00 01 00 00 00 0C D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1E 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0030",
+    ],
+    [
+      8,
+      Buffer [1E 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "The Bloodstained
+Beast's Den"",
+        "es": "Completa:
+"La guarida de la bestia"",
+        "fr": "Terminez « Tanière de
+la bête ensanglantée ».",
+        "jp": "『血塗られた獣の巣窟』
+をクリアする",
+        "ko": "『피투성이 짐승의 소굴』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「染血的野獸巢穴」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 0C D9 00 00 01 00 00 00 12 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1F 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0031",
+    ],
+    [
+      8,
+      Buffer [1F 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Circle of
+Friendship"",
+        "es": "Completa:
+"Anillo de la amistad"",
+        "fr": "Terminez « Cercle
+d’amitié ».",
+        "jp": "『友情の環』
+をクリアする",
+        "ko": "『우정의 고리』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「友情之環」",
+      },
+      "3",
+      2,
+    ],
+    [
+      36,
+      Buffer [02 00 00 00 12 D9 00 00 28 D7 00 00 01 00 00 00 1C D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [20 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0032",
+    ],
+    [
+      8,
+      Buffer [20 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Circle of
+Nutrition Education"",
+        "es": "Completa:
+"Anillo de la nutrición"",
+        "fr": "Terminez « Cercle
+d’alimentation ».",
+        "jp": "『食育の環』
+をクリアする",
+        "ko": "『건강한 식생활의 고리』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「飲食教育之環」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 1C D9 00 00 01 00 00 00 1D D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [21 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0033",
+    ],
+    [
+      8,
+      Buffer [21 00 00 00 09 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Circle of
+Comrades"",
+        "es": "Completa:
+"Anillo del compañerismo"",
+        "fr": "Terminez « Cercle
+de camaraderie ».",
+        "jp": "『仲間の環』
+をクリアする",
+        "ko": "『동료의 고리』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「夥伴之環」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 1D D9 00 00 01 00 00 00 1E D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [22 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0034",
+    ],
+    [
+      8,
+      Buffer [22 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Carnage Petting
+Zoo"",
+        "es": "Completa:
+"La plaza de mascotas"",
+        "fr": "Terminez « Place des animaux
+domestiques du Carnage ».",
+        "jp": "『修羅の愛玩動物広場』
+をクリアする",
+        "ko": "『수라의 애완동물 광장』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「修羅寵物廣場」",
+      },
+      "3",
+      2,
+    ],
+    [
+      36,
+      Buffer [02 00 00 00 1E D9 00 00 32 D7 00 00 01 00 00 00 26 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [23 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0035",
+    ],
+    [
+      8,
+      Buffer [23 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Carnage Prinny
+Training Grounds"",
+        "es": "Completa: "Campo de
+entrenamiento de prinis"",
+        "fr": "Terminez « Terrain d’exercice
+des Prinnies Carnage ».",
+        "jp": "『修羅プリニー部隊訓練場』
+をクリアする",
+        "ko": "『수라 프리니 부대 훈련장』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「修羅普利尼部隊訓練場」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 26 D9 00 00 01 00 00 00 27 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [24 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0036",
+    ],
+    [
+      8,
+      Buffer [24 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Paratrooper
+Training Grounds"",
+        "es": "Completa: "Campo de
+entrenamiento de caídos"",
+        "fr": "Terminez « Terrain d’essai
+des bombardiers ».",
+        "jp": "『降下爆撃部隊修練場』
+をクリアする",
+        "ko": "『강하 폭격 부대 수련장』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「空投轟炸部隊修練場」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 27 D9 00 00 01 00 00 00 28 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [25 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0037",
+    ],
+    [
+      8,
+      Buffer [25 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Carnage Assassin
+Green Pep-Pepper"",
+        "es": "Completa:
+"Pimento, el asesino shura"",
+        "fr": "Terminez « Pimon assassin
+du Carnage ».",
+        "jp": "『修羅の刺客ピーマーン』
+をクリアする",
+        "ko": "『수라의 자객 피이망』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「修羅刺客皮曼」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 28 D9 00 00 01 00 00 00 29 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [26 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0038",
+    ],
+    [
+      8,
+      Buffer [26 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Earth Dragon Den"
+",
+        "es": "Completa:
+"Cueva del topo"",
+        "fr": "Terminez « Terrier de
+la taupe ».",
+        "jp": "『土竜の洞穴』
+をクリアする",
+        "ko": "『토룡의 동굴』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「土龍洞穴」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 29 D9 00 00 01 00 00 00 30 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [27 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0039",
+    ],
+    [
+      8,
+      Buffer [27 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Demon Cat Lair"
+",
+        "es": "Completa:
+"Nido del gato demonio"",
+        "fr": "Terminez « Perchoir
+du diablochat ».",
+        "jp": "『魔猫の塒』
+をクリアする",
+        "ko": "『마물 고양이의 보금자리』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「魔貓巢穴」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 30 D9 00 00 01 00 00 00 31 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [28 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0040",
+    ],
+    [
+      8,
+      Buffer [28 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Magical Mastery
+School"",
+        "es": "Completa:
+"Expertos en magia"",
+        "fr": "Terminez « Les férus
+de magie ».",
+        "jp": "『魔法を極めし者たち』
+をクリアする",
+        "ko": "『극한의 마법에 도달한 자들』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「窮究魔法的人們」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 31 D9 00 00 01 00 00 00 32 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [29 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0041",
+    ],
+    [
+      8,
+      Buffer [29 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Carnage Assassin
+Bahanyaro"",
+        "es": "Completa:
+"Bahanero, el asesino shura"",
+        "fr": "Terminez « Bahanero,
+assassin du Carnage ».",
+        "jp": "『修羅の刺客バハネーロ』
+をクリアする",
+        "ko": "『수라의 자객 하바네에로』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「修羅刺客瓦哈那羅」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 32 D9 00 00 01 00 00 00 33 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2A 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0042",
+    ],
+    [
+      8,
+      Buffer [2A 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Lake Sharktooth"
+",
+        "es": "Completa:
+"Lago fauces"",
+        "fr": "Terminez « Lac
+Dendrekin ».",
+        "jp": "『鮫牙の湖』
+をクリアする",
+        "ko": "『상어 이빨의 호수』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「鯊牙之湖」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 33 D9 00 00 01 00 00 00 3A D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2B 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0043",
+    ],
+    [
+      8,
+      Buffer [2B 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Lake of the Deep
+Ones"",
+        "es": "Completa:
+"Lago de los hundidos"",
+        "fr": "Terminez « Marais
+Touchelefon ».",
+        "jp": "『深き者どもの湖沼』
+をクリアする",
+        "ko": "『심연의 존재들이 사는 늪』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「潛伏者們的湖沼」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 3A D9 00 00 01 00 00 00 3B D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2C 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0044",
+    ],
+    [
+      8,
+      Buffer [2C 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Toxic Swamp of
+Poison"",
+        "es": "Completa:
+"Pantano envenenado"",
+        "fr": "Terminez « Marécage
+empoisonné ».",
+        "jp": "『蠱毒の毒沼』
+をクリアする",
+        "ko": "『고독의 늪』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「蠱毒的毒沼」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 3B D9 00 00 01 00 00 00 3C D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2D 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0045",
+    ],
+    [
+      8,
+      Buffer [2D 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Carnage Assassin
+Burdsigh"",
+        "es": "Completa:
+"Guindilla, el asesino shura"",
+        "fr": "Terminez « Ralapègne,
+assassin du Carnage ».",
+        "jp": "『修羅の刺客プリキーヌ』
+をクリアする",
+        "ko": "『수라의 자객 프리키누』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「修羅刺客普利基努」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 3C D9 00 00 01 00 00 00 3D D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2E 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0046",
+    ],
+    [
+      8,
+      Buffer [2E 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Desolate Grounds"
+",
+        "es": "Completa:
+"Ruinas de espíritus"",
+        "fr": "Terminez « Ruines des âmes
+vengeresses ».",
+        "jp": "『怨霊廃墟地帯』
+をクリアする",
+        "ko": "『원령 폐허 지대』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「怨靈廢墟地帶」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 3D D9 00 00 01 00 00 00 44 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2F 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0047",
+    ],
+    [
+      8,
+      Buffer [2F 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Wild Boar Arena"
+",
+        "es": "Completa:
+"Arena del jabalí"",
+        "fr": "Terminez « Arène
+du sanglier ».",
+        "jp": "『猪闘技場』
+をクリアする",
+        "ko": "『멧돼지 투기장』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「豬鬥技場」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 44 D9 00 00 01 00 00 00 45 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [30 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0048",
+    ],
+    [
+      8,
+      Buffer [30 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Demon Rifle
+Formation"",
+        "es": "Completa:
+"Grupo balasmágicas"",
+        "fr": "Terminez « Tireurs d’élite
+maléfiques ».",
+        "jp": "『魔銃射撃陣』
+をクリアする",
+        "ko": "『마총 사격 진영』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「魔銃射擊陣」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 45 D9 00 00 01 00 00 00 46 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [31 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0049",
+    ],
+    [
+      8,
+      Buffer [31 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Carnage Assassin
+Hawkclaw"",
+        "es": "Completa:
+"Kanotsu, el asesino shura"",
+        "fr": "Terminez « Kanots, assassin
+du Carnage ».",
+        "jp": "『修羅の刺客カノツ』
+をクリアする",
+        "ko": "『수라의 자객 카노츠』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「修羅刺客卡諾茲」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 46 D9 00 00 01 00 00 00 47 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [32 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0050",
+    ],
+    [
+      8,
+      Buffer [32 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Carnage Springs
+Inn Invitation"",
+        "es": "Completa:
+"A las aguas termales shura"",
+        "fr": "Terminez « Invitation aux
+bains brûlants du Carnage ».",
+        "jp": "『修羅怨泉旅館の誘い』
+をクリアする",
+        "ko": "『수라 원천 여관의 유혹』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「修羅怨泉旅館的邀約」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 47 D9 00 00 01 00 00 00 4E D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [33 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0051",
+    ],
+    [
+      8,
+      Buffer [33 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Fire Fungus
+Nesting Grounds"",
+        "es": "Completa:
+"Nido de saetas de fuego"",
+        "fr": "Terminez « Terres
+des champiflammes ».",
+        "jp": "『火性茸群生地帯』
+をクリアする",
+        "ko": "『불속성 버섯 군생지』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「火性菇群生地帶」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 4E D9 00 00 01 00 00 00 4F D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [34 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0052",
+    ],
+    [
+      8,
+      Buffer [34 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Inferno Chamber"
+",
+        "es": "Completa:
+"En el infierno"",
+        "fr": "Terminez « Dans les enfers
+embrasés ».",
+        "jp": "『焦熱地獄の間』
+をクリアする",
+        "ko": "『초열지옥의 틈새』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「焦熱地獄之間」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 4F D9 00 00 01 00 00 00 50 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [35 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0053",
+    ],
+    [
+      8,
+      Buffer [35 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Carnage Assassin
+Regus"",
+        "es": "Completa:
+"Perna, el asesino shura"",
+        "fr": "Terminez « Régus, assassin
+du Carnage ».",
+        "jp": "『修羅の刺客レグース』
+をクリアする",
+        "ko": "『수라의 자객 레구스』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「修羅刺客辣苦斯」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 50 D9 00 00 01 00 00 00 51 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [36 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0054",
+    ],
+    [
+      8,
+      Buffer [36 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Prinnies
+on the Moon"",
+        "es": "Completa:
+"Prinis reunidos en la Luna"",
+        "fr": "Terminez « Prinnies sous
+la lune ».",
+        "jp": "『月に集うプリニーども』
+をクリアする",
+        "ko": "『달에 모이는 프리니들』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「成群集結於月球的普利尼」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 51 D9 00 00 01 00 00 00 58 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [37 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0055",
+    ],
+    [
+      8,
+      Buffer [37 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Well-Trained
+Battlecats"",
+        "es": "Completa:
+"Gato de combate"",
+        "fr": "Terminez « Chat expert
+en combat ».",
+        "jp": "『百錬戦闘猫』
+をクリアする",
+        "ko": "『백련 전투 고양이』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「身經百戰貓」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 58 D9 00 00 01 00 00 00 59 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [38 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0056",
+    ],
+    [
+      8,
+      Buffer [38 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Battle Against the
+Eight Heroes"",
+        "es": "Completa:
+"La batalla de los Ocho Héroes"",
+        "fr": "Terminez « Bataille
+des huit héros ».",
+        "jp": "『八英傑との戦い』
+をクリアする",
+        "ko": "『팔영걸과의 전투』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「與八英傑之戰」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 59 D9 00 00 01 00 00 00 5A D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [39 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0057",
+    ],
+    [
+      8,
+      Buffer [39 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Carnage Assassin
+Lolana"",
+        "es": "Completa:
+"Lorana, la asesina shura"",
+        "fr": "Terminez « Lorana,
+assassin du Carnage ».",
+        "jp": "『修羅の刺客ロラーナ』
+をクリアする",
+        "ko": "『수라의 자객 로라나』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「修羅刺客卡羅萊恩」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 5A D9 00 00 01 00 00 00 5B D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3A 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0058",
+    ],
+    [
+      8,
+      Buffer [3A 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Past-Present-
+Future Carnage Squad"",
+        "es": "Completa:
+"Unidad aniquilamundos shura"",
+        "fr": "Terminez « Troupe Terminatus
+du Carnage ».",
+        "jp": "『修羅三界ターミネート部隊』
+をクリアする",
+        "ko": "『수라 삼계 터미네이트 부대』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「修羅三界殲滅部隊」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 5B D9 00 00 01 00 00 00 62 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3B 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0059",
+    ],
+    [
+      8,
+      Buffer [3B 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Vilest Minimum
+Carnage Squad"",
+        "es": "Completa:
+"Unidad minimalvada shura"",
+        "fr": "Terminez « Troupe Minimus
+du Carnage ».",
+        "jp": "『修羅最凶ミニマム部隊』
+をクリアする",
+        "ko": "『수라 흉악 미니멈 부대』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「修羅最凶小小部隊」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 62 D9 00 00 01 00 00 00 63 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3C 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0060",
+    ],
+    [
+      8,
+      Buffer [3C 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Pitifully Powerful
+Giant Carnage Squad"",
+        "es": "Completa:
+"Unidad gigacatástrofe shura"",
+        "fr": "Terminez « Troupe Gigantus
+du Carnage ».",
+        "jp": "『修羅災強ギガント部隊』
+をクリアする",
+        "ko": "『수라 재앙 기간트 부대』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「修羅災強巨無霸部隊」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 63 D9 00 00 01 00 00 00 64 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3D 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0061",
+    ],
+    [
+      8,
+      Buffer [3D 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Showdown with
+Carnage Minister Wurst!"",
+        "es": "Completa:
+"¡Brust shura, la batalla final!"",
+        "fr": "Terminez « Combat décisif !
+Brust, ministre du Carnage ».",
+        "jp": "『決戦！　修羅大臣ブルースト』
+をクリアする",
+        "ko": "『결전! 수라 대신 부르스트』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「決戰！修羅大臣布魯斯特」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 64 D9 00 00 01 00 00 00 65 D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3E 00 00 00],
+    ],
+    [
+      "key",
+      "TASK_LIST_0062",
+    ],
+    [
+      8,
+      Buffer [3E 00 00 00 0A 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Complete "Showdown with
+Supreme Ruler Asha!"",
+        "es": "Completa:
+"¡Asha, la megabatalla final!"",
+        "fr": "Terminez « Combat ultra
+décisif ! Seigneuresse Asha ».",
+        "jp": "『超決戦！　覇王アーシャ』
+をクリアする",
+        "ko": "『초결전! 패왕 아샤』
+(을)를 클리어한다",
+        "zh-TW": "完成
+「超決戰！霸王雅夏」",
+      },
+      "3",
+      2,
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 65 D9 00 00 01 00 00 00 6C D9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]

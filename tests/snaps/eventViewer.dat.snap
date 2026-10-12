@@ -1,0 +1,4382 @@
+[
+  [
+    [
+      4,
+      Buffer [01 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_01_01",
+    ],
+    [
+      12,
+      Buffer [3B 44 9A 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Overlord of Super Duper",
+        "es": "Tisiel, Suprema de Megamejor",
+        "fr": "Souveraine du Sous-monde Suprême",
+        "jp": "傑超魔界の魔王ティシエル",
+        "ko": "걸초마계의 마왕 티시엘",
+        "zh-TW": "傑超魔界魔王緹榭兒",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 11 27 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_01_03",
+    ],
+    [
+      12,
+      Buffer [4F 44 9A 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "John-Zuck of the Six Psychlamates",
+        "es": "Seis despedazadores: John Huck",
+        "fr": "Rondinou le Pourfendeur",
+        "jp": "六裂闘ジョンハック",
+        "ko": "육열투 존핵",
+        "zh-TW": "六裂鬥喬哈克",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 13 27 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [03 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_01_04",
+    ],
+    [
+      12,
+      Buffer [59 44 9A 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "The Overlord's Zero Calorie Solution",
+        "es": "La pasta de una Suprema",
+        "fr": "Les disciples de la souveraine",
+        "jp": "魔王のシシツ",
+        "ko": "마왕의 자질",
+        "zh-TW": "魔王的資質",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 14 27 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [04 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_02_01",
+    ],
+    [
+      12,
+      Buffer [DB CA 9B 00 00 00 00 00 01 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "What It Means to Be an Overlord",
+        "es": "Lo que debe ser una Suprema",
+        "fr": "Ce qui fait un souverain",
+        "jp": "魔王たるもの",
+        "ko": "마왕 되는 자",
+        "zh-TW": "身為魔王者",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 75 27 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [05 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_02_02",
+    ],
+    [
+      12,
+      Buffer [E5 CA 9B 00 00 00 00 00 01 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Granute of the Six Psychlamates",
+        "es": "Seis despedazadores: Granuto",
+        "fr": "Granute le Pourfendeur",
+        "jp": "六裂闘グラニュート",
+        "ko": "육열투 그라뉴트",
+        "zh-TW": "六裂鬥古拉紐特",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 76 27 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [06 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_02_03",
+    ],
+    [
+      12,
+      Buffer [EF CA 9B 00 00 00 00 00 01 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Taste My Steel",
+        "es": "Sabor a metal",
+        "fr": "Le goût du métal",
+        "jp": "メタルの味",
+        "ko": "메탈의 맛",
+        "zh-TW": "鋼鐵的味道",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 77 27 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [07 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_03_01",
+    ],
+    [
+      12,
+      Buffer [7B 51 9D 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "N.A.'s Challenge",
+        "es": "El desafío de Enea",
+        "fr": "Le défi de N/A",
+        "jp": "エヌエーの挑戦",
+        "ko": "에누아의 도전",
+        "zh-TW": "艾恩埃的挑戰",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 D9 27 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [08 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_03_02",
+    ],
+    [
+      12,
+      Buffer [85 51 9D 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Draining the Intoxicated Forest",
+        "es": "Vamos a vaciar el Bosque inundado",
+        "fr": "Vidange du Bosquet Ploufplouf",
+        "jp": "酔没林の水抜いてみる",
+        "ko": "취기에 잠긴 숲의 물을 빼다",
+        "zh-TW": "嘗試把醉沒林的水排掉",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 DA 27 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [09 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_03_03",
+    ],
+    [
+      12,
+      Buffer [8F 51 9D 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Kory of the Six Psychlamates",
+        "es": "Seis despedazadores: Kory",
+        "fr": "Poulpita la Pourfendeuse",
+        "jp": "六裂闘コリィ",
+        "ko": "육열투 코리",
+        "zh-TW": "六裂鬥柯莉",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 DB 27 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0A 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_03_04",
+    ],
+    [
+      12,
+      Buffer [99 51 9D 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Seven Seas Urchin Flan Showdown!",
+        "es": "¡Duelo! Flan de erizo",
+        "fr": "Bataille pour le Flan caméléon à l’oursin",
+        "jp": "対決！　ウニプリン",
+        "ko": "대결! 성게 푸딩",
+        "zh-TW": "對決！海膽布丁！",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 DC 27 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0B 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_04_01",
+    ],
+    [
+      12,
+      Buffer [1B D8 9E 00 00 00 00 00 03 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Witness the Flavor of Delicious Flan",
+        "es": "¡Cata el sabor del flan auténtico!",
+        "fr": "À la découverte du flan authentique",
+        "jp": "シンのプリンの味を見よ",
+        "ko": "진정한 푸딩 맛을 보라",
+        "zh-TW": "見識真正的布丁滋味",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 3D 28 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0C 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_04_02",
+    ],
+    [
+      12,
+      Buffer [25 D8 9E 00 00 00 00 00 03 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Rise N. Cane of the Six Psychlamates",
+        "es": "Seis despedazadores: Wasan",
+        "fr": "Coqueluche le Pourfendeur",
+        "jp": "六裂闘ワサン",
+        "ko": "육열투 와산",
+        "zh-TW": "六裂鬥瓦桑",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 3E 28 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0D 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_04_03",
+    ],
+    [
+      12,
+      Buffer [2F D8 9E 00 00 00 00 00 03 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Circle of BFFs",
+        "es": "El círculo de los mejores amigos",
+        "fr": "Des amis pour la vie",
+        "jp": "マブダチの輪",
+        "ko": "친한 친구의 범위",
+        "zh-TW": "死黨之間",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 3F 28 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0E 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_05_01",
+    ],
+    [
+      12,
+      Buffer [BB 5E A0 00 00 00 00 00 04 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Tichelle's Trial by Fire",
+        "es": "El desafío de Tisiel",
+        "fr": "Le défi de Tichelle",
+        "jp": "ティシエルの挑戦",
+        "ko": "티시엘의 도전",
+        "zh-TW": "緹榭兒的挑戰",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 A1 28 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0F 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_05_02",
+    ],
+    [
+      12,
+      Buffer [C5 5E A0 00 00 00 00 00 04 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Dastardly Scheming at Mt. Calamity",
+        "es": "Maquinaciones en el Volcán calamitoso",
+        "fr": "Machinations au Mont Furax",
+        "jp": "禍火山の策動",
+        "ko": "화화산의 계책",
+        "zh-TW": "禍火山的陰謀",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 A2 28 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [10 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_05_03",
+    ],
+    [
+      12,
+      Buffer [CF 5E A0 00 00 00 00 00 04 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Prized Flan",
+        "es": "El flan de premio",
+        "fr": "Le Flan prestigieux",
+        "jp": "賞品のプリン",
+        "ko": "상품으로 주는 푸딩",
+        "zh-TW": "作為獎品的布丁",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 A3 28 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [11 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_05_04",
+    ],
+    [
+      12,
+      Buffer [D9 5E A0 00 00 00 00 00 04 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "N.A.'s Self-Assurance",
+        "es": "El orgullo de Enea",
+        "fr": "La fierté de N/A",
+        "jp": "エヌエーの矜持",
+        "ko": "에누아의 긍지",
+        "zh-TW": "艾恩埃的矜持",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 A4 28 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [12 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_05_05",
+    ],
+    [
+      12,
+      Buffer [E3 5E A0 00 00 00 00 00 04 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Rock Andy of the Six Psychlamates",
+        "es": "Seis despedazadores: Uzi",
+        "fr": "Nœunœil le Pourfendeur",
+        "jp": "六裂闘ウージー",
+        "ko": "육열투 우지",
+        "zh-TW": "六裂鬥烏基",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 A5 28 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [13 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_05_06",
+    ],
+    [
+      12,
+      Buffer [ED 5E A0 00 00 00 00 00 04 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Tichelle's Flan",
+        "es": "El flan de Tisiel",
+        "fr": "Le flan de Tichelle",
+        "jp": "ティシエルのプリン",
+        "ko": "티시엘의 푸딩",
+        "zh-TW": "緹榭兒的布丁",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 A6 28 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [14 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_06_01",
+    ],
+    [
+      12,
+      Buffer [5B E5 A1 00 00 00 00 00 05 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off To the Moon",
+        "es": "Rumbo a la Luna",
+        "fr": "Objectif Lune",
+        "jp": "月へ",
+        "ko": "달로 향하다",
+        "zh-TW": "前往月球",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 05 29 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [15 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_06_02",
+    ],
+    [
+      12,
+      Buffer [65 E5 A1 00 00 00 00 00 05 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Rozala of the Six Psychlamates",
+        "es": "Seis despedazadores: Rozala",
+        "fr": "Josiane la Pourfendeuse",
+        "jp": "六裂闘ロザーラ",
+        "ko": "육열투 로잘라",
+        "zh-TW": "六裂鬥蘿薩拉",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 06 29 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [16 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_06_03",
+    ],
+    [
+      12,
+      Buffer [6F E5 A1 00 00 00 00 00 05 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Former Overlord Margraf",
+        "es": "Malgraf, el anterior Supremo",
+        "fr": "Malgraf, le prédécesseur",
+        "jp": "先代魔王マルグラフ",
+        "ko": "선대 마왕 마르그라프",
+        "zh-TW": "前代魔王瑪古拉夫",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 07 29 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [17 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_07_01",
+    ],
+    [
+      12,
+      Buffer [FB 6B A3 00 00 00 00 00 06 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Wurst's Dine and Dash",
+        "es": "Brust, el gorrón",
+        "fr": "Brust le fuyard",
+        "jp": "食い逃げブルースト",
+        "ko": "무전취식 부르스트",
+        "zh-TW": "吃霸王餐的布魯斯特",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 69 29 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [18 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_07_02",
+    ],
+    [
+      12,
+      Buffer [05 6C A3 00 00 00 00 00 06 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Body Doubles",
+        "es": "Los dobles",
+        "fr": "Les vrais méchants",
+        "jp": "影武者たち",
+        "ko": "대역들",
+        "zh-TW": "替身們",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 6A 29 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [19 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_07_03",
+    ],
+    [
+      12,
+      Buffer [0F 6C A3 00 00 00 00 00 06 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Minister Wurst",
+        "es": "El ministro Brust ",
+        "fr": "Le ministre Brust",
+        "jp": "大臣ブルースト",
+        "ko": "대신 부르스트",
+        "zh-TW": "大臣布魯斯特",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 6B 29 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1A 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_07_04",
+    ],
+    [
+      12,
+      Buffer [19 6C A3 00 00 00 00 00 06 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "The Other End of the Rift",
+        "es": "Más allá de la distorsión",
+        "fr": "Derrière la distorsion",
+        "jp": "歪みの彼方へ",
+        "ko": "뒤틀림 저편으로",
+        "zh-TW": "前往扭曲的彼方",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 6C 29 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1B 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_07_05",
+    ],
+    [
+      12,
+      Buffer [23 6C A3 00 00 00 00 00 06 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Who the World Would Never Miss",
+        "es": "Los prescindibles",
+        "fr": "Une présence dispensable",
+        "jp": "いなくなってもいい者",
+        "ko": "사라져도 괜찮은 자",
+        "zh-TW": "就算消失也無所謂的人",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 6D 29 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1C 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_08_01",
+    ],
+    [
+      12,
+      Buffer [9B F2 A4 00 00 00 00 00 07 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Onwards to the Final Battle",
+        "es": "Hacia la batalla final",
+        "fr": "Combat décisif",
+        "jp": "決戦の地へ",
+        "ko": "결전의 땅으로",
+        "zh-TW": "前往決戰之地",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 CD 29 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1D 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_08_02",
+    ],
+    [
+      12,
+      Buffer [A5 F2 A4 00 00 00 00 00 07 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Grand Minister Wurst",
+        "es": "El superministro Brust",
+        "fr": "Le grand ministre Brust",
+        "jp": "超大臣ブルースト",
+        "ko": "초대신 부르스트",
+        "zh-TW": "超大臣布魯斯特",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 CE 29 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1E 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_08_03",
+    ],
+    [
+      12,
+      Buffer [AF F2 A4 00 00 00 00 00 07 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Pristine Gleam and Beyond",
+        "es": "Flan radiante prístino, por siempre",
+        "fr": "Le Flan primordial est éternel",
+        "jp": "始煌のプリンよ永遠に",
+        "ko": "시황의 푸딩이여 영원하리",
+        "zh-TW": "始煌布丁，永遠不滅",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 CF 29 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1F 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_08_04",
+    ],
+    [
+      12,
+      Buffer [B9 F2 A4 00 00 00 00 00 07 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Overlord Tichelle's Ambitions",
+        "es": "La ambición de la Suprema Tisiel",
+        "fr": "Les ambitions de Tichelle",
+        "jp": "魔王ティシエルの野望",
+        "ko": "마왕 티시엘의 야망",
+        "zh-TW": "魔王緹榭兒的野心",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 D0 29 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [20 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_08_99",
+    ],
+    [
+      12,
+      Buffer [15 F6 A4 00 00 00 00 00 07 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Credits",
+        "es": "Créditos",
+        "fr": "Générique de fin",
+        "jp": "スタッフロール",
+        "ko": "엔딩 크레딧",
+        "zh-TW": "工作人員名單",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 E5 29 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [21 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_11_01",
+    ],
+    [
+      12,
+      Buffer [BB DA 32 01 00 00 00 00 08 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "The Flan Toppings Rally Begins",
+        "es": "Comienza el rally de flanestampas",
+        "fr": "Début de la chasse aux sauces",
+        "jp": "スタンプリンラリー開始",
+        "ko": "스탬푸딩 랠리 개시",
+        "zh-TW": "展開集布丁活動",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 E1 2E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [22 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_11_02",
+    ],
+    [
+      12,
+      Buffer [C5 DA 32 01 00 00 00 00 08 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "BFFs Unite",
+        "es": "Los mejores amigos, reunidos",
+        "fr": "Amis pour la vie au complet",
+        "jp": "マブダチ揃い",
+        "ko": "친한 친구 모임",
+        "zh-TW": "死黨齊聚",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 E2 2E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [23 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_11_03",
+    ],
+    [
+      12,
+      Buffer [CF DA 32 01 00 00 00 00 08 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Strange Sauces",
+        "es": "Salsa de cosas... raras",
+        "fr": "Une drôle de sauce",
+        "jp": "ゲテモノソース",
+        "ko": "기괴한 소스",
+        "zh-TW": "詭異醬汁",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 E3 2E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [24 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_11_04",
+    ],
+    [
+      12,
+      Buffer [D9 DA 32 01 00 00 00 00 08 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Flan VS Sea Urchins",
+        "es": "Flan vs. erizo de mar",
+        "fr": "Flan VS Oursin",
+        "jp": "プリンＶＳウニ",
+        "ko": "푸딩 VS 성게",
+        "zh-TW": "布丁VS海膽",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 E4 2E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [25 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_11_05",
+    ],
+    [
+      12,
+      Buffer [E3 DA 32 01 00 00 00 00 08 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Feast of Sushi",
+        "es": "¡A comer sushi!",
+        "fr": "Pas de sushi",
+        "jp": "スシ食いねえ",
+        "ko": "초밥을 먹어라",
+        "zh-TW": "來吃壽司嘛",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 E5 2E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [26 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_11_06",
+    ],
+    [
+      12,
+      Buffer [ED DA 32 01 00 00 00 00 08 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "The Value of Companions",
+        "es": "El valor de los compañeros",
+        "fr": "La valeur des compagnons",
+        "jp": "仲間の価値は",
+        "ko": "동료의 가치는",
+        "zh-TW": "夥伴的價值是",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 E6 2E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [27 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_11_07",
+    ],
+    [
+      12,
+      Buffer [F7 DA 32 01 00 00 00 00 08 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Substances from Below and Beyond",
+        "es": "El zen de lo inorgánico",
+        "fr": "L’ultime détachement ",
+        "jp": "無機の境地",
+        "ko": "무기물의 경지",
+        "zh-TW": "無機的境界",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 E7 2E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [28 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_11_08",
+    ],
+    [
+      12,
+      Buffer [01 DB 32 01 00 00 00 00 08 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "The Six Psychlamates' Sincerity",
+        "es": "En serio: los Seis despedazadores",
+        "fr": "Face aux Six Pourfendeurs",
+        "jp": "六裂闘の本気",
+        "ko": "육열투의 진심",
+        "zh-TW": "六裂鬥的真本事",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 E8 2E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [29 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_12_01",
+    ],
+    [
+      12,
+      Buffer [5B 61 34 01 00 00 00 00 09 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Invasion of the Carnage Dimension!",
+        "es": "¡Invasión! La dimensión shura",
+        "fr": "La Dimension Carnage attaque !",
+        "jp": "襲来！　修羅次元",
+        "ko": "습격! 수라 차원",
+        "zh-TW": "修羅次元來襲！",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 45 2F 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2A 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_12_02",
+    ],
+    [
+      12,
+      Buffer [65 61 34 01 00 00 00 00 09 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Carnage Minister Wurst",
+        "es": "Brust, superministro shura",
+        "fr": "Brust, ministre du Carnage",
+        "jp": "修羅大臣ブルースト",
+        "ko": "수라 대신 부르스트",
+        "zh-TW": "修羅大臣布魯斯特",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 46 2F 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2B 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_12_03",
+    ],
+    [
+      12,
+      Buffer [6F 61 34 01 00 00 00 00 09 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Loyal to the End",
+        "es": "El límite de la lealtad",
+        "fr": "Loyauté épuisée",
+        "jp": "忠誠の果て",
+        "ko": "충성의 끝",
+        "zh-TW": "忠誠的結局",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 47 2F 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2C 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_12_04",
+    ],
+    [
+      12,
+      Buffer [79 61 34 01 00 00 00 00 09 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Supreme Ruler Asha",
+        "es": "Asha, líder suprema de la dimensión shura",
+        "fr": "Asha, seigneuresse du Carnage",
+        "jp": "修羅次元の覇王アーシャ",
+        "ko": "수라 차원의 패왕 아샤",
+        "zh-TW": "修羅次元霸王雅夏",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 48 2F 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2D 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_12_05",
+    ],
+    [
+      12,
+      Buffer [83 61 34 01 00 00 00 00 09 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Leaving the Nest",
+        "es": "Independencia total",
+        "fr": "Séparation mère-fille",
+        "jp": "親離れ子離れ",
+        "ko": "자립하는 부모 자식",
+        "zh-TW": "父母放手，孩子獨立",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 49 2F 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2E 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_21_01",
+    ],
+    [
+      12,
+      Buffer [3B 71 CB 01 00 00 00 00 0B 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Desco and Flan Desco",
+        "es": "Desco y Desco flan",
+        "fr": "Desco et Flasco",
+        "jp": "デスコとプリンデスコ",
+        "ko": "데스코와 푸딩 데스코",
+        "zh-TW": "死亡子與布丁死亡子",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 B1 36 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2F 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_21_02",
+    ],
+    [
+      12,
+      Buffer [45 71 CB 01 00 00 00 00 0B 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Flan Desco's Subterfuge",
+        "es": "Los tejemanejes de Desco flan",
+        "fr": "Les manigances de Flasco",
+        "jp": "プリンデスコの暗躍",
+        "ko": "푸딩 데스코의 암약",
+        "zh-TW": "布丁死亡子的暗中行動",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 B2 36 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [30 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_21_03",
+    ],
+    [
+      12,
+      Buffer [4F 71 CB 01 00 00 00 00 0B 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Pursuing Flan Desco",
+        "es": "Hacia Desco flan",
+        "fr": "Sus à Flasco",
+        "jp": "プリンデスコの元へ",
+        "ko": "푸딩 데스코를 찾아서",
+        "zh-TW": "前往布丁死亡子的所在",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 B3 36 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [31 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_21_04",
+    ],
+    [
+      12,
+      Buffer [59 71 CB 01 00 00 00 00 0B 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Final Boss Battle with Flan Desco!",
+        "es": "¡Batalla final! Desco flan",
+        "fr": "Flasco, la boss de fin",
+        "jp": "ラストバトル！　プリンデスコ",
+        "ko": "라스트 배틀! 푸딩 데스코",
+        "zh-TW": "最終決戰！布丁死亡子",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 B4 36 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [32 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_21_05",
+    ],
+    [
+      12,
+      Buffer [63 71 CB 01 00 00 00 00 0B 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Proof of Love",
+        "es": "Prueba de amor",
+        "fr": "Une preuve d’amour",
+        "jp": "愛の証明",
+        "ko": "사랑의 증명",
+        "zh-TW": "愛的證明",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 B5 36 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [33 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_ID_21_06",
+    ],
+    [
+      12,
+      Buffer [6D 71 CB 01 00 00 00 00 0B 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "For Big Sis",
+        "es": "Por mi hermana mayor",
+        "fr": "Le cadeau d’une sœur",
+        "jp": "おねえさまのために",
+        "ko": "언니를 위해",
+        "zh-TW": "為了姐姐大人",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 B6 36 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [34 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_01_01",
+    ],
+    [
+      12,
+      Buffer [9B 9E 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ01_01",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [35 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_01_02",
+    ],
+    [
+      12,
+      Buffer [A5 9E 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ01_02",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [36 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_01_03",
+    ],
+    [
+      12,
+      Buffer [AF 9E 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ01_03",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [37 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_01_04",
+    ],
+    [
+      12,
+      Buffer [B9 9E 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ01_04",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [38 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_01_05",
+    ],
+    [
+      12,
+      Buffer [C3 9E 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ01_05",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [39 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_01_06",
+    ],
+    [
+      12,
+      Buffer [CD 9E 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ01_06",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3A 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_01_07",
+    ],
+    [
+      12,
+      Buffer [D7 9E 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ01_07",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3B 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_01_08",
+    ],
+    [
+      12,
+      Buffer [E1 9E 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ01_08",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3C 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_01_09",
+    ],
+    [
+      12,
+      Buffer [EB 9E 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ01_09",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3D 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_01_10",
+    ],
+    [
+      12,
+      Buffer [F5 9E 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ01_10",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3E 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_02_01",
+    ],
+    [
+      12,
+      Buffer [AB C5 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ02_01",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3F 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_02_02",
+    ],
+    [
+      12,
+      Buffer [B5 C5 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ02_02",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [40 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_02_03",
+    ],
+    [
+      12,
+      Buffer [BF C5 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ02_03",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [41 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_02_04",
+    ],
+    [
+      12,
+      Buffer [C9 C5 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ02_04",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [42 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_02_05",
+    ],
+    [
+      12,
+      Buffer [D3 C5 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ02_05",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [43 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_02_06",
+    ],
+    [
+      12,
+      Buffer [DD C5 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ02_06",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [44 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_02_07",
+    ],
+    [
+      12,
+      Buffer [E7 C5 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ02_07",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [45 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_02_08",
+    ],
+    [
+      12,
+      Buffer [F1 C5 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ02_08",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [46 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_03_01",
+    ],
+    [
+      12,
+      Buffer [BB EC 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ03_01",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [47 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_03_02",
+    ],
+    [
+      12,
+      Buffer [C5 EC 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ03_02",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [48 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_03_03",
+    ],
+    [
+      12,
+      Buffer [CF EC 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ03_03",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [49 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_03_04",
+    ],
+    [
+      12,
+      Buffer [D9 EC 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ03_04",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [4A 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_03_05",
+    ],
+    [
+      12,
+      Buffer [E3 EC 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ03_05",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [4B 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_03_06",
+    ],
+    [
+      12,
+      Buffer [ED EC 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ03_06",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [4C 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_03_07",
+    ],
+    [
+      12,
+      Buffer [F7 EC 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ03_07",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [4D 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_03_08",
+    ],
+    [
+      12,
+      Buffer [01 ED 8E 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ03_08",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [4E 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_04_01",
+    ],
+    [
+      12,
+      Buffer [CB 13 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ04_01",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [4F 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_04_02",
+    ],
+    [
+      12,
+      Buffer [D5 13 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ04_02",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [50 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_04_03",
+    ],
+    [
+      12,
+      Buffer [DF 13 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ04_03",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [51 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_04_04",
+    ],
+    [
+      12,
+      Buffer [E9 13 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ04_04",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [52 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_04_05",
+    ],
+    [
+      12,
+      Buffer [F3 13 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ04_05",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [53 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_04_06",
+    ],
+    [
+      12,
+      Buffer [FD 13 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ04_06",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [54 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_04_07",
+    ],
+    [
+      12,
+      Buffer [07 14 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ04_07",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [55 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_04_08",
+    ],
+    [
+      12,
+      Buffer [11 14 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ04_08",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [56 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_04_09",
+    ],
+    [
+      12,
+      Buffer [1B 14 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ04_09",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [57 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_04_10",
+    ],
+    [
+      12,
+      Buffer [25 14 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ04_10",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [58 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_05_01",
+    ],
+    [
+      12,
+      Buffer [DB 3A 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ05_01",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [59 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_05_02",
+    ],
+    [
+      12,
+      Buffer [E5 3A 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ05_02",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [5A 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_05_03",
+    ],
+    [
+      12,
+      Buffer [EF 3A 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ05_03",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [5B 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_05_04",
+    ],
+    [
+      12,
+      Buffer [F9 3A 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ05_04",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [5C 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_05_05",
+    ],
+    [
+      12,
+      Buffer [03 3B 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ05_05",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [5D 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_05_06",
+    ],
+    [
+      12,
+      Buffer [0D 3B 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ05_06",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [5E 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_05_07",
+    ],
+    [
+      12,
+      Buffer [17 3B 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ05_07",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [5F 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_06_01",
+    ],
+    [
+      12,
+      Buffer [EB 61 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ06_01",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [60 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_07_01",
+    ],
+    [
+      12,
+      Buffer [FB 88 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ07_01",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [61 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_07_02",
+    ],
+    [
+      12,
+      Buffer [05 89 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ07_02",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [62 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_07_03",
+    ],
+    [
+      12,
+      Buffer [0F 89 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ07_03",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [63 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_07_04",
+    ],
+    [
+      12,
+      Buffer [19 89 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ07_04",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [64 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_07_05",
+    ],
+    [
+      12,
+      Buffer [23 89 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ07_05",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [65 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_07_06",
+    ],
+    [
+      12,
+      Buffer [2D 89 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ07_06",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [66 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_07_07",
+    ],
+    [
+      12,
+      Buffer [37 89 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ07_07",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [67 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_07_08",
+    ],
+    [
+      12,
+      Buffer [41 89 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ07_08",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [68 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_07_09",
+    ],
+    [
+      12,
+      Buffer [4B 89 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ07_09",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [69 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_07_10",
+    ],
+    [
+      12,
+      Buffer [55 89 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ07_10",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6A 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_07_11",
+    ],
+    [
+      12,
+      Buffer [5F 89 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ07_11",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6B 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_07_12",
+    ],
+    [
+      12,
+      Buffer [69 89 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ07_12",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6C 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_07_14",
+    ],
+    [
+      12,
+      Buffer [7D 89 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ07_14",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6D 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_07_16",
+    ],
+    [
+      12,
+      Buffer [91 89 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ07_16",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6E 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_07_18",
+    ],
+    [
+      12,
+      Buffer [A5 89 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ07_18",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6F 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_08_01",
+    ],
+    [
+      12,
+      Buffer [0B B0 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ08_01",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [70 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_MESSAGE_ID_08_02",
+    ],
+    [
+      12,
+      Buffer [15 B0 8F 06 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "メッセージ08_02",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [71 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_CG_ID_01_01",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 1A 01 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Omega Fire Illustration: Yuta Hirokawa",
+        "es": "Omegafuego — Arte: Yuta Hirokawa",
+        "fr": "Oméga-feu   Illustration : Yuta Hirokawa",
+        "jp": "オメガファイア　画：廣川湧大",
+        "ko": "오메가 파이어(일러스트: <font 1 JP>廣川湧大</font>)",
+        "zh-TW": "終極火焰　繪製者：廣川湧大",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 9E B6 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [72 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_CG_ID_01_02",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 1B 01 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Tera Fire Illustration: K-SUWABE",
+        "es": "Terafuego — Arte: K-SUWABE",
+        "fr": "Téra-feu   Illustration : K-SUWABE",
+        "jp": "テラファイア　画：ケースワベ",
+        "ko": "테라 파이어(일러스트:  <font 1 JP>ケースワベ</font>)",
+        "zh-TW": "兆級火焰　繪製者：ケースワベ",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 9F B6 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [73 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_CG_ID_01_03",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 1C 01 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Omega Ice Illustration: Sho Hibino",
+        "es": "Omegafrío — Arte: Sho Hibino",
+        "fr": "Oméga-froid   Illustration : Sho Hibino",
+        "jp": "オメガクール　画：日比野翔",
+        "ko": "오메가 쿨(일러스트:  <font 1 JP>日比野翔</font>)",
+        "zh-TW": "終極冰凍　繪製者：日比野翔",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 A0 B6 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [74 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_CG_ID_01_04",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 1D 01 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Tera Ice Illustration: Karei",
+        "es": "Terafrío — Arte: Karei",
+        "fr": "Téra-froid   Illustration : Karei",
+        "jp": "テラクール　画：かれい",
+        "ko": "테라 쿨(일러스트:  <font 1 JP>かれい</font>)",
+        "zh-TW": "兆級冰凍　繪製者：かれい",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 A1 B6 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [75 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_CG_ID_01_05",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 1E 01 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Omega Wind Illustration: Yutsuki Kido",
+        "es": "Omegaviento — Arte: Yutsuki Kido",
+        "fr": "Oméga-vent   Illustration : Yutsuki Kido",
+        "jp": "オメガウィンド　画：木戸夕月",
+        "ko": "오메가 윈드(일러스트:  <font 1 JP>木戸夕月</font>)",
+        "zh-TW": "終極狂風　繪製者：木戸夕月",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 A2 B6 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [76 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_CG_ID_01_06",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 1F 01 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Tera Wind Illustration: Bukurote",
+        "es": "Teraviento — Arte: Bukurote",
+        "fr": "Téra-vent   Illustration : Bukurote",
+        "jp": "テラウィンド　画：ぶくろて",
+        "ko": "테라 윈드(일러스트:  <font 1 JP>ぶくろて</font>)",
+        "zh-TW": "兆級狂風　繪製者：ぶくろて",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 A3 B6 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [77 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_CG_ID_01_07",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 20 01 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Omega Star Illustration: Sayaka Oda",
+        "es": "Omegastrella — Arte: Sayaka Oda",
+        "fr": "Oméga-étoile   Illustration : Sayaka Oda",
+        "jp": "オメガスター　画：小田沙耶佳",
+        "ko": "오메가 스타(일러스트:  <font 1 JP>小田沙耶佳</font>)",
+        "zh-TW": "終極星光　繪製者：小田沙耶佳",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 A4 B6 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [78 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_CG_ID_01_08",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 21 01 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Tera Star Illustration: Lansane",
+        "es": "Terastrella — Arte: Lansane",
+        "fr": "Téra-étoile   Illustration : Lansane",
+        "jp": "テラスター　画：ランサネ",
+        "ko": "테라 스타(일러스트:  <font 1 JP>ランサネ</font>)",
+        "zh-TW": "兆級星光　繪製者：ランサネ",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 A5 B6 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [79 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_CG_ID_01_09",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 0C 01 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Roaming Beast of Pestilence Plains",
+        "es": "La bestia de Llanura infectada",
+        "fr": "La bête de la Plaine Kraspec",
+        "jp": "病原を駆ける獣",
+        "ko": "질병의 들판을 달리는 짐승",
+        "zh-TW": "馳騁病原之獸",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 A6 B6 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [7A 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_CG_ID_01_10",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 0D 01 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "He Who Lurks In the Grotto of Agony",
+        "es": "Lo que acecha en la Cueva angustias",
+        "fr": "La terreur de la Grotte Trounoir",
+        "jp": "悩窟に潜むもの",
+        "ko": "번뇌의 굴에 숨은 자",
+        "zh-TW": "潛藏於惱窟者",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 A7 B6 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [7B 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_CG_ID_01_11",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 0E 01 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Invader From the Lakebed",
+        "es": "El invasor desde el fondo del lago",
+        "fr": "L’envahisseuse du lac",
+        "jp": "湖底からの襲来者",
+        "ko": "호수 밑에서 온 습격자",
+        "zh-TW": "來自湖底的襲擊者",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 A8 B6 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [7C 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_CG_ID_01_12",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 0F 01 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enter: Leader of the Vroom Vroomers!",
+        "es": "¡El jefe de los Furia Ardiente!",
+        "fr": "Audience avec le chef du gang",
+        "jp": "焚憤団総長見参！",
+        "ko": "분분단 총장을 만나다!",
+        "zh-TW": "焚憤團總長登場！",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 A9 B6 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [7D 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_CG_ID_01_13",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 10 01 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Rock Andy's Kitchen",
+        "es": "La cocina de Uzi",
+        "fr": "Cauchemar en cuisine",
+        "jp": "ウージーズ・キッチン",
+        "ko": "우지's 키친",
+        "zh-TW": "烏基的廚房時光",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 AA B6 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [7E 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_CG_ID_01_14",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 11 01 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "The Moon Rabbit's Mysterious Ritual",
+        "es": "El misterioso ritual del conejo lunar",
+        "fr": "Le rite de la lapine lunaire",
+        "jp": "月兎の謎儀式",
+        "ko": "달토끼의 수수께끼 의식",
+        "zh-TW": "月兔的神祕儀式",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 AB B6 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [7F 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_CG_ID_01_15",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 12 01 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Take My Hand!",
+        "es": "¡Rescate!",
+        "fr": "Opération sauvetage !",
+        "jp": "救出！",
+        "ko": "구출!",
+        "zh-TW": "救援！",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 AC B6 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [80 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_CG_ID_01_16",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 13 01 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Roar of the Strongest Beast",
+        "es": "Ruge el monstruo demoníaco supremo",
+        "fr": "Hurlement infernal",
+        "jp": "最強魔獣の咆哮",
+        "ko": "최강 마수의 포효",
+        "zh-TW": "最強魔獸的咆哮",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 AD B6 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [81 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_CG_ID_01_17",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 14 01 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Fist Bump of Friendship",
+        "es": "Choque de puños de la amistad",
+        "fr": "Check de l’amitié",
+        "jp": "絆のフィスト・バンプ",
+        "ko": "유대의 주먹 인사",
+        "zh-TW": "以拳相會的牽絆",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 AE B6 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [82 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_CG_ID_01_18",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 16 01 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Final Battle with the Supreme Ruler",
+        "es": "Duelo decisivo contra la líder suprema",
+        "fr": "Face à la seigneuresse",
+        "jp": "覇王との決戦",
+        "ko": "패왕과의 결전",
+        "zh-TW": "與霸王的決戰",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 AF B6 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [83 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_CG_ID_01_19",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 2D 01 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Awakening",
+        "es": "Despertar",
+        "fr": "Réveil",
+        "jp": "目覚め",
+        "ko": "깨어나다",
+        "zh-TW": "甦醒",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 B2 B6 00 00 02 00 00 00 00 00 00 00 00 00 00 00 E8 03 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [84 00 00 00],
+    ],
+    [
+      "key",
+      "EVENT_VIEWER_CG_ID_01_20",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 2F 01 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Desco vs. Flan Desco",
+        "es": "Desco vs. Desco flan",
+        "fr": "Desco contre Flasco",
+        "jp": "デスコＶＳプリンデスコ",
+        "ko": "데스코 VS 푸딩 데스코",
+        "zh-TW": "死亡子VS布丁死亡子",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 B3 B6 00 00 02 00 00 00 00 00 00 00 00 00 00 00 E8 03 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [10 27 00 00],
+    ],
+    [
+      "key",
+      "EVENT_ID_CATEGORY_0",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 00 00 00 00 0C 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Pestilence Plains",
+        "es": "Llanura infectada",
+        "fr": "Plaine Kraspec",
+        "jp": "病原",
+        "ko": "질병의 들판",
+        "zh-TW": "病原",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 11 27 00 00 00 00 00 00 F0 23 00 00 22 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [11 27 00 00],
+    ],
+    [
+      "key",
+      "EVENT_ID_CATEGORY_1",
+    ],
+    [
+      12,
+      Buffer [01 00 00 00 00 00 00 00 0C 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Grotto of Agony",
+        "es": "Cueva angustias",
+        "fr": "Grotte Trounoir",
+        "jp": "悩窟",
+        "ko": "번뇌의 굴",
+        "zh-TW": "惱窟",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 75 27 00 00 00 00 00 00 F1 23 00 00 23 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [12 27 00 00],
+    ],
+    [
+      "key",
+      "EVENT_ID_CATEGORY_2",
+    ],
+    [
+      12,
+      Buffer [02 00 00 00 00 00 00 00 0C 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Intoxicated Forest",
+        "es": "Bosque inundado",
+        "fr": "Bosquet Ploufplouf",
+        "jp": "酔没林",
+        "ko": "취기에 잠긴 숲",
+        "zh-TW": "醉沒林",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 D9 27 00 00 00 00 00 00 F2 23 00 00 24 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [13 27 00 00],
+    ],
+    [
+      "key",
+      "EVENT_ID_CATEGORY_3",
+    ],
+    [
+      12,
+      Buffer [03 00 00 00 00 00 00 00 0C 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Chaos Canyon",
+        "es": "Valle cruel",
+        "fr": "Vallée Grobobo",
+        "jp": "渓酷",
+        "ko": "가혹한 계곡",
+        "zh-TW": "溪酷",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 3D 28 00 00 00 00 00 00 F3 23 00 00 25 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [14 27 00 00],
+    ],
+    [
+      "key",
+      "EVENT_ID_CATEGORY_4",
+    ],
+    [
+      12,
+      Buffer [04 00 00 00 00 00 00 00 0C 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Mt. Calamity",
+        "es": "Volcán calamitoso",
+        "fr": "Mont Furax",
+        "jp": "禍火山",
+        "ko": "화화산",
+        "zh-TW": "禍火山",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 A1 28 00 00 00 00 00 00 F4 23 00 00 26 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [15 27 00 00],
+    ],
+    [
+      "key",
+      "EVENT_ID_CATEGORY_5",
+    ],
+    [
+      12,
+      Buffer [05 00 00 00 00 00 00 00 0C 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Moon's Surface",
+        "es": "Superficie lunar",
+        "fr": "Sol lunaire",
+        "jp": "月面",
+        "ko": "월면",
+        "zh-TW": "月面",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 05 29 00 00 00 00 00 00 F5 23 00 00 27 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [16 27 00 00],
+    ],
+    [
+      "key",
+      "EVENT_ID_CATEGORY_6",
+    ],
+    [
+      12,
+      Buffer [06 00 00 00 00 00 00 00 0C 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Chasing Wurst",
+        "es": "Tras Brust",
+        "fr": "À la poursuite de Brust",
+        "jp": "ブルーストを追って",
+        "ko": "부르스트를 쫓아서",
+        "zh-TW": "追上布魯斯特",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 69 29 00 00 00 00 00 00 F6 23 00 00 28 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [17 27 00 00],
+    ],
+    [
+      "key",
+      "EVENT_ID_CATEGORY_7",
+    ],
+    [
+      12,
+      Buffer [07 00 00 00 00 00 00 00 0C 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Pristine Gleam Flan Battlefield",
+        "es": "Campo de batalla radiante prístino",
+        "fr": "Le champ de bataille primordial",
+        "jp": "始煌の戰場",
+        "ko": "시황의 전장",
+        "zh-TW": "始煌戰場",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 CD 29 00 00 00 00 00 00 F7 23 00 00 29 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [18 27 00 00],
+    ],
+    [
+      "key",
+      "EVENT_ID_CATEGORY_15",
+    ],
+    [
+      12,
+      Buffer [08 00 00 00 00 00 00 00 0C 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Flan Toppings Rally Venue",
+        "es": "Rally de flanestampas",
+        "fr": "Site de la chasse aux sauces",
+        "jp": "スタンプリンラリー会場",
+        "ko": "스탬푸딩 랠리 회장",
+        "zh-TW": "集布丁活動會場",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 E1 2E 00 00 00 00 00 00 F8 23 00 00 2A 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [19 27 00 00],
+    ],
+    [
+      "key",
+      "EVENT_ID_CATEGORY_16",
+    ],
+    [
+      12,
+      Buffer [09 00 00 00 00 00 00 00 0C 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Carnage",
+        "es": "Shura",
+        "fr": "Carnage",
+        "jp": "修羅",
+        "ko": "수라",
+        "zh-TW": "修羅",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 45 2F 00 00 00 00 00 00 F9 23 00 00 2B 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1A 27 00 00],
+    ],
+    [
+      "key",
+      "EVENT_ID_CATEGORY_21",
+    ],
+    [
+      12,
+      Buffer [0B 00 00 00 00 00 00 00 0C 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Catastrophe Flan Arc",
+        "es": "El Flan del desastre",
+        "fr": "Le Flan de l’apocalypse",
+        "jp": "災禍のプリン編",
+        "ko": "재앙의 푸딩 편",
+        "zh-TW": "災禍布丁篇",
+      },
+      "3",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 B1 36 00 00 00 00 00 00 FA 23 00 00 2C 24 00 00 E8 03 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1B 27 00 00],
+    ],
+    [
+      "key",
+      "EVENT_ID_CATEGORY_MESSAGE_1",
+    ],
+    [
+      12,
+      Buffer [0D 00 00 00 00 00 00 00 0C 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Message",
+        "es": "Mensajes",
+        "fr": "Message",
+        "jp": "メッセージ",
+        "ko": "메시지",
+        "zh-TW": "訊息",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 01 00 00 00 FA 23 00 00 2C 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [90 5F 01 00],
+    ],
+    [
+      "key",
+      "EVENT_ID_SYSTEM_NONE_DEMO",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 00 00 00 00 0F 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "N/A",
+        "es": "Nada",
+        "fr": "Sans",
+        "jp": "なし",
+        "ko": "없음",
+        "zh-TW": "無",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [91 5F 01 00],
+    ],
+    [
+      "key",
+      "EVENT_ID_SYSTEM_NONE_CG",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 00 00 00 00 0F 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "N/A",
+        "es": "Nada",
+        "fr": "Sans",
+        "jp": "なし",
+        "ko": "없음",
+        "zh-TW": "無",
+      },
+      "3",
+    ],
+    [
+      36,
+      Buffer [00 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]

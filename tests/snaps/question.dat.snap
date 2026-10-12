@@ -1,0 +1,1124 @@
+[
+  [
+    [
+      4,
+      Buffer [04 76 1E 0D],
+    ],
+    [
+      "key",
+      "QUESTION_2201_001_00",
+    ],
+    [
+      "notes",
+      "修練場入るか確認",
+    ],
+    [
+      "languages",
+      {
+        "en": "Enter the Training Grounds?",
+        "es": "¿Entrar a la zona de entrenamiento?",
+        "fr": "Voulez-vous entrer dans le terrain d’entraînement ?",
+        "jp": "修練場に入りますか？",
+        "ko": "수련장에 들어가시겠습니까?",
+        "zh-TW": "確定要進入修練場嗎？",
+      },
+      "3",
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enter",
+        "es": "Entrar",
+        "fr": "Oui",
+        "jp": "入る",
+        "ko": "들어간다",
+        "zh-TW": "進入",
+      },
+      "4.0",
+    ],
+    [
+      4,
+      Buffer [01 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Back",
+        "es": "No entrar",
+        "fr": "Non",
+        "jp": "入らない",
+        "ko": "들어가지 않는다",
+        "zh-TW": "算了",
+      },
+      "4.1",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [68 76 1E 0D],
+    ],
+    [
+      "key",
+      "QUESTION_2201_002_00",
+    ],
+    [
+      "notes",
+      "修練場からですか確認",
+    ],
+    [
+      "languages",
+      {
+        "en": "Return to the Castle?",
+        "es": "¿Volver al interior del castillo?",
+        "fr": "Voulez-vous retourner au château ?",
+        "jp": "城内に戻りますか？",
+        "ko": "거점으로 돌아가시겠습니까?",
+        "zh-TW": "確定要回到據點嗎？",
+      },
+      "3",
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Return",
+        "es": "Volver",
+        "fr": "Oui",
+        "jp": "戻る",
+        "ko": "돌아간다",
+        "zh-TW": "進入",
+      },
+      "4.0",
+    ],
+    [
+      4,
+      Buffer [01 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Stay",
+        "es": "No volver",
+        "fr": "Non",
+        "jp": "とどまる",
+        "ko": "머무른다",
+        "zh-TW": "停留",
+      },
+      "4.1",
+    ],
+    [
+      28,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [04 2A E3 11],
+    ],
+    [
+      "key",
+      "QUESTION_3001_001_00",
+    ],
+    [
+      "notes",
+      "脱出確認",
+    ],
+    [
+      "languages",
+      {
+        "en": "Proceed?",
+        "es": "¿Continuar?",
+        "fr": "Voulez-vous passer à la suite ?",
+        "jp": "先に進みますか？",
+        "ko": "다음으로 진행하시겠습니까?",
+        "zh-TW": "您想繼續嗎？",
+      },
+      "3",
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Yes",
+        "es": "Sí",
+        "fr": "Oui",
+        "jp": "次へ進む",
+        "ko": "다음으로 나아간다",
+        "zh-TW": "下一步",
+      },
+      "4.0",
+    ],
+    [
+      4,
+      Buffer [05 2A E3 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "No",
+        "es": "Quedarse",
+        "fr": "Non",
+        "jp": "とどまる",
+        "ko": "머무른다",
+        "zh-TW": "停留",
+      },
+      "4.1",
+    ],
+    [
+      28,
+      Buffer [06 2A E3 11 06 2A E3 11 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [44 37 E6 11],
+    ],
+    [
+      "key",
+      "QUESTION_3003_001_00",
+    ],
+    [
+      "notes",
+      "占い確認",
+    ],
+    [
+      "languages",
+      {
+        "en": "Have your fortune read?",
+        "es": "¿Dejar que te lean el futuro?",
+        "fr": "Voulez-vous connaître votre avenir ?",
+        "jp": "占ってもらう？",
+        "ko": "점을 쳐 달라고 할까?",
+        "zh-TW": "要占卜看看嗎？",
+      },
+      "3",
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Sure",
+        "es": "Sí",
+        "fr": "Oui",
+        "jp": "占う",
+        "ko": "점을 친다",
+        "zh-TW": "占卜",
+      },
+      "4.0",
+    ],
+    [
+      4,
+      Buffer [47 37 E6 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "Nah",
+        "es": "Ahora no",
+        "fr": "Non",
+        "jp": "また今度",
+        "ko": "다음에 한다",
+        "zh-TW": "下次吧",
+      },
+      "4.1",
+    ],
+    [
+      28,
+      Buffer [46 37 E6 11 46 37 E6 11 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [84 44 E9 11],
+    ],
+    [
+      "key",
+      "QUESTION_3005_001_00",
+    ],
+    [
+      "notes",
+      "入信確認",
+    ],
+    [
+      "languages",
+      {
+        "en": "Join the Cult?",
+        "es": "¿Hacerse creyente?",
+        "fr": "Voulez-vous vous convertir ?",
+        "jp": "入信する？",
+        "ko": "입교할까?",
+        "zh-TW": "要入教嗎？",
+      },
+      "3",
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Hell Yeah!",
+        "es": "¡Sí!",
+        "fr": "Oui",
+        "jp": "入信します！",
+        "ko": "입교하겠습니다!",
+        "zh-TW": "我要入教！",
+      },
+      "4.0",
+    ],
+    [
+      4,
+      Buffer [87 44 E9 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "Hell Nah",
+        "es": "Ahora no",
+        "fr": "Non",
+        "jp": "また今度",
+        "ko": "다음에 한다",
+        "zh-TW": "下次吧",
+      },
+      "4.1",
+    ],
+    [
+      28,
+      Buffer [86 44 E9 11 86 44 E9 11 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [24 CB EA 11],
+    ],
+    [
+      "key",
+      "QUESTION_3006_001_00",
+    ],
+    [
+      "notes",
+      "宿泊確認",
+    ],
+    [
+      "languages",
+      {
+        "en": "Do Something Fun?",
+        "es": "¿Ir a hacer cosas divertidas?",
+        "fr": "Voulez-vous vous amuser un peu ?",
+        "jp": "イイコトしていく？",
+        "ko": "기분 좋은 거 할까?",
+        "zh-TW": "要做點壞壞的事嗎？",
+      },
+      "3",
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Yeah! Let's Get It ON!",
+        "es": "¡S-sí!",
+        "fr": "Oui",
+        "jp": "するする！",
+        "ko": "할래 할래!",
+        "zh-TW": "要！",
+      },
+      "4.0",
+    ],
+    [
+      4,
+      Buffer [27 CB EA 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "I'm Good",
+        "es": "Ahora no",
+        "fr": "Non",
+        "jp": "また今度",
+        "ko": "다음에 한다",
+        "zh-TW": "下次吧",
+      },
+      "4.1",
+    ],
+    [
+      28,
+      Buffer [26 CB EA 11 26 CB EA 11 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [C4 51 EC 11],
+    ],
+    [
+      "key",
+      "QUESTION_3007_001_00",
+    ],
+    [
+      "notes",
+      "利用確認",
+    ],
+    [
+      "languages",
+      {
+        "en": "Rest at the Cafe?",
+        "es": "¿Descansar en la cafetería?",
+        "fr": "Voulez-vous faire une pause au café ?",
+        "jp": "カフェで休憩していく？",
+        "ko": "카페에서 쉬고 갈까?",
+        "zh-TW": "要在咖啡廳休息一下嗎？",
+      },
+      "3",
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Rest",
+        "es": "Sí",
+        "fr": "Oui",
+        "jp": "休憩する",
+        "ko": "쉰다",
+        "zh-TW": "休息",
+      },
+      "4.0",
+    ],
+    [
+      4,
+      Buffer [C7 51 EC 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "Not This Time",
+        "es": "Ahora no",
+        "fr": "Non",
+        "jp": "また今度",
+        "ko": "다음에 한다",
+        "zh-TW": "下次吧",
+      },
+      "4.1",
+    ],
+    [
+      28,
+      Buffer [C6 51 EC 11 C6 51 EC 11 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [64 D8 ED 11],
+    ],
+    [
+      "key",
+      "QUESTION_3008_001_00",
+    ],
+    [
+      "notes",
+      "利用確認",
+    ],
+    [
+      "languages",
+      {
+        "en": "Train?",
+        "es": "¿Entrenar?",
+        "fr": "Voulez-vous vous entraîner ?",
+        "jp": "トレーニングする？",
+        "ko": "훈련할까?",
+        "zh-TW": "要訓練一下嗎？",
+      },
+      "3",
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Let's Work Up a Sweat",
+        "es": "A sudar",
+        "fr": "Oui",
+        "jp": "一汗流す",
+        "ko": "한바탕 땀을 흘린다",
+        "zh-TW": "活動一下筋骨",
+      },
+      "4.0",
+    ],
+    [
+      4,
+      Buffer [67 D8 ED 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "Maybe Next Time",
+        "es": "Ahora no",
+        "fr": "Non",
+        "jp": "また今度",
+        "ko": "다음에 한다",
+        "zh-TW": "下次吧",
+      },
+      "4.1",
+    ],
+    [
+      28,
+      Buffer [66 D8 ED 11 66 D8 ED 11 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [04 5F EF 11],
+    ],
+    [
+      "key",
+      "QUESTION_3009_001_00",
+    ],
+    [
+      "notes",
+      "利用確認",
+    ],
+    [
+      "languages",
+      {
+        "en": "Eat the Suspicious Mushroom?",
+        "es": "¿Comerse una seta sospechosa?",
+        "fr": "Voulez-vous manger un champignon douteux ?",
+        "jp": "怪しいキノコを食べる？",
+        "ko": "수상한 버섯을 먹을까?",
+        "zh-TW": "要吃可疑的香菇嗎？",
+      },
+      "3",
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "YES! Time to Ride High!",
+        "es": "¡Yupii! ¡Qué felichidad!",
+        "fr": "Oui",
+        "jp": "いえーい！　一緒にハッピー！",
+        "ko": "예이! 다 같이 해피!",
+        "zh-TW": "耶！一起嗨起來！",
+      },
+      "4.0",
+    ],
+    [
+      4,
+      Buffer [07 5F EF 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "Yeaaah, No",
+        "es": "Ahora no",
+        "fr": "Non",
+        "jp": "また今度",
+        "ko": "다음에 한다",
+        "zh-TW": "下次吧",
+      },
+      "4.1",
+    ],
+    [
+      28,
+      Buffer [06 5F EF 11 06 5F EF 11 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [A4 E5 F0 11],
+    ],
+    [
+      "key",
+      "QUESTION_3010_001_00",
+    ],
+    [
+      "notes",
+      "利用確認",
+    ],
+    [
+      "languages",
+      {
+        "en": "Wanna Go for Broke?",
+        "es": "¿Competir seriamente?",
+        "fr": "Voulez-vous jouer ?",
+        "jp": "真剣勝負していく？",
+        "ko": "진검승부를 할까?",
+        "zh-TW": "要認真比一場嗎？",
+      },
+      "3",
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Demons Live to Do or Die!",
+        "es": "A callar y apostarlo todo",
+        "fr": "Oui",
+        "jp": "悪魔は黙って全賭け！",
+        "ko": "악마는 잠자코 올인!",
+        "zh-TW": "惡魔就該賭上全部身家！",
+      },
+      "4.0",
+    ],
+    [
+      4,
+      Buffer [A7 E5 F0 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "Hedge Your Bets",
+        "es": "Ahora no",
+        "fr": "Non",
+        "jp": "また今度",
+        "ko": "다음에 한다",
+        "zh-TW": "下次吧",
+      },
+      "4.1",
+    ],
+    [
+      28,
+      Buffer [A6 E5 F0 11 A6 E5 F0 11 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [44 6C F2 11],
+    ],
+    [
+      "key",
+      "QUESTION_3011_001_00",
+    ],
+    [
+      "notes",
+      "利用確認",
+    ],
+    [
+      "languages",
+      {
+        "en": "Use?",
+        "es": "¿Usar?",
+        "fr": "Utiliser ?",
+        "jp": "利用しますか？",
+        "ko": "이용하시겠습니까?",
+        "zh-TW": "確定要使用嗎？",
+      },
+      "3",
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Yes",
+        "es": "Sí",
+        "fr": "Oui",
+        "jp": "利用する",
+        "ko": "이용한다",
+        "zh-TW": "使用",
+      },
+      "4.0",
+    ],
+    [
+      4,
+      Buffer [47 6C F2 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "No",
+        "es": "Ahora no",
+        "fr": "Non",
+        "jp": "また今度",
+        "ko": "다음에 한다",
+        "zh-TW": "下次吧",
+      },
+      "4.1",
+    ],
+    [
+      28,
+      Buffer [46 6C F2 11 46 6C F2 11 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [E4 F2 F3 11],
+    ],
+    [
+      "key",
+      "QUESTION_3012_001_00",
+    ],
+    [
+      "notes",
+      "利用確認",
+    ],
+    [
+      "languages",
+      {
+        "en": "Use?",
+        "es": "¿Usar?",
+        "fr": "Utiliser ?",
+        "jp": "利用しますか？",
+        "ko": "이용하시겠습니까?",
+        "zh-TW": "確定要使用嗎？",
+      },
+      "3",
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Yes",
+        "es": "Sí",
+        "fr": "Oui",
+        "jp": "利用する",
+        "ko": "이용한다",
+        "zh-TW": "使用",
+      },
+      "4.0",
+    ],
+    [
+      4,
+      Buffer [E7 F2 F3 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "No",
+        "es": "Ahora no",
+        "fr": "Non",
+        "jp": "また今度",
+        "ko": "다음에 한다",
+        "zh-TW": "下次吧",
+      },
+      "4.1",
+    ],
+    [
+      28,
+      Buffer [E6 F2 F3 11 E6 F2 F3 11 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [84 79 F5 11],
+    ],
+    [
+      "key",
+      "QUESTION_3013_001_00",
+    ],
+    [
+      "notes",
+      "利用確認",
+    ],
+    [
+      "languages",
+      {
+        "en": "Receive Grooming Services?",
+        "es": "¿Dejar que te pongan guapete?",
+        "fr": "Voulez-vous vous faire toiletter ?",
+        "jp": "グルーミングを受ける？",
+        "ko": "그루밍을 받을까?",
+        "zh-TW": "要接受美容嗎？",
+      },
+      "3",
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Yes, Please!",
+        "es": "¡Por favor!",
+        "fr": "Oui",
+        "jp": "お願いします！",
+        "ko": "잘 부탁드립니다!",
+        "zh-TW": "拜託了！",
+      },
+      "4.0",
+    ],
+    [
+      4,
+      Buffer [87 79 F5 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "Not This Time",
+        "es": "Ahora no",
+        "fr": "Non",
+        "jp": "また今度",
+        "ko": "다음에 한다",
+        "zh-TW": "下次吧",
+      },
+      "4.1",
+    ],
+    [
+      28,
+      Buffer [86 79 F5 11 86 79 F5 11 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [24 00 F7 11],
+    ],
+    [
+      "key",
+      "QUESTION_3014_001_00",
+    ],
+    [
+      "notes",
+      "利用確認",
+    ],
+    [
+      "languages",
+      {
+        "en": "Take the Lost Item?",
+        "es": "¿Recoger el objeto perdido?",
+        "fr": "Voulez-vous récupérer l’objet perdu ?",
+        "jp": "落としものを受け取る？",
+        "ko": "분실물을 받을까?",
+        "zh-TW": "要收下遺失物嗎？",
+      },
+      "3",
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Yeah! I've Been Looking For This!",
+        "es": "Sí, lo estaba buscando",
+        "fr": "Oui",
+        "jp": "ああ！　探していたんだ！",
+        "ko": "맞아! 찾고 있었어!",
+        "zh-TW": "要！終於找到了！",
+      },
+      "4.0",
+    ],
+    [
+      4,
+      Buffer [27 00 F7 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "It's Not Mine",
+        "es": "No es mío",
+        "fr": "Non",
+        "jp": "俺のではない",
+        "ko": "내 것이 아니야",
+        "zh-TW": "這不是我的東西",
+      },
+      "4.1",
+    ],
+    [
+      28,
+      Buffer [26 00 F7 11 26 00 F7 11 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [C4 86 F8 11],
+    ],
+    [
+      "key",
+      "QUESTION_3015_001_00",
+    ],
+    [
+      "notes",
+      "利用確認",
+    ],
+    [
+      "languages",
+      {
+        "en": "What's Your Order?",
+        "es": "¿Qué vas a pedir?",
+        "fr": "Que voulez-vous commander ?",
+        "jp": "何を注文する？",
+        "ko": "어떤 걸 주문할까?",
+        "zh-TW": "要點什麼呢？",
+      },
+      "3",
+    ],
+    [
+      4,
+      Buffer [0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Yellowtail",
+        "es": "Pez limón",
+        "fr": "Petite sériole",
+        "jp": "ハマチ",
+        "ko": "새끼 방어",
+        "zh-TW": "青甘魚",
+      },
+      "4.0",
+    ],
+    [
+      4,
+      Buffer [F7 86 F8 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "Amberjack",
+        "es": "Seriola",
+        "fr": "Grande sériole",
+        "jp": "ブリ",
+        "ko": "방어",
+        "zh-TW": "鰤魚",
+      },
+      "4.1",
+    ],
+    [
+      4,
+      Buffer [F8 86 F8 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "Tuna",
+        "es": "Atún",
+        "fr": "Thon",
+        "jp": "マグロ",
+        "ko": "참치",
+        "zh-TW": "鮪魚",
+      },
+      "4.2",
+    ],
+    [
+      4,
+      Buffer [F9 86 F8 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "Shark",
+        "es": "Tiburón",
+        "fr": "Requin",
+        "jp": "サメ",
+        "ko": "상어",
+        "zh-TW": "鯊魚",
+      },
+      "4.3",
+    ],
+    [
+      4,
+      Buffer [FA 86 F8 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "Egg",
+        "es": "Huevo",
+        "fr": "Œuf",
+        "jp": "たまご",
+        "ko": "달걀",
+        "zh-TW": "蛋",
+      },
+      "4.4",
+    ],
+    [
+      4,
+      Buffer [FB 86 F8 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "Scallop",
+        "es": "Ostras",
+        "fr": "Pétoncle",
+        "jp": "ホタテ",
+        "ko": "가리비",
+        "zh-TW": "干貝",
+      },
+      "4.5",
+    ],
+    [
+      4,
+      Buffer [FC 86 F8 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "Shrimp",
+        "es": "Gambas",
+        "fr": "Crevette",
+        "jp": "エビ",
+        "ko": "새우",
+        "zh-TW": "蝦",
+      },
+      "4.6",
+    ],
+    [
+      4,
+      Buffer [FD 86 F8 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "Mackerel",
+        "es": "Caballa",
+        "fr": "Maquereau",
+        "jp": "サバ",
+        "ko": "고등어",
+        "zh-TW": "鯖魚",
+      },
+      "4.7",
+    ],
+    [
+      4,
+      Buffer [FE 86 F8 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "Salmon",
+        "es": "Salmón",
+        "fr": "Saumon",
+        "jp": "サーモン",
+        "ko": "연어",
+        "zh-TW": "鮭魚",
+      },
+      "4.8",
+    ],
+    [
+      4,
+      Buffer [FF 86 F8 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "Dried Flounder",
+        "es": "Rape",
+        "fr": "Flétan",
+        "jp": "ホシガレイ",
+        "ko": "범가자미",
+        "zh-TW": "星鰈",
+      },
+      "4.9",
+    ],
+    [
+      4,
+      Buffer [00 87 F8 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "Sardine",
+        "es": "Sardinas",
+        "fr": "Sardine",
+        "jp": "イワシ",
+        "ko": "정어리",
+        "zh-TW": "沙丁魚",
+      },
+      "4.10",
+    ],
+    [
+      4,
+      Buffer [01 87 F8 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "Hamburg Steak",
+        "es": "Hamburguesa",
+        "fr": "Steak haché",
+        "jp": "ハンバーグ",
+        "ko": "햄버그",
+        "zh-TW": "漢堡",
+      },
+      "4.11",
+    ],
+    [
+      4,
+      Buffer [02 87 F8 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "Jewel Fish",
+        "es": "Pez joya",
+        "fr": "Poisson-gemme",
+        "jp": "ジュエルフィッシュ",
+        "ko": "주얼피시",
+        "zh-TW": "珠寶魚",
+      },
+      "4.12",
+    ],
+    [
+      4,
+      Buffer [03 87 F8 11],
+    ],
+    [
+      "languages",
+      {
+        "en": "Don't Order",
+        "es": "Ahora no",
+        "fr": "Rien",
+        "jp": "また今度",
+        "ko": "다음에 한다",
+        "zh-TW": "下次吧",
+      },
+      "4.13",
+    ],
+    [
+      28,
+      Buffer [C6 86 F8 11 C6 86 F8 11 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]

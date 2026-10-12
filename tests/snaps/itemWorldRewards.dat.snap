@@ -1,0 +1,1472 @@
+[
+  [
+    [
+      4,
+      Buffer [11 27 00 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_BUFFS_0001",
+    ],
+    [
+      "notes",
+      "報酬バフ_0001",
+    ],
+    [
+      "languages",
+      {
+        "en": "ATK Up",
+        "es": "Más ATQ",
+        "fr": "Boost d’ATQ",
+        "jp": "ATKアップ",
+        "ko": "ATK 증가",
+        "zh-TW": "ATK上升",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Boosts ATK buff by 1
+rank.",
+        "es": "El potenciador de
+ATQ sube un nivel.",
+        "fr": "Le bonus d’ATQ monte
+d’un niveau.",
+        "jp": "ＡＴＫバフが
+１段階上昇します",
+        "ko": "ATK 버프가
+1단계 상승",
+        "zh-TW": "ATK增益等級
+提升1等",
+      },
+      "4",
+      2,
+    ],
+    [
+      76,
+      Buffer [8D 23 00 00 01 00 00 00 06 00 00 00 01 00 00 00 00 65 A3 E1 11 00 00 00 00 07 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [12 27 00 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_BUFFS_0002",
+    ],
+    [
+      "notes",
+      "報酬バフ_0002",
+    ],
+    [
+      "languages",
+      {
+        "en": "DEF Up",
+        "es": "Más DEF",
+        "fr": "Boost de DÉF",
+        "jp": "DEFアップ",
+        "ko": "DEF 증가",
+        "zh-TW": "DEF上升",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Boosts DEF buff by 1
+rank.",
+        "es": "El potenciador de
+DEF sube un nivel.",
+        "fr": "Le bonus de DÉF monte
+d’un niveau.",
+        "jp": "ＤＥＦバフが
+１段階上昇します",
+        "ko": "DEF 버프가
+1단계 상승",
+        "zh-TW": "DEF增益等級
+提升1等",
+      },
+      "4",
+      2,
+    ],
+    [
+      76,
+      Buffer [8E 23 00 00 01 00 00 00 06 00 00 00 01 00 00 00 00 C9 A3 E1 11 00 00 00 00 07 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [13 27 00 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_BUFFS_0003",
+    ],
+    [
+      "notes",
+      "報酬バフ_0003",
+    ],
+    [
+      "languages",
+      {
+        "en": "Movement Speed Buff",
+        "es": "Más velocidad de MOV",
+        "fr": "Boost de MOUV.",
+        "jp": "移動速度アップ",
+        "ko": "이동 속도 증가",
+        "zh-TW": "移動速度上升",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Boosts Movement buff
+by 1 rank.",
+        "es": "El potenciador de
+MOV sube un nivel.",
+        "fr": "Le bonus de mouvement
+monte d’un niveau.",
+        "jp": "移動速度バフが
+１段階上昇します",
+        "ko": "이동 속도 버프가
+1단계 상승",
+        "zh-TW": "移動速度增益
+提升1等",
+      },
+      "4",
+      2,
+    ],
+    [
+      76,
+      Buffer [8F 23 00 00 01 00 00 00 06 00 00 00 01 00 00 00 00 2D A4 E1 11 00 00 00 00 07 00 00 00 01 00 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [14 27 00 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_BUFFS_0004",
+    ],
+    [
+      "notes",
+      "報酬バフ_0004",
+    ],
+    [
+      "languages",
+      {
+        "en": "Crit Rate Up",
+        "es": "Más prob. crítico",
+        "fr": "Boost de CRIT.",
+        "jp": "クリティカル率アップ",
+        "ko": "크리티컬 확률 증가",
+        "zh-TW": "暴擊率上升",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Boosts Crit Rate buff
+by 1 rank.",
+        "es": "El potenciador de
+crítico sube un nivel.",
+        "fr": "Le bonus de CRIT.
+monte d’un niveau.",
+        "jp": "クリティカルバフが
+１段階上昇します",
+        "ko": "크리티컬 버프가
+1단계 상승",
+        "zh-TW": "暴擊增益
+提升1等",
+      },
+      "4",
+      2,
+    ],
+    [
+      76,
+      Buffer [90 23 00 00 01 00 00 00 06 00 00 00 01 00 00 00 00 91 A4 E1 11 00 00 00 00 07 00 00 00 01 00 00 00 00 00 00 00 00 03 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [15 27 00 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_BUFFS_0005",
+    ],
+    [
+      "notes",
+      "報酬バフ_0005",
+    ],
+    [
+      "languages",
+      {
+        "en": "EXP Gain Buff",
+        "es": "Más EXP acumulada",
+        "fr": "Boost d’expérience",
+        "jp": "取得経験値アップ",
+        "ko": "획득 경험치 증가",
+        "zh-TW": "獲得經驗值上升",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Boosts EXP Gain buff
+by 1 rank.",
+        "es": "El potenciador de
+EXP sube un nivel.",
+        "fr": "Le bonus d’expérience
+monte d’un niveau.",
+        "jp": "取得経験値バフが
+１段階上昇します",
+        "ko": "획득 경험치 버프가
+1단계 상승",
+        "zh-TW": "獲得經驗值增益
+提升1等",
+      },
+      "4",
+      2,
+    ],
+    [
+      76,
+      Buffer [91 23 00 00 01 00 00 00 06 00 00 00 01 00 00 00 00 F5 A4 E1 11 00 00 00 00 07 00 00 00 01 00 00 00 00 00 00 00 00 04 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [16 27 00 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_BUFFS_0006",
+    ],
+    [
+      "notes",
+      "報酬バフ_0006",
+    ],
+    [
+      "languages",
+      {
+        "en": "Special CD Buff",
+        "es": "Menos TE téc. esp.",
+        "fr": "Réduction de RC",
+        "jp": "特殊技CTカット",
+        "ko": "특수 기술 CT 컷",
+        "zh-TW": "特殊技CT縮減",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Boosts Special CD buff
+by 1 rank.",
+        "es": "La reducción del TE
+sube un nivel.",
+        "fr": "La réduc. des cap. spé.
+monte d’un niveau.",
+        "jp": "特殊技ＣＴカットバフが
+１段階上昇します",
+        "ko": "특수 기술 CT 컷 버프가
+1단계 상승",
+        "zh-TW": "特殊技CT縮減增益等級
+提升1等",
+      },
+      "4",
+      2,
+    ],
+    [
+      76,
+      Buffer [92 23 00 00 01 00 00 00 06 00 00 00 01 00 00 00 00 59 A5 E1 11 00 00 00 00 07 00 00 00 01 00 00 00 00 00 00 00 00 05 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [B1 AD 01 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ORDEAL_BUFFS_0001",
+    ],
+    [
+      "notes",
+      "報酬試練バフ_0001",
+    ],
+    [
+      "languages",
+      {
+        "en": "ATK Up+",
+        "es": "Más ATQ+",
+        "fr": "Boost d’ATQ +",
+        "jp": "ATKアップ＋",
+        "ko": "ATK 증가+",
+        "zh-TW": "ATK上升+",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Boosts ATK buff by 2
+ranks.",
+        "es": "El potenciador de
+ATQ sube dos niveles.",
+        "fr": "Le bonus d’ATQ monte
+de 2 niveaux.",
+        "jp": "ＡＴＫバフが
+２段階上昇します",
+        "ko": "ATK 버프가
+2단계 상승",
+        "zh-TW": "ATK增益等級
+提升2等",
+      },
+      "4",
+      2,
+    ],
+    [
+      76,
+      Buffer [8D 23 00 00 02 00 00 00 06 00 00 00 01 00 00 00 00 65 A3 E1 11 00 00 00 00 07 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 32 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [B2 AD 01 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ORDEAL_BUFFS_0002",
+    ],
+    [
+      "notes",
+      "報酬試練バフ_0002",
+    ],
+    [
+      "languages",
+      {
+        "en": "DEF Up+",
+        "es": "Más DEF+",
+        "fr": "Boost de DÉF +",
+        "jp": "DEFアップ＋",
+        "ko": "DEF 증가+",
+        "zh-TW": "DEF上升+",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Boosts DEF buff by 2
+ranks.",
+        "es": "El potenciador de
+DEF sube dos niveles.",
+        "fr": "Le bonus de DÉF monte
+de 2 niveaux.",
+        "jp": "ＤＥＦバフが
+２段階上昇します",
+        "ko": "DEF 버프가
+2단계 상승",
+        "zh-TW": "DEF增益等級
+提升2等",
+      },
+      "4",
+      2,
+    ],
+    [
+      76,
+      Buffer [8E 23 00 00 02 00 00 00 06 00 00 00 01 00 00 00 00 C9 A3 E1 11 00 00 00 00 07 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 02 00 00 00 02 00 00 00 32 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [B3 AD 01 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ORDEAL_BUFFS_0003",
+    ],
+    [
+      "notes",
+      "報酬試練バフ_0003",
+    ],
+    [
+      "languages",
+      {
+        "en": "Movement Speed Buff+",
+        "es": "Más velocidad de MOV+",
+        "fr": "Boost de MOUV. +",
+        "jp": "移動速度アップ＋",
+        "ko": "이동 속도 증가+",
+        "zh-TW": "移動速度上升＋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Boosts Movement buff
+by 2 ranks.",
+        "es": "El potenciador de
+MOV sube dos niveles.",
+        "fr": "Le bonus de mouvement
+monte de 2 niveaux.",
+        "jp": "移動速度バフが
+２段階上昇します",
+        "ko": "이동 속도 버프가
+2단계 상승",
+        "zh-TW": "移動速度增益
+提升2等",
+      },
+      "4",
+      2,
+    ],
+    [
+      76,
+      Buffer [8F 23 00 00 02 00 00 00 06 00 00 00 01 00 00 00 00 2D A4 E1 11 00 00 00 00 07 00 00 00 01 00 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 32 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [B4 AD 01 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ORDEAL_BUFFS_0004",
+    ],
+    [
+      "notes",
+      "報酬試練バフ_0004",
+    ],
+    [
+      "languages",
+      {
+        "en": "Crit Rate Up+",
+        "es": "Más prob. crítico+",
+        "fr": "Boost de CRIT. +",
+        "jp": "クリティカル率アップ＋",
+        "ko": "크리티컬 확률 증가+",
+        "zh-TW": "暴擊率上升＋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Boosts Crit Rate buff
+by 2 ranks.",
+        "es": "El potenciador de
+crítico sube dos niveles.",
+        "fr": "Le bonus de CRIT.
+monte de 2 niveaux.",
+        "jp": "クリティカルバフが
+２段階上昇します",
+        "ko": "크리티컬 버프가
+2단계 상승",
+        "zh-TW": "暴擊增益
+提升2等",
+      },
+      "4",
+      2,
+    ],
+    [
+      76,
+      Buffer [90 23 00 00 02 00 00 00 06 00 00 00 01 00 00 00 00 91 A4 E1 11 00 00 00 00 07 00 00 00 01 00 00 00 00 00 00 00 00 03 00 00 00 02 00 00 00 02 00 00 00 32 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [B5 AD 01 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ORDEAL_BUFFS_0005",
+    ],
+    [
+      "notes",
+      "報酬試練バフ_0005",
+    ],
+    [
+      "languages",
+      {
+        "en": "EXP Gain Buff+",
+        "es": "Más EXP acumulada+",
+        "fr": "Boost d’expérience +",
+        "jp": "取得経験値アップ＋",
+        "ko": "획득 경험치 증가+",
+        "zh-TW": "獲得經驗值上升＋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Boosts EXP Gain buff
+by 2 ranks.",
+        "es": "El potenciador de
+EXP sube dos niveles.",
+        "fr": "Le bonus d’expérience
+monte de 2 niveaux.",
+        "jp": "取得経験値バフが
+２段階上昇します",
+        "ko": "획득 경험치 버프가
+2단계 상승",
+        "zh-TW": "獲得經驗值增益
+提升2等",
+      },
+      "4",
+      2,
+    ],
+    [
+      76,
+      Buffer [91 23 00 00 02 00 00 00 06 00 00 00 01 00 00 00 00 F5 A4 E1 11 00 00 00 00 07 00 00 00 01 00 00 00 00 00 00 00 00 04 00 00 00 02 00 00 00 02 00 00 00 32 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [B6 AD 01 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ORDEAL_BUFFS_0006",
+    ],
+    [
+      "notes",
+      "報酬試練バフ_0006",
+    ],
+    [
+      "languages",
+      {
+        "en": "Special CD Buff+",
+        "es": "Menos TE+ téc. esp.",
+        "fr": "Réduction de RC +",
+        "jp": "特殊技CTカット＋",
+        "ko": "특수 기술 CT 컷+",
+        "zh-TW": "特殊技CT縮減+",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Boosts Special CD buff
+by 2 ranks.",
+        "es": "La reducción del TE
+sube dos niveles.",
+        "fr": "La réduc. des cap. spé.
+monte de 2 niveaux.",
+        "jp": "特殊技ＣＴカットバフが
+２段階上昇します",
+        "ko": "특수 기술 CT 컷 버프가
+2단계 상승",
+        "zh-TW": "特殊技CT縮減增益等級
+提升2等",
+      },
+      "4",
+      2,
+    ],
+    [
+      76,
+      Buffer [92 23 00 00 02 00 00 00 06 00 00 00 01 00 00 00 00 59 A5 E1 11 00 00 00 00 07 00 00 00 01 00 00 00 00 00 00 00 00 05 00 00 00 02 00 00 00 02 00 00 00 32 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [51 34 03 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ITEM_0001",
+    ],
+    [
+      "notes",
+      "報酬アイテム_0001",
+    ],
+    [
+      "languages",
+      {
+        "en": "Reward Items Up",
+        "es": "Más recompensas",
+        "fr": "Bonus de récompense",
+        "jp": "報酬アイテムアップ",
+        "ko": "보상 아이템 증가",
+        "zh-TW": "獎勵道具上升",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Better items obtained
+when escaping.",
+        "es": "Obtendrás recompensas
+valiosas al salir.",
+        "fr": "Vous obtenez de
+meilleurs récompenses.",
+        "jp": "脱出時の獲得アイテムが
+豪華になります",
+        "ko": "탈출 시, 획득 아이템이
+호화로워집니다.",
+        "zh-TW": "撤離時的獲得道具
+將變得豪華。",
+      },
+      "4",
+      2,
+    ],
+    [
+      75,
+      Buffer [94 23 00 00 03 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F1 BA 04 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_HEALING_0001",
+    ],
+    [
+      "notes",
+      "報酬回復_0001",
+    ],
+    [
+      "languages",
+      {
+        "en": "Full Heal",
+        "es": "Recuperación total",
+        "fr": "Restauration complète",
+        "jp": "全回復",
+        "ko": "모두 회복",
+        "zh-TW": "完全恢復",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Fully restores HP.
+",
+        "es": "Se recuperan todos
+los PV.",
+        "fr": "Vous récupérez
+tous vos PV.",
+        "jp": "HPが全回復します
+",
+        "ko": "HP를 전부 회복한다
+",
+        "zh-TW": "HP完全恢復
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      78,
+      Buffer [8C 23 00 00 04 00 00 00 02 00 00 00 04 00 00 00 31 30 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [91 41 06 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ROOM_0001",
+    ],
+    [
+      "notes",
+      "報酬小部屋_0001",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mystery Room",
+        "es": "Extraña habitación",
+        "fr": "Antre des mystères",
+        "jp": "不思議な小部屋",
+        "ko": "신비한 작은 방",
+        "zh-TW": "神秘小房間",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Enter a mystery room.
+",
+        "es": "Entrar a una extraña
+habitación pequeña.",
+        "fr": "Vous entrez dans
+l’Antre des mystères.",
+        "jp": "不思議な小部屋に
+入ります",
+        "ko": "신비한 작은 방에
+들어갑니다.",
+        "zh-TW": "進入
+神秘小房間。",
+      },
+      "4",
+      2,
+    ],
+    [
+      75,
+      Buffer [93 23 00 00 05 00 00 00 06 00 00 00 01 00 00 00 00 65 A3 E1 11 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [92 41 06 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ROOM_0002",
+    ],
+    [
+      "notes",
+      "報酬小部屋_0002",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mystery Room",
+        "es": "Extraña habitación",
+        "fr": "Antre des mystères",
+        "jp": "不思議な小部屋",
+        "ko": "신비한 작은 방",
+        "zh-TW": "神秘小房間",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Enter a mystery room.
+",
+        "es": "Entrar a una extraña
+habitación pequeña.",
+        "fr": "Vous entrez dans
+l’Antre des mystères.",
+        "jp": "不思議な小部屋に
+入ります",
+        "ko": "신비한 작은 방에
+들어갑니다.",
+        "zh-TW": "進入
+神秘小房間。",
+      },
+      "4",
+      2,
+    ],
+    [
+      75,
+      Buffer [93 23 00 00 05 00 00 00 06 00 00 00 01 00 00 00 00 C9 A3 E1 11 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [93 41 06 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ROOM_0003",
+    ],
+    [
+      "notes",
+      "報酬小部屋_0003",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mystery Room",
+        "es": "Extraña habitación",
+        "fr": "Antre des mystères",
+        "jp": "不思議な小部屋",
+        "ko": "신비한 작은 방",
+        "zh-TW": "神秘小房間",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Enter a mystery room.
+",
+        "es": "Entrar a una extraña
+habitación pequeña.",
+        "fr": "Vous entrez dans
+l’Antre des mystères.",
+        "jp": "不思議な小部屋に
+入ります",
+        "ko": "신비한 작은 방에
+들어갑니다.",
+        "zh-TW": "進入
+神秘小房間。",
+      },
+      "4",
+      2,
+    ],
+    [
+      75,
+      Buffer [93 23 00 00 05 00 00 00 06 00 00 00 01 00 00 00 00 2D A4 E1 11 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [94 41 06 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ROOM_0004",
+    ],
+    [
+      "notes",
+      "報酬小部屋_0004",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mystery Room",
+        "es": "Extraña habitación",
+        "fr": "Antre des mystères",
+        "jp": "不思議な小部屋",
+        "ko": "신비한 작은 방",
+        "zh-TW": "神秘小房間",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Enter a mystery room.
+",
+        "es": "Entrar a una extraña
+habitación pequeña.",
+        "fr": "Vous entrez dans
+l’Antre des mystères.",
+        "jp": "不思議な小部屋に
+入ります",
+        "ko": "신비한 작은 방에
+들어갑니다.",
+        "zh-TW": "進入
+神秘小房間。",
+      },
+      "4",
+      2,
+    ],
+    [
+      75,
+      Buffer [93 23 00 00 05 00 00 00 06 00 00 00 01 00 00 00 00 91 A4 E1 11 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [95 41 06 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ROOM_0005",
+    ],
+    [
+      "notes",
+      "報酬小部屋_0005",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mystery Room",
+        "es": "Extraña habitación",
+        "fr": "Antre des mystères",
+        "jp": "不思議な小部屋",
+        "ko": "신비한 작은 방",
+        "zh-TW": "神秘小房間",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Enter a mystery room.
+",
+        "es": "Entrar a una extraña
+habitación pequeña.",
+        "fr": "Vous entrez dans
+l’Antre des mystères.",
+        "jp": "不思議な小部屋に
+入ります",
+        "ko": "신비한 작은 방에
+들어갑니다.",
+        "zh-TW": "進入
+神秘小房間。",
+      },
+      "4",
+      2,
+    ],
+    [
+      75,
+      Buffer [93 23 00 00 05 00 00 00 06 00 00 00 01 00 00 00 00 F5 A4 E1 11 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [96 41 06 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ROOM_0006",
+    ],
+    [
+      "notes",
+      "報酬小部屋_0006",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mystery Room",
+        "es": "Extraña habitación",
+        "fr": "Antre des mystères",
+        "jp": "不思議な小部屋",
+        "ko": "신비한 작은 방",
+        "zh-TW": "神秘小房間",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Enter a mystery room.
+",
+        "es": "Entrar a una extraña
+habitación pequeña.",
+        "fr": "Vous entrez dans
+l’Antre des mystères.",
+        "jp": "不思議な小部屋に
+入ります",
+        "ko": "신비한 작은 방에
+들어갑니다.",
+        "zh-TW": "進入
+神秘小房間。",
+      },
+      "4",
+      2,
+    ],
+    [
+      75,
+      Buffer [93 23 00 00 05 00 00 00 06 00 00 00 01 00 00 00 00 59 A5 E1 11 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [97 41 06 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ROOM_0007",
+    ],
+    [
+      "notes",
+      "報酬小部屋_0007",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mystery Room",
+        "es": "Extraña habitación",
+        "fr": "Antre des mystères",
+        "jp": "不思議な小部屋",
+        "ko": "신비한 작은 방",
+        "zh-TW": "神秘小房間",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Enter a mystery room.
+",
+        "es": "Entrar a una extraña
+habitación pequeña.",
+        "fr": "Vous entrez dans
+l’Antre des mystères.",
+        "jp": "不思議な小部屋に
+入ります",
+        "ko": "신비한 작은 방에
+들어갑니다.",
+        "zh-TW": "進入
+神秘小房間。",
+      },
+      "4",
+      2,
+    ],
+    [
+      75,
+      Buffer [93 23 00 00 05 00 00 00 06 00 00 00 01 00 00 00 00 BD A5 E1 11 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [98 41 06 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ROOM_0008",
+    ],
+    [
+      "notes",
+      "報酬小部屋_0008",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mystery Room",
+        "es": "Extraña habitación",
+        "fr": "Antre des mystères",
+        "jp": "不思議な小部屋",
+        "ko": "신비한 작은 방",
+        "zh-TW": "神秘小房間",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Enter a mystery room.
+",
+        "es": "Entrar a una extraña
+habitación pequeña.",
+        "fr": "Vous entrez dans
+l’Antre des mystères.",
+        "jp": "不思議な小部屋に
+入ります",
+        "ko": "신비한 작은 방에
+들어갑니다.",
+        "zh-TW": "進入
+神秘小房間。",
+      },
+      "4",
+      2,
+    ],
+    [
+      75,
+      Buffer [93 23 00 00 05 00 00 00 06 00 00 00 01 00 00 00 00 21 A6 E1 11 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [99 41 06 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ROOM_0009",
+    ],
+    [
+      "notes",
+      "報酬小部屋_0009",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mystery Room",
+        "es": "Extraña habitación",
+        "fr": "Antre des mystères",
+        "jp": "不思議な小部屋",
+        "ko": "신비한 작은 방",
+        "zh-TW": "神秘小房間",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Enter a mystery room.
+",
+        "es": "Entrar a una extraña
+habitación pequeña.",
+        "fr": "Vous entrez dans
+l’Antre des mystères.",
+        "jp": "不思議な小部屋に
+入ります",
+        "ko": "신비한 작은 방에
+들어갑니다.",
+        "zh-TW": "進入
+神秘小房間。",
+      },
+      "4",
+      2,
+    ],
+    [
+      75,
+      Buffer [93 23 00 00 05 00 00 00 06 00 00 00 01 00 00 00 00 85 A6 E1 11 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [9A 41 06 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ROOM_0010",
+    ],
+    [
+      "notes",
+      "報酬小部屋_0010",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mystery Room",
+        "es": "Extraña habitación",
+        "fr": "Antre des mystères",
+        "jp": "不思議な小部屋",
+        "ko": "신비한 작은 방",
+        "zh-TW": "神秘小房間",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Enter a mystery room.
+",
+        "es": "Entrar a una extraña
+habitación pequeña.",
+        "fr": "Vous entrez dans
+l’Antre des mystères.",
+        "jp": "不思議な小部屋に
+入ります",
+        "ko": "신비한 작은 방에
+들어갑니다.",
+        "zh-TW": "進入
+神秘小房間。",
+      },
+      "4",
+      2,
+    ],
+    [
+      75,
+      Buffer [93 23 00 00 05 00 00 00 06 00 00 00 01 00 00 00 00 E9 A6 E1 11 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [9B 41 06 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ROOM_0011",
+    ],
+    [
+      "notes",
+      "報酬小部屋_0011",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mystery Room",
+        "es": "Extraña habitación",
+        "fr": "Antre des mystères",
+        "jp": "不思議な小部屋",
+        "ko": "신비한 작은 방",
+        "zh-TW": "神秘小房間",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Enter a mystery room.
+",
+        "es": "Entrar a una extraña
+habitación pequeña.",
+        "fr": "Vous entrez dans
+l’Antre des mystères.",
+        "jp": "不思議な小部屋に
+入ります",
+        "ko": "신비한 작은 방에
+들어갑니다.",
+        "zh-TW": "進入
+神秘小房間。",
+      },
+      "4",
+      2,
+    ],
+    [
+      75,
+      Buffer [93 23 00 00 05 00 00 00 06 00 00 00 01 00 00 00 00 4D A7 E1 11 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [9C 41 06 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ROOM_0012",
+    ],
+    [
+      "notes",
+      "報酬小部屋_0012",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mystery Room",
+        "es": "Extraña habitación",
+        "fr": "Antre des mystères",
+        "jp": "不思議な小部屋",
+        "ko": "신비한 작은 방",
+        "zh-TW": "神秘小房間",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Enter a mystery room.
+",
+        "es": "Entrar a una extraña
+habitación pequeña.",
+        "fr": "Vous entrez dans
+l’Antre des mystères.",
+        "jp": "不思議な小部屋に
+入ります",
+        "ko": "신비한 작은 방에
+들어갑니다.",
+        "zh-TW": "進入
+神秘小房間。",
+      },
+      "4",
+      2,
+    ],
+    [
+      75,
+      Buffer [93 23 00 00 05 00 00 00 06 00 00 00 01 00 00 00 00 B1 A7 E1 11 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [9D 41 06 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ROOM_0013",
+    ],
+    [
+      "notes",
+      "報酬小部屋_0013",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mystery Room",
+        "es": "Extraña habitación",
+        "fr": "Antre des mystères",
+        "jp": "不思議な小部屋",
+        "ko": "신비한 작은 방",
+        "zh-TW": "神秘小房間",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Enter a mystery room.
+",
+        "es": "Entrar a una extraña
+habitación pequeña.",
+        "fr": "Vous entrez dans
+l’Antre des mystères.",
+        "jp": "不思議な小部屋に
+入ります",
+        "ko": "신비한 작은 방에
+들어갑니다.",
+        "zh-TW": "進入
+神秘小房間。",
+      },
+      "4",
+      2,
+    ],
+    [
+      75,
+      Buffer [93 23 00 00 05 00 00 00 06 00 00 00 01 00 00 00 00 15 A8 E1 11 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [9E 41 06 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ROOM_0014",
+    ],
+    [
+      "notes",
+      "報酬小部屋_0014",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mystery Room",
+        "es": "Extraña habitación",
+        "fr": "Antre des mystères",
+        "jp": "不思議な小部屋",
+        "ko": "신비한 작은 방",
+        "zh-TW": "神秘小房間",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Enter a mystery room.
+",
+        "es": "Entrar a una extraña
+habitación pequeña.",
+        "fr": "Vous entrez dans
+l’Antre des mystères.",
+        "jp": "不思議な小部屋に
+入ります",
+        "ko": "신비한 작은 방에
+들어갑니다.",
+        "zh-TW": "進入
+神秘小房間。",
+      },
+      "4",
+      2,
+    ],
+    [
+      75,
+      Buffer [93 23 00 00 05 00 00 00 06 00 00 00 01 00 00 00 00 79 A8 E1 11 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [9F 41 06 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ROOM_0015",
+    ],
+    [
+      "notes",
+      "報酬小部屋_0015",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mystery Room",
+        "es": "Extraña habitación",
+        "fr": "Antre des mystères",
+        "jp": "不思議な小部屋",
+        "ko": "신비한 작은 방",
+        "zh-TW": "神秘小房間",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Enter a mystery room.
+",
+        "es": "Entrar a una extraña
+habitación pequeña.",
+        "fr": "Vous entrez dans
+l’Antre des mystères.",
+        "jp": "不思議な小部屋に
+入ります",
+        "ko": "신비한 작은 방에
+들어갑니다.",
+        "zh-TW": "進入
+神秘小房間。",
+      },
+      "4",
+      2,
+    ],
+    [
+      75,
+      Buffer [93 23 00 00 05 00 00 00 06 00 00 00 01 00 00 00 00 DD A8 E1 11 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [A0 41 06 00],
+    ],
+    [
+      "key",
+      "ITEM_WORLD_REWARDS_ROOM_0016",
+    ],
+    [
+      "notes",
+      "報酬小部屋_0016",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mystery Room",
+        "es": "Extraña habitación",
+        "fr": "Antre des mystères",
+        "jp": "不思議な小部屋",
+        "ko": "신비한 작은 방",
+        "zh-TW": "神秘小房間",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Enter a mystery room.
+",
+        "es": "Entrar a una extraña
+habitación pequeña.",
+        "fr": "Vous entrez dans
+l’Antre des mystères.",
+        "jp": "不思議な小部屋に
+入ります",
+        "ko": "신비한 작은 방에
+들어갑니다.",
+        "zh-TW": "進入
+神秘小房間。",
+      },
+      "4",
+      2,
+    ],
+    [
+      75,
+      Buffer [93 23 00 00 05 00 00 00 06 00 00 00 01 00 00 00 00 41 A9 E1 11 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]

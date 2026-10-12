@@ -1,0 +1,5243 @@
+[
+  [
+    [
+      4,
+      Buffer [01 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_BGM_VOLUME",
+    ],
+    [
+      42,
+      Buffer [00 00 00 00 65 00 00 00 01 00 00 00 00 01 00 00 00 00 01 00 00 00 05 00 00 00 00 00 00 00 0A 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Music Volume",
+        "es": "Volumen de música",
+        "fr": "Volume de la musique",
+        "jp": "音楽の音量",
+        "ko": "음악 음량",
+        "zh-TW": "音樂音量",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust music volume.
+",
+        "es": "Ajusta el volumen de la música.
+",
+        "fr": "Permet d’ajuster le volume de
+la musique.",
+        "jp": "音楽の音量を設定します
+",
+        "ko": "음악 음량을 설정합니다.
+",
+        "zh-TW": "設定音樂的音量。
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_SE_VOLUME",
+    ],
+    [
+      42,
+      Buffer [00 00 00 00 66 00 00 00 01 00 00 00 00 01 00 00 00 00 01 00 00 00 05 00 00 00 00 00 00 00 0A 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Sound Effect Volume",
+        "es": "Volumen de efectos",
+        "fr": "Volume des effets sonores",
+        "jp": "効果音の音量",
+        "ko": "효과음 음량",
+        "zh-TW": "音效音量",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust sound effect volume.
+(Test with <cmd CMD_SOUND_VIEWING>)",
+        "es": "Ajusta el volumen de los efectos de
+sonido. (Probar con <cmd CMD_SOUND_VIEWING>)",
+        "fr": "Permet d’ajuster le volume des
+effets sonores. (Test : <cmd CMD_SOUND_VIEWING>)",
+        "jp": "効果音の音量を設定します
+（<cmd CMD_SOUND_VIEWING>で試聴）",
+        "ko": "효과음 음량을 설정합니다.
+(<cmd CMD_SOUND_VIEWING>(으)로 들어 보기)",
+        "zh-TW": "設定音效的音量。
+（以<cmd CMD_SOUND_VIEWING>試聽。）",
+      },
+      "4",
+      2,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [03 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_DEMO_VOICE_VOLUME",
+    ],
+    [
+      42,
+      Buffer [00 00 00 00 67 00 00 00 01 00 00 00 00 01 00 00 00 00 01 00 00 00 05 00 00 00 00 00 00 00 0A 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Dialogue Volume",
+        "es": "Volumen de diálogos",
+        "fr": "Volume des dialogues",
+        "jp": "会話の音量",
+        "ko": "대화 음량",
+        "zh-TW": "對話音量",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust dialogue volume in
+cutscenes.
+(Test with <cmd CMD_SOUND_VIEWING>)",
+        "es": "Ajusta el volumen de las voces de
+los diálogos. (Probar con <cmd CMD_SOUND_VIEWING>)
+",
+        "fr": "Permet d’ajuster le volume des
+dialogues. (Test : <cmd CMD_SOUND_VIEWING>)
+",
+        "jp": "会話音声の音量を設定します
+（<cmd CMD_SOUND_VIEWING>で試聴）
+",
+        "ko": "대화 음성 음량을 설정합니다.
+(<cmd CMD_SOUND_VIEWING>(으)로 들어 보기)
+",
+        "zh-TW": "設定對話語音的音量。
+（以<cmd CMD_SOUND_VIEWING>試聽。）
+",
+      },
+      "4",
+      3,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [04 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_CHARA_VOICE_VOLUME",
+    ],
+    [
+      42,
+      Buffer [00 00 00 00 68 00 00 00 01 00 00 00 00 01 00 00 00 00 01 00 00 00 05 00 00 00 00 00 00 00 0A 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Battle Voice Volume",
+        "es": "Volumen de gritos",
+        "fr": "Volume des effets vocaux",
+        "jp": "掛け声の音量",
+        "ko": "기합 음량",
+        "zh-TW": "吆喝聲音量",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust voice volume in combat.
+(Test with <cmd CMD_SOUND_VIEWING>)",
+        "es": "Ajusta el volumen de las voces de
+los gritos. (Probar con <cmd CMD_SOUND_VIEWING>)",
+        "fr": "Permet d’ajuster le volume des
+effets vocaux.(Test : <cmd CMD_SOUND_VIEWING>)",
+        "jp": "掛け声音声の音量を設定します
+（<cmd CMD_SOUND_VIEWING>で試聴）",
+        "ko": "기합 음성 음량을 설정합니다.
+(<cmd CMD_SOUND_VIEWING>(으)로 들어 보기)",
+        "zh-TW": "設定吆喝聲語音的音量。
+（以<cmd CMD_SOUND_VIEWING>試聽。）",
+      },
+      "4",
+      2,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [05 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_DISPLAY_LANGUAGE",
+    ],
+    [
+      42,
+      Buffer [00 00 00 00 C9 00 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Display Language",
+        "es": "Idioma de interfaz",
+        "fr": "Langue d’affichage",
+        "jp": "表示言語",
+        "ko": "표시 언어",
+        "zh-TW": "顯示語言",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Switch the language used for
+displayed text.",
+        "es": "Cambia el idioma de la interfaz.
+",
+        "fr": "Permet de changer la langue
+d’affichage.",
+        "jp": "表示言語を切り替えます
+",
+        "ko": "표시 언어를 변경합니다.
+",
+        "zh-TW": "切換顯示語言。
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      4,
+      Buffer [04 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<font 1 JP>日本語</font>",
+        "es": "<font 1 JP>日本語</font>",
+        "fr": "<font 1 JP>日本語</font>",
+        "jp": "<font 1 JP>日本語</font>",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<font 1 EN>English</font>",
+        "es": "<font 1 EN>English</font>",
+        "fr": "<font 1 EN>English</font>",
+        "jp": "<font 1 EN>English</font>",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "5.1",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<font 1 FR>Français</font>",
+        "es": "<font 1 FR>Français</font>",
+        "fr": "<font 1 FR>Français</font>",
+        "jp": "<font 1 FR>Français</font>",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "5.2",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<font 1 SC>Español</font>",
+        "es": "<font 1 SC>Español</font>",
+        "fr": "<font 1 SC>Español</font>",
+        "jp": "<font 1 SC>Español</font>",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "5.3",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [06 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_LANGUAGE",
+    ],
+    [
+      42,
+      Buffer [00 00 00 00 CA 00 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Voice Language",
+        "es": "Idioma de voces",
+        "fr": "Langue des voix",
+        "jp": "音声言語",
+        "ko": "음성 언어",
+        "zh-TW": "語音語言",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Switch the language used for
+voices.",
+        "es": "Cambia el idioma de las voces.
+",
+        "fr": "Permet de changer la langue des
+voix.",
+        "jp": "音声の言語を切り替えます
+",
+        "ko": "음성 언어를 변경합니다.
+",
+        "zh-TW": "切換語音語言。
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "[Japanese]",
+        "es": "Japonés",
+        "fr": "Japonais",
+        "jp": "日本語",
+        "ko": "일본어",
+        "zh-TW": "日文",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "[English]",
+        "es": "Inglés",
+        "fr": "Anglais",
+        "jp": "英語",
+        "ko": "영어",
+        "zh-TW": "英文",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 01 00 00 00 00 00 00 00 1E 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [07 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_CONTROLLER_VIBRATION",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 75 27 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Controller Vibration",
+        "es": "Vibración del mando",
+        "fr": "Vibrations de la manette",
+        "jp": "コントローラー振動",
+        "ko": "컨트롤러 진동",
+        "zh-TW": "控制器震動",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Toggle controller vibration on or
+off.",
+        "es": "Configura la vibración del mando.
+",
+        "fr": "Permet d’activer ou non
+les vibrations de la manette.",
+        "jp": "コントローラーの振動を設定します
+",
+        "ko": "
+",
+        "zh-TW": "
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "On",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [08 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_EFFECT_ACCELERATION",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 D9 27 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Speed Up Ultimate Animations",
+        "es": "Acelerar animaciones de artes secretas",
+        "fr": "Accélération des animations d’essence",
+        "jp": "奥義演出の常時高速化",
+        "ko": "오의 연출 상시 고속화",
+        "zh-TW": "快轉所有奧義動畫",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust ultimate skill animation
+speed.
+<space>
+<c t_cmd>[No]</c>
+Ultimate skill animations will
+play out at normal speed. Hold <cmd CMD_GAME_CUT_SCENE_FAST_SPEED>
+mid-animation to speed it up.
+<space>
+<c t_cmd>[Yes]</c>
+Ultimate skill animations will
+play out at high speed. Hold <cmd CMD_GAME_CUT_SCENE_FAST_SPEED>
+mid-animation to play it at
+normal speed.
+
+
+",
+        "es": "Configura la velocidad de las
+animaciones de artes secretas.
+<space>
+<c t_cmd>[No]</c>
+Las animaciones de artes secretas
+se reproducen a velocidad normal.
+Durante la animación, mientras
+mantienes pulsado <cmd CMD_GAME_CUT_SCENE_FAST_SPEED>,
+la animación se reproduce a
+alta velocidad.
+<space>
+<c t_cmd>[Sí]</c>
+Las animaciones de artes secretas
+se reproducen a alta velocidad.
+Durante la animación, mientras
+mantienes pulsado <cmd CMD_GAME_CUT_SCENE_FAST_SPEED>,",
+        "fr": "Permet de régler la vitesse des
+animations d’essence.<space>
+<c t_cmd>Désactivé</c>
+Les animations défilent à une
+vitesse normale. Il est possible
+de les accélérer en maintenant
+la touche <cmd CMD_GAME_CUT_SCENE_FAST_SPEED> pendant une animation.
+<space>
+<c t_cmd>Activé</c>
+Les animations passent en accéléré.
+Il est possible de repasser à la
+vitesse normale en maintenant la
+touche <cmd CMD_GAME_CUT_SCENE_FAST_SPEED> pendant une animation.
+
+
+",
+        "jp": "奥義演出の速度を設定します
+<space>
+<c t_cmd>【しない】</c>
+奥義演出が等速で進行します
+演出中に<cmd CMD_GAME_CUT_SCENE_FAST_SPEED>を押している間は
+演出が高速で進行します
+<space>
+<c t_cmd>【する】</c>
+奥義演出が高速で進行します
+演出中に<cmd CMD_GAME_CUT_SCENE_FAST_SPEED>を押している間は
+演出が等速で進行します
+
+
+
+
+",
+        "ko": "오의 연출 속도를 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+오의 연출이 일정 속도로 진행됩니다.
+연출 중에 <cmd CMD_GAME_CUT_SCENE_FAST_SPEED>(을)를 누르는 동안은
+연출이 고속으로 진행됩니다.
+
+<c t_cmd>【한다】</c>
+오의 연출이 고속으로 진행됩니다.
+연출 중에 <cmd CMD_GAME_CUT_SCENE_FAST_SPEED>(을)를 누르는 동안은
+연출이 일정한 속도로 진행됩니다.
+
+
+
+
+",
+        "zh-TW": "設定奧義動畫的速度。
+
+<c t_cmd>【否】</c>
+以正常速度播放奧義動畫。
+動畫播放時，按住<cmd CMD_GAME_CUT_SCENE_FAST_SPEED>的期間
+以高速播放動畫。
+
+<c t_cmd>【是】</c>
+以高速播放奧義動畫。
+動畫播放時，按住<cmd CMD_GAME_CUT_SCENE_FAST_SPEED>的期間
+以正常速度播放動畫。
+
+
+
+
+",
+      },
+      "4",
+      16,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "No",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Yes",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [09 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_EFFECT_ACCELERATION_RATE",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 DA 27 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Combat Animation Speed Increase",
+        "es": "Velocidad de animaciones en batalla",
+        "fr": "Accélération des animations de combat",
+        "jp": "戦闘演出の高速化速度",
+        "ko": "전투 연출 고속화 속도",
+        "zh-TW": "戰鬥動畫快轉速度",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust how much combat animations
+speed up by when you press <cmd_S CMD_EFFECT_ACCELARATION_INVERSE>.
+",
+        "es": "Configura la velocidad de las
+animaciones al pulsar <cmd_S CMD_EFFECT_ACCELARATION_INVERSE>
+durante las batallas.",
+        "fr": "Appuyer sur <cmd_S CMD_EFFECT_ACCELARATION_INVERSE> pendant
+une scène de combat permet de
+régler sa vitesse.",
+        "jp": "戦闘演出中に<cmd_S CMD_EFFECT_ACCELARATION_INVERSE>を押した時の演出の再生速度を設定します
+
+",
+        "ko": "
+
+",
+        "zh-TW": "
+
+",
+      },
+      "4",
+      3,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "2X",
+        "es": "x2",
+        "fr": "x2",
+        "jp": "2倍",
+        "ko": "2배",
+        "zh-TW": "2倍",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "4X",
+        "es": "x4",
+        "fr": "x4",
+        "jp": "4倍",
+        "ko": "4배",
+        "zh-TW": "4倍",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0A 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_EFFECT_ACCELERATION_CHARACTER_WORLD",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 DB 27 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Speed Up Chara World Combat",
+        "es": "Acelerar batallas en Mundo personaje",
+        "fr": "Accélération des combats (MDP)",
+        "jp": "キャラ界戦闘の常時高速化",
+        "ko": "캐릭터계 전투 항상 고속화",
+        "zh-TW": "快轉所有角色界的戰鬥",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust Chara World combat speed.
+<space>
+<c t_cmd>[No]</c>
+Chara World combat will play out
+at normal speed. Hold <cmd CMD_GAME_CUT_SCENE_FAST_SPEED>
+mid-combat to speed it up.
+<space>
+<c t_cmd>[Yes]</c>
+Chara World combat will play out
+at high speed. Hold <cmd CMD_GAME_CUT_SCENE_FAST_SPEED> mid-combat
+to play it at normal speed.
+
+
+
+
+",
+        "es": "Configura la velocidad de las
+batallas en Mundo personaje.
+<space>
+<c t_cmd>[No]</c>
+Las batallas en Mundo personaje
+avanzan a velocidad normal.
+Durante la batalla, mientras
+mantienes pulsado <cmd CMD_GAME_CUT_SCENE_FAST_SPEED>,
+esta avanza a alta velocidad.
+<space>
+<c t_cmd>[Sí]</c>
+Las batallas en Mundo personaje
+avanzan a velocidad normal.
+Durante la batalla, mientras
+mantienes pulsado <cmd CMD_GAME_CUT_SCENE_FAST_SPEED>,
+esta avanza a velocidad normal.",
+        "fr": "Permet de régler la vitesse des
+combats dans le Monde des
+persos. (MDP)
+<space>
+<c t_cmd>Désactivé</c>
+Les combats se déroulent à une
+vitesse normale. Il est possible de
+les accélérer en maintenant la
+touche <cmd CMD_GAME_CUT_SCENE_FAST_SPEED>pendant un combat.
+<space>
+<c t_cmd>Activé</c>
+Les combats se déroulent en
+accéléré. Il est possible de
+repasser à la vitesse normale en
+maintenant la touche <cmd CMD_GAME_CUT_SCENE_FAST_SPEED>
+pendant un combat.",
+        "jp": "キャラ界戦闘の速度を設定します
+<space>
+<c t_cmd>【しない】</c>
+キャラ界戦闘が等速で進みます
+戦闘中に<cmd CMD_GAME_CUT_SCENE_FAST_SPEED>を押している間は
+戦闘が高速で進行します
+<space>
+<c t_cmd>【する】</c>
+キャラ界戦闘が高速で進行します
+戦闘中に<cmd CMD_GAME_CUT_SCENE_FAST_SPEED>を押している間は
+戦闘が等速で進行します
+
+
+
+
+",
+        "ko": "캐릭터계 전투 속도를 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+캐릭터계 전투가 일정한 속도로
+진행됩니다. 연출 중에 <cmd CMD_GAME_CUT_SCENE_FAST_SPEED>(을)를
+누르는 동안은 연출이 고속으로
+진행됩니다.
+<c t_cmd>【한다】</c>
+캐릭터계 전투가 고속 진행됩니다.
+연출 중에 <cmd CMD_GAME_CUT_SCENE_FAST_SPEED>(을)를 누르는 동안은
+연출이 일정한 속도로 진행됩니다.
+
+
+
+
+",
+        "zh-TW": "設定角色界的戰鬥速度。
+
+<c t_cmd>【否】</c>
+以正常速度進行角色界的戰鬥。
+動畫播放時，按住<cmd CMD_GAME_CUT_SCENE_FAST_SPEED>的期間
+以高速播放動畫。
+
+<c t_cmd>【是】</c>
+以高速進行角色界的戰鬥。
+動畫播放時，按住<cmd CMD_GAME_CUT_SCENE_FAST_SPEED>的期間
+以正常速度播放動畫。
+
+
+
+
+",
+      },
+      "4",
+      16,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "No",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Yes",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0B 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_MESSAGE_DISPLAY_SPEED",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 A1 28 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Text Speed",
+        "es": "Velocidad de texto",
+        "fr": "Vitesse d’affichage des messages",
+        "jp": "メッセージ表示速度",
+        "ko": "메시지 표시 속도",
+        "zh-TW": "訊息顯示速度",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust the text speed during
+cutscenes.",
+        "es": "Ajusta la velocidad de aparición del
+texto.",
+        "fr": "Permet de régler la vitesse
+d’affichage des dialogues.",
+        "jp": "メッセージの表示速度を
+設定します",
+        "ko": "메시지 표시 속도를
+설정합니다.",
+        "zh-TW": "訊息顯示速度的
+相關設定。",
+      },
+      "4",
+      2,
+    ],
+    [
+      4,
+      Buffer [04 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Slow",
+        "es": "Lenta",
+        "fr": "Lente",
+        "jp": "遅い",
+        "ko": "느리게",
+        "zh-TW": "慢",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Normal",
+        "es": "Normal",
+        "fr": "Normale",
+        "jp": "普通",
+        "ko": "보통",
+        "zh-TW": "普通",
+      },
+      "5.1",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Fast",
+        "es": "Rápida",
+        "fr": "Rapide",
+        "jp": "速い",
+        "ko": "빠르게",
+        "zh-TW": "快",
+      },
+      "5.2",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Super",
+        "es": "Muy rápida",
+        "fr": "Très rapide",
+        "jp": "最速",
+        "ko": "가장 빠르게",
+        "zh-TW": "最快",
+      },
+      "5.3",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0C 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_AUTO_MESSAGE",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 A2 28 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Text Auto-Scroll",
+        "es": "Avance automático de mensajes",
+        "fr": "Défilement auto des messages",
+        "jp": "メッセージ自動送り",
+        "ko": "메시지 자동 넘김",
+        "zh-TW": "自動播放訊息",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Toggle auto-scrolling for text on
+or off. You can toggle it from
+within a cutscene by pressing <cmd CMD_TALK_AUTO_TEXT>.
+
+
+
+",
+        "es": "Configura si activar el avance
+automático de los mensajes.
+<space>
+La configuración del avance
+automático se puede cambiar
+durante la visualización del
+mensaje con <cmd CMD_TALK_AUTO_TEXT>.",
+        "fr": "Permet d’activer ou de désactiver
+le défilement automatique des
+dialogues.
+<space>
+Ce paramètre peut être modifié
+avec <cmd CMD_TALK_AUTO_TEXT> lorsqu’un dialogue
+est affiché.",
+        "jp": "メッセージの自動送りを
+行うかを設定します
+<space>
+自動送りの設定は
+メッセージ表示中に<cmd CMD_TALK_AUTO_TEXT>で
+切り替えることができます
+",
+        "ko": "메시지 자동 넘김을
+실행할지 설정합니다.
+
+자동 넘김 설정은
+메시지 표시 중에 <cmd CMD_TALK_AUTO_TEXT>(으)로
+변경할 수 있습니다.
+",
+        "zh-TW": "設定是否開啟
+自動播放訊息。
+
+自動播放設定
+可在訊息顯示時以<cmd CMD_TALK_AUTO_TEXT>
+進行切換。
+",
+      },
+      "4",
+      7,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "On",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0D 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_AUTO_MESSAGE_SPEED",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 A3 28 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Auto-Scroll Speed",
+        "es": "Velocidad de avance automático",
+        "fr": "Vitesse de défilement auto",
+        "jp": "自動送り速度",
+        "ko": "자동 넘김 속도",
+        "zh-TW": "自動播放速度",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust auto-scroll speed during
+cutscenes.
+",
+        "es": "Ajusta la velocidad de cambio de
+página durante el avance
+automático de mensajes.",
+        "fr": "Permet de régler la vitesse du
+défilement auto des dialogues.
+",
+        "jp": "メッセージ自動送り中の
+ページ送り速度を設定します
+",
+        "ko": "메시지 자동 넘김 중의
+페이지 넘기기 속도를 설정합니다.
+",
+        "zh-TW": "設定自動播放訊息時的
+換頁速度。
+",
+      },
+      "4",
+      3,
+    ],
+    [
+      4,
+      Buffer [04 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Slow",
+        "es": "Lenta",
+        "fr": "Lente",
+        "jp": "遅い",
+        "ko": "느리게",
+        "zh-TW": "慢",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Normal",
+        "es": "Normal",
+        "fr": "Normale",
+        "jp": "普通",
+        "ko": "보통",
+        "zh-TW": "普通",
+      },
+      "5.1",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Fast",
+        "es": "Rápida",
+        "fr": "Rapide",
+        "jp": "速い",
+        "ko": "빠르게",
+        "zh-TW": "快",
+      },
+      "5.2",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Super",
+        "es": "Muy rápida",
+        "fr": "Très rapide",
+        "jp": "最速",
+        "ko": "가장 빠르게",
+        "zh-TW": "最快",
+      },
+      "5.3",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0E 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_AUTO_SAVE",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 05 29 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Autosave",
+        "es": "Autoguardado",
+        "fr": "Sauvegarde automatique",
+        "jp": "オートセーブ",
+        "ko": "자동 저장",
+        "zh-TW": "自動保存",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Toggle autosave on or off.
+<space>
+<c t_cmd>[Off]</c>
+The game will not autosave. When
+you want to save, go to the main
+menu in the Overlord's Castle.
+<space>
+<c t_cmd>[On]</c>
+The game will automatically save
+every time you return to the
+Overlord's Castle.
+
+",
+        "es": "Configura el autoguardado.
+<space>
+<c t_cmd>[No]</c>
+No se guardará automáticamente.
+Si quieres guardar, hazlo desde
+el menú principal dentro del
+Castillo demoniaco.
+<space>
+<c t_cmd>[Sí]</c>
+Al volver al Castillo demoniaco,
+se guardará automáticamente.
+
+",
+        "fr": "Permet d’activer ou de désactiver
+la sauvegarde automatique.
+<space>
+<c t_cmd>Désactivé</c>
+La partie n’est pas sauvegardée
+automatiquement. Vous devrez
+passer par le menu principal du
+château pour sauvegarder.
+<space>
+<c t_cmd>Activé</c>
+La partie est sauvegardée
+automatiquement à chaque
+retour au château.",
+        "jp": "オートセーブを設定します
+<space>
+<c t_cmd>【しない】</c>
+自動でセーブを行いません
+セーブを行いたい場合は
+魔王城内のメインメニューから
+行ってください
+<space>
+<c t_cmd>【する】</c>
+魔王城へ帰還した際に
+自動でセーブを行います
+
+",
+        "ko": "자동 저장을 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+자동 저장을 실행하지 않습니다.
+저장하고 싶으실 때는
+마왕성 내부의 메인 메뉴에서
+저장해 주세요.
+
+<c t_cmd>【한다】</c>
+마왕성으로 귀환했을 때
+자동 저장을 실행합니다.
+
+",
+        "zh-TW": "設定自動保存功能。
+
+<c t_cmd>【否】</c>
+遊戲中不會執行自動保存。
+若想保存遊戲進度，
+請從魔王城內的主選單中
+進行保存。
+
+<c t_cmd>【是】</c>
+返回魔王城時
+會執行自動保存。
+
+",
+      },
+      "4",
+      13,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "On",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0F 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_CAMERA_ROTATION_MODE_Y",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 CD 29 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Camera Rotation (Horizontal)",
+        "es": "Dirección de giro de cámara (horizontal)",
+        "fr": "Rotation de la caméra (horizontal)",
+        "jp": "カメラ回転方向（横）",
+        "ko": "카메라 회전 방향(좌우)",
+        "zh-TW": "視角轉動方向（橫向）",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust how <icon ICON_ID_BUTTON_R_STICK_LR> rotates the camera
+horizontally.
+<space>
+<c t_cmd>[Normal]</c>
+The camera rotation will match
+the input direction.
+<space>
+<c t_cmd>[Inverted]</c>
+The camera will rotate opposite
+the input direction.",
+        "es": "Configura la dirección de giro
+horizontal de la cámara con <icon ICON_ID_BUTTON_R_STICK_LR>.
+<space>
+<c t_cmd>[Normal]</c>
+La cámara gira siguiendo la
+dirección que pulses.
+<space>
+<c t_cmd>[Invertida]
+</c>
+Se invierte la dirección de giro.",
+        "fr": "Permet de régler l’orientation
+horizontale de la caméra.
+<space>
+<c t_cmd>Normal</c>
+La caméra suit la direction
+indiquée avec <icon ICON_ID_BUTTON_R_STICK_LR>.
+<space>
+<c t_cmd>Inversé</c>
+La caméra suit la direction opposée
+à celle indiquée avec <icon ICON_ID_BUTTON_R_STICK_LR>.",
+        "jp": "<icon ICON_ID_BUTTON_R_STICK_LR>でのカメラ横回転方向を
+設定します
+<space>
+<c t_cmd>【通常】</c>
+入力方向を映すようにカメラが
+回転します
+<space>
+<c t_cmd>【反転】</c>
+回転方向が反転します
+",
+        "ko": "<icon ICON_ID_BUTTON_R_STICK_LR>(으)로 카메라 좌우 회전 방향을
+설정합니다.
+
+<c t_cmd>【일반】</c>
+입력 방향을 비추도록 카메라가
+회전합니다.
+
+<c t_cmd>【반전】</c>
+회전 방향이 반전됩니다.
+",
+        "zh-TW": "以<icon ICON_ID_BUTTON_R_STICK_LR>操作橫向視角時，
+相關設定。
+
+<c t_cmd>【正常】</c>
+會根據操作方向
+轉動視角。
+
+<c t_cmd>【顛倒】</c>
+視角轉動方向會與操作方向相反。
+",
+      },
+      "4",
+      10,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Normal",
+        "es": "Normal",
+        "fr": "Normal",
+        "jp": "通常",
+        "ko": "일반",
+        "zh-TW": "正常",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Inverted",
+        "es": "Invertida",
+        "fr": "Inversé",
+        "jp": "反転",
+        "ko": "반전",
+        "zh-TW": "顛倒",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [10 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_CAMERA_ROTATION_MODE_X",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 CE 29 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Camera Rotation (Vertical)",
+        "es": "Dirección de giro de cámara (vertical)",
+        "fr": "Rotation de la caméra (vertical)",
+        "jp": "カメラ回転方向（縦）",
+        "ko": "카메라 회전 방향(상하)",
+        "zh-TW": "視角轉動方向（縱向）",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust how <icon ICON_ID_BUTTON_R_STICK_UD> rotates the camera
+vertically.
+<space>
+<c t_cmd>[Normal]</c>
+The camera rotation will match
+the input direction.
+<space>
+<c t_cmd>[Inverted]</c>
+The camera will rotate opposite
+the input direction.",
+        "es": "Configura la dirección de giro
+vertical de la cámara con <icon ICON_ID_BUTTON_R_STICK_UD>.
+<space>
+<c t_cmd>[Normal]</c>
+La cámara gira siguiendo la
+dirección que pulses.
+<space>
+<c t_cmd>[Invertida]
+</c>
+Se invierte la dirección de giro.",
+        "fr": "Permet de régler l’orientation
+horizontale de la caméra.
+<space>
+<c t_cmd>Normal</c>
+La caméra suit la direction
+indiquée avec <icon ICON_ID_BUTTON_R_STICK_LR>.
+<space>
+<c t_cmd>Inversé</c>
+La caméra suit la direction opposée
+à celle indiquée avec <icon ICON_ID_BUTTON_R_STICK_LR>.",
+        "jp": "<icon ICON_ID_BUTTON_R_STICK_UD>でのカメラ縦回転方向を
+設定します
+<space>
+<c t_cmd>【通常】</c>
+入力方向を映すようにカメラが
+回転します
+<space>
+<c t_cmd>【反転】</c>
+回転方向が反転します
+",
+        "ko": "<icon ICON_ID_BUTTON_R_STICK_UD>(으)로 카메라 상하 회전 방향을
+설정합니다.
+
+<c t_cmd>【일반】</c>
+입력 방향을 비추도록 카메라가
+회전합니다.
+
+<c t_cmd>【반전】</c>
+회전 방향이 반전됩니다.
+",
+        "zh-TW": "以<icon ICON_ID_BUTTON_R_STICK_UD>操作縱向視角時，
+相關設定。
+
+<c t_cmd>【正常】</c>
+會根據操作方向
+轉動視角。
+
+<c t_cmd>【顛倒】</c>
+視角轉動方向會與操作方向相反。
+",
+      },
+      "4",
+      10,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Normal",
+        "es": "Normal",
+        "fr": "Normal",
+        "jp": "通常",
+        "ko": "일반",
+        "zh-TW": "正常",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Inverted",
+        "es": "Invertida",
+        "fr": "Inversé",
+        "jp": "反転",
+        "ko": "반전",
+        "zh-TW": "顛倒",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [11 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_CAMERA_ROTATION_SPEED",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 D0 29 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Camera Rotation Speed",
+        "es": "Velocidad de giro de cámara",
+        "fr": "Vitesse de rotation de la caméra",
+        "jp": "カメラ回転速度",
+        "ko": "카메라 회전 속도",
+        "zh-TW": "視角轉動速度",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust how fast <cmd CMD_CAMERA_STICK_R> rotates the
+camera.",
+        "es": "Ajusta la velocidad de giro de
+la cámara con <cmd CMD_CAMERA_STICK_R>.",
+        "fr": "Permet de régler la vitesse de
+rotation de la caméra.",
+        "jp": "<cmd CMD_CAMERA_STICK_R>でのカメラ回転速度を
+設定します",
+        "ko": "<cmd CMD_CAMERA_STICK_R>(으)로 카메라 회전 속도를
+설정합니다.",
+        "zh-TW": "以<cmd CMD_CAMERA_STICK_R>操作視角時轉動速度
+相關設定。",
+      },
+      "4",
+      2,
+    ],
+    [
+      4,
+      Buffer [04 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Slow",
+        "es": "Lenta",
+        "fr": "Lente",
+        "jp": "遅い",
+        "ko": "느리게",
+        "zh-TW": "慢",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Normal",
+        "es": "Normal",
+        "fr": "Normale",
+        "jp": "普通",
+        "ko": "보통",
+        "zh-TW": "普通",
+      },
+      "5.1",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Fast",
+        "es": "Rápida",
+        "fr": "Rapide",
+        "jp": "速い",
+        "ko": "빠르게",
+        "zh-TW": "快",
+      },
+      "5.2",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Super",
+        "es": "Muy rápida",
+        "fr": "Très rapide",
+        "jp": "最速",
+        "ko": "가장 빠르게",
+        "zh-TW": "最快",
+      },
+      "5.3",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [12 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_CAMERA_ROTATION_AUTO",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 D1 29 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Automatic Camera Rotation",
+        "es": "Giro automático de cámara",
+        "fr": "Rotation auto de la caméra",
+        "jp": "自動カメラ回転",
+        "ko": "자동 카메라 회전",
+        "zh-TW": "自動轉動視角",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Select the automatic camera
+rotation settings.
+<space>
+<c t_cmd>[Off]</c>
+The camera will not rotate
+automatically.
+<space>
+<c t_cmd>[Partial]</c>
+The camera will automatically
+rotate only when running or using
+charge movement.
+<space>
+<c t_cmd>[On]</c>
+The camera will automatically
+rotate whenever you are moving.",
+        "es": "Configura el giro automático de
+la cámara.
+<space>
+<c t_cmd>[No]</c>
+No gira automáticamente.
+<space>
+<c t_cmd>[Parcial]</c>
+Solo gira automáticamente al
+esprintar o al moverte
+mientras cargas.
+<space>
+<c t_cmd>[Sí]</c>
+Gira automáticamente al moverte.
+
+",
+        "fr": "Permet de régler la rotation
+automatique de la caméra.
+<space>
+<c t_cmd>Désactivé</c>
+La caméra ne pivote pas
+automatiquement.
+<space>
+<c t_cmd>Limité</c>
+La caméra pivote automatiquement
+seulement pendant la course et les
+déplacements chargés.
+<space>
+<c t_cmd>Activé</c>
+La caméra pivote automatiquement
+pendant les déplacements.",
+        "jp": "カメラの自動回転を設定します　
+<space>
+<c t_cmd>【しない】</c>
+自動回転しません
+<space>
+<c t_cmd>【一部する】</c>
+ダッシュ中や溜め移動中のみ
+自動回転します
+<space>
+<c t_cmd>【する】</c>
+移動中に自動回転します
+
+
+
+",
+        "ko": "카메라 자동 회전을 설정합니다.　
+
+<c t_cmd>【하지 않는다】</c>
+자동으로 회전하지 않습니다.
+
+<c t_cmd>【일부 적용】</c>
+대시 중이나 차지 이동 중에만
+자동 회전합니다.
+
+<c t_cmd>【한다】</c>
+이동 중에 자동 회전합니다.
+
+
+
+",
+        "zh-TW": "設定視角是否自動轉向。　
+
+<c t_cmd>【否】</c>
+視角不會自動轉向。
+
+<c t_cmd>【限特定情況】</c>
+視角僅在衝刺或蓄力移動時
+會自動轉向。
+
+<c t_cmd>【是】</c>
+移動時視角會自動轉向。
+
+
+
+",
+      },
+      "4",
+      15,
+    ],
+    [
+      4,
+      Buffer [03 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Partial",
+        "es": "Parcial",
+        "fr": "Limité",
+        "jp": "一部する",
+        "ko": "일부 적용",
+        "zh-TW": "限特定情況",
+      },
+      "5.1",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "On",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.2",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [13 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_CAMERA_RESET_SPEED",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 D2 29 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Camera Reset Speed",
+        "es": "Velocidad de reinicio de cámara",
+        "fr": "Vitesse de réinitialisation de la caméra",
+        "jp": "カメラリセット速度",
+        "ko": "카메라 초기화 속도",
+        "zh-TW": "視角重置速度",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust the speed at which the
+camera resets.",
+        "es": "Ajusta la velocidad de reinicio de
+la cámara.",
+        "fr": "Permet de régler la vitesse de
+réinitialisation de la caméra.",
+        "jp": "カメラのリセット速度を設定します
+",
+        "ko": "카메라 초기화 속도를 설정합니다.
+",
+        "zh-TW": "設定視角重置的速度。　
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      4,
+      Buffer [04 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Slow",
+        "es": "Lenta",
+        "fr": "Lente",
+        "jp": "遅い",
+        "ko": "느리게",
+        "zh-TW": "慢",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Normal",
+        "es": "Normal",
+        "fr": "Normale",
+        "jp": "普通",
+        "ko": "보통",
+        "zh-TW": "普通",
+      },
+      "5.1",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Fast",
+        "es": "Rápida",
+        "fr": "Rapide",
+        "jp": "速い",
+        "ko": "빠르게",
+        "zh-TW": "快",
+      },
+      "5.2",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Super",
+        "es": "Muy rápida",
+        "fr": "Très rapide",
+        "jp": "最速",
+        "ko": "가장 빠르게",
+        "zh-TW": "最快",
+      },
+      "5.3",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [14 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_CAMERA_ZOOM_MODE",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 D3 29 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Camera Distance",
+        "es": "Distancia de cámara",
+        "fr": "Distance de la caméra",
+        "jp": "カメラ距離",
+        "ko": "카메라 거리",
+        "zh-TW": "視角距離",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust how far away the camera is
+from N.A.
+<space>
+<c t_cmd>[Close]</c>
+The camera is zoomed in close.
+<space>
+<c t_cmd>[Far]</c>
+The camera is farther out.",
+        "es": "Configura la distancia de la cámara.
+<space>
+<c t_cmd>[Cerca]</c>
+La cámara se acerca.
+<space>
+<c t_cmd>[Lejos]</c>
+La cámara se aleja.
+",
+        "fr": "Permet de régler la distance de
+la caméra.
+<space>
+<c t_cmd>Proche</c>
+La caméra est plus proche.
+<space>
+<c t_cmd>Éloigné</c>
+La caméra est plus éloignée.",
+        "jp": "カメラの距離を設定します
+<space>
+<c t_cmd>【近い】</c>
+カメラが近づきます
+<space>
+<c t_cmd>【遠い】</c>
+カメラが遠のきます
+",
+        "ko": "카메라 거리를 설정합니다.
+
+<c t_cmd>【가까이】</c>
+카메라가 가까워집니다.
+
+<c t_cmd>【멀리】</c>
+카메라가 멀어집니다.
+",
+        "zh-TW": "設定視角距離。
+
+<c t_cmd>【較近】</c>
+視角距離會較近。
+
+<c t_cmd>【較遠】</c>
+視角距離會較遠。
+",
+      },
+      "4",
+      8,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Close",
+        "es": "Cerca",
+        "fr": "Proche",
+        "jp": "近い",
+        "ko": "가까이",
+        "zh-TW": "較近",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Far",
+        "es": "Lejos",
+        "fr": "Éloigné",
+        "jp": "遠い",
+        "ko": "멀리",
+        "zh-TW": "較遠",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [15 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_UI_VIEW_HUD_PLAYER_STATUS",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 31 2A 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Player Information",
+        "es": "Información del jugador",
+        "fr": "Informations du personnage",
+        "jp": "プレイヤー情報",
+        "ko": "플레이어 정보",
+        "zh-TW": "玩家資訊",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust whether to display player
+information.",
+        "es": "Configura la visualización de la
+información del jugador.",
+        "fr": "Permet d’afficher ou non les
+informations du personnage.",
+        "jp": "プレイヤー情報の表示を設定します
+",
+        "ko": "플레이어 정보 표시를 설정합니다.
+",
+        "zh-TW": "玩家資訊的顯示設定。
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Display",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [16 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_UI_VIEW_HUD_COMBO",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 32 2A 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Combo Count",
+        "es": "N.º de combo",
+        "fr": "Nombre de combos",
+        "jp": "コンボ数",
+        "ko": "콤보 수",
+        "zh-TW": "連擊數",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust whether to display the
+combo count.",
+        "es": "Configura la visualización del
+número de combo.",
+        "fr": "Permet d’afficher ou non le nombre
+de combos.",
+        "jp": "コンボ数の表示を設定します
+",
+        "ko": "콤보 수 표시를 설정합니다.
+",
+        "zh-TW": "連擊數的顯示設定。
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Display",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [17 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_UI_VIEW_HUD_KILLS_NUM",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 33 2A 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Enemies Defeated",
+        "es": "N.º de bajas",
+        "fr": "Nombre d’éliminations",
+        "jp": "撃破数",
+        "ko": "격파 수",
+        "zh-TW": "擊倒數",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust whether to display the
+number of enemies defeated.",
+        "es": "Configura la visualización del
+número de bajas.",
+        "fr": "Permet d’afficher ou non le nombre
+d’éliminations.",
+        "jp": "撃破数の表示を設定します
+",
+        "ko": "격파 수 표시를 설정합니다.
+",
+        "zh-TW": "擊倒數的顯示設定。
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Display",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [18 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_UI_VIEW_HUD_TALK",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 34 2A 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Mid-Combat Dialogue",
+        "es": "Diálogos durante batalla",
+        "fr": "Conversations en combat",
+        "jp": "戦闘中会話",
+        "ko": "전투 중 대화",
+        "zh-TW": "戰鬥中對話",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust whether to display mid-
+combat dialogue.",
+        "es": "Configura la visualización de los diálogos durante las batallas.
+",
+        "fr": "Permet d’afficher ou non
+les conversations en combat.",
+        "jp": "戦闘中会話の表示を設定します
+",
+        "ko": "전투 중 대화 표시를 설정합니다.
+",
+        "zh-TW": "戰鬥中對話的顯示設定。
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "する",
+        "zh-TW": "する",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Display",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "しない",
+        "zh-TW": "しない",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [19 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_UI_VIEW_HUD_MISSION",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 35 2A 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Missions",
+        "es": "Misiones",
+        "fr": "Mission",
+        "jp": "ミッション",
+        "ko": "미션",
+        "zh-TW": "任務",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust whether to display the
+current mission.",
+        "es": "Configura la visualización de
+las misiones.",
+        "fr": "Permet d’afficher ou non les
+missions.",
+        "jp": "ミッションの表示を設定します
+",
+        "ko": "미션 표시를 설정합니다.
+",
+        "zh-TW": "任務的顯示設定。
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Display",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1A 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_UI_VIEW_HUD_MINI_MAP",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 36 2A 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Mini-Map",
+        "es": "Minimapa",
+        "fr": "Minicarte",
+        "jp": "ミニマップ",
+        "ko": "미니맵",
+        "zh-TW": "小地圖",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust whether to display the
+mini-map.",
+        "es": "Configura la visualización del
+minimapa.",
+        "fr": "Permet d’afficher ou non la
+minicarte.",
+        "jp": "ミニマップの表示を設定します
+",
+        "ko": "미니맵 표시를 설정합니다.
+",
+        "zh-TW": "小地圖的顯示設定。
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Display",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1B 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_UI_VIEW_HUD_ITEM_INFO",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 37 2A 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Item Commands",
+        "es": "Comandos de objeto",
+        "fr": "Commandes d’objets",
+        "jp": "アイテムコマンド",
+        "ko": "아이템 커맨드",
+        "zh-TW": "道具指令",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust whether to display item
+commands.",
+        "es": "Configura la visualización de los
+comandos de objeto.",
+        "fr": "Permet d’afficher ou non les
+commandes d’objets.",
+        "jp": "アイテムコマンドの表示を
+設定します",
+        "ko": "아이템 커맨드 표시를
+설정합니다.",
+        "zh-TW": "道具指令顯示
+相關設定。",
+      },
+      "4",
+      2,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Display",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1C 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_UI_VIEW_HUD_ACTION_INFO",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 38 2A 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Special Skills",
+        "es": "Técnicas especiales",
+        "fr": "Capacités spéciales",
+        "jp": "特殊技",
+        "ko": "특수 기술",
+        "zh-TW": "特殊技",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust whether to display special
+skill commands.
+",
+        "es": "Configura la visualización de los
+comandos de técnicas especiales.
+",
+        "fr": "Permet d’afficher ou non
+les commandes des capacités
+spéciales.",
+        "jp": "特殊技コマンドの表示を設定します
+
+",
+        "ko": "특수 기술 커맨드 표시를 설정합니다.
+
+",
+        "zh-TW": "特殊技指令的顯示設定。
+
+",
+      },
+      "4",
+      3,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Display",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1D 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_UI_VIEW_ACT_NAME",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 39 2A 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Special Skill Names",
+        "es": "Nombre de técnica especial",
+        "fr": "Noms des capacités spéciales",
+        "jp": "特殊技名",
+        "ko": "특수 기술 이름",
+        "zh-TW": "特殊技名稱",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust whether to display special
+skill names.",
+        "es": "Configura la visualización de los
+nombres de técnicas especiales.",
+        "fr": "Permet d’afficher ou non les noms
+des capacités spéciales.",
+        "jp": "特殊技名の表示を設定します
+",
+        "ko": "특수 기술 이름 표시를 설정합니다.
+",
+        "zh-TW": "特殊技名稱的顯示設定。
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Display",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1E 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_UI_VIEW_TOTAL_DAMAGE",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 3A 2A 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Total Damage",
+        "es": "Daño total",
+        "fr": "Dégâts totaux",
+        "jp": "トータルダメージ",
+        "ko": "총 대미지",
+        "zh-TW": "總和傷害",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust whether to display total
+damage.",
+        "es": "Configura la visualización del
+daño total.",
+        "fr": "Permet d’afficher ou non les
+dégâts totaux.",
+        "jp": "トータルダメージの表示を
+設定します",
+        "ko": "총 대미지 표시를
+설정합니다.",
+        "zh-TW": "總和傷害顯示
+相關設定。",
+      },
+      "4",
+      2,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Display",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1F 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_UI_VIEW_HP_GAUGE",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 3B 2A 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "HP Gauge",
+        "es": "Barra de PV",
+        "fr": "Jauge de PV",
+        "jp": "HPゲージ",
+        "ko": "HP 게이지",
+        "zh-TW": "HP量表",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust whether to display HP
+gauge.",
+        "es": "Configura la visualización de
+la barra de PV.",
+        "fr": "Permet d’afficher ou non la jauge
+de PV.",
+        "jp": "HPゲージの表示を設定します
+",
+        "ko": "HP 게이지 표시를 설정합니다.
+",
+        "zh-TW": "HP量表的顯示設定。
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Display",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [20 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_UI_VIEW_DAMAGE",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 3C 2A 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Damage Numbers",
+        "es": "Daño",
+        "fr": "Dégâts",
+        "jp": "ダメージ",
+        "ko": "대미지",
+        "zh-TW": "傷害",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust whether to display damage
+numbers.",
+        "es": "Configura la visualización del daño.
+",
+        "fr": "Permet d’afficher ou non les
+dégâts.",
+        "jp": "ダメージの表示を設定します
+",
+        "ko": "대미지 표시를 설정합니다.
+",
+        "zh-TW": "傷害的顯示設定。
+",
+      },
+      "4",
+      2,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Display",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [21 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_UI_VIEW_COMBO_TOTAL_DAMAGE",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 3D 2A 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Total Combo Damage",
+        "es": "Daño total de combo",
+        "fr": "Dégâts totaux des combos",
+        "jp": "コンボトータルダメージ",
+        "ko": "콤보 총 대미지",
+        "zh-TW": "連擊總和傷害",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust whether to display combo
+total damage.",
+        "es": "Configura la visualización del daño
+total de los combos.",
+        "fr": "Permet d’afficher ou non les
+dégâts totaux des combos.",
+        "jp": "コンボトータルダメージの表示を
+設定します",
+        "ko": "콤보의 총 대미지 표시를
+설정합니다.",
+        "zh-TW": "連擊總和傷害的顯示
+相關設定。",
+      },
+      "4",
+      2,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Display",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [22 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_UI_VIEW_LOCK_ON_INFORMATION",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 3E 2A 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Lock-On Information",
+        "es": "Información de fijación",
+        "fr": "Informations de verrouillage",
+        "jp": "ロックオン情報",
+        "ko": "록온 정보",
+        "zh-TW": "鎖定資訊",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust whether to display lock-on
+information.",
+        "es": "Configura la visualización de
+la información de fijación.",
+        "fr": "Permet d’afficher ou non les
+informations de verrouillage.",
+        "jp": "ロックオン情報の表示を
+設定します",
+        "ko": "록온 정보 표시를
+설정합니다.",
+        "zh-TW": "鎖定資訊的
+顯示設定。",
+      },
+      "4",
+      2,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Display",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [23 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_BOOST_TICKET",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 BD 4D 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Use Boost Tickets",
+        "es": "Usar tickets de aumento",
+        "fr": "Utilisation de tickets Boost",
+        "jp": "ブーストチケット使用",
+        "ko": "부스트 티켓 사용",
+        "zh-TW": "使用加速券",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Set Boost Ticket usage.
+<space>
+<c t_cmd>[Off]</c>
+Will refrain from using Boost
+Tickets.
+<space>
+<c t_cmd>[On]</c>
+Boost Tickets will be consumed
+upon clearing a stage.",
+        "es": "Configurar el uso de tickets
+de aumento.
+<space>
+<c t_cmd>[No]</c>
+No usar tickets de aumento
+<space>
+<c t_cmd>[Sí]</c>
+Al completar una etapa, se
+consumirán tickets de aumento.",
+        "fr": "Permet de configurer
+l’utilisation des tickets Boost.
+<space>
+<c t_cmd>Désactivé</c>
+Aucun ticket Boost utilisé.
+<space>
+<c t_cmd>Activé</c>
+Tickets Boost utilisés
+à la fin du niveau.",
+        "jp": "ブーストチケットの使用を
+設定します
+<space>
+<c t_cmd>【しない】</c>
+ブーストチケットを使用しません
+<space>
+<c t_cmd>【する】</c>
+ステージクリア時に
+ブーストチケットを消費します",
+        "ko": "부스트 티켓 사용을
+설정합니다.
+<space>
+<c t_cmd>【사용하지 않는다】</c>
+부스트 티켓을 사용하지 않습니다.
+<space>
+<c t_cmd>【사용한다】</c>
+스테이지 클리어 시,
+부스트 티켓을 사용합니다.",
+        "zh-TW": "設定是否
+使用加速券。
+<space>
+<c t_cmd>【否】</c>
+不使用加速券。
+<space>
+<c t_cmd>【是】</c>
+通關關卡時，
+會消耗加速券。",
+      },
+      "4",
+      9,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "On",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [24 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_DISPLAY_RESIZE",
+    ],
+    [
+      42,
+      Buffer [02 00 00 00 85 4E 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Graphics Priority Setting",
+        "es": "Modo prioridad",
+        "fr": "Priorités de traitement d’image",
+        "jp": "優先モード",
+        "ko": "우선 모드",
+        "zh-TW": "優先模式",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust the game's graphics
+priority setting.
+<space>
+<c t_cmd>[Quality]</c>
+Prioritize graphical fidelity
+over performance.
+<space>
+<c t_cmd>[Performance]</c>
+Prioritize performance over
+graphical fidelity.
+
+",
+        "es": "Configura qué priorizar según la
+carga de procesamiento.
+<space>
+<c t_cmd>[Calidad]</c>
+Prioriza la calidad gráfica,
+pero el rendimiento podría
+disminuir.
+<space>
+<c t_cmd>[Rendimiento]</c>
+Prioriza el rendimiento,
+pero la calidad gráfica podría
+disminuir.",
+        "fr": "Permet d’établir les priorités
+de traitement.
+<space>
+<c t_cmd>Qualité</c>
+La priorité est donnée à la qualité
+d’image, mais des ralentissements
+pourront survenir.
+<space>
+<c t_cmd>Performance</c>
+Le jeu sera plus fluide, mais la
+qualité d’image pourra être réduite.
+",
+        "jp": "処理負荷に対して優先する
+内容を設定します
+<space>
+<c t_cmd>【画質】</c>
+画質を優先しますが、動作速度が
+低下することがあります
+<space>
+<c t_cmd>【動作】</c>
+動作速度を優先しますが、画質が
+低下することがあります
+
+",
+        "ko": "처리에 부하가 올 경우 우선할
+내용을 설정합니다.
+
+<c t_cmd>【화질】</c>
+화질을 우선합니다만, 동작 속도가
+저하되는 경우가 있습니다.
+
+<c t_cmd>【동작】</c>
+동작 속도를 우선합니다만, 화질이
+저하되는 경우가 있습니다.
+
+",
+        "zh-TW": "設定在處理負荷時
+優先執行的內容。
+
+<c t_cmd>【畫質】</c>
+將優先處理畫質，但操作速度
+可能會下降。
+
+<c t_cmd>【操作】</c>
+將優先處理操作速度，但畫質
+可能會下降。
+
+",
+      },
+      "4",
+      12,
+    ],
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Quality",
+        "es": "Calidad",
+        "fr": "Qualité",
+        "jp": "画質",
+        "ko": "화질",
+        "zh-TW": "畫質",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Performance",
+        "es": "Rendim.",
+        "fr": "Performances",
+        "jp": "動作",
+        "ko": "동작",
+        "zh-TW": "操作",
+      },
+      "5.1",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [25 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_MOTION_BLUR",
+    ],
+    [
+      42,
+      Buffer [02 00 00 00 E9 4E 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Motion Blur",
+        "es": "Desenfoque de movimiento",
+        "fr": "Flou cinétique",
+        "jp": "モーションブラー",
+        "ko": "모션 블러",
+        "zh-TW": "動態模糊",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust the motion blur settings.
+<space>
+<c t_cmd>[Off]</c>
+Motion blur is turned off.
+<space>
+<c t_cmd>[Slight]</c>
+A slight motion blur will be
+applied.
+<space>
+<c t_cmd>[On]</c>
+Default motion blur will be
+applied.",
+        "es": "Configura el desenfoque de
+movimiento
+(Efecto de borrosidad).
+<space>
+<c t_cmd>[No]</c>
+No se aplica desenfoque de mov.
+<space>
+<c t_cmd>[Reducción]</c>
+Se reduce el desenfoque de mov.
+<space>
+<c t_cmd>[Sí]</c>
+Se aplica desenfoque de mov.",
+        "fr": "Permet d’ajuster le flou cinétique.
+<space>
+<c t_cmd>Désactivé</c>
+Le flou cinétique ne s’applique pas.
+<space>
+<c t_cmd>Réduit</c>
+Le flou cinétique est réduit.
+<space>
+<c t_cmd>Activé</c>
+Le flou cinétique s’applique.
+
+",
+        "jp": "モーションブラー（ぼかし効果）
+を設定します
+<space>
+<c t_cmd>【しない】</c>
+モーションブラーを行いません
+<space>
+<c t_cmd>【弱める】</c>
+モーションブラーを弱めます
+<space>
+<c t_cmd>【する】</c>
+モーションブラーを行います
+",
+        "ko": "모션 블러(흐림 효과)
+를 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+모션 블러를 적용하지 않습니다.
+
+<c t_cmd>【약하게 적용】</c>
+모션 블러를 약하게 적용합니다.
+
+<c t_cmd>【한다】</c>
+모션 블러를 적용합니다.
+",
+        "zh-TW": "動態模糊（模糊效果）的
+相關設定。
+
+<c t_cmd>【否】</c>
+不執行動態模糊。
+
+<c t_cmd>【輕微】</c>
+執行輕微的動態模糊。
+
+<c t_cmd>【是】</c>
+執行動態模糊。
+",
+      },
+      "4",
+      12,
+    ],
+    [
+      4,
+      Buffer [03 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Slight",
+        "es": "Reducción",
+        "fr": "Réduit",
+        "jp": "弱める",
+        "ko": "약하게 적용",
+        "zh-TW": "輕微",
+      },
+      "5.1",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "On",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.2",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [26 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_RANGE_SELECT_DITHERING",
+    ],
+    [
+      42,
+      Buffer [02 00 00 00 4D 4F 00 00 01 00 00 00 00 01 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Display When Selecting Range",
+        "es": "Visualización selección áreas",
+        "fr": "Affichage pendant la sélection de la zone d’effet",
+        "jp": "範囲選択中の表示",
+        "ko": "범위 선택 중 표시",
+        "zh-TW": "選擇範圍時的顯示",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Adjust the display when selecting
+an area for a skill.
+<space>
+<c t_cmd>[Off] </c>
+No display will be shown.
+<space>
+<c t_cmd>[Transparent]</c>
+The display will be translucent.
+<space>
+<c t_cmd>[On]</c>
+The display will be fully
+visible.
+",
+        "es": "Configura la visualización del
+jugador al seleccionar el
+área de un arte secreta.
+<space>
+<c t_cmd>[No]</c>
+No se muestra.
+<space>
+<c t_cmd>[No]</c>
+Se muestra semitransparente.
+<space>
+<c t_cmd>[Sí]</c>
+Se muestra.
+",
+        "fr": "Permet d’afficher ou non le
+personnage pendant la sélection
+de la zone d’effet d’essence.
+<space>
+<c t_cmd>Désactivé</c>
+Le personnage ne s’affiche pas.
+<space>
+<c t_cmd>Transparent</c>
+Le personnage s’affiche
+en transparence.
+<space>
+<c t_cmd>Activé</c>
+Le personnage est affiché.",
+        "jp": "奥義の範囲選択中における
+プレイヤーの表示を設定します
+<space>
+<c t_cmd>【しない】</c>
+表示しません
+<space>
+<c t_cmd>【半透明】</c>
+半透明で表示します
+<space>
+<c t_cmd>【する】</c>
+表示します
+
+",
+        "ko": "오의의 범위 선택 중일 때
+플레이어 표시를 설정합니다.
+
+<c t_cmd>【하지 않는다】</c>
+표시하지 않습니다.
+
+<c t_cmd>【반투명】</c>
+반투명으로 표시합니다.
+
+<c t_cmd>【한다】</c>
+표시합니다.
+
+",
+        "zh-TW": "選擇奧義的範圍時，
+玩家角色的顯示設定。
+
+<c t_cmd>【否】</c>
+不顯示角色。
+
+<c t_cmd>【半透明】</c>
+以半透明顯示角色。
+
+<c t_cmd>【是】</c>
+顯示角色。
+
+",
+      },
+      "4",
+      13,
+    ],
+    [
+      4,
+      Buffer [03 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Off",
+        "es": "No",
+        "fr": "Désactivé",
+        "jp": "しない",
+        "ko": "하지 않는다",
+        "zh-TW": "否",
+      },
+      "5.0",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Transparent",
+        "es": "Semi",
+        "fr": "Transparent",
+        "jp": "半透明",
+        "ko": "반투명",
+        "zh-TW": "半透明",
+      },
+      "5.1",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "On",
+        "es": "Sí",
+        "fr": "Activé",
+        "jp": "する",
+        "ko": "한다",
+        "zh-TW": "是",
+      },
+      "5.2",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [27 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_VK_UNIT_JUMP",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 95 75 00 00 01 00 00 00 00 01 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Jump",
+        "es": "Saltar",
+        "fr": "Saut",
+        "jp": "ジャンプ",
+        "ko": "점프",
+        "zh-TW": "跳躍",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Assign a button for jumping.
+<space>
+After selecting the action, press
+the button you wish to assign to
+it.",
+        "es": "Configura el botón de acción.
+<space>
+Tras confirmar la acción,
+pulsa el botón que quieras asignar.
+",
+        "fr": "Permet d’attribuer une touche
+dédiée.
+<space>
+Appuyez sur la touche à attribuer
+une fois l’action choisie.",
+        "jp": "操作ボタンを設定します
+<space>
+項目決定後に設定したいボタンを
+入力してください
+",
+        "ko": "조작 버튼을 설정합니다.
+
+항목 결정 후 할당할
+버튼을 눌러 주세요.
+",
+        "zh-TW": "設定操作按鍵
+
+請在選擇項目後
+按下欲設定的按鍵。
+",
+      },
+      "4",
+      5,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 18 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [28 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_VK_UNIT_STEP",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 96 75 00 00 01 00 00 00 00 01 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Dash",
+        "es": "Esquivar",
+        "fr": "Esquive",
+        "jp": "ステップ",
+        "ko": "스텝",
+        "zh-TW": "墊步",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Assign a button for dashing.
+<space>
+After selecting the action, press
+the button you wish to assign to
+it.",
+        "es": "Configura el botón de acción.
+<space>
+Tras confirmar la acción,
+pulsa el botón que quieras asignar.
+",
+        "fr": "Permet d’attribuer une touche
+dédiée.
+<space>
+Appuyez sur la touche à attribuer
+une fois l’action choisie.",
+        "jp": "操作ボタンを設定します
+<space>
+項目決定後に設定したいボタンを
+入力してください
+",
+        "ko": "조작 버튼을 설정합니다.
+
+항목 결정 후 할당할
+버튼을 눌러 주세요.
+",
+        "zh-TW": "設定操作按鍵
+
+請在選擇項目後
+按下欲設定的按鍵。
+",
+      },
+      "4",
+      5,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 18 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [29 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_VK_UNIT_ACTION_ATTACK_1",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 97 75 00 00 01 00 00 00 00 01 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Weak Attack",
+        "es": "Ataque débil",
+        "fr": "Attaque faible",
+        "jp": "弱攻撃",
+        "ko": "약공격",
+        "zh-TW": "弱攻擊",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Assign a button for weak attacks.
+<space>
+After selecting the action, press
+the button you wish to assign to
+it.",
+        "es": "Configura el botón de acción.
+<space>
+Tras confirmar la acción,
+pulsa el botón que quieras asignar.
+",
+        "fr": "Permet d’attribuer une touche
+dédiée.
+<space>
+Appuyez sur la touche à attribuer
+une fois l’action choisie.",
+        "jp": "操作ボタンを設定します
+<space>
+項目決定後に設定したいボタンを
+入力してください
+",
+        "ko": "조작 버튼을 설정합니다.
+
+항목 결정 후 할당할
+버튼을 눌러 주세요.
+",
+        "zh-TW": "設定操作按鍵
+
+請在選擇項目後
+按下欲設定的按鍵。
+",
+      },
+      "4",
+      5,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 18 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2A 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_VK_UNIT_ACTION_ATTACK_2",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 98 75 00 00 01 00 00 00 00 01 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 04 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Strong Attack",
+        "es": "Ataque fuerte",
+        "fr": "Attaque puissante",
+        "jp": "強攻撃",
+        "ko": "강공격",
+        "zh-TW": "強攻擊",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Assign a button for strong
+attacks.
+<space>
+After selecting the action, press
+the button you wish to assign to
+it.",
+        "es": "Configura el botón de acción.
+<space>
+Tras confirmar la acción,
+pulsa el botón que quieras asignar.
+
+",
+        "fr": "Permet d’attribuer une touche
+dédiée.
+<space>
+Appuyez sur la touche à attribuer
+une fois l’action choisie.
+",
+        "jp": "操作ボタンを設定します
+<space>
+項目決定後に設定したいボタンを
+入力してください
+
+",
+        "ko": "조작 버튼을 설정합니다.
+
+항목 결정 후 할당할
+버튼을 눌러 주세요.
+
+",
+        "zh-TW": "設定操作按鍵
+
+請在選擇項目後
+按下欲設定的按鍵。
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 18 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2B 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_VK_UNIT_ACTION_SPECIAL_ATTACK",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 99 75 00 00 01 00 00 00 00 01 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 05 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Weapon Skills",
+        "es": "Técnica de arma",
+        "fr": "Capacité d’arme",
+        "jp": "武器技",
+        "ko": "무기 기술",
+        "zh-TW": "武器技能",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Assign a button for weapon
+skills.
+<space>
+After selecting the action, press
+the button you wish to assign to
+it.",
+        "es": "Configura el botón de acción.
+<space>
+Tras confirmar la acción,
+pulsa el botón que quieras asignar.
+
+",
+        "fr": "Permet d’attribuer une touche
+dédiée.
+<space>
+Appuyez sur la touche à attribuer
+une fois l’action choisie.
+",
+        "jp": "操作ボタンを設定します
+<space>
+項目決定後に設定したいボタンを
+入力してください
+
+",
+        "ko": "조작 버튼을 설정합니다.
+
+항목 결정 후 할당할
+버튼을 눌러 주세요.
+
+",
+        "zh-TW": "設定操作按鍵
+
+請在選擇項目後
+按下欲設定的按鍵。
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 18 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2C 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_VK_UNIT_ACTION_SPECIAL_ATTACK1",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 9A 75 00 00 01 00 00 00 00 01 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Special Skill 1",
+        "es": "Técnica especial 1",
+        "fr": "Capacité spéciale 1",
+        "jp": "特殊技１",
+        "ko": "특수 기술 1",
+        "zh-TW": "特殊技1",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Assign a button for Special Skill
+1.
+<space>
+After selecting the action, press
+the button you wish to assign to
+it.",
+        "es": "Configura el botón de acción.
+<space>
+Tras confirmar la acción,
+pulsa el botón que quieras asignar.
+
+",
+        "fr": "Permet d’attribuer une touche
+dédiée.
+<space>
+Appuyez sur la touche à attribuer
+une fois l’action choisie.
+",
+        "jp": "操作ボタンを設定します
+<space>
+項目決定後に設定したいボタンを
+入力してください
+
+",
+        "ko": "조작 버튼을 설정합니다.
+
+항목 결정 후 할당할
+버튼을 눌러 주세요.
+
+",
+        "zh-TW": "設定操作按鍵
+
+請在選擇項目後
+按下欲設定的按鍵。
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 18 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2D 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_VK_UNIT_ACTION_SPECIAL_ATTACK2",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 9B 75 00 00 01 00 00 00 00 01 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 0F 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Special Skill 2",
+        "es": "Técnica especial 2",
+        "fr": "Capacité spéciale 2",
+        "jp": "特殊技２",
+        "ko": "특수 기술 2",
+        "zh-TW": "特殊技2",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Assign a button for Special Skill
+2.
+<space>
+After selecting the action, press
+the button you wish to assign to
+it.",
+        "es": "Configura el botón de acción.
+<space>
+Tras confirmar la acción,
+pulsa el botón que quieras asignar.
+
+",
+        "fr": "Permet d’attribuer une touche
+dédiée.
+<space>
+Appuyez sur la touche à attribuer
+une fois l’action choisie.
+",
+        "jp": "操作ボタンを設定します
+<space>
+項目決定後に設定したいボタンを
+入力してください
+
+",
+        "ko": "조작 버튼을 설정합니다.
+
+항목 결정 후 할당할
+버튼을 눌러 주세요.
+
+",
+        "zh-TW": "設定操作按鍵
+
+請在選擇項目後
+按下欲設定的按鍵。
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 18 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2E 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_VK_UNIT_ACTION_SPECIAL_ATTACK3",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 9C 75 00 00 01 00 00 00 00 01 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 10 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Special Skill 3",
+        "es": "Técnica especial 3",
+        "fr": "Capacité spéciale 3",
+        "jp": "特殊技３",
+        "ko": "특수 기술 3",
+        "zh-TW": "特殊技3",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Assign a button for Special Skill
+3.
+<space>
+After selecting the action, press
+the button you wish to assign to
+it.",
+        "es": "Configura el botón de acción.
+<space>
+Tras confirmar la acción,
+pulsa el botón que quieras asignar.
+
+",
+        "fr": "Permet d’attribuer une touche
+dédiée.
+<space>
+Appuyez sur la touche à attribuer
+une fois l’action choisie.
+",
+        "jp": "操作ボタンを設定します
+<space>
+項目決定後に設定したいボタンを
+入力してください
+
+",
+        "ko": "조작 버튼을 설정합니다.
+
+항목 결정 후 할당할
+버튼을 눌러 주세요.
+
+",
+        "zh-TW": "設定操作按鍵
+
+請在選擇項目後
+按下欲設定的按鍵。
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 18 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2F 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_VK_UNIT_ACTION_SPECIAL_ATTACK4",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 9D 75 00 00 01 00 00 00 00 01 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 11 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Special Skill 4",
+        "es": "Técnica especial 4",
+        "fr": "Capacité spéciale 4",
+        "jp": "特殊技４",
+        "ko": "특수 기술 4",
+        "zh-TW": "特殊技4",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Assign a button for Special Skill
+4.
+<space>
+After selecting the action, press
+the button you wish to assign to
+it.",
+        "es": "Configura el botón de acción.
+<space>
+Tras confirmar la acción,
+pulsa el botón que quieras asignar.
+
+",
+        "fr": "Permet d’attribuer une touche
+dédiée.
+<space>
+Appuyez sur la touche à attribuer
+une fois l’action choisie.
+",
+        "jp": "操作ボタンを設定します
+<space>
+項目決定後に設定したいボタンを
+入力してください
+
+",
+        "ko": "조작 버튼을 설정합니다.
+
+항목 결정 후 할당할
+버튼을 눌러 주세요.
+
+",
+        "zh-TW": "設定操作按鍵
+
+請在選擇項目後
+按下欲設定的按鍵。
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 18 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [30 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_VK_UNIT_ACTION_AMDO",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 F8 75 00 00 01 00 00 00 00 01 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 12 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Magichange/Magichange Skill",
+        "es": "Magicambio/Técnica magicambio",
+        "fr": "Magimorph/Capacité de magimorph",
+        "jp": "魔チェンジ／魔チェンジ技",
+        "ko": "마체인지/마체인지 기술",
+        "zh-TW": "魔變換／魔變換技能",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Assign a button for magichange
+and magichange skills.
+<space>
+After selecting the action, press
+the button you wish to assign to
+it.",
+        "es": "Configura el botón de acción.
+<space>
+Tras confirmar la acción,
+pulsa el botón que quieras asignar.
+
+",
+        "fr": "Permet d’attribuer une touche
+dédiée.
+<space>
+Appuyez sur la touche à attribuer
+une fois l’action choisie.
+",
+        "jp": "操作ボタンを設定します
+<space>
+項目決定後に設定したいボタンを
+入力してください
+
+",
+        "ko": "조작 버튼을 설정합니다.
+
+항목 결정 후 할당할
+버튼을 눌러 주세요.
+
+",
+        "zh-TW": "設定操作按鍵
+
+請在選擇項目後
+按下欲設定的按鍵。
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 18 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [31 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_VK_UNIT_DASH",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 F9 75 00 00 01 00 00 00 00 01 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 06 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Run",
+        "es": "Esprintar",
+        "fr": "Courir",
+        "jp": "ダッシュ",
+        "ko": "대시",
+        "zh-TW": "衝刺",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Assign a button for running.
+<space>
+After selecting the action, press
+the button you wish to assign to
+it.",
+        "es": "Configura el botón de acción.
+<space>
+Tras confirmar la acción,
+pulsa el botón que quieras asignar.
+",
+        "fr": "Permet d’attribuer une touche
+dédiée.
+<space>
+Appuyez sur la touche à attribuer
+une fois l’action choisie.",
+        "jp": "操作ボタンを設定します
+<space>
+項目決定後に設定したいボタンを
+入力してください
+",
+        "ko": "조작 버튼을 설정합니다.
+
+항목 결정 후 할당할
+버튼을 눌러 주세요.
+",
+        "zh-TW": "設定操作按鍵
+
+請在選擇項目後
+按下欲設定的按鍵。
+",
+      },
+      "4",
+      5,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 18 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [32 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_VK_UNIT_GUARD",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 FA 75 00 00 01 00 00 00 00 01 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 07 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Guard/Aim",
+        "es": "Guardia/Apuntar",
+        "fr": "Garde/Viser",
+        "jp": "ガード／照準",
+        "ko": "가드",
+        "zh-TW": "防禦",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Assign a button for guarding and
+aiming.
+<space>
+After selecting the action, press
+the button you wish to assign to
+it.",
+        "es": "Configura el botón de acción.
+<space>
+Tras confirmar la acción,
+pulsa el botón que quieras asignar.
+
+",
+        "fr": "Permet d’attribuer une touche
+dédiée.
+<space>
+Appuyez sur la touche à attribuer
+une fois l’action choisie.
+",
+        "jp": "操作ボタンを設定します
+<space>
+項目決定後に設定したいボタンを
+入力してください
+
+",
+        "ko": "조작 버튼을 설정합니다.
+
+항목 결정 후 할당할
+버튼을 눌러 주세요.
+
+",
+        "zh-TW": "設定操作按鍵
+
+請在選擇項目後
+按下欲設定的按鍵。
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 18 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [33 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_VK_UNIT_LOCK_ON",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 FB 75 00 00 01 00 00 00 00 01 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 13 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Lock-On",
+        "es": "Fijar",
+        "fr": "Verrouillage",
+        "jp": "ロックオン",
+        "ko": "록온",
+        "zh-TW": "鎖定",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Assign a button for locking on.
+<space>
+After selecting the action, press
+the button you wish to assign to
+it.",
+        "es": "Configura el botón de acción.
+<space>
+Tras confirmar la acción,
+pulsa el botón que quieras asignar.
+",
+        "fr": "Permet d’attribuer une touche
+dédiée.
+<space>
+Appuyez sur la touche à attribuer
+une fois l’action choisie.",
+        "jp": "操作ボタンを設定します
+<space>
+項目決定後に設定したいボタンを
+入力してください
+",
+        "ko": "조작 버튼을 설정합니다.
+
+항목 결정 후 할당할
+버튼을 눌러 주세요.
+",
+        "zh-TW": "設定操作按鍵
+
+請在選擇項目後
+按下欲設定的按鍵。
+",
+      },
+      "4",
+      5,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 18 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [34 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_VK_UNIT_INTERACTION",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 FC 75 00 00 01 00 00 00 00 01 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 08 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Talk",
+        "es": "Hablar",
+        "fr": "Parler",
+        "jp": "話しかける",
+        "ko": "말을 건다",
+        "zh-TW": "交談",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Assign a button to talk to
+characters.
+<space>
+After selecting the action, press
+the button you wish to assign to
+it.",
+        "es": "Configura el botón de acción.
+<space>
+Tras confirmar la acción,
+pulsa el botón que quieras asignar.
+
+",
+        "fr": "Permet d’attribuer une touche
+dédiée.
+<space>
+Appuyez sur la touche à attribuer
+une fois l’action choisie.
+",
+        "jp": "操作ボタンを設定します
+<space>
+項目決定後に設定したいボタンを
+入力してください
+
+",
+        "ko": "조작 버튼을 설정합니다.
+
+항목 결정 후 할당할
+버튼을 눌러 주세요.
+
+",
+        "zh-TW": "設定操作按鍵
+
+請在選擇項目後
+按下欲設定的按鍵。
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 18 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [35 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_VK_CAMERA_RESET",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 FD 75 00 00 01 00 00 00 00 01 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 09 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Reset Camera",
+        "es": "Reiniciar cámara",
+        "fr": "Réinitialiser la caméra",
+        "jp": "カメラリセット",
+        "ko": "카메라 초기화",
+        "zh-TW": "重置視角",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Assign a button for resetting the
+camera.
+<space>
+After selecting the action, press
+the button you wish to assign to
+it.",
+        "es": "Configura el botón de acción.
+<space>
+Tras confirmar la acción,
+pulsa el botón que quieras asignar.
+
+",
+        "fr": "Permet d’attribuer une touche
+dédiée.
+<space>
+Appuyez sur la touche à attribuer
+une fois l’action choisie.
+",
+        "jp": "操作ボタンを設定します
+<space>
+項目決定後に設定したいボタンを
+入力してください
+
+",
+        "ko": "조작 버튼을 설정합니다.
+
+항목 결정 후 할당할
+버튼을 눌러 주세요.
+
+",
+        "zh-TW": "設定操作按鍵
+
+請在選擇項目後
+按下欲設定的按鍵。
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 18 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [36 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_VK_TALK_NEXT",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 5D 76 00 00 01 00 00 00 00 01 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 0A 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Advance Text",
+        "es": "Avanzar diálogos",
+        "fr": "Dialogue suivant",
+        "jp": "会話メッセージ進行",
+        "ko": "대화 메시지 진행",
+        "zh-TW": "推進對話訊息",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Assign a button for advancing
+text.
+<space>
+After selecting the action, press
+the button you wish to assign to
+it.",
+        "es": "Configura el botón de acción.
+<space>
+Tras confirmar la acción,
+pulsa el botón que quieras asignar.
+
+",
+        "fr": "Permet d’attribuer une touche
+dédiée.
+<space>
+Appuyez sur la touche à attribuer
+une fois l’action choisie.
+",
+        "jp": "操作ボタンを設定します
+<space>
+項目決定後に設定したいボタンを
+入力してください
+
+",
+        "ko": "조작 버튼을 설정합니다.
+
+항목 결정 후 할당할
+버튼을 눌러 주세요.
+
+",
+        "zh-TW": "設定操作按鍵
+
+請在選擇項目後
+按下欲設定的按鍵。
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 18 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [37 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_VK_TALK_FAST_NEXT",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 5D 76 00 00 01 00 00 00 00 01 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 0B 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Text Speed",
+        "es": "Avance rápido de diálogos",
+        "fr": "Accélérer les dialogues",
+        "jp": "会話メッセージ高速進行",
+        "ko": "대화 메시지 고속 진행",
+        "zh-TW": "高速推進對話訊息",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Assign a button for advancing
+text at high speed.
+<space>
+After selecting the action, press
+the button you wish to assign to
+it.",
+        "es": "Configura el botón de acción.
+<space>
+Tras confirmar la acción,
+pulsa el botón que quieras asignar.
+
+",
+        "fr": "Permet d’attribuer une touche
+dédiée.
+<space>
+Appuyez sur la touche à attribuer
+une fois l’action choisie.
+",
+        "jp": "操作ボタンを設定します
+<space>
+項目決定後に設定したいボタンを
+入力してください
+
+",
+        "ko": "조작 버튼을 설정합니다.
+
+항목 결정 후 할당할
+버튼을 눌러 주세요.
+
+",
+        "zh-TW": "設定操作按鍵
+
+請在選擇項目後
+按下欲設定的按鍵。
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 18 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [38 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_VK_TALK_SKIP",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 5D 76 00 00 01 00 00 00 00 01 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 0C 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Event Skip",
+        "es": "Saltar escena",
+        "fr": "Passer l’événement",
+        "jp": "会話イベントスキップ",
+        "ko": "대화 이벤트 스킵",
+        "zh-TW": "略過對話事件",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Assign a button for skipping
+events.
+<space>
+After selecting the action, press
+the button you wish to assign to
+it.",
+        "es": "Configura el botón de acción.
+<space>
+Tras confirmar la acción,
+pulsa el botón que quieras asignar.
+
+",
+        "fr": "Permet d’attribuer une touche
+dédiée.
+<space>
+Appuyez sur la touche à attribuer
+une fois l’action choisie.
+",
+        "jp": "操作ボタンを設定します
+<space>
+項目決定後に設定したいボタンを
+入力してください
+
+",
+        "ko": "조작 버튼을 설정합니다.
+
+항목 결정 후 할당할
+버튼을 눌러 주세요.
+
+",
+        "zh-TW": "設定操作按鍵
+
+請在選擇項目後
+按下欲設定的按鍵。
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 18 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [39 00 00 00],
+    ],
+    [
+      "key",
+      "SETTING_VK_TALK_AUTO_TEXT",
+    ],
+    [
+      42,
+      Buffer [01 00 00 00 5D 76 00 00 01 00 00 00 00 01 00 00 00 00 06 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Text Auto-Scrolling",
+        "es": "Avance automático de diálogos",
+        "fr": "Défilement auto des dialogues",
+        "jp": "会話メッセージ自動送り",
+        "ko": "대화 메시지 자동 넘김",
+        "zh-TW": "自動播放對話訊息",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Assign a button for auto-
+advancing text.
+<space>
+After selecting the action, press
+the button you wish to assign to
+it.",
+        "es": "Configura el botón de acción.
+<space>
+Tras confirmar la acción,
+pulsa el botón que quieras asignar.
+
+",
+        "fr": "Permet d’attribuer une touche
+dédiée.
+<space>
+Appuyez sur la touche à attribuer
+une fois l’action choisie.
+",
+        "jp": "操作ボタンを設定します
+<space>
+項目決定後に設定したいボタンを
+入力してください
+
+",
+        "ko": "조작 버튼을 설정합니다.
+
+항목 결정 후 할당할
+버튼을 눌러 주세요.
+
+",
+        "zh-TW": "設定操作按鍵
+
+請在選擇項目後
+按下欲設定的按鍵。
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 18 00 00 00],
+    ],
+  ],
+]

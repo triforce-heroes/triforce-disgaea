@@ -1,0 +1,1202 @@
+[
+  [
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_NONE",
+    ],
+    [
+      "notes",
+      "",
+    ],
+    [
+      "notes",
+      "なし",
+    ],
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "None",
+        "es": "Nada",
+        "fr": "Sans",
+        "jp": "なし",
+        "ko": "없음",
+        "zh-TW": "無",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [09 43 0F 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_0002_01",
+    ],
+    [
+      "notes",
+      "ヒロイン",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_001_0002_01",
+    ],
+    [
+      4,
+      Buffer [09 43 0F 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> unleashes a strong attack! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> usa un ataque fuerte. ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> attaque violemment ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>の強攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 강공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了強攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [2C 03 00 00 00 00 00 00 64 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [D1 FF A7 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_0100_01",
+    ],
+    [
+      "notes",
+      "プリニー",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_0100_01",
+    ],
+    [
+      4,
+      Buffer [D1 FF A7 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> hurls a bomb! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ha lanzado una bomba. ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> lance une bombe ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>は爆弾を放り投げた！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>(은)는 폭탄을 던졌다! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>丟出了炸彈！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [2D 03 00 00 0A 00 00 00 64 00 00 00 00 00 00 00 1E 00 00 00 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [E1 26 A8 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_0200_01",
+    ],
+    [
+      "notes",
+      "モスマン",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_0200_01",
+    ],
+    [
+      4,
+      Buffer [E1 26 A8 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> emits ultrasonic waves! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ha soltado un chillido ultrasónico. ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> émet des ultrasons ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>は超音波を吐き出した！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>(은)는 초음파를 발사했다! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>吐出了超音波！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [2E 03 00 00 0A 00 00 00 64 00 00 00 33 33 33 3F 69 00 00 00 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F1 4D A8 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_0300_01",
+    ],
+    [
+      "notes",
+      "エリンギャー",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_0300_01",
+    ],
+    [
+      4,
+      Buffer [F1 4D A8 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> throws a super strong straight right! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ha soltado un derechazo. ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> donne un gros coup ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>の渾身の右ストレート！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 온 힘을 담은 라이트 스트레이트! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>全力使出了右直拳！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [2F 03 00 00 0A 00 00 00 64 00 00 00 00 00 00 00 2D 00 00 00 1E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [01 75 A8 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_0400_01",
+    ],
+    [
+      "notes",
+      "ネコサーベル",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_0400_01",
+    ],
+    [
+      4,
+      Buffer [01 75 A8 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> slices and dices! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ha lanzado un tajo volador. ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> effectue une taillade ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>は斬撃を飛ばした！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>(은)는 참격을 날렸다! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>劈下了斬擊！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [30 03 00 00 0A 00 00 00 64 00 00 00 00 00 00 00 1E 00 00 00 32 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [11 9C A8 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_0500_01",
+    ],
+    [
+      "notes",
+      "プチオーク",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_0500_01",
+    ],
+    [
+      4,
+      Buffer [11 9C A8 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> swings their hammer around! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ha hecho girar un martillo a lo loco. ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> balance son arme ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>はハンマーをぶん回した！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>(은)는 해머를 휘둘렀다! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>揮舞了鎚子！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [31 03 00 00 0A 00 00 00 64 00 00 00 00 00 00 00 28 00 00 00 55 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [21 C3 A8 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_0600_01",
+    ],
+    [
+      "notes",
+      "ゴースト",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_0600_01",
+    ],
+    [
+      4,
+      Buffer [21 C3 A8 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1>'s magic is out of control! <value 3> damage dealt to <value 2>!",
+        "es": "¡La magia de <value 1> se ha descontrolado! ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> explose sa magie ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>の魔法が暴走している！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 마법이 폭주하고 있다! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>的魔法失控了！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [32 03 00 00 0A 00 00 00 50 00 00 00 33 33 33 3F 1E 00 00 00 28 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [31 EA A8 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_0700_01",
+    ],
+    [
+      "notes",
+      "ネコマタ",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_0700_01",
+    ],
+    [
+      4,
+      Buffer [31 EA A8 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> shoots a Kitty-Cat Wave! <value 3> damage dealt to <value 2>!",
+        "es": "¡Ola miaumiau de <value 1>! ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> crée une vague !<value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>のねこねこ波！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 야옹야옹파! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了貓貓氣功波！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [33 03 00 00 0A 00 00 00 46 00 00 00 00 00 00 00 23 00 00 00 32 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [41 11 A9 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_0800_01",
+    ],
+    [
+      "notes",
+      "サキュバス",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_0800_01",
+    ],
+    [
+      4,
+      Buffer [41 11 A9 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> brings the thunder! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ha liberado un rayo. ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> fait tomber la foudre ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>は雷を放出した！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>(은)는 번개를 내뿜었다! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>釋放了雷電！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [34 03 00 00 0A 00 00 00 46 00 00 00 00 00 00 3F 2D 00 00 00 37 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [51 38 A9 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_0900_01",
+    ],
+    [
+      "notes",
+      "ドラゴン",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_0900_01",
+    ],
+    [
+      4,
+      Buffer [51 38 A9 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> spew blazing fire! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ha escupido llamas. ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> crache du feu ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>は燃え盛る炎を吐き出した！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>(은)는 뜨거운 화염을 내뿜었다! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>吐出了燃燒的烈焰！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [35 03 00 00 0A 00 00 00 28 00 00 00 00 00 00 00 2D 00 00 00 41 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [61 5F A9 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_1000_01",
+    ],
+    [
+      "notes",
+      "バキエル",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_1000_01",
+    ],
+    [
+      4,
+      Buffer [61 5F A9 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> fires a railgun! <value 3> damage dealt to <value 2>!",
+        "es": "¡Cañón electromagnético de <value 1>! ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> utilise son canon ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>の超電磁砲！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 초전자포! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了超電磁砲！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [36 03 00 00 0A 00 00 00 28 00 00 00 00 00 00 00 32 00 00 00 28 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [71 86 A9 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_1100_01",
+    ],
+    [
+      "notes",
+      "ハッカコウモリ",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_1100_01",
+    ],
+    [
+      4,
+      Buffer [71 86 A9 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> spews fire! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ha escupido fuego. ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> souffle un bon coup ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>は炎を吹き出した！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>(은)는 화염을 내뿜었다! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>噴出了火焰！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [37 03 00 00 0A 00 00 00 64 00 00 00 33 33 33 3F 1E 00 00 00 4B 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [81 AD A9 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_1200_01",
+    ],
+    [
+      "notes",
+      "モグモール",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_1200_01",
+    ],
+    [
+      4,
+      Buffer [81 AD A9 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Flames rise from <value 1>'s back! <value 3> damage dealt to <value 2>!",
+        "es": "¡Del lomo de <value 1> brotan llamas! ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> fait jaillir du feu ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>の背中から炎がほとばしる！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>(이)가 등에서 불을 내뿜는다! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>的背後飛散出火焰！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [38 03 00 00 0A 00 00 00 28 00 00 00 00 00 00 00 28 00 00 00 41 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [91 D4 A9 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_1300_01",
+    ],
+    [
+      "notes",
+      "サハギン",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_1300_01",
+    ],
+    [
+      4,
+      Buffer [91 D4 A9 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> performs a spinning slash! <value 3> damage dealt to <value 2>!",
+        "es": "¡Corte giratorio de <value 1>! ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> tourbillonne ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>の回転斬り！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 회전 베기! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了迴旋斬！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [39 03 00 00 0A 00 00 00 64 00 00 00 00 00 00 00 1E 00 00 00 2D 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [A1 FB A9 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_1400_01",
+    ],
+    [
+      "notes",
+      "サメドラゴン",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_1400_01",
+    ],
+    [
+      4,
+      Buffer [A1 FB A9 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> spits out bubbles! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ha escupido burbujas. ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> crache de l’écume ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>は泡を吐き出した！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>(은)는 거품을 뿜었다! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>吐出了泡泡！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [3A 03 00 00 0A 00 00 00 28 00 00 00 00 00 00 00 2D 00 00 00 5A 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [B1 22 AA 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_1500_01",
+    ],
+    [
+      "notes",
+      "ルフ",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_1500_01",
+    ],
+    [
+      4,
+      Buffer [B1 22 AA 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> whips up a whirlwind! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ha provocado un tornado. ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> crée une tornade ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>は竜巻を起こした！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>(은)는 회오리를 일으켰다! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>捲起了龍捲風！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [3B 03 00 00 0A 00 00 00 64 00 00 00 33 33 33 3F 31 00 00 00 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [C1 49 AA 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_1600_01",
+    ],
+    [
+      "notes",
+      "クーシー",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_1600_01",
+    ],
+    [
+      4,
+      Buffer [C1 49 AA 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1>'s horn is glowing! <value 3> damage dealt to <value 2>!",
+        "es": "¡El cuerno de <value 1> brilla! ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> brille de mille feux ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>の角が光を帯びた！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 뿔이 빛난다! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>的犄角散發著光芒！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [3C 03 00 00 0A 00 00 00 4B 00 00 00 00 00 00 00 23 00 00 00 28 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [D1 70 AA 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_1700_01",
+    ],
+    [
+      "notes",
+      "クリオネ",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_1700_01",
+    ],
+    [
+      4,
+      Buffer [D1 70 AA 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> unleashes a frozen blade! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ha lanzado una hoja helada. ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> lance une dague ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>は凍てつく刃を放った！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>(은)는 얼어붙은 칼날을 날렸다! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>釋放了冰凍之刃！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [3D 03 00 00 0A 00 00 00 4B 00 00 00 00 00 00 00 3C 00 00 00 5A 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [E1 97 AA 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_1800_01",
+    ],
+    [
+      "notes",
+      "キョンシー",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_1800_01",
+    ],
+    [
+      4,
+      Buffer [E1 97 AA 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> leaps around with wild abandon! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> brinca sin parar y sin complejos. ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> rebondit partout ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>は縦横無尽に跳ね回った！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>(은)는 종횡무진 뛰어다녔다! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>自由自在地跳來跳去！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [3E 03 00 00 0A 00 00 00 4B 00 00 00 00 00 00 00 5F 00 00 00 87 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F1 BE AA 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_1900_01",
+    ],
+    [
+      "notes",
+      "アルラウネ",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_1900_01",
+    ],
+    [
+      4,
+      Buffer [F1 BE AA 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> cracks a stinging ivy whip! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ha azotado con hiedras. ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> frappe le sol ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>は蔦で激しく鞭打った！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>(은)는 덩굴로 세차게 채찍질했다! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>以藤蔓猛烈地鞭打！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [3F 03 00 00 0A 00 00 00 4B 00 00 00 00 00 00 00 32 00 00 00 2D 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [01 E6 AA 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_2000_01",
+    ],
+    [
+      "notes",
+      "キュウビ",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_2000_01",
+    ],
+    [
+      4,
+      Buffer [01 E6 AA 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1>'s will-o'-wisp spreads like wildfire! <value 3> damage dealt to <value 2>!",
+        "es": "¡El fuego fatuo de <value 1> se desata! ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> se déchaîne ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>の鬼火が荒れ狂う！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 도깨비불이 마구 날뛴다! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>的鬼火瘋狂肆虐！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [40 03 00 00 0A 00 00 00 4B 00 00 00 00 00 00 00 50 00 00 00 64 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [11 0D AB 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_2100_01",
+    ],
+    [
+      "notes",
+      "カトブレパス",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_2100_01",
+    ],
+    [
+      4,
+      Buffer [11 0D AB 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1>'s evil eye twinkles bewitchingly! <value 3> damage dealt to <value 2>!",
+        "es": "¡El ojo maldito de <value 1> brilla! ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> fait briller ses yeux ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>の邪眼が妖しく輝く！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 사안이 수상하게 빛난다! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>的邪眼神秘地閃耀著！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [41 03 00 00 0A 00 00 00 4B 00 00 00 00 00 00 00 32 00 00 00 73 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [21 34 AB 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_CHARACTER_2200_01",
+    ],
+    [
+      "notes",
+      "デスコ",
+    ],
+    [
+      "notes",
+      "キャラ界キャラID_011_2200_01",
+    ],
+    [
+      4,
+      Buffer [21 34 AB 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "5",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> lands a powerful blow! <value 3> damage dealt to <value 2>!",
+        "es": "¡Ataque supertocho de <value 1>! ¡<value 2> reciben <value 3> de daño!",
+        "fr": "<value 1> fait une balayette ! <value 2> subissent <value 3> de dégâts !",
+        "jp": "<value 1>のなんだかスゴい一撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 아무튼 굉장한 일격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了感覺很厲害的一擊！對<value 2>造成<value 3>傷害！",
+      },
+      "6",
+    ],
+    [
+      40,
+      Buffer [42 03 00 00 0A 00 00 00 4B 00 00 00 00 00 00 00 4B 00 00 00 41 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]

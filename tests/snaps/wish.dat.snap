@@ -1,0 +1,2924 @@
+[
+  [
+    [
+      8,
+      Buffer [2A 1D 9A 00 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_REINCARNATION",
+    ],
+    [
+      "notes",
+      "議題_転生",
+    ],
+    [
+      "languages",
+      {
+        "en": "Reincarnate!",
+        "es": "¡Quiero reencarnarme!",
+        "fr": "Je veux me réincarner !",
+        "jp": "転生したい！",
+        "ko": "전생하고 싶어!",
+        "zh-TW": "想轉生！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Start over from level 1. Retain a
+portion of your stats.",
+        "es": "Se conservarán algunas estadísticas,
+pero se volverá a nivel 1.",
+        "fr": "Reprenez du niveau 1 en gardant
+une partie de vos stats.",
+        "jp": "少しだけステータスを引き継いで、
+レベル１からやり直します",
+        "ko": "스테이터스를 조금만 이어받아
+레벨 1부터 다시 시작한다.",
+        "zh-TW": "將繼承些許能力值，
+從等級1重新開始。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [64 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [AA B3 32 01 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SHOP_LV_UP",
+    ],
+    [
+      "notes",
+      "議題_お店商品レベルアップ",
+    ],
+    [
+      "languages",
+      {
+        "en": "Better Items at the Store!",
+        "es": "¡Quiero cosas más caras!",
+        "fr": "Davantage de marchandises chères !",
+        "jp": "お店にもっと高い物が欲しい！",
+        "ko": "가게에 더 비싼 물건이 필요해!",
+        "zh-TW": "希望店裡有更貴的東西！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Stock higher quality items at the
+castle's Rosen Queen Co.",
+        "es": "Habrá mejores productos en
+Rosen Queen S.A.",
+        "fr": "Donnez à Rosen Queen Co. la possibilité
+de proposer de meilleurs objets.",
+        "jp": "城内のローゼンクイーン商会に
+もっと良い物を流通させます",
+        "ko": "거점의 로젠퀸 상회에
+더 좋은 물건을 유통시킵니다.",
+        "zh-TW": "據點的玫瑰皇后商會
+將會有更好的商品。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [C8 00 00 00 01 00 00 00 00 00 00 00 03 00 00 00 64 00 00 00 00 00 00 00 00 00 00 00 0A 00 00 00 00 00 00 00 02 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [4A 3A 34 01 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_ROB_MONEY",
+    ],
+    [
+      "notes",
+      "議題_お金巻き上げ",
+    ],
+    [
+      "languages",
+      {
+        "en": "Payday!",
+        "es": "¡Quiero un aumento!",
+        "fr": "Je veux toucher une prime !",
+        "jp": "特別手当がほしい！",
+        "ko": "특별 수당이 필요해!",
+        "zh-TW": "想要特別津貼！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Round up HL from the Confectioners.
+Will surely be denied.",
+        "es": "Le quitarás HL a los artesanos.
+Algunos se opondrán.",
+        "fr": "Soutirez des Hell aux artisans !
+Ils seront bien évidemment contre.",
+        "jp": "職人のみなさんからヘルを巻き上げます！
+当然反対されます",
+        "ko": "장인들에게서 헬을 빼앗습니다!
+장인들은 당연히 반대합니다.",
+        "zh-TW": "將把所有工匠的赫爾騙過來！
+理所當然會遭到反對。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [C9 00 00 00 04 00 00 00 00 00 00 00 03 00 00 00 0A 00 00 00 9C FF FF FF 00 00 00 00 01 00 00 00 00 00 00 00 A0 86 01 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [2A 4A CB 01 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_TOWN_DASH_ENABLE",
+    ],
+    [
+      "notes",
+      "議題_拠点走り解禁",
+    ],
+    [
+      "languages",
+      {
+        "en": "Having Your Run of the Castle!",
+        "es": "¡Quiero correr por el castillo!",
+        "fr": "Je veux courir dans le château !",
+        "jp": "城内を走り回りたい！",
+        "ko": "성 내부를 뛰어다니고 싶어!",
+        "zh-TW": "想要跑遍整個城裡！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Acquire the ability to jump and run in
+the castle.",
+        "es": "Podrás saltar y esprintar por el castillo.
+",
+        "fr": "Obtenez la possibilité de courir et
+sauter dans l’enceinte du château.",
+        "jp": "城内でダッシュやジャンプの操作が
+できるようになります",
+        "ko": "성 내부에서 대시나 점프 조작을
+할 수 있게 됩니다.",
+        "zh-TW": "城裡的衝刺或跳躍等操作
+將變成有效。",
+      },
+      "5",
+      2,
+    ],
+    [
+      112,
+      Buffer [2C 01 00 00 01 00 00 00 00 00 00 00 01 00 00 00 32 00 00 00 0F 00 00 00 00 00 00 00 05 00 00 00 00 00 00 00 02 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 EA 03 00 00 01 00 00 00 EA 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [34 4A CB 01 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_TOWN_DASH_DISABLE",
+    ],
+    [
+      "notes",
+      "議題_拠点走り禁止",
+    ],
+    [
+      "languages",
+      {
+        "en": "No Running in the Castle Halls!",
+        "es": "¡Silencio en el castillo!",
+        "fr": "Plus de calme dans le château !",
+        "jp": "城内では静かにしましょう！",
+        "ko": "성 내부에서는 조용히 합시다!",
+        "zh-TW": "在城裡要保持安靜！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Disable the ability to jump and run in
+the castle.",
+        "es": "No podrás saltar ni esprintar por
+el castillo.",
+        "fr": "Perdez la possibilité de courir et de
+sauter dans l’enceinte du château.",
+        "jp": "城内でダッシュやジャンプの操作が
+できなくなります",
+        "ko": "성 내부에서 대시나 점프 조작을
+할 수 없게 됩니다.",
+        "zh-TW": "城裡的衝刺或跳躍等操作
+將變成無效。",
+      },
+      "5",
+      2,
+    ],
+    [
+      112,
+      Buffer [2D 01 00 00 01 00 00 00 00 00 00 00 01 00 00 00 0A 00 00 00 32 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 EA 03 00 00 00 00 00 00 00 00 00 00 01 00 00 00 EA 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [CA D0 CC 01 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_TOWN_SHORTCUT_ENABLE",
+    ],
+    [
+      "notes",
+      "議題_拠点ショートカット",
+    ],
+    [
+      "languages",
+      {
+        "en": "Facility Access!",
+        "es": "¡Quiero un atajo para las tiendas!",
+        "fr": "Un accès plus direct aux établissements !",
+        "jp": "施設に直接アクセスしたい！",
+        "ko": "시설로 바로 가고 싶어!",
+        "zh-TW": "想直接抵達設施！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Acquire the <cmd CMD_TOWN_SHORTCUT> facility shortcut.
+",
+        "es": "Podrás usar atajos a través de <cmd CMD_TOWN_SHORTCUT>.
+",
+        "fr": "Utilisez <cmd CMD_TOWN_SHORTCUT> pour accéder
+plus rapidement aux établissements.",
+        "jp": "<cmd CMD_TOWN_SHORTCUT>による施設ショートカットが
+利用できるようになります",
+        "ko": "<cmd CMD_TOWN_SHORTCUT>(으)로 시설 숏컷을
+이용할 수 있게 됩니다.",
+        "zh-TW": "以<cmd CMD_TOWN_SHORTCUT>執行的設施快捷控制
+將變得可以使用。",
+      },
+      "5",
+      2,
+    ],
+    [
+      116,
+      Buffer [2E 01 00 00 02 00 00 00 00 00 00 00 02 00 00 00 E8 03 00 00 00 00 00 00 00 00 00 00 64 00 00 00 00 00 00 00 03 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 D6 D8 00 00 01 00 00 00 EB 03 00 00 01 00 00 00 EB 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [AA E0 63 02 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_EXP_UP",
+    ],
+    [
+      "notes",
+      "議題_経験値3倍",
+    ],
+    [
+      "languages",
+      {
+        "en": "I Demand Triple EXP!",
+        "es": "¡Quiero el triple de experiencia!",
+        "fr": "Je veux tripler l’expérience obtenue !",
+        "jp": "経験値を３倍にしたい！",
+        "ko": "경험치를 3배로 만들고 싶어!",
+        "zh-TW": "想讓經驗值變成3倍！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Triple EXP on the next map. Cannot be
+stacked with other battle reward bills.",
+        "es": "Ganarás el triple de experiencia.
+No combinable con otras recompensas.",
+        "fr": "3x plus d’EXP au prochain combat.
+(1 projet de récompense à la fois)",
+        "jp": "次の戦闘で取得する経験値が３倍になります
+他の戦闘報酬議題とは併用できません",
+        "ko": "다음 전투의 획득 경험치가 3배가 됩니다.
+다른 전투 보상 의제와 중복되지 않습니다.",
+        "zh-TW": "下次戰鬥將獲得3倍經驗值。
+無法與其他戰鬥獎勵議題同時使用。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [91 01 00 00 02 00 00 00 00 00 00 00 02 00 00 00 E8 03 00 00 F1 FF FF FF 00 00 00 00 64 00 00 00 00 00 00 00 0A 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [4A 67 65 02 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_MONEY_UP",
+    ],
+    [
+      "notes",
+      "議題_お金3倍",
+    ],
+    [
+      "languages",
+      {
+        "en": "I Demand Triple HL!",
+        "es": "¡Quiero el triple de HL!",
+        "fr": "Je veux tripler les Hell obtenus !",
+        "jp": "取得ヘルを３倍にしたい！",
+        "ko": "획득 헬을 3배로 만들고 싶어!",
+        "zh-TW": "想讓取得的赫爾變成3倍！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Triple HL on the next map. Cannot be
+stacked with other battle reward bills.",
+        "es": "Ganarás el triple de HL.
+No combinable con otras recompensas.",
+        "fr": "3x plus de Hell au prochain combat.
+(1 projet de récompense à la fois)",
+        "jp": "次の戦闘で取得するヘルが３倍になります
+他の戦闘報酬議題とは併用できません",
+        "ko": "다음 전투의 획득 헬이 3배가 됩니다.
+다른 전투 보상 의제와 중복되지 않습니다.",
+        "zh-TW": "下次戰鬥將獲得3倍赫爾。
+無法與其他戰鬥獎勵議題同時使用。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [92 01 00 00 02 00 00 00 00 00 00 00 02 00 00 00 64 00 00 00 00 00 00 00 00 00 00 00 0A 00 00 00 00 00 00 00 05 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [EA ED 66 02 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_MANA_UP",
+    ],
+    [
+      "notes",
+      "議題_マナ3倍",
+    ],
+    [
+      "languages",
+      {
+        "en": "I Demand Triple Mana!",
+        "es": "¡Quiero el triple de maná!",
+        "fr": "Je veux tripler le mana obtenu !",
+        "jp": "取得マナを３倍にしたい！",
+        "ko": "획득 마나를 3배로 만들고 싶어!",
+        "zh-TW": "想讓取得的瑪那變成3倍！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Triple Mana on the next map. Cannot be
+stacked with other battle reward bills.",
+        "es": "Ganarás el triple de maná.
+No combinable con otras recompensas.",
+        "fr": "3x plus de mana au prochain combat.
+(1 projet de récompense à la fois)",
+        "jp": "次の戦闘で取得するマナが３倍になります
+他の戦闘報酬議題とは併用できません",
+        "ko": "다음 전투의 획득 마나가 3배가 됩니다.
+다른 전투 보상 의제와 중복되지 않습니다.",
+        "zh-TW": "下次戰鬥將獲得3倍瑪那。
+無法與其他戰鬥獎勵議題同時使用。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [93 01 00 00 02 00 00 00 00 00 00 00 02 00 00 00 2C 01 00 00 05 00 00 00 00 00 00 00 1E 00 00 00 00 00 00 00 05 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [8A 74 68 02 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_ITEM_UP",
+    ],
+    [
+      "notes",
+      "議題_報酬アイテムアップ",
+    ],
+    [
+      "languages",
+      {
+        "en": "I Demand Reward Items!",
+        "es": "¡Quiero más recompensas!",
+        "fr": "Plus d’objets en récompense !",
+        "jp": "報酬アイテムを増やしたい！",
+        "ko": "보상 아이템을 증가시키고 싶어!",
+        "zh-TW": "想增加獎勵道具！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "More items on the next map. Cannot be
+stacked with other battle reward bills.",
+        "es": "Obtendrás más objetos de recompensa.
+No combinable con otras recompensas.",
+        "fr": "Plus d’objets au prochain combat.
+(1 projet de récompense à la fois)",
+        "jp": "次の戦闘でアイテムを取得しやすくなります
+他の戦闘報酬議題とは併用できません",
+        "ko": "다음 전투에서 아이템 획득이 쉬워집니다.
+다른 전투 보상 의제와 중복되지 않습니다.",
+        "zh-TW": "下次戰鬥將變得容易獲得道具。
+無法與其他戰鬥獎勵議題同時使用。",
+      },
+      "5",
+      2,
+    ],
+    [
+      108,
+      Buffer [94 01 00 00 02 00 00 00 00 00 00 00 02 00 00 00 F4 01 00 00 F6 FF FF FF 00 00 00 00 32 00 00 00 00 00 00 00 05 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 D7 27 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [2A FB 69 02 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_PRINNY_DAY_ENABLE",
+    ],
+    [
+      "notes",
+      "議題_プリニーデー開催",
+    ],
+    [
+      "languages",
+      {
+        "en": "Commence Prinny Day!",
+        "es": "¡Quiero un día de los prinis!",
+        "fr": "Je veux fêter les Prinnies !",
+        "jp": "プリニーデーを催したい！",
+        "ko": "프리니의 날을 개최하고 싶어!",
+        "zh-TW": "想舉行普利尼節！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Only Prinny Battle Buddies on the
+next map. Will receive a nice item.",
+        "es": "Solo podrás llevar prinis en batalla,
+pero obtendrás mejores objetos.",
+        "fr": "N’emmenez que des Prinnies au prochain
+combat, contre l’obtention de bons objets.",
+        "jp": "次の戦闘でプリニー以外の従魔を連れて
+いけなくなりますが、良いアイテムが出ます",
+        "ko": "다음 전투에서 프리니 이외의 사역마를
+데리고 갈 수 없게 됩니다.",
+        "zh-TW": "下次戰鬥時，普利尼以外的使魔
+將無法參與。",
+      },
+      "5",
+      2,
+    ],
+    [
+      108,
+      Buffer [95 01 00 00 01 00 00 00 00 00 00 00 01 00 00 00 0A 00 00 00 0F 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 01 00 00 00 99 75 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [34 FB 69 02 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_PRINNY_DAY_DISABLE",
+    ],
+    [
+      "notes",
+      "議題_プリニーデー中止",
+    ],
+    [
+      "languages",
+      {
+        "en": "Cancel Prinny Day",
+        "es": "¡No quiero más días de los prinis!",
+        "fr": "Mettre au fin à la fête des Prinnies !",
+        "jp": "プリニーデーを中止したい",
+        "ko": "프리니의 날을 중지하고 싶어",
+        "zh-TW": "想中止普利尼節",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Officially call off Prinny Day.",
+        "es": "¡No más días de los prinis!",
+        "fr": "La fête des Prinnies prend fin.",
+        "jp": "プリニーデ－を中止します",
+        "ko": "프리니의 날을 중지합니다.",
+        "zh-TW": "將中止普利尼節。",
+      },
+      "5",
+      1,
+    ],
+    [
+      108,
+      Buffer [96 01 00 00 01 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 64 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 99 75 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [2A 77 FC 02 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_FUNCTION_RELEASE_ITEM_STACK_UP_1",
+    ],
+    [
+      "notes",
+      "議題_機能解放_アイテム所持アップ1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Carry More Items!",
+        "es": "¡Quiero llevar más objetos!",
+        "fr": "Je veux transporter plus d’objets !",
+        "jp": "アイテムをもっと携帯したい！",
+        "ko": "아이템을 더 많이 휴대하고 싶어!",
+        "zh-TW": "想攜帶更多的道具！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Can hold up to 10 of each selected
+consumable item during battle.",
+        "es": "Podrás llevar hasta 10 unidades de un
+consumible en batalla.",
+        "fr": "Emportez jusqu’à 10 exemplaires
+d’un consommable en combat.",
+        "jp": "１つの消費アイテムを最大１０個まで
+戦闘に持ち込めるようになります",
+        "ko": "하나의 소비 아이템을 최대 10개까지
+전투에 들고 갈 수 있게 됩니다.",
+        "zh-TW": "1項消耗道具最多可帶10個
+進入戰鬥。",
+      },
+      "5",
+      2,
+    ],
+    [
+      116,
+      Buffer [F5 01 00 00 02 00 00 00 00 00 00 00 02 00 00 00 88 13 00 00 EC FF FF FF 00 00 00 00 F4 01 00 00 00 00 00 00 05 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 D7 27 00 00 01 00 00 00 D1 84 00 00 01 00 00 00 D1 84 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [34 77 FC 02 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_FUNCTION_RELEASE_ITEM_STACK_UP_2",
+    ],
+    [
+      "notes",
+      "議題_機能解放_アイテム所持アップ2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Carry Even More Items!",
+        "es": "¡Quiero llevar mááás objetos!",
+        "fr": "Je veux transporter pluuus d’objets !",
+        "jp": "アイテムをも～っと携帯したい！",
+        "ko": "아이템을 더 더 많이 휴대하고 싶어!",
+        "zh-TW": "想攜帶更多更多的道具！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Can hold up to 99 of a consumable item
+in battle.",
+        "es": "Podrás llevar hasta 99 unidades de un
+consumible en batalla.",
+        "fr": "Emportez jusqu’à 99 exemplaires
+d’un consommable en combat.",
+        "jp": "１つの消費アイテムを最大９９個まで
+戦闘に持ち込めるようになります",
+        "ko": "하나의 소비 아이템을 최대 99개까지
+전투에 들고 갈 수 있게 됩니다.",
+        "zh-TW": "1項消耗道具最多可帶99個
+進入戰鬥。",
+      },
+      "5",
+      2,
+    ],
+    [
+      120,
+      Buffer [F6 01 00 00 03 00 00 00 00 00 00 00 03 00 00 00 50 C3 00 00 BA FF FF FF 00 00 00 00 88 13 00 00 00 00 00 00 14 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 2F 2A 00 00 D1 84 00 00 01 00 00 00 D2 84 00 00 01 00 00 00 D2 84 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [CA FD FD 02 00 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_FUNCTION_RELEASE_FACILITY_SCOUT_1",
+    ],
+    [
+      "notes",
+      "議題_機能解放_ブリーダー屋1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Monster Taming!",
+        "es": "¡Quiero domar monstruos!",
+        "fr": "Je veux apprivoiser des monstres !",
+        "jp": "魔物を手懐けたい！",
+        "ko": "마물을 길들이고 싶어!",
+        "zh-TW": "想被魔物親近！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Add the Buddy Base to the castle.",
+        "es": "Se abrirá un Criadero en el castillo.",
+        "fr": "L’éleveur devient disponible au château.",
+        "jp": "城内に「ブリーダー屋」が配属されます",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "5",
+      1,
+    ],
+    [
+      116,
+      Buffer [F7 01 00 00 03 00 00 00 00 00 00 00 03 00 00 00 C8 00 00 00 0A 00 00 00 00 00 00 00 14 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 CE D8 00 00 00 00 00 00 02 00 00 00 35 75 00 00 99 75 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [D4 FD FD 02 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_FUNCTION_RELEASE_FACILITY_SCOUT_2",
+    ],
+    [
+      "notes",
+      "議題_機能解放_ブリーダー屋2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Reincarnate Battle Buddy!",
+        "es": "¡Quiero reencarnar familiares!",
+        "fr": "Je veux réincarner mes familiers !",
+        "jp": "従魔を転生させたい！",
+        "ko": "사역마를 전생시키고 싶어!",
+        "zh-TW": "想讓使魔轉生！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Acquire the Reincarnate option at the
+Buddy Base.",
+        "es": "Podrás usar "Reencarnar" en el Criadero.
+",
+        "fr": "Obtenez la possibilité de réincarner
+vos familiers chez l’éleveur.",
+        "jp": "ブリーダー屋で「転生」が
+利用できるようになります",
+        "ko": "사육 담당에게서 「전생」을
+이용할 수 있게 됩니다.",
+        "zh-TW": "繁殖屋的「轉生」
+將變得可以使用。",
+      },
+      "5",
+      2,
+    ],
+    [
+      116,
+      Buffer [F8 01 00 00 01 00 00 00 00 00 00 00 01 00 00 00 96 00 00 00 14 00 00 00 00 00 00 00 0F 00 00 00 00 00 00 00 03 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 99 75 00 00 01 00 00 00 5C 76 00 00 01 00 00 00 5C 76 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [DE FD FD 02 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_FUNCTION_RELEASE_FACILITY_SCOUT_3",
+    ],
+    [
+      "notes",
+      "議題_機能解放_ブリーダー屋3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Alter Battle Buddies!",
+        "es": "¡Quiero tunear familiares!",
+        "fr": "Je veux démonifier mes familiers !",
+        "jp": "従魔を改造したい！",
+        "ko": "사역마를 개조하고 싶어!",
+        "zh-TW": "想改造使魔！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Acquire the Demod option at the Buddy
+Base.",
+        "es": "Podrás usar "Tunear" en el Criadero.
+",
+        "fr": "Obtenez la possibilité de démonifier
+vos familiers chez l’éleveur.",
+        "jp": "ブリーダー屋で「魔改造」が
+利用できるようになります",
+        "ko": "사육 담당에게서 「마개조」를
+이용할 수 있게 됩니다.",
+        "zh-TW": "繁殖屋的「魔改造」
+將變得可以使用。",
+      },
+      "5",
+      2,
+    ],
+    [
+      116,
+      Buffer [F9 01 00 00 02 00 00 00 00 00 00 00 02 00 00 00 B0 04 00 00 CE FF FF FF 00 00 00 00 78 00 00 00 00 00 00 00 05 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 99 75 00 00 01 00 00 00 5D 76 00 00 01 00 00 00 5D 76 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [6A 84 FF 02 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_FUNCTION_RELEASE_FACILITY_CHEAT_1",
+    ],
+    [
+      "notes",
+      "議題_機能解放_チート屋1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Mess Around With Cheat Codes!",
+        "es": "¡Quiero trucos!",
+        "fr": "Je veux tricher et faciliter le jeu !",
+        "jp": "ズルして楽したい！",
+        "ko": "치트를 써서 즐기고 싶어!",
+        "zh-TW": "想靠作弊輕鬆玩！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Add Cheat Shop to the castle.
+",
+        "es": "Se abrirá una Tienda de trampas
+en el castillo.",
+        "fr": "Le Comptoir de la triche devient
+disponible au château.",
+        "jp": "城内に「チート屋」が配属されます
+",
+        "ko": "거점에 「치트 관리인」이 배속됩니다.
+",
+        "zh-TW": "將分配「作弊屋」至據點。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      116,
+      Buffer [FA 01 00 00 01 00 00 00 00 00 00 00 01 00 00 00 FF 00 00 00 05 00 00 00 00 00 00 00 1A 00 00 00 00 00 00 00 03 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 D6 D8 00 00 00 00 00 00 02 00 00 00 32 75 00 00 96 75 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [0A 0B 01 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_FUNCTION_RELEASE_FACILITY_ITEM_WORLD_1",
+    ],
+    [
+      "notes",
+      "議題_機能解放_アイテム界屋1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Enhance Items!",
+        "es": "¡Quiero mejorar objetos!",
+        "fr": "Je veux améliorer des objets !",
+        "jp": "アイテムを強化したい！",
+        "ko": "아이템을 강화하고 싶어!",
+        "zh-TW": "想強化道具！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Acquire the Item Enhancement
+option for the Item Worlder.",
+        "es": "¡Podrás usar "Mejorar objetos" en la
+guía de Mundo objeto!",
+        "fr": "Obtenez la possibilité d’améliorer
+vos objets dans le Monde des objets.",
+        "jp": "アイテム界屋で「アイテム強化」が
+利用できるようになります",
+        "ko": "아이템계 담당에게서 「아이템 강화」를
+이용할 수 있게 됩니다.",
+        "zh-TW": "道具界屋的「道具強化」
+將變得可以使用。",
+      },
+      "5",
+      2,
+    ],
+    [
+      116,
+      Buffer [FB 01 00 00 02 00 00 00 00 00 00 00 02 00 00 00 E8 03 00 00 00 00 00 00 00 00 00 00 64 00 00 00 00 00 00 00 05 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 98 75 00 00 01 00 00 00 5E 76 00 00 01 00 00 00 5E 76 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [14 0B 01 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_FUNCTION_RELEASE_FACILITY_ITEM_WORLD_2",
+    ],
+    [
+      "notes",
+      "議題_機能解放_アイテム界屋2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Raise Innocents!",
+        "es": "¡Quiero criar inocentes!",
+        "fr": "Je veux élever des Innocents !",
+        "jp": "イノセントを育てたい！",
+        "ko": "이노센트를 키우고 싶어!",
+        "zh-TW": "想培育純靈！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Acquire the Innocent Farm option
+for the Item Worlder.",
+        "es": "¡Podrás usar "Granja de inocentes" en la
+guía de Mundo objeto!",
+        "fr": "Le Ranch des Innocents devient
+disponible dans le Monde des objets.",
+        "jp": "アイテム界屋で「イノセント牧場」が
+利用できるようになります",
+        "ko": "아이템계 담당에게서 「이노센트 목장」을
+이용할 수 있게 됩니다.",
+        "zh-TW": "道具界屋的「純靈牧場」
+將變得可以使用。",
+      },
+      "5",
+      2,
+    ],
+    [
+      116,
+      Buffer [FC 01 00 00 01 00 00 00 00 00 00 00 02 00 00 00 F4 01 00 00 FB FF FF FF 00 00 00 00 32 00 00 00 00 00 00 00 05 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 98 75 00 00 01 00 00 00 5F 76 00 00 01 00 00 00 5F 76 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [1E 0B 01 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_FUNCTION_RELEASE_FACILITY_ITEM_WORLD_3",
+    ],
+    [
+      "notes",
+      "議題_機能解放_アイテム界屋3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Farm Expansion!",
+        "es": "¡Quiero ampliar la granja!",
+        "fr": "Je veux agrandir le ranch !",
+        "jp": "牧場を拡張したい！",
+        "ko": "목장을 확장하고 싶어!",
+        "zh-TW": "想把牧場變大！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increase Innocent Farm capacity to 6.
+",
+        "es": "Un máximo de 6 inocentes se podrán
+guardar en la Granja de inocentes.",
+        "fr": "Confiez jusqu’à 6 Innocents
+au Ranch des Innocents.",
+        "jp": "イノセント牧場に預けられるイノセントの
+上限数が６になります",
+        "ko": "이노센트 목장에 맡길 수 있는 이노센트의
+상한 수가 6이 됩니다.",
+        "zh-TW": "可寄放在純靈牧場的純靈
+上限數量將變成6。",
+      },
+      "5",
+      2,
+    ],
+    [
+      120,
+      Buffer [FD 01 00 00 01 00 00 00 00 00 00 00 02 00 00 00 B8 0B 00 00 FB FF FF FF 00 00 00 00 2C 01 00 00 00 00 00 00 05 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 98 75 00 00 5F 76 00 00 01 00 00 00 D3 84 00 00 01 00 00 00 D3 84 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [28 0B 01 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_FUNCTION_RELEASE_FACILITY_ITEM_WORLD_4",
+    ],
+    [
+      "notes",
+      "議題_機能解放_アイテム界屋4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Further Farm Expansion!",
+        "es": "¡Quiero ampliar más la granja!",
+        "fr": "Je veux encore agrandir le ranch !",
+        "jp": "牧場をもっと拡張したい！",
+        "ko": "목장을 더 확장하고 싶어!",
+        "zh-TW": "想把牧場變得更大！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increase Innocent Farm capacity to 8.
+",
+        "es": "Un máximo de 8 inocentes se podrán
+guardar en la Granja de inocentes.",
+        "fr": "Confiez jusqu’à 8 Innocents
+au Ranch des Innocents.",
+        "jp": "イノセント牧場に預けられるイノセントの
+上限数が８になります",
+        "ko": "이노센트 목장에 맡길 수 있는 이노센트의
+상한 수가 8이 됩니다.",
+        "zh-TW": "可寄放在純靈牧場的純靈
+上限數量將變成8。",
+      },
+      "5",
+      2,
+    ],
+    [
+      124,
+      Buffer [FE 01 00 00 01 00 00 00 00 00 00 00 02 00 00 00 10 27 00 00 FB FF FF FF 00 00 00 00 E8 03 00 00 00 00 00 00 05 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 03 00 00 00 98 75 00 00 5F 76 00 00 D3 84 00 00 01 00 00 00 D4 84 00 00 01 00 00 00 D4 84 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [32 0B 01 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_FUNCTION_RELEASE_FACILITY_ITEM_WORLD_5",
+    ],
+    [
+      "notes",
+      "議題_機能解放_アイテム界屋5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Even Further Farm Expansion!",
+        "es": "¡Quiero ampliar mááás la granja!",
+        "fr": "Je veux encooore agrandir le ranch !",
+        "jp": "牧場をも～っと拡張したい！",
+        "ko": "목장을 더 더 확장하고 싶어!",
+        "zh-TW": "想把牧場變得超級大！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Increase Innocent Farm capacity to 10.
+",
+        "es": "Un máximo de 10 inocentes se podrán
+guardar en la Granja de inocentes.",
+        "fr": "Confiez jusqu’à 10 Innocents
+au Ranch des Innocents.",
+        "jp": "イノセント牧場に預けられるイノセントの
+上限数が１０になります",
+        "ko": "이노센트 목장에 맡길 수 있는 이노센트의
+상한 수가 10이 됩니다.",
+        "zh-TW": "可寄放在純靈牧場的純靈
+上限數量將變成10。",
+      },
+      "5",
+      2,
+    ],
+    [
+      124,
+      Buffer [FF 01 00 00 01 00 00 00 00 00 00 00 02 00 00 00 40 0D 03 00 FB FF FF FF 00 00 00 00 20 4E 00 00 00 00 00 00 05 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 03 00 00 00 98 75 00 00 5F 76 00 00 D4 84 00 00 01 00 00 00 D5 84 00 00 01 00 00 00 D5 84 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [AA 91 02 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_FUNCTION_RELEASE_FACILITY_CHARACTER_WORLD_1",
+    ],
+    [
+      "notes",
+      "議題_機能解放_キャラ界屋1",
+    ],
+    [
+      "languages",
+      {
+        "en": "I Demand a Board Game!",
+        "es": "¡Quiero jugar a la oca!",
+        "fr": "Je veux jouer à un jeu de société !",
+        "jp": "すごろくで遊びたい！",
+        "ko": "주사위 게임을 하고 싶어!",
+        "zh-TW": "想以骰子遊戲來遊玩！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Add the Chara Worlder to the castle.
+",
+        "es": "Se abrirá una guía de Mundo personaje
+en el castillo.",
+        "fr": "Le Monde des persos devient
+disponible au château.",
+        "jp": "城内に「キャラ界屋」が配属されます
+",
+        "ko": "거점에 「캐릭터계 담당」이 배속됩니다.
+",
+        "zh-TW": "將分配「角色界屋」至據點。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      116,
+      Buffer [00 02 00 00 01 00 00 00 00 00 00 00 02 00 00 00 C8 01 00 00 10 00 00 00 00 00 00 00 2E 00 00 00 00 00 00 00 03 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 D7 27 00 00 00 00 00 00 02 00 00 00 33 75 00 00 97 75 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [B4 91 02 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_FUNCTION_RELEASE_FACILITY_CHARACTER_WORLD_2",
+    ],
+    [
+      "notes",
+      "議題_機能解放_キャラ界屋2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Board Game Item Shop!",
+        "es": "¡Quiero objetos para la oca!",
+        "fr": "Des objets pour le Monde des persos !",
+        "jp": "すごろく用のアイテムを買いたい！",
+        "ko": "주사위 게임용 아이템을 사고 싶어!",
+        "zh-TW": "想買骰子遊戲用的道具！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Acquire the ability to buy special items
+from the Chara Worlder.",
+        "es": "¡Podrás comprar objetos exclusivos en
+la guía de Mundo personaje!",
+        "fr": "Des objets spécifiques au Monde des
+persos deviennent disponibles à l’achat !",
+        "jp": "キャラ界屋で専用アイテムを
+購入できるようになります",
+        "ko": "캐릭터계 담당에게서 전용 아이템을
+구입할 수 있게 됩니다.",
+        "zh-TW": "將變得能在角色界屋
+購買專用道具。",
+      },
+      "5",
+      2,
+    ],
+    [
+      120,
+      Buffer [01 02 00 00 02 00 00 00 00 00 00 00 02 00 00 00 E8 03 00 00 E7 FF FF FF 00 00 00 00 64 00 00 00 00 00 00 00 05 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 97 75 00 00 8E 94 00 00 01 00 00 00 60 76 00 00 01 00 00 00 60 76 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [AA 0D 95 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_GET_ALONG_1",
+    ],
+    [
+      "notes",
+      "議題_議員と仲良く_プリニー",
+    ],
+    [
+      "languages",
+      {
+        "en": "Friends with Prinnies!",
+        "es": "¡Quiero prinis de amigos!",
+        "fr": "Bonne entente avec les Prinnies !",
+        "jp": "プリニー族と仲良くなりたい！",
+        "ko": "프리니족과 친해지고 싶어!",
+        "zh-TW": "想和普利尼族變得要好！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Become friendlier with the
+Prinny Confectioners.",
+        "es": "Te volverás amigo de los artesanos
+que sean prinis.",
+        "fr": "Entretenez de bonnes relations
+avec les Prinnies.",
+        "jp": "プリニー族の職人と仲良くなります
+",
+        "ko": "프리니족 장인과 친해집니다.
+",
+        "zh-TW": "將和普利尼族工匠變得要好。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [59 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 2C 01 00 00 1E 00 00 00 00 00 00 00 1E 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 24 C7 2D 00 0A 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [B4 0D 95 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_GET_ALONG_2",
+    ],
+    [
+      "notes",
+      "議題_議員と仲良く_モスマン",
+    ],
+    [
+      "languages",
+      {
+        "en": "Friends with Winged Warriors!",
+        "es": "¡Quiero polillas de amigos!",
+        "fr": "Bonne entente avec les Mites !",
+        "jp": "魔翔族と仲良くなりたい！",
+        "ko": "비행 마족과 친해지고 싶어!",
+        "zh-TW": "想和魔翔族變得要好！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Become friendlier with the
+Winged Warrior Confectioners.",
+        "es": "Te volverás amigo de los artesanos
+que sean polillas.",
+        "fr": "Entretenez de bonnes relations
+avec les Mites.",
+        "jp": "魔翔族の職人と仲良くなります
+",
+        "ko": "비행 마족 장인과 친해집니다.
+",
+        "zh-TW": "將和魔翔族工匠變得要好。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [5A 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 2C 01 00 00 1E 00 00 00 00 00 00 00 1E 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 88 C7 2D 00 0A 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [BE 0D 95 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_GET_ALONG_3",
+    ],
+    [
+      "notes",
+      "議題_議員と仲良く_エリンギャー",
+    ],
+    [
+      "languages",
+      {
+        "en": "Friends with Shrooms!",
+        "es": "¡Quiero setas de amigos!",
+        "fr": "Bonne entente avec les Champignons !",
+        "jp": "珍茸族と仲良くなりたい！",
+        "ko": "진이족과 친해지고 싶어!",
+        "zh-TW": "想和珍茸族變得要好！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Become friendlier with the
+Shroom Confectioners.",
+        "es": "Te volverás amigo de los artesanos
+que sean setas.",
+        "fr": "Entretenez de bonnes relations
+avec les Champignons.",
+        "jp": "珍茸族の職人と仲良くなります
+",
+        "ko": "진이족 장인과 친해집니다.
+",
+        "zh-TW": "將和珍茸族工匠變得要好。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [5B 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 2C 01 00 00 1E 00 00 00 00 00 00 00 1E 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 EC C7 2D 00 0A 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [C8 0D 95 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_GET_ALONG_4",
+    ],
+    [
+      "notes",
+      "議題_議員と仲良く_ネコサーベル",
+    ],
+    [
+      "languages",
+      {
+        "en": "Friends with Slumber Cats!",
+        "es": "¡Quiero gatos dormilones de amigos!",
+        "fr": "Bonne entente avec les Chalanguis !",
+        "jp": "寝子猫族と仲良くなりたい！",
+        "ko": "고양고양이족과 친해지고 싶어!",
+        "zh-TW": "想和寢子貓族變得要好！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Become friendlier with the
+Slumber Cat Confectioners.",
+        "es": "Te volverás amigo de los artesanos
+que sean gatos dormilones.",
+        "fr": "Entretenez de bonnes relations
+avec les Chalanguis.",
+        "jp": "寝子猫族の職人と仲良くなります
+",
+        "ko": "고양고양이족 장인과 친해집니다.
+",
+        "zh-TW": "將和寢子貓族工匠變得要好。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [5C 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 2C 01 00 00 1E 00 00 00 00 00 00 00 1E 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 50 C8 2D 00 0A 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [D2 0D 95 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_GET_ALONG_5",
+    ],
+    [
+      "notes",
+      "議題_議員と仲良く_プチオーク",
+    ],
+    [
+      "languages",
+      {
+        "en": "Friends with Orcs!",
+        "es": "¡Quiero orcos de amigos!",
+        "fr": "Bonne entente avec les Orques !",
+        "jp": "猪人族と仲良くなりたい！",
+        "ko": "오크족과 친해지고 싶어!",
+        "zh-TW": "想和豬人族變得要好！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Become friendlier with the
+Orc Confectioners.",
+        "es": "Te volverás amigo de los artesanos
+que sean orcos.",
+        "fr": "Entretenez de bonnes relations
+avec les Orques.",
+        "jp": "猪人族の職人と仲良くなります
+",
+        "ko": "오크족 장인과 친해집니다.
+",
+        "zh-TW": "將和豬人族工匠變得要好。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [5D 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 2C 01 00 00 1E 00 00 00 00 00 00 00 1E 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 B4 C8 2D 00 0A 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [DC 0D 95 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_GET_ALONG_6",
+    ],
+    [
+      "notes",
+      "議題_議員と仲良く_ゴースト",
+    ],
+    [
+      "languages",
+      {
+        "en": "Friends with Spirits!",
+        "es": "¡Quiero espíritus de amigos!",
+        "fr": "Bonne entente avec les Esprits !",
+        "jp": "妖霊族と仲良くなりたい！",
+        "ko": "요령족과 친해지고 싶어!",
+        "zh-TW": "想和妖靈族變得要好！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Become friendlier with the
+Spirit Confectioners.",
+        "es": "Te volverás amigo de los artesanos
+que sean espíritus.",
+        "fr": "Entretenez de bonnes relations
+avec les Esprits.",
+        "jp": "妖霊族の職人と仲良くなります
+",
+        "ko": "요령족 장인과 친해집니다.
+",
+        "zh-TW": "將和妖靈族工匠變得要好。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [5E 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 2C 01 00 00 1E 00 00 00 00 00 00 00 1E 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 18 C9 2D 00 0A 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [E6 0D 95 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_GET_ALONG_7",
+    ],
+    [
+      "notes",
+      "議題_議員と仲良く_ネコマタ",
+    ],
+    [
+      "languages",
+      {
+        "en": "Friends with Felynns!",
+        "es": "¡Quiero felinos de amigos!",
+        "fr": "Bonne entente avec les Félines !",
+        "jp": "猫娘族と仲良くなりたい！",
+        "ko": "묘랑족과 친해지고 싶어!",
+        "zh-TW": "想和貓娘族變得要好！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Become friendlier with the
+Felynn Confectioners.",
+        "es": "Te volverás amigo de los artesanos
+que sean felinos.",
+        "fr": "Entretenez de bonnes relations
+avec les Félines.",
+        "jp": "猫娘族の職人と仲良くなります
+",
+        "ko": "묘랑족 장인과 친해집니다.
+",
+        "zh-TW": "將和貓娘族工匠變得要好。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [5F 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 2C 01 00 00 14 00 00 00 00 00 00 00 1E 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 7C C9 2D 00 0A 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [F0 0D 95 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_GET_ALONG_8",
+    ],
+    [
+      "notes",
+      "議題_議員と仲良く_サキュバス",
+    ],
+    [
+      "languages",
+      {
+        "en": "Friends with Succubi!",
+        "es": "¡Quiero súcubos de amigos!",
+        "fr": "Bonne entente avec les Succubes !",
+        "jp": "夜魔族と仲良くなりたい！",
+        "ko": "야마족과 친해지고 싶어!",
+        "zh-TW": "想和夜魔族變得要好！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Become friendlier with the
+Succubus Confectioners.",
+        "es": "Te volverás amigo de los artesanos
+que sean súcubos.",
+        "fr": "Entretenez de bonnes relations
+avec les Succubes.",
+        "jp": "夜魔族の職人と仲良くなります
+",
+        "ko": "야마족 장인과 친해집니다.
+",
+        "zh-TW": "將和夜魔族工匠變得要好。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [60 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 2C 01 00 00 14 00 00 00 00 00 00 00 1E 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 E0 C9 2D 00 0A 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [FA 0D 95 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_GET_ALONG_9",
+    ],
+    [
+      "notes",
+      "議題_議員と仲良く_ドラゴン",
+    ],
+    [
+      "languages",
+      {
+        "en": "Friends with Dragons!",
+        "es": "¡Quiero dragones de amigos!",
+        "fr": "Bonne entente avec les Dragons !",
+        "jp": "邪竜族と仲良くなりたい！",
+        "ko": "사룡족과 친해지고 싶어!",
+        "zh-TW": "想和邪龍族變得要好！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Become friendlier with the
+Dragon Confectioners.",
+        "es": "Te volverás amigo de los artesanos
+que sean dragones.",
+        "fr": "Entretenez de bonnes relations
+avec les Dragons.",
+        "jp": "邪竜族の職人と仲良くなります
+",
+        "ko": "사룡족 장인과 친해집니다.
+",
+        "zh-TW": "將和邪龍族工匠變得要好。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [61 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 2C 01 00 00 00 00 00 00 00 00 00 00 1E 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 44 CA 2D 00 0A 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [04 0E 95 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_GET_ALONG_10",
+    ],
+    [
+      "notes",
+      "議題_議員と仲良く_バキエル",
+    ],
+    [
+      "languages",
+      {
+        "en": "Friends with Rifle Demons!",
+        "es": "¡Quiero pistolademonios de amigos!",
+        "fr": "Bonne entente avec les Carabinodémons !",
+        "jp": "銃魔神族と仲良くなりたい！",
+        "ko": "총 마신족과 친해지고 싶어!",
+        "zh-TW": "想和銃魔神族變得要好！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Become friendlier with the
+Rifle Demon Confectioners.",
+        "es": "Te volverás amigo de los artesanos
+que sean pistolademonios.",
+        "fr": "Entretenez de bonnes relations
+avec les Carabinodémons.",
+        "jp": "銃魔神族の職人と仲良くなります
+",
+        "ko": "총 마신족 장인과 친해집니다.
+",
+        "zh-TW": "將和銃魔神族工匠變得要好。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [62 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 2C 01 00 00 00 00 00 00 00 00 00 00 1E 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 A8 CA 2D 00 0A 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [0E 0E 95 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_GET_ALONG_11",
+    ],
+    [
+      "notes",
+      "議題_議員と仲良く_ハッカコウモリ",
+    ],
+    [
+      "languages",
+      {
+        "en": "Friends with Light Bats!",
+        "es": "¡Quiero murciélagos de amigos!",
+        "fr": "Bonne entente avec les Chauffe-souris !",
+        "jp": "光蝠族と仲良くなりたい！",
+        "ko": "광복족과 친해지고 싶어!",
+        "zh-TW": "想和光蝠族變得要好！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Become friendlier with the
+Light Bat Confectioners.",
+        "es": "Te volverás amigo de los artesanos
+que sean murciélagos.",
+        "fr": "Entretenez de bonnes relations
+avec les Chauffe-souris.",
+        "jp": "光蝠族の職人と仲良くなります
+",
+        "ko": "광복족 장인과 친해집니다.
+",
+        "zh-TW": "將和光蝠族工匠變得要好。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [63 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 2C 01 00 00 14 00 00 00 00 00 00 00 1E 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 0C CB 2D 00 0A 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [18 0E 95 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_GET_ALONG_12",
+    ],
+    [
+      "notes",
+      "議題_議員と仲良く_モグモール",
+    ],
+    [
+      "languages",
+      {
+        "en": "Friends with Fireblazers!",
+        "es": "¡Quiero topos de fuego de amigos!",
+        "fr": "Bonne entente avec les Totaupes !",
+        "jp": "火猛族と仲良くなりたい！",
+        "ko": "화맹족과 친해지고 싶어!",
+        "zh-TW": "想和火猛族變得要好！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Become friendlier with the
+Fireblazer Confectioners.",
+        "es": "Te volverás amigo de los artesanos
+que sean topos de fuego.",
+        "fr": "Entretenez de bonnes relations
+avec les Totaupes.",
+        "jp": "火猛族の職人と仲良くなります
+",
+        "ko": "화맹족 장인과 친해집니다.
+",
+        "zh-TW": "將和火猛族工匠變得要好。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [64 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 2C 01 00 00 0A 00 00 00 00 00 00 00 1E 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 70 CB 2D 00 0A 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [22 0E 95 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_GET_ALONG_13",
+    ],
+    [
+      "notes",
+      "議題_議員と仲良く_サハギン",
+    ],
+    [
+      "languages",
+      {
+        "en": "Friends with Water Sprites!",
+        "es": "¡Quiero demonios de agua de amigos!",
+        "fr": "Bonne entente avec les Sahagins !",
+        "jp": "水妖族と仲良くなりたい！",
+        "ko": "수요족과 친해지고 싶어!",
+        "zh-TW": "想和水妖族變得要好！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Become friendlier with the
+Water Sprite Confectioners.",
+        "es": "Te volverás amigo de los artesanos
+que sean demonios de agua.",
+        "fr": "Entretenez de bonnes relations
+avec les Sahagins.",
+        "jp": "水妖族の職人と仲良くなります
+",
+        "ko": "수요족 장인과 친해집니다.
+",
+        "zh-TW": "將和水妖族工匠變得要好。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [65 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 2C 01 00 00 14 00 00 00 00 00 00 00 1E 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 D4 CB 2D 00 0A 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [2C 0E 95 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_GET_ALONG_14",
+    ],
+    [
+      "notes",
+      "議題_議員と仲良く_サメドラゴン",
+    ],
+    [
+      "languages",
+      {
+        "en": "Friends with Dragon Gods!",
+        "es": "¡Quiero tibudragones de amigos!",
+        "fr": "Bonne entente avec les Draco-requins !",
+        "jp": "竜神族と仲良くなりたい！",
+        "ko": "용신족과 친해지고 싶어!",
+        "zh-TW": "想和龍神族變得要好！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Become friendlier with the
+Dragon God Confectioners.",
+        "es": "Te volverás amigo de los artesanos
+que sean tibudragones.",
+        "fr": "Entretenez de bonnes relations
+avec les Draco-requins.",
+        "jp": "竜神族の職人と仲良くなります
+",
+        "ko": "용신족 장인과 친해집니다.
+",
+        "zh-TW": "將和龍神族工匠變得要好。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [66 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 2C 01 00 00 00 00 00 00 00 00 00 00 1E 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 38 CC 2D 00 0A 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [36 0E 95 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_GET_ALONG_15",
+    ],
+    [
+      "notes",
+      "議題_議員と仲良く_ルフ",
+    ],
+    [
+      "languages",
+      {
+        "en": "Friends with Bone Birds!",
+        "es": "¡Quiero pájaros de amigos!",
+        "fr": "Bonne entente avec les Wazos !",
+        "jp": "骨鳥族と仲良くなりたい！",
+        "ko": "골조족과 친해지고 싶어!",
+        "zh-TW": "想和骨鳥族變得要好！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Become friendlier with the
+Bone Bird Confectioners.",
+        "es": "Te volverás amigo de los artesanos
+que sean pájaros.",
+        "fr": "Entretenez de bonnes relations
+avec les Wazos.",
+        "jp": "骨鳥族の職人と仲良くなります
+",
+        "ko": "골조족 장인과 친해집니다.
+",
+        "zh-TW": "將和骨鳥族工匠變得要好。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [67 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 2C 01 00 00 14 00 00 00 00 00 00 00 1E 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 9C CC 2D 00 0A 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [40 0E 95 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_GET_ALONG_16",
+    ],
+    [
+      "notes",
+      "議題_議員と仲良く_クーシー",
+    ],
+    [
+      "languages",
+      {
+        "en": "Friends with Genjus!",
+        "es": "¡Quiero críptidos de amigos!",
+        "fr": "Bonne entente avec les Cu Siths !",
+        "jp": "幻獣族と仲良くなりたい！",
+        "ko": "환수족과 친해지고 싶어!",
+        "zh-TW": "想和幻獸族變得要好！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Become friendlier with the
+Genju Confectioners.",
+        "es": "Te volverás amigo de los artesanos
+que sean críptidos.",
+        "fr": "Entretenez de bonnes relations
+avec les Cu Siths.",
+        "jp": "幻獣族の職人と仲良くなります
+",
+        "ko": "환수족 장인과 친해집니다.
+",
+        "zh-TW": "將和幻獸族工匠變得要好。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [68 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 2C 01 00 00 0A 00 00 00 00 00 00 00 1E 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 CD 2D 00 0A 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [4A 94 96 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_PARTICIPATE_1",
+    ],
+    [
+      "notes",
+      "議題_議員参加_プリニー",
+    ],
+    [
+      "languages",
+      {
+        "en": "Prinny Sweets Discussions!",
+        "es": "¡Quiero debatir con un prini!",
+        "fr": "Je veux débattre avec des Prinnies !",
+        "jp": "プリニー族と糖論したい！",
+        "ko": "프리니족과 당론하고 싶어!",
+        "zh-TW": "想和普利尼族糖論！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Prinnies will be more likely to
+participate in the Dark Confectionery.",
+        "es": "Aparecerán más prinis en los debates
+azucarados.",
+        "fr": "Davantage de Prinnies
+prennent part à l’Assemblée.",
+        "jp": "プリニー族の職人が糖論に
+参加しやすくなります",
+        "ko": "프리니족 장인이 당론에
+참가하기 쉬워집니다.",
+        "zh-TW": "普利尼族的工匠
+將變得容易參加糖論。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [BD 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 B8 0B 00 00 1E 00 00 00 00 00 00 00 2C 01 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 24 C7 2D 00 00 00 00 00 00 00 00 00 E8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [54 94 96 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_PARTICIPATE_2",
+    ],
+    [
+      "notes",
+      "議題_議員参加_モスマン",
+    ],
+    [
+      "languages",
+      {
+        "en": "Winged Warrior Sweets Discussions!",
+        "es": "¡Quiero debatir con una polilla!",
+        "fr": "Je veux débattre avec des Mites !",
+        "jp": "魔翔族と糖論したい！",
+        "ko": "비행 마족과 당론하고 싶어!",
+        "zh-TW": "想和魔翔族糖論！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Winged Warriors will be more likely to
+participate in the Dark Confectionery.",
+        "es": "Aparecerán más polillas en los debates
+azucarados.",
+        "fr": "Davantage de Mites
+prennent part à l’Assemblée.",
+        "jp": "魔翔族の職人が糖論に
+参加しやすくなります",
+        "ko": "비행 마족 장인이 당론에
+참가하기 쉬워집니다.",
+        "zh-TW": "魔翔族的工匠
+將變得容易參加糖論。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [BE 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 B8 0B 00 00 1E 00 00 00 00 00 00 00 2C 01 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 88 C7 2D 00 00 00 00 00 00 00 00 00 E8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [5E 94 96 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_PARTICIPATE_3",
+    ],
+    [
+      "notes",
+      "議題_議員参加_エリンギャー",
+    ],
+    [
+      "languages",
+      {
+        "en": "Shroom Sweets Discussions!",
+        "es": "¡Quiero debatir con un champiñón!",
+        "fr": "Je veux débattre avec des Champignons !",
+        "jp": "珍茸族と糖論したい！",
+        "ko": "진이족과 당론하고 싶어!",
+        "zh-TW": "想和珍茸族糖論！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Shrooms will be more likely to
+participate in the Dark Confectionery.",
+        "es": "Aparecerán más champiñones en los
+debates azucarados.",
+        "fr": "Davantage de Champignons
+prennent part à l’Assemblée.",
+        "jp": "珍茸族の職人が糖論に
+参加しやすくなります",
+        "ko": "진이족 장인이 당론에
+참가하기 쉬워집니다.",
+        "zh-TW": "珍茸族的工匠
+將變得容易參加糖論。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [BF 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 B8 0B 00 00 1E 00 00 00 00 00 00 00 2C 01 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 EC C7 2D 00 00 00 00 00 00 00 00 00 E8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [68 94 96 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_PARTICIPATE_4",
+    ],
+    [
+      "notes",
+      "議題_議員参加_ネコサーベル",
+    ],
+    [
+      "languages",
+      {
+        "en": "Slumber Cat Sweets Discussions!",
+        "es": "¡Quiero debatir con un gato dormilón!",
+        "fr": "Je veux débattre avec des Chalanguis !",
+        "jp": "寝子猫族と糖論したい！",
+        "ko": "고양고양이족과 당론하고 싶어!",
+        "zh-TW": "想和寢子貓族糖論！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Slumber Cats will be more likely to
+participate in the Dark Confectionery.",
+        "es": "Aparecerán más gatos dormilones en
+los debates azucarados.",
+        "fr": "Davantage de Chalanguis
+prennent part à l’Assemblée.",
+        "jp": "寝子猫族の職人が糖論に
+参加しやすくなります",
+        "ko": "고양고양이족 장인이 당론에
+참가하기 쉬워집니다.",
+        "zh-TW": "寢子貓族的工匠
+將變得容易參加糖論。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [C0 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 B8 0B 00 00 1E 00 00 00 00 00 00 00 2C 01 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 50 C8 2D 00 00 00 00 00 00 00 00 00 E8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [72 94 96 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_PARTICIPATE_5",
+    ],
+    [
+      "notes",
+      "議題_議員参加_プチオーク",
+    ],
+    [
+      "languages",
+      {
+        "en": "Orc Sweets Discussions!",
+        "es": "¡Quiero debatir con un orco!",
+        "fr": "Je veux débattre avec des Orques !",
+        "jp": "猪人族と糖論したい！",
+        "ko": "오크족과 당론하고 싶어!",
+        "zh-TW": "想和豬人族糖論！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Orcs will be more likely to participate
+in the Dark Confectionery.",
+        "es": "Aparecerán más orcos en los debates
+azucarados.",
+        "fr": "Davantage d’Orques
+prennent part à l’Assemblée.",
+        "jp": "猪人族の職人が糖論に
+参加しやすくなります",
+        "ko": "오크족 장인이 당론에
+참가하기 쉬워집니다.",
+        "zh-TW": "豬人族的工匠
+將變得容易參加糖論。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [C1 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 B8 0B 00 00 1E 00 00 00 00 00 00 00 2C 01 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 B4 C8 2D 00 00 00 00 00 00 00 00 00 E8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [7C 94 96 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_PARTICIPATE_6",
+    ],
+    [
+      "notes",
+      "議題_議員参加_ゴースト",
+    ],
+    [
+      "languages",
+      {
+        "en": "Spirit Sweets Discussions!",
+        "es": "¡Quiero debatir con un espíritu!",
+        "fr": "Je veux débattre avec des Esprits !",
+        "jp": "妖霊族と糖論したい！",
+        "ko": "요령족과 당론하고 싶어!",
+        "zh-TW": "想和妖靈族糖論！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Spirits will be more likely to
+participate in the Dark Confectionery.",
+        "es": "Aparecerán más espíritus en los
+debates azucarados.",
+        "fr": "Davantage d’Esprits
+prennent part à l’Assemblée.",
+        "jp": "妖霊族の職人が糖論に
+参加しやすくなります",
+        "ko": "요령족 장인이 당론에
+참가하기 쉬워집니다.",
+        "zh-TW": "妖靈族的工匠
+將變得容易參加糖論。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [C2 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 B8 0B 00 00 1E 00 00 00 00 00 00 00 2C 01 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 18 C9 2D 00 00 00 00 00 00 00 00 00 E8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [86 94 96 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_PARTICIPATE_7",
+    ],
+    [
+      "notes",
+      "議題_議員参加_ネコマタ",
+    ],
+    [
+      "languages",
+      {
+        "en": "Felynn Sweets Discussions!",
+        "es": "¡Quiero debatir con una felina!",
+        "fr": "Je veux débattre avec des Félines !",
+        "jp": "猫娘族と糖論したい！",
+        "ko": "묘랑족과 당론하고 싶어!",
+        "zh-TW": "想和貓娘族糖論！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Felynns will be more likely to
+participate in the Dark Confectionery.",
+        "es": "Aparecerán más felinas en los
+debates azucarados.",
+        "fr": "Davantage de Félines
+prennent part à l’Assemblée.",
+        "jp": "猫娘族の職人が糖論に
+参加しやすくなります",
+        "ko": "묘랑족 장인이 당론에
+참가하기 쉬워집니다.",
+        "zh-TW": "貓娘族的工匠
+將變得容易參加糖論。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [C3 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 B8 0B 00 00 14 00 00 00 00 00 00 00 2C 01 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 7C C9 2D 00 00 00 00 00 00 00 00 00 E8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [90 94 96 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_PARTICIPATE_8",
+    ],
+    [
+      "notes",
+      "議題_議員参加_サキュバス",
+    ],
+    [
+      "languages",
+      {
+        "en": "Succubus Sweets Discussions!",
+        "es": "¡Quiero debatir con una súcubo!",
+        "fr": "Je veux débattre avec des Succubes !",
+        "jp": "夜魔族と糖論したい！",
+        "ko": "야마족과 당론하고 싶어!",
+        "zh-TW": "想和夜魔族糖論！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Succubi will be more likely to
+participate in the Dark Confectionery.",
+        "es": "Aparecerán más súcubos en los
+debates azucarados.",
+        "fr": "Davantage de Succubes
+prennent part à l’Assemblée.",
+        "jp": "夜魔族の職人が糖論に
+参加しやすくなります",
+        "ko": "야마족 장인이 당론에
+참가하기 쉬워집니다.",
+        "zh-TW": "夜魔族的工匠
+將變得容易參加糖論。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [C4 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 B8 0B 00 00 14 00 00 00 00 00 00 00 2C 01 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 E0 C9 2D 00 00 00 00 00 00 00 00 00 E8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [9A 94 96 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_PARTICIPATE_9",
+    ],
+    [
+      "notes",
+      "議題_議員参加_ドラゴン",
+    ],
+    [
+      "languages",
+      {
+        "en": "Dragon Sweets Discussions!",
+        "es": "¡Quiero debatir con un dragón!",
+        "fr": "Je veux débattre avec des Dragons !",
+        "jp": "邪竜族と糖論したい！",
+        "ko": "사룡족과 당론하고 싶어!",
+        "zh-TW": "想和邪龍族糖論！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Dragons will be more likely to
+participate in the Dark Confectionery.",
+        "es": "Aparecerán más dragones en los
+debates azucarados.",
+        "fr": "Davantage de Dragons
+prennent part à l’Assemblée.",
+        "jp": "邪竜族の職人が糖論に
+参加しやすくなります",
+        "ko": "사룡족 장인이 당론에
+참가하기 쉬워집니다.",
+        "zh-TW": "邪龍族的工匠
+將變得容易參加糖論。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [C5 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 B8 0B 00 00 00 00 00 00 00 00 00 00 2C 01 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 44 CA 2D 00 00 00 00 00 00 00 00 00 E8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [A4 94 96 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_PARTICIPATE_10",
+    ],
+    [
+      "notes",
+      "議題_議員参加_バキエル",
+    ],
+    [
+      "languages",
+      {
+        "en": "Rifle Demon Sweets Discussions!",
+        "es": "¡Quiero debatir con un pistolademonio!",
+        "fr": "Je veux débattre avec des Carabinodémons !",
+        "jp": "銃魔神族と糖論したい！",
+        "ko": "총 마신족과 당론하고 싶어!",
+        "zh-TW": "想和銃魔神族糖論！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Rifle Demons will be more likely to
+participate in the Dark Confectionery.",
+        "es": "Aparecerán más pistolademonios en
+los debates azucarados.",
+        "fr": "Davantage de Carabinodémons
+prennent part à l’Assemblée.",
+        "jp": "銃魔神族の職人が糖論に
+参加しやすくなります",
+        "ko": "총 마신족 장인이 당론에
+참가하기 쉬워집니다.",
+        "zh-TW": "銃魔神族的工匠
+將變得容易參加糖論。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [C6 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 B8 0B 00 00 00 00 00 00 00 00 00 00 2C 01 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 A8 CA 2D 00 00 00 00 00 00 00 00 00 E8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [AE 94 96 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_PARTICIPATE_11",
+    ],
+    [
+      "notes",
+      "議題_議員参加_ハッカコウモリ",
+    ],
+    [
+      "languages",
+      {
+        "en": "Light Bat Sweets Discussions!",
+        "es": "¡Quiero debatir con un murciélago!",
+        "fr": "Je veux débattre avec des Chauffe-souris !",
+        "jp": "光蝠族と糖論したい！",
+        "ko": "광복족과 당론하고 싶어!",
+        "zh-TW": "想和光蝠族糖論！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Light Bats will be more likely to
+participate in the Dark Confectionery.",
+        "es": "Aparecerán más murciélagos en los
+debates azucarados.",
+        "fr": "Davantage de Chauffe-souris
+prennent part à l’Assemblée.",
+        "jp": "光蝠族の職人が糖論に
+参加しやすくなります",
+        "ko": "광복족 장인이 당론에
+참가하기 쉬워집니다.",
+        "zh-TW": "光蝠族的工匠
+將變得容易參加糖論。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [C7 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 B8 0B 00 00 14 00 00 00 00 00 00 00 2C 01 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 0C CB 2D 00 00 00 00 00 00 00 00 00 E8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [B8 94 96 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_PARTICIPATE_12",
+    ],
+    [
+      "notes",
+      "議題_議員参加_モグモール",
+    ],
+    [
+      "languages",
+      {
+        "en": "Fireblazer Sweets Discussions!",
+        "es": "¡Quiero debatir con un topo de fuego!",
+        "fr": "Je veux débattre avec des Totaupes !",
+        "jp": "火猛族と糖論したい！",
+        "ko": "화맹족과 당론하고 싶어!",
+        "zh-TW": "想和火猛族糖論！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Fireblazers will be more likely to
+participate in the Dark Confectionery.",
+        "es": "Aparecerán más topos de fuego en
+los debates azucarados.",
+        "fr": "Davantage de Totaupes
+prennent part à l’Assemblée.",
+        "jp": "火猛族の職人が糖論に
+参加しやすくなります",
+        "ko": "화맹족 장인이 당론에
+참가하기 쉬워집니다.",
+        "zh-TW": "火猛族的工匠
+將變得容易參加糖論。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [C8 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 B8 0B 00 00 0A 00 00 00 00 00 00 00 2C 01 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 70 CB 2D 00 00 00 00 00 00 00 00 00 E8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [C2 94 96 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_PARTICIPATE_13",
+    ],
+    [
+      "notes",
+      "議題_議員参加_サハギン",
+    ],
+    [
+      "languages",
+      {
+        "en": "Water Sprite Sweets Discussions!",
+        "es": "¡Quiero debatir con un demonio de agua!",
+        "fr": "Je veux débattre avec des Sahagins !",
+        "jp": "水妖族と糖論したい！",
+        "ko": "수요족과 당론하고 싶어!",
+        "zh-TW": "想和水妖族糖論！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Water Sprites will be more likely to
+participate in the Dark Confectionery.",
+        "es": "Aparecerán más demonios de agua en
+los debates azucarados.",
+        "fr": "Davantage de Sahagins
+prennent part à l’Assemblée.",
+        "jp": "水妖族の職人が糖論に
+参加しやすくなります",
+        "ko": "수요족 장인이 당론에
+참가하기 쉬워집니다.",
+        "zh-TW": "水妖族的工匠
+將變得容易參加糖論。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [C9 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 B8 0B 00 00 14 00 00 00 00 00 00 00 2C 01 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 D4 CB 2D 00 00 00 00 00 00 00 00 00 E8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [CC 94 96 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_PARTICIPATE_14",
+    ],
+    [
+      "notes",
+      "議題_議員参加_サメドラゴン",
+    ],
+    [
+      "languages",
+      {
+        "en": "Dragon God Sweets Discussions!",
+        "es": "¡Quiero debatir con un tibudragón!",
+        "fr": "Je veux débattre avec des Draco-requins !",
+        "jp": "竜神族と糖論したい！",
+        "ko": "용신족과 당론하고 싶어!",
+        "zh-TW": "想和龍神族糖論！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Dragon Gods will be more likely to
+participate in the Dark Confectionery.",
+        "es": "Aparecerán más tibudragones en
+los debates azucarados.",
+        "fr": "Davantage de Draco-requins
+prennent part à l’Assemblée.",
+        "jp": "竜神族の職人が糖論に
+参加しやすくなります",
+        "ko": "용신족 장인이 당론에
+참가하기 쉬워집니다.",
+        "zh-TW": "龍神族的工匠
+將變得容易參加糖論。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [CA 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 B8 0B 00 00 00 00 00 00 00 00 00 00 2C 01 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 38 CC 2D 00 00 00 00 00 00 00 00 00 E8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [D6 94 96 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_PARTICIPATE_15",
+    ],
+    [
+      "notes",
+      "議題_議員参加_ルフ",
+    ],
+    [
+      "languages",
+      {
+        "en": "Bone Bird Sweets Discussions!",
+        "es": "¡Quiero debatir con un pájaro!",
+        "fr": "Je veux débattre avec des Wazos !",
+        "jp": "骨鳥族と糖論したい！",
+        "ko": "골조족과 당론하고 싶어!",
+        "zh-TW": "想和骨鳥族糖論！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Bone Birds will be more likely to
+participate in the Dark Confectionery.",
+        "es": "Aparecerán más pájaros en los
+debates azucarados.",
+        "fr": "Davantage de Wazos
+prennent part à l’Assemblée.",
+        "jp": "骨鳥族の職人が糖論に
+参加しやすくなります",
+        "ko": "골조족 장인이 당론에
+참가하기 쉬워집니다.",
+        "zh-TW": "骨鳥族的工匠
+將變得容易參加糖論。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [CB 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 B8 0B 00 00 14 00 00 00 00 00 00 00 2C 01 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 9C CC 2D 00 00 00 00 00 00 00 00 00 E8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [E0 94 96 03 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_SENATOR_PARTICIPATE_16",
+    ],
+    [
+      "notes",
+      "議題_議員参加_クーシー",
+    ],
+    [
+      "languages",
+      {
+        "en": "Genju Sweets Discussions!",
+        "es": "¡Quiero debatir con un críptido!",
+        "fr": "Je veux débattre avec des Cu Siths !",
+        "jp": "幻獣族と糖論したい！",
+        "ko": "환수족과 당론하고 싶어!",
+        "zh-TW": "想和幻獸族糖論！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Genjus will be more likely to
+participate in the Dark Confectionery.",
+        "es": "Aparecerán más críptidos en los
+debates azucarados.",
+        "fr": "Davantage de Cu Siths
+prennent part à l’Assemblée.",
+        "jp": "幻獣族の職人が糖論に
+参加しやすくなります",
+        "ko": "환수족 장인이 당론에
+참가하기 쉬워집니다.",
+        "zh-TW": "幻獸族的工匠
+將變得容易參加糖論。",
+      },
+      "5",
+      2,
+    ],
+    [
+      104,
+      Buffer [CC 02 00 00 01 00 00 00 00 00 00 00 03 00 00 00 B8 0B 00 00 0A 00 00 00 00 00 00 00 2C 01 00 00 00 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00 00 CD 2D 00 00 00 00 00 00 00 00 00 E8 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [2A A4 2D 04 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_STAGE_RELEASE_EPILOGUE_1",
+    ],
+    [
+      "notes",
+      "議題_ステージ解放_後日談1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Commence the Flan Toppings Rally!",
+        "es": "¡Quiero celebrar un rally!",
+        "fr": "Je veux organiser une chasse aux sauces !",
+        "jp": "スタンプリンラリーを開催したい！",
+        "ko": "스탬푸딩 랠리를 개최하고 싶어!",
+        "zh-TW": "想舉行集布丁活動！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Unlock Postlude: Flan Toppings Rally.
+",
+        "es": "Empezarás el epílogo "El rally de
+flanestampas".",
+        "fr": "Jouez à l’Épilogue :
+La chasse aux sauces.",
+        "jp": "後日談『スタンプリンラリー編』を
+開始できるようになります",
+        "ko": "후일담 『스탬푸딩 랠리 편』을
+개시할 수 있게 됩니다.",
+        "zh-TW": "將變得可以開始
+後日談「集布丁活動」。",
+      },
+      "5",
+      2,
+    ],
+    [
+      124,
+      Buffer [21 03 00 00 03 00 00 00 00 00 00 00 03 00 00 00 A0 86 01 00 E2 FF FF FF 00 00 00 00 10 27 00 00 00 00 00 00 14 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 B9 88 00 00 01 00 00 00 28 D7 00 00 03 00 00 00 28 D7 00 00 FA 2E 00 00 42 2F 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [CA 2A 2F 04 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_STAGE_RELEASE_SHURA",
+    ],
+    [
+      "notes",
+      "議題_ステージ解放_修羅",
+    ],
+    [
+      "languages",
+      {
+        "en": "Challenge the Carnage Dimension!",
+        "es": "¡Quiero ir a la dimensión shura!",
+        "fr": "Je veux aller dans la Dimension Carnage !",
+        "jp": "修羅次元に挑戦したい！",
+        "ko": "수라 차원에 도전하고 싶어!",
+        "zh-TW": "想挑戰修羅次元！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Add the Carnage Guide to the castle.
+",
+        "es": "Se instalará un barquero shura en
+el castillo.",
+        "fr": "Le Guide du Carnage devient
+disponible au château.",
+        "jp": "城内に「修羅の渡し人」が配属されます
+",
+        "ko": "거점에 「수라의 뱃사공」이 배속됩니다.
+",
+        "zh-TW": "將分配「穿越修羅者」至據點。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      136,
+      Buffer [22 03 00 00 04 00 00 00 00 00 00 00 03 00 00 00 20 A1 07 00 CE FF FF FF 00 00 00 00 50 C3 00 00 00 00 00 00 1E 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 BA 88 00 00 01 00 00 00 3A 75 00 00 06 00 00 00 3A 75 00 00 9E 75 00 00 E9 03 00 00 32 D7 00 00 5E 2F 00 00 A6 2F 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      8,
+      Buffer [AA 3A C6 04 01 00 00 00],
+    ],
+    [
+      "key",
+      "WISH_TROPHY_WINNER",
+    ],
+    [
+      "notes",
+      "議題_トロフィー獲得",
+    ],
+    [
+      "languages",
+      {
+        "en": "I Demand a Trophy!",
+        "es": "¡Quiero trofeos!",
+        "fr": "Je veux des trophées !",
+        "jp": "トロフィーが欲しい！",
+        "ko": "트로피를 갖고 싶어!",
+        "zh-TW": "想獲得獎盃！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Receive a trophy.",
+        "es": "Recibirás trofeos.",
+        "fr": "Obtenez des trophées.",
+        "jp": "トロフィーをもらいます",
+        "ko": "트로피를 받습니다.",
+        "zh-TW": "將獲得獎盃。",
+      },
+      "5",
+      1,
+    ],
+    [
+      112,
+      Buffer [85 03 00 00 01 00 00 00 00 00 00 00 03 00 00 00 64 00 00 00 D8 FF FF FF 00 00 00 00 0A 00 00 00 00 00 00 00 64 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 D0 84 00 00 01 00 00 00 D0 84 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]

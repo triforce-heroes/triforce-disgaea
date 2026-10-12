@@ -1,0 +1,756 @@
+[
+  [
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_002",
+    ],
+    [
+      132,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 47 00 00 00 64 69 73 31 5C 44 69 73 67 61 65 61 44 32 5F 44 69 73 63 32 5F 30 32 5F E3 83 AD E3 83 BC E3 82 BC E3 83 B3 E3 82 AF E3 82 A4 E3 83 BC E3 83 B3 E5 95 86 E4 BC 9A E9 AD 94 E7 95 8C E6 94 AF E5 BA 97 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 30 30 32 2E 6E 6C 73 64 00 64 00 00 00 A2 70 11 00 C9 6D 4D 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Rosen Queen Co., Netherworld Branch",
+        "es": "Rosen Queen Makai S.A.",
+        "fr": "Succursale Rosen Queen Co.",
+        "jp": "ローゼンクイーン商会魔界支店",
+        "ko": "로젠퀸 상회 마계 지점",
+        "zh-TW": "玫瑰皇后商會魔界分會",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [04 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_004",
+    ],
+    [
+      79,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 12 00 00 00 64 69 73 31 5C 31 39 5F 53 74 61 72 74 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 30 30 34 2E 6E 6C 73 64 00 64 00 00 00 9A 9A 23 00 E7 E4 64 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Daybreak Flight",
+        "es": "Daybreak Flight",
+        "fr": "Daybreak Flight",
+        "jp": "Daybreak Flight",
+        "ko": "Daybreak Flight",
+        "zh-TW": "Daybreak Flight",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [05 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_005",
+    ],
+    [
+      110,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 31 00 00 00 64 69 73 31 5C 44 69 73 67 61 65 61 33 44 4C 43 5F 30 35 5F E5 B0 8F E3 81 95 E3 81 AA E3 83 80 E3 82 A4 E3 82 A2 E3 83 AA E3 83 BC 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 30 30 35 2E 6E 6C 73 64 00 64 00 00 00 D4 05 19 00 E1 9A 52 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "A Small Diary",
+        "es": "Pequeño diario",
+        "fr": "Petit journal",
+        "jp": "小さなダイアリー",
+        "ko": "작은 다이어리",
+        "zh-TW": "小小日記",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [06 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_006",
+    ],
+    [
+      119,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 3A 00 00 00 64 69 73 31 5C 44 69 73 67 61 65 61 32 5F 44 69 73 63 32 5F 30 39 5F E3 83 8F E3 83 A9 E3 83 BC E3 83 AB E6 A7 98 E3 81 AE E8 B3 9B E7 BE 8E E3 81 8B EF BC 9F 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 30 30 36 2E 6E 6C 73 64 00 64 00 00 00 59 F7 01 00 9E F5 3A 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Praise Be Lord Halal?",
+        "es": "¿El himno de... Laharl?",
+        "fr": "Admiration",
+        "jp": "ハラール様の賛美か？",
+        "ko": "하랄 님의 찬미인가?",
+        "zh-TW": "哈拉爾大人的讚美嗎？",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [65 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_101",
+    ],
+    [
+      81,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 14 00 00 00 6D 61 69 6E 5C 30 31 5F 66 61 72 2D 6F 75 74 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 30 31 2E 6E 6C 73 64 00 64 00 00 00 60 85 17 00 70 07 55 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Makai Knight",
+        "es": "Makai Knight",
+        "fr": "Makai Knight",
+        "jp": "Makai Knight",
+        "ko": "Makai Knight",
+        "zh-TW": "Makai Knight",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [66 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_102",
+    ],
+    [
+      79,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 12 00 00 00 6D 61 69 6E 5C 30 32 5F 67 74 5F 62 74 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 30 32 2E 6E 6C 73 64 00 64 00 00 00 50 7F 24 00 60 6C 60 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Black Doll",
+        "es": "Black Doll",
+        "fr": "Black Doll",
+        "jp": "Black Dool",
+        "ko": "Black Dool",
+        "zh-TW": "Black Dool",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [67 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_103",
+    ],
+    [
+      85,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 18 00 00 00 6D 61 69 6E 5C 30 33 5F 62 72 61 73 73 5F 66 69 67 68 74 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 30 33 2E 6E 6C 73 64 00 64 00 00 00 80 1B 19 00 40 48 59 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Play the Revue",
+        "es": "Play the Revue",
+        "fr": "Play the Revue",
+        "jp": "Play the Revue",
+        "ko": "Play the Revue",
+        "zh-TW": "Play the Revue",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [68 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_104",
+    ],
+    [
+      80,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 13 00 00 00 6D 61 69 6E 5C 30 34 5F 66 6C 79 69 6E 67 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 30 34 2E 6E 6C 73 64 00 64 00 00 00 B0 8F 17 00 90 B9 55 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Confusion of Sky",
+        "es": "Confusion of Sky",
+        "fr": "Confusion of Sky",
+        "jp": "Confusion of Sky",
+        "ko": "Confusion of Sky",
+        "zh-TW": "Confusion of Sky",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [69 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_105",
+    ],
+    [
+      85,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 18 00 00 00 6D 61 69 6E 5C 30 35 5F 6E 65 61 72 5F 66 75 74 75 72 65 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 30 35 2E 6E 6C 73 64 00 64 00 00 00 E0 3E 1A 00 D0 BE 58 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Near Future",
+        "es": "Near Future",
+        "fr": "Near Future",
+        "jp": "Near Future",
+        "ko": "Near Future",
+        "zh-TW": "Near Future",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6A 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_106",
+    ],
+    [
+      81,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 14 00 00 00 6D 61 69 6E 5C 30 36 5F 62 69 7A 61 72 72 65 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 30 36 2E 6E 6C 73 64 00 64 00 00 00 B0 BA 25 00 00 37 5F 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Bizarre",
+        "es": "Bizarre",
+        "fr": "Bizarre",
+        "jp": "Bizarre",
+        "ko": "Bizarre",
+        "zh-TW": "Bizarre",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6B 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_107",
+    ],
+    [
+      86,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 19 00 00 00 6D 61 69 6E 5C 30 37 5F 62 72 61 73 73 5F 61 74 74 61 63 6B 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 30 37 2E 6E 6C 73 64 00 64 00 00 00 20 5A 22 00 40 FF 68 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "March in Eternity",
+        "es": "March in Eternity",
+        "fr": "March in Eternity",
+        "jp": "March in Eternity",
+        "ko": "March in Eternity",
+        "zh-TW": "March in Eternity",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6C 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_108",
+    ],
+    [
+      78,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 11 00 00 00 6D 61 69 6E 5C 30 38 5F 64 72 75 67 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 30 38 2E 6E 6C 73 64 00 64 00 00 00 40 9C 1D 00 B0 FC 4F 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Drug of Charming",
+        "es": "Drug of Charming",
+        "fr": "Drug of Charming",
+        "jp": "Drug of Charming",
+        "ko": "Drug of Charming",
+        "zh-TW": "Drug of Charming",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6D 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_109",
+    ],
+    [
+      83,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 16 00 00 00 6D 61 69 6E 5C 30 39 5F 68 65 61 76 79 5F 72 65 66 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 30 39 2E 6E 6C 73 64 00 64 00 00 00 D0 3A 2E 00 10 4E 65 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Last Chapter",
+        "es": "Last Chapter",
+        "fr": "Last Chapter",
+        "jp": "Last Chapter",
+        "ko": "Last Chapter",
+        "zh-TW": "Last Chapter",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6E 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_110",
+    ],
+    [
+      80,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 13 00 00 00 6D 61 69 6E 5C 31 30 5F 66 6F 72 65 73 74 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 31 30 2E 6E 6C 73 64 00 64 00 00 00 C0 22 0E 00 30 34 4D 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Lost Child",
+        "es": "Lost Child",
+        "fr": "Lost Child",
+        "jp": "Lost Child",
+        "ko": "Lost Child",
+        "zh-TW": "Lost Child",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6F 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_111",
+    ],
+    [
+      81,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 14 00 00 00 6D 61 69 6E 5C 31 31 5F 74 65 63 68 5F 62 74 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 31 31 2E 6E 6C 73 64 00 64 00 00 00 70 FF 11 00 70 56 42 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Party People",
+        "es": "Party People",
+        "fr": "Party People",
+        "jp": "Party People",
+        "ko": "Party People",
+        "zh-TW": "Party People",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [70 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_112",
+    ],
+    [
+      83,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 16 00 00 00 6D 61 69 6E 5C 31 32 5F 64 61 72 6B 5F 63 6C 75 62 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 31 32 2E 6E 6C 73 64 00 64 00 00 00 F0 78 2A 00 00 85 62 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Makai Club",
+        "es": "Makai Club",
+        "fr": "Makai Club",
+        "jp": "Makai Club",
+        "ko": "Makai Club",
+        "zh-TW": "Makai Club",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [71 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_113",
+    ],
+    [
+      81,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 14 00 00 00 6D 61 69 6E 5C 31 33 5F 63 6F 6D 69 63 61 6C 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 31 33 2E 6E 6C 73 64 00 64 00 00 00 B0 98 02 00 20 EB 18 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Bitter Smile",
+        "es": "Bitter Smile",
+        "fr": "Bitter Smile",
+        "jp": "Bitter Smile",
+        "ko": "Bitter Smile",
+        "zh-TW": "Bitter Smile",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [72 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_114",
+    ],
+    [
+      81,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 14 00 00 00 6D 61 69 6E 5C 31 34 5F 73 69 72 69 6F 75 73 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 31 34 2E 6E 6C 73 64 00 64 00 00 00 F0 A6 14 00 00 4D 34 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Old Sneaker",
+        "es": "Old Sneaker",
+        "fr": "Old Sneaker",
+        "jp": "Old Sneaker",
+        "ko": "Old Sneaker",
+        "zh-TW": "Old Sneaker",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [73 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_115",
+    ],
+    [
+      81,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 14 00 00 00 6D 61 69 6E 5C 31 35 5F 74 65 6E 73 69 6F 6E 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 31 35 2E 6E 6C 73 64 00 64 00 00 00 20 16 12 00 A0 12 29 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Dark Ambition",
+        "es": "Dark Ambition",
+        "fr": "Dark Ambition",
+        "jp": "Dark Ambition",
+        "ko": "Dark Ambition",
+        "zh-TW": "Dark Ambition",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [74 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_116",
+    ],
+    [
+      84,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 17 00 00 00 6D 61 69 6E 5C 31 36 5F 73 75 73 70 69 63 74 69 6F 6E 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 31 36 2E 6E 6C 73 64 00 64 00 00 00 00 A6 0E 00 F0 A9 23 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "I'm Not OK",
+        "es": "I'm not OK",
+        "fr": "I’m not OK",
+        "jp": "I'm not OK",
+        "ko": "I'm not OK",
+        "zh-TW": "I'm not OK",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [75 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_117",
+    ],
+    [
+      82,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 15 00 00 00 6D 61 69 6E 5C 31 37 5F 73 6F 6C 75 74 69 6F 6E 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 31 37 2E 6E 6C 73 64 00 64 00 00 00 E0 2E 0C 00 B0 13 24 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Vain Solution",
+        "es": "Vain solution",
+        "fr": "Vain solution",
+        "jp": "Vain solution",
+        "ko": "Vain solution",
+        "zh-TW": "Vain solution",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [76 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_118",
+    ],
+    [
+      82,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 15 00 00 00 6D 61 69 6E 5C 31 38 5F 73 68 6F 77 64 6F 77 6E 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 31 38 2E 6E 6C 73 64 00 64 00 00 00 A0 E8 07 00 90 DE 27 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Showdown",
+        "es": "Showdown",
+        "fr": "Showdown",
+        "jp": "Showdown",
+        "ko": "Showdown",
+        "zh-TW": "Showdown",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [77 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_119",
+    ],
+    [
+      79,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 12 00 00 00 6D 61 69 6E 5C 31 39 5F 70 65 61 63 65 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 31 39 2E 6E 6C 73 64 00 64 00 00 00 30 56 0A 00 90 2B 1D 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "A Song of Sorrow",
+        "es": "A Song of Sorrow",
+        "fr": "A Song of Sorrow",
+        "jp": "A Song of Sorrow",
+        "ko": "A Song of Sorrow",
+        "zh-TW": "A Song of Sorrow",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [78 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_120",
+    ],
+    [
+      83,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 16 00 00 00 6D 61 69 6E 5C 32 30 5F 73 65 6E 73 69 74 69 76 65 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 32 30 2E 6E 6C 73 64 00 64 00 00 00 70 C4 16 00 60 07 77 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Praying for Peace",
+        "es": "Praying for Peace",
+        "fr": "Praying for Peace",
+        "jp": "Praying for Peace",
+        "ko": "Praying for Peace",
+        "zh-TW": "Praying for Peace",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [79 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_121",
+    ],
+    [
+      80,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 13 00 00 00 6D 61 69 6E 5C 32 31 5F 72 65 73 75 6C 74 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 32 31 2E 6E 6C 73 64 00 64 00 00 00 50 74 0E 00 10 70 25 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Decollete Pose",
+        "es": "Decollete Pose",
+        "fr": "Decollete Pose",
+        "jp": "Decollete Pose",
+        "ko": "Decollete Pose",
+        "zh-TW": "Decollete Pose",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [7A 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_122",
+    ],
+    [
+      78,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 11 00 00 00 6D 61 69 6E 5C 32 32 5F 4F 50 45 4E 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 32 32 2E 6E 6C 73 64 00 64 00 00 00 C0 79 2F 00 E0 7E 79 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "No more cry",
+        "es": "No more cry",
+        "fr": "No more cry",
+        "jp": "No more cry",
+        "ko": "No more cry",
+        "zh-TW": "No more cry",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [7B 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_123",
+    ],
+    [
+      77,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 00 6D 61 69 6E 5C 32 33 5F 65 6E 64 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 32 33 2E 6E 6C 73 64 00 64 00 00 00 FF FF FF FF FF FF FF FF 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Good-by days",
+        "es": "Good-by days",
+        "fr": "Good-by days",
+        "jp": "Good-by days",
+        "ko": "Good-by days",
+        "zh-TW": "Good-by days",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [7C 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_124",
+    ],
+    [
+      100,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 27 00 00 00 6D 61 69 6E 5F 61 64 6A 75 73 74 6D 65 6E 74 5C 32 32 5F 6F 70 65 6E 5F 61 64 6A 75 73 74 6D 65 6E 74 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 32 34 2E 6E 6C 73 64 00 64 00 00 00 00 D1 2E 00 20 D6 78 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Theme Song (Adjusted)",
+        "es": "Tema musical (Arreglo)",
+        "fr": "Thème principal (arrangement)",
+        "jp": "テーマ曲(調整)",
+        "ko": "테마곡(조정)",
+        "zh-TW": "主題曲（調整）",
+      },
+      "6",
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [7D 00 00 00],
+    ],
+    [
+      "key",
+      "BGM_ID_125",
+    ],
+    [
+      102,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 29 00 00 00 6D 61 69 6E 5F 61 64 6A 75 73 74 6D 65 6E 74 5C 32 31 5F 72 65 73 75 6C 74 5F 61 64 6A 75 73 74 6D 65 6E 74 2E 77 61 76 00 15 00 00 00 64 61 74 61 2F 62 67 6D 2F 62 6D 67 31 32 35 2E 6E 6C 73 64 00 64 00 00 00 10 3C 0E 00 D0 37 25 00 80 BB 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Decollete Pose (Adjusted)",
+        "es": "Decollete Pose (Arreglo)",
+        "fr": "Decollete Pose (arrangement)",
+        "jp": "Decollete Pose(調整)",
+        "ko": "Decollete Pose(조정)",
+        "zh-TW": "Decollete Pose（調整）",
+      },
+      "6",
+    ],
+  ],
+]

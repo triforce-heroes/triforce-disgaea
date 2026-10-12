@@ -1,0 +1,1886 @@
+[
+  [
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_NONE",
+    ],
+    [
+      "notes",
+      "",
+    ],
+    [
+      "notes",
+      "なし",
+    ],
+    [
+      "languages",
+      {
+        "en": "None",
+        "es": "Nada",
+        "fr": "Sans",
+        "jp": "なし",
+        "ko": "없음",
+        "zh-TW": "無",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "None",
+        "es": "Nada",
+        "fr": "Sans",
+        "jp": "なし",
+        "ko": "없음",
+        "zh-TW": "無",
+      },
+      "5",
+      1,
+    ],
+    [
+      "dialog",
+      {
+        "en": "None",
+        "es": "Nada",
+        "fr": "Sans",
+        "jp": "なし",
+        "ko": "없음",
+        "zh-TW": "無",
+      },
+      "6",
+      1,
+    ],
+    [
+      "languages",
+      {
+        "en": "None",
+        "es": "Nada",
+        "fr": "Sans",
+        "jp": "なし",
+        "ko": "없음",
+        "zh-TW": "無",
+      },
+      "7",
+    ],
+    [
+      75,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [09 43 0F 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_0002_01",
+    ],
+    [
+      "notes",
+      "ヒロイン",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_001_0002_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "I'll Cheer You On!",
+        "es": "¡Te apoyo!",
+        "fr": "En soutien !",
+        "jp": "応援する！",
+        "ko": "응원한다!",
+        "zh-TW": "加油打氣！",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Restore Battle Buddy's HP by 30%.",
+        "es": "Recupera un 30 % de los PV de los familiares.",
+        "fr": "Restaure les PV des familiers de 30 %.",
+        "jp": "従魔のＨＰを３０％回復させる",
+        "ko": "사역마의 HP를 30％ 회복합니다.",
+        "zh-TW": "恢復使魔的HP30％。",
+      },
+      "5",
+      1,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Battle Buddy HP recovered!",
+        "es": "¡Los PV de los familiares se han recuperado!",
+        "fr": "PV des familiers restaurés !",
+        "jp": "従魔のＨＰが回復した！",
+        "ko": "사역마의 HP가 회복됐다!",
+        "zh-TW": "使魔的HP已恢復！",
+      },
+      "6",
+      1,
+    ],
+    [
+      "languages",
+      {
+        "en": "No Battle Buddies in need of healing!",
+        "es": "¡No hay ningún familiar al que curar!",
+        "fr": "Aucun familier à soigner !",
+        "jp": "回復させる従魔がいません！",
+        "ko": "회복시킬 사역마가 없습니다!",
+        "zh-TW": "沒有能進行恢復的使魔！",
+      },
+      "7",
+    ],
+    [
+      77,
+      Buffer [03 00 00 00 01 00 00 00 02 00 00 00 03 00 00 00 33 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [D1 FF A7 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_0100_01",
+    ],
+    [
+      "notes",
+      "プリニー",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_0100_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Peon Recycle",
+        "es": "Espíritu reciclador",
+        "fr": "Cycle de l’âme I",
+        "jp": "リサイクル精神",
+        "ko": "재활용 정신",
+        "zh-TW": "回收精神",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Revive with 1 HP. Can only be used
+when incapacitated.",
+        "es": "Revive con 1 PV.
+Solo se puede usar al caer derrotado.",
+        "fr": "Ressuscite avec 1 PV.
+Utilisable uniquement quand KO.",
+        "jp": "ＨＰ１で復活する
+戦闘不能時のみ使用可能",
+        "ko": "HP가 1인 상태로 부활한다.
+전투 불능 시에만 사용 가능",
+        "zh-TW": "以HP1的狀態復活。
+僅限喪失戰鬥能力時使用。",
+      },
+      "5",
+      2,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Battle Buddy revived!",
+        "es": "¡El familiar ha revivido!",
+        "fr": "Familier ressuscité !",
+        "jp": "従魔が復活した！",
+        "ko": "사역마가 부활했다!",
+        "zh-TW": "使魔已復活！",
+      },
+      "6",
+      1,
+    ],
+    [
+      "languages",
+      {
+        "en": "This Prinny still has some fight left in 'em!",
+        "es": "¡El prini aún puede luchar!",
+        "fr": "Le Prinny peut encore se battre !",
+        "jp": "プリニーはまだ戦えます！",
+        "ko": "프리니는 아직 싸울 수 있습니다!",
+        "zh-TW": "普利尼還能戰鬥！",
+      },
+      "7",
+    ],
+    [
+      76,
+      Buffer [01 00 00 00 02 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [E1 26 A8 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_0200_01",
+    ],
+    [
+      "notes",
+      "モスマン",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_0200_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Moth Taxi",
+        "es": "Taximonstruo",
+        "fr": "Mitaxi",
+        "jp": "モスタクシー",
+        "ko": "모스 택시",
+        "zh-TW": "天蛾計程車",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Move 5 tiles. Abrupt Stop costs 0
+EN.",
+        "es": "Avanzas 5 casillas. La energía consumida
+con la parada de emerg. pasa a ser 0.",
+        "fr": "Se déplace de 5 cases. Aucun coût
+d’énergie en cas d’arrêt forcé.",
+        "jp": "５マス移動する
+緊急停止時の消費ＥＮが０になる",
+        "ko": "5칸 이동한다.
+긴급 정지 시의 소비 EN이 0이 된다.",
+        "zh-TW": "移動5格。
+緊急停止時的消耗EN為0。",
+      },
+      "5",
+      2,
+    ],
+    [
+      "dialog",
+      {
+        "en": "You can now move 5 tiles!",
+        "es": "¡Puedes moverte 5 casillas!",
+        "fr": "Vous pouvez vous déplacer de 5 cases !",
+        "jp": "５マス移動できます！",
+        "ko": "5칸 이동할 수 있습니다!",
+        "zh-TW": "可移動5格！",
+      },
+      "6",
+      1,
+    ],
+    [
+      "languages",
+      {
+        "en": "None",
+        "es": "Nada",
+        "fr": "Sans",
+        "jp": "なし",
+        "ko": "없음",
+        "zh-TW": "無",
+      },
+      "7",
+    ],
+    [
+      76,
+      Buffer [05 00 00 00 04 00 00 00 02 00 00 00 02 00 00 00 35 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F1 4D A8 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_0300_01",
+    ],
+    [
+      "notes",
+      "エリンギャー",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_0300_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Cruelgency Rations",
+        "es": "Comida despiadada",
+        "fr": "Aliment à risque",
+        "jp": "非情食",
+        "ko": "비상식량",
+        "zh-TW": "無情口糧",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Reduce HP to 1, but restore 30 EN.
+Once only.",
+        "es": "Tus PV se quedan en 1, pero recuperas
+30 de energía. Solo de 1 uso.",
+        "fr": "Les PV tombent à 1, mais l’énergie
+augmente de 30. Usage unique.",
+        "jp": "ＨＰ１になるが、エナジーが３０回復する
+１度のみ使用可能",
+        "ko": "HP가 1이 되지만 에너지를 30 회복한다.
+한 번만 사용 가능",
+        "zh-TW": "將HP降為1，但可恢復30能量。
+僅限使用一次。",
+      },
+      "5",
+      2,
+    ],
+    [
+      "dialog",
+      {
+        "en": "30 EN restored!",
+        "es": "¡Has recuperado 30 de energía!",
+        "fr": "Énergie restaurée de 30 points !",
+        "jp": "エナジーが３０回復した！",
+        "ko": "에너지가 30 회복됐다!",
+        "zh-TW": "能量已恢復30！",
+      },
+      "6",
+      1,
+    ],
+    [
+      "languages",
+      {
+        "en": "Already used this skill!",
+        "es": "¡Esta técnica ya se ha usado!",
+        "fr": "Technique déjà utilisée !",
+        "jp": "この特技は使用済みです！",
+        "ko": "이 특기는 이미 사용했습니다!",
+        "zh-TW": "已使用過此特技！",
+      },
+      "7",
+    ],
+    [
+      78,
+      Buffer [00 00 00 00 06 00 00 00 02 00 00 00 03 00 00 00 33 30 00 00 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 31 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [01 75 A8 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_0400_01",
+    ],
+    [
+      "notes",
+      "ネコサーベル",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_0400_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Lucky Cat",
+        "es": "Gato de la suerte",
+        "fr": "Maneki-neko",
+        "jp": "招き猫",
+        "ko": "행운의 고양이",
+        "zh-TW": "招財貓",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Cancel out negative events for two
+turns.",
+        "es": "Durante 2 acciones, anulas los eventos
+negativos.",
+        "fr": "Événements Moins sans effet
+pendant 2 actions.",
+        "jp": "行動を２回する間、マイナスイベントを
+無効化する",
+        "ko": "2회 행동할 동안 마이너스 이벤트를
+무효화한다.",
+        "zh-TW": "在2次行動之間，將減益事件
+視為無效。",
+      },
+      "5",
+      2,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Negative effects nullified!",
+        "es": "¡Ya no recibes efectos negativos!",
+        "fr": "Insensible aux effets négatifs !",
+        "jp": "悪い影響を受けなくなった！",
+        "ko": "악영향을 받지 않는다!",
+        "zh-TW": "不會受到惡性影響了！",
+      },
+      "6",
+      1,
+    ],
+    [
+      "languages",
+      {
+        "en": "Skill is active!",
+        "es": "¡Esta técnica está en uso!",
+        "fr": "Technique en cours d’utilisation !",
+        "jp": "この特技は使用中です！",
+        "ko": "이 특기는 이미 사용 중입니다!",
+        "zh-TW": "正在使用此特技！",
+      },
+      "7",
+    ],
+    [
+      76,
+      Buffer [02 00 00 00 07 00 00 00 02 00 00 00 02 00 00 00 32 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [11 9C A8 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_0500_01",
+    ],
+    [
+      "notes",
+      "プチオーク",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_0500_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Rally Cry",
+        "es": "Ánimo de batalla",
+        "fr": "Encouragements",
+        "jp": "戦いの鼓舞",
+        "ko": "전의 상승",
+        "zh-TW": "戰鬥鼓舞",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Raises the motivation of Battle
+Buddies for the next battle.",
+        "es": "En la próxima batalla, el ánimo de todos
+los familiares aumenta.",
+        "fr": "Tous les familiers seront motivés lors
+du prochain combat.",
+        "jp": "次の戦闘で従魔が全員やる気になる
+",
+        "ko": "다음 전투에서 모든 사역마의
+의욕이 상승한다.",
+        "zh-TW": "下次戰鬥中所有使魔都會提起幹勁！
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Battle Buddies motivated!",
+        "es": "¡El ánimo de los familiares ha aumentado!",
+        "fr": "Motivation des familiers en hausse !",
+        "jp": "従魔のやる気が満ちた！",
+        "ko": "사역마의 의욕이 상승했다!",
+        "zh-TW": "使魔充滿了幹勁！",
+      },
+      "6",
+      1,
+    ],
+    [
+      "languages",
+      {
+        "en": "Skill is active!",
+        "es": "¡Esta técnica está en uso!",
+        "fr": "Technique en cours d’utilisation !",
+        "jp": "この特技は使用中です！",
+        "ko": "이 특기는 이미 사용 중입니다!",
+        "zh-TW": "正在使用此特技！",
+      },
+      "7",
+    ],
+    [
+      75,
+      Buffer [05 00 00 00 08 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [21 C3 A8 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_0600_01",
+    ],
+    [
+      "notes",
+      "ゴースト",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_0600_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Warp Spell",
+        "es": "Movimiento con teletransporte",
+        "fr": "Téléporteur",
+        "jp": "ワープ移動",
+        "ko": "워프 이동",
+        "zh-TW": "傳送移動",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Warp 3 tiles ahead.
+",
+        "es": "Te teletransportas 3 casillas hacia
+delante.",
+        "fr": "Téléporte de 3 cases en avant.
+",
+        "jp": "３マス先にワープする
+",
+        "ko": "3칸 앞으로 워프한다.
+",
+        "zh-TW": "傳送至前方3格。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Warping!",
+        "es": "¡Te teletransportas!",
+        "fr": "Téléportation !",
+        "jp": "ワープします！",
+        "ko": "워프합니다!",
+        "zh-TW": "將進行傳送！",
+      },
+      "6",
+      1,
+    ],
+    [
+      "languages",
+      {
+        "en": "None",
+        "es": "Nada",
+        "fr": "Sans",
+        "jp": "なし",
+        "ko": "없음",
+        "zh-TW": "無",
+      },
+      "7",
+    ],
+    [
+      76,
+      Buffer [03 00 00 00 09 00 00 00 02 00 00 00 02 00 00 00 33 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [31 EA A8 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_0700_01",
+    ],
+    [
+      "notes",
+      "ネコマタ",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_0700_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Fatal Strike",
+        "es": "Golpe mortal",
+        "fr": "Frappe fatale",
+        "jp": "致命の一撃",
+        "ko": "치명적인 일격",
+        "zh-TW": "致命一擊",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Skip the next combat encounter.
+",
+        "es": "Derrotas a la fuerza al siguiente enemigo
+que enfrentes.",
+        "fr": "Victoire garantie au prochain combat.
+",
+        "jp": "次に接触した敵を強制的に排除する
+",
+        "ko": "다음에 접촉한 적을 강제로 제거한다.
+",
+        "zh-TW": "將強制排除下次遇到的敵人。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Next battle will be skipped!",
+        "es": "¡Puedes evitar la próxima batalla!",
+        "fr": "Prochain combat évité !",
+        "jp": "次の戦闘を回避できます！",
+        "ko": "다음 전투를 회피할 수 있습니다!",
+        "zh-TW": "可以避開下次的戰鬥！",
+      },
+      "6",
+      1,
+    ],
+    [
+      "languages",
+      {
+        "en": "Skill is active!",
+        "es": "¡Esta técnica está en uso!",
+        "fr": "Technique en cours d’utilisation !",
+        "jp": "この特技は使用中です！",
+        "ko": "이 특기는 이미 사용 중입니다!",
+        "zh-TW": "正在使用此特技！",
+      },
+      "7",
+    ],
+    [
+      75,
+      Buffer [04 00 00 00 0A 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [41 11 A9 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_0800_01",
+    ],
+    [
+      "notes",
+      "サキュバス",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_0800_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Revival Pheromones",
+        "es": "Feromonas de resurrección",
+        "fr": "Phéromones phénix",
+        "jp": "復活フェロモン",
+        "ko": "부활 페로몬",
+        "zh-TW": "復活費洛蒙",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Revives Battle Buddies.",
+        "es": "El familiar revive.",
+        "fr": "Ressuscite un familier.",
+        "jp": "従魔が復活する",
+        "ko": "사역마가 부활한다.",
+        "zh-TW": "使魔將會復活。",
+      },
+      "5",
+      1,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Battle Buddies revived!",
+        "es": "¡El familiar ha revivido!",
+        "fr": "Familier ressuscité !",
+        "jp": "従魔が復活した！",
+        "ko": "사역마가 부활했다!",
+        "zh-TW": "使魔已復活！",
+      },
+      "6",
+      1,
+    ],
+    [
+      "languages",
+      {
+        "en": "No Battle Buddies in need of reviving!",
+        "es": "¡No hay ningún familiar al que revivir!",
+        "fr": "Aucun familier à ressusciter !",
+        "jp": "復活させる従魔がいません！",
+        "ko": "부활시킬 사역마가 없습니다!",
+        "zh-TW": "沒有能進行復活的使魔！",
+      },
+      "7",
+    ],
+    [
+      78,
+      Buffer [0A 00 00 00 03 00 00 00 02 00 00 00 04 00 00 00 31 30 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [51 38 A9 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_0900_01",
+    ],
+    [
+      "notes",
+      "ドラゴン",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_0900_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Speed Demon",
+        "es": "Ascenso del dragón celeste",
+        "fr": "Poussée draconique",
+        "jp": "昇竜天駆",
+        "ko": "비룡 승천",
+        "zh-TW": "昇龍天驅",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Move 12 tiles, but cannot stop
+abruptly.",
+        "es": "Te mueves 12 casillas, pero no puedes
+usar la parada de emergencia.",
+        "fr": "Se déplace de 12 cases sans possibilité
+d’arrêt.",
+        "jp": "１２マス移動するが、緊急停止できない
+",
+        "ko": "12칸 이동하지만 긴급 정지할 수 없다.
+",
+        "zh-TW": "可移動12格，但無法緊急停止。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      "dialog",
+      {
+        "en": "You can now move 12 tiles!",
+        "es": "¡Puedes moverte 12 casillas!",
+        "fr": "Vous pouvez vous déplacer de 12 cases !",
+        "jp": "１２マス移動できます！",
+        "ko": "12칸 이동할 수 있습니다!",
+        "zh-TW": "可移動12格！",
+      },
+      "6",
+      1,
+    ],
+    [
+      "languages",
+      {
+        "en": "None",
+        "es": "Nada",
+        "fr": "Sans",
+        "jp": "なし",
+        "ko": "없음",
+        "zh-TW": "無",
+      },
+      "7",
+    ],
+    [
+      77,
+      Buffer [05 00 00 00 05 00 00 00 02 00 00 00 03 00 00 00 31 32 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [61 5F A9 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_1000_01",
+    ],
+    [
+      "notes",
+      "バキエル",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_1000_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Laser Beam",
+        "es": "Rayo láser",
+        "fr": "Rayon laser",
+        "jp": "レーザービーム",
+        "ko": "레이저 빔",
+        "zh-TW": "雷射光射線",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Destroy up to 10 battle tiles in a
+straight line.",
+        "es": "Destruyes las casillas de batalla en línea
+recta hasta 10 casillas.",
+        "fr": "Détruit les cases Combat sur une ligne
+droite de 10 cases.",
+        "jp": "直線１０マス以内の戦闘マスを破壊する
+",
+        "ko": "직선 10칸 이내에 있는 전투 칸을 파괴한다.
+",
+        "zh-TW": "破壞直線10格內的戰鬥格子。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Battle tiles destroyed!",
+        "es": "¡Has destruido las casillas de batalla!",
+        "fr": "Cases Combat détruites !",
+        "jp": "戦闘マスを破壊した！",
+        "ko": "전투 칸을 파괴했다!",
+        "zh-TW": "已破壞戰鬥格子！",
+      },
+      "6",
+      1,
+    ],
+    [
+      "languages",
+      {
+        "en": "No battle tiles in range!",
+        "es": "¡No hay casillas de batalla dentro del rango!",
+        "fr": "Aucune case Combat à portée !",
+        "jp": "範囲内に戦闘マスがありません！",
+        "ko": "범위 내에 전투 칸이 없습니다!",
+        "zh-TW": "範圍內沒有戰鬥格子！",
+      },
+      "7",
+    ],
+    [
+      77,
+      Buffer [06 00 00 00 0B 00 00 00 02 00 00 00 03 00 00 00 31 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [71 86 A9 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_1100_01",
+    ],
+    [
+      "notes",
+      "ハッカコウモリ",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_1100_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Incine-Rig",
+        "es": "Incineración atenuada",
+        "fr": "Incinération progressive",
+        "jp": "減火焼却",
+        "ko": "저온 소각",
+        "zh-TW": "小火焚燒",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Next slot machine spin will land on
+4, 5, or 6.",
+        "es": "En la próxima tirada, el resultado de la
+ranura será de 4 a 6.",
+        "fr": "Résultat de la prochaine machine
+à sous entre 4 et 6.",
+        "jp": "次に回すスロットの出目が４～６になる
+",
+        "ko": "다음에 돌리는 슬롯에서 4~6이 나온다.
+",
+        "zh-TW": "下次轉動拉霸時數字將出現4～6。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Slot machine numbers changed!",
+        "es": "¡El resultado de la ranura ha cambiado!",
+        "fr": "Résultats des machines à sous modifiés !",
+        "jp": "スロットの出目が変化した！",
+        "ko": "슬롯의 숫자가 변화했다!",
+        "zh-TW": "拉霸的數字已改變！",
+      },
+      "6",
+      1,
+    ],
+    [
+      "languages",
+      {
+        "en": "Skill is active!",
+        "es": "¡Esta técnica está en uso!",
+        "fr": "Technique en cours d’utilisation !",
+        "jp": "この特技は使用中です！",
+        "ko": "이 특기는 이미 사용 중입니다!",
+        "zh-TW": "正在使用此特技！",
+      },
+      "7",
+    ],
+    [
+      75,
+      Buffer [02 00 00 00 11 00 00 00 07 00 00 00 01 00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [81 AD A9 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_1200_01",
+    ],
+    [
+      "notes",
+      "モグモール",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_1200_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Public Works",
+        "es": "Obra civil",
+        "fr": "Travaux",
+        "jp": "土木工事",
+        "ko": "토목 공사",
+        "zh-TW": "土木工程",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Repave all tiles on the board.",
+        "es": "Se vuelven a sortear todas las casillas.",
+        "fr": "Mélange toutes les cases.",
+        "jp": "全てのマスが再抽選される",
+        "ko": "모든 칸이 다시 배치된다.",
+        "zh-TW": "刷新所有格子。",
+      },
+      "5",
+      1,
+    ],
+    [
+      "dialog",
+      {
+        "en": "All tiles changed!",
+        "es": "¡Han cambiado todas las casillas!",
+        "fr": "Toutes les cases ont été modifiées !",
+        "jp": "全てのマスが変化した！",
+        "ko": "모든 칸이 변화했다!",
+        "zh-TW": "所有格子已改變！",
+      },
+      "6",
+      1,
+    ],
+    [
+      "languages",
+      {
+        "en": "Skill is active!",
+        "es": "¡Esta técnica está en uso!",
+        "fr": "Technique en cours d’utilisation !",
+        "jp": "この特技は使用中です！",
+        "ko": "이 특기는 이미 사용 중입니다!",
+        "zh-TW": "正在使用此特技！",
+      },
+      "7",
+    ],
+    [
+      75,
+      Buffer [05 00 00 00 0C 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [91 D4 A9 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_1300_01",
+    ],
+    [
+      "notes",
+      "サハギン",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_1300_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Blue World",
+        "es": "Mundo azul",
+        "fr": "Monde parfait",
+        "jp": "ブルーワールド",
+        "ko": "블루 월드",
+        "zh-TW": "蔚藍世界",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Change all tiles to positive ones.
+Will revert next turn.",
+        "es": "Transformas las casillas en positivas.
+Solo durante un turno.",
+        "fr": "Pendant un tour, toutes les cases
+deviennent des cases Plus.",
+        "jp": "全てのマスをプラスマスに変化させる
+次ターン元に戻る",
+        "ko": "모든 칸이 플러스 칸으로 변화한다.
+다음 턴에 원래대로 되돌아간다.",
+        "zh-TW": "將所有格子轉換成增益格。
+下一回合即恢復原狀。",
+      },
+      "5",
+      2,
+    ],
+    [
+      "dialog",
+      {
+        "en": "All tiles changed!",
+        "es": "¡Han cambiado todas las casillas!",
+        "fr": "Toutes les cases ont été modifiées !",
+        "jp": "全てのマスが変化した！",
+        "ko": "모든 칸이 변화했다!",
+        "zh-TW": "所有格子已改變！",
+      },
+      "6",
+      1,
+    ],
+    [
+      "languages",
+      {
+        "en": "Skill is active!",
+        "es": "¡Esta técnica está en uso!",
+        "fr": "Technique en cours d’utilisation !",
+        "jp": "この特技は使用中です！",
+        "ko": "이 특기는 이미 사용 중입니다!",
+        "zh-TW": "正在使用此特技！",
+      },
+      "7",
+    ],
+    [
+      75,
+      Buffer [0A 00 00 00 0D 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [A1 FB A9 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_1400_01",
+    ],
+    [
+      "notes",
+      "サメドラゴン",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_1400_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Going Underwater",
+        "es": "Movimiento submarino",
+        "fr": "Brasse coulée",
+        "jp": "潜水移動",
+        "ko": "잠수 이동",
+        "zh-TW": "潛水移動",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Won't trigger the next landed
+tile's effect. Can't skip combat.",
+        "es": "El efecto de la próxima casilla no se
+activa. No puedes evitar las batallas.",
+        "fr": "Annule l’effet de la prochaine case.
+Impossible d’éviter les combats.",
+        "jp": "次に停止するマスの効果が発生しない
+戦闘は回避できない",
+        "ko": "다음에 멈춘 칸의 효과가 발동하지 않는다.
+전투는 회피할 수 없다.",
+        "zh-TW": "將不會觸發下次停留的格子效果。
+無法避開戰鬥。",
+      },
+      "5",
+      2,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Effect of next stopped-on tile will
+be disabled!",
+        "es": "¡Ignoras la próxima casilla donde te pares!
+",
+        "fr": "Prochaine case sans effet !
+",
+        "jp": "次の停止マスを無視します！
+",
+        "ko": "다음에 정지하는 칸을 무시합니다!
+",
+        "zh-TW": "無視下次停留的格子！
+",
+      },
+      "6",
+      2,
+    ],
+    [
+      "languages",
+      {
+        "en": "Skill is active!",
+        "es": "¡Esta técnica está en uso!",
+        "fr": "Technique en cours d’utilisation !",
+        "jp": "この特技は使用中です！",
+        "ko": "이 특기는 이미 사용 중입니다!",
+        "zh-TW": "正在使用此特技！",
+      },
+      "7",
+    ],
+    [
+      75,
+      Buffer [01 00 00 00 0E 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [B1 22 AA 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_1500_01",
+    ],
+    [
+      "notes",
+      "ルフ",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_1500_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Happy Landing",
+        "es": "Aterrizaje seguro",
+        "fr": "Atterrissage en douceur",
+        "jp": "安全着陸",
+        "ko": "안전 착륙",
+        "zh-TW": "安全著陸",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Abrupt Stop costs 0 EN.
+",
+        "es": "La energía consumida al hacer una
+parada de emergencia pasa a ser 0.",
+        "fr": "Aucun coût d’énergie en cas d’arrêt
+forcé.",
+        "jp": "緊急停止時の消費ＥＮを０にする
+",
+        "ko": "긴급 정지 시의 소비 EN을 0으로 만든다.
+",
+        "zh-TW": "使緊急停止的消耗EN變為0。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Abrupt Stop cost nullified!
+",
+        "es": "¡El consumo de energía al hacer una
+parada de emergencia ha pasado a 0!",
+        "fr": "Les arrêts forcés ne consomment pas d’énergie !
+",
+        "jp": "緊急停止の消費エナジーが０になった！
+",
+        "ko": "긴급 정지 시의 소비 에너지가 0이 됐다!
+",
+        "zh-TW": "緊急停止的消耗能量變成0了！
+",
+      },
+      "6",
+      2,
+    ],
+    [
+      "languages",
+      {
+        "en": "Skill is active!",
+        "es": "¡Esta técnica está en uso!",
+        "fr": "Technique en cours d’utilisation !",
+        "jp": "この特技は使用中です！",
+        "ko": "이 특기는 이미 사용 중입니다!",
+        "zh-TW": "正在使用此特技！",
+      },
+      "7",
+    ],
+    [
+      75,
+      Buffer [03 00 00 00 0F 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [C1 49 AA 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_1600_01",
+    ],
+    [
+      "notes",
+      "クーシー",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_1600_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Gale Dash",
+        "es": "Carrera relámpago",
+        "fr": "Marche-vent",
+        "jp": "疾風軽走",
+        "ko": "질풍 질주",
+        "zh-TW": "疾風微步",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Spin the slot machine 3 times.
+",
+        "es": "Gira 3 ranuras.
+",
+        "fr": "Permet de jouer à la machine à sous
+3 fois.",
+        "jp": "スロットを３個回す
+",
+        "ko": "슬롯을 3개 돌린다.
+",
+        "zh-TW": "拉動3個拉霸。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      "dialog",
+      {
+        "en": "You now have 3 spins!",
+        "es": "¡El número de ranuras ha aumentado a 3!",
+        "fr": "Le nombre de machines à sous passe à 3 !",
+        "jp": "スロットが３個に増えた！",
+        "ko": "슬롯이 3개로 늘었다!",
+        "zh-TW": "已增加3個拉霸！",
+      },
+      "6",
+      1,
+    ],
+    [
+      "languages",
+      {
+        "en": "None",
+        "es": "Nada",
+        "fr": "Sans",
+        "jp": "なし",
+        "ko": "없음",
+        "zh-TW": "無",
+      },
+      "7",
+    ],
+    [
+      75,
+      Buffer [05 00 00 00 10 00 00 00 07 00 00 00 01 00 00 00 00 00 00 00 00 02 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [D1 70 AA 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_1700_01",
+    ],
+    [
+      "notes",
+      "クリオネ",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_1700_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Icy Road",
+        "es": "Hielo abrasador",
+        "fr": "Verglas",
+        "jp": "アイスバーン",
+        "ko": "빙판길",
+        "zh-TW": "黑冰",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "+2 to slot machine spin result for
+3 turns.",
+        "es": "Durante 3 turnos, aumentas en +2 el
+resultado de la ranura.",
+        "fr": "+2 aux résultats des machines à sous
+pendant 3 tours.",
+        "jp": "３ターンの間スロットの出目を＋２する
+",
+        "ko": "3턴 동안 슬롯의 숫자에 2를 더한다.
+",
+        "zh-TW": "3回合內，拉霸數字＋2。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Slot machine spin results will be
+increased by 2!",
+        "es": "¡El resultado de la ranura recibe un +2!
+",
+        "fr": "Résultats des machines à sous +2 !
+",
+        "jp": "スロットの出目に＋２されます！
+",
+        "ko": "슬롯의 숫자에 2가 더해집니다!
+",
+        "zh-TW": "拉霸的數字將＋2！
+",
+      },
+      "6",
+      2,
+    ],
+    [
+      "languages",
+      {
+        "en": "Skill is active!",
+        "es": "¡Esta técnica está en uso!",
+        "fr": "Technique en cours d’utilisation !",
+        "jp": "この特技は使用中です！",
+        "ko": "이 특기는 이미 사용 중입니다!",
+        "zh-TW": "正在使用此特技！",
+      },
+      "7",
+    ],
+    [
+      77,
+      Buffer [03 00 00 00 12 00 00 00 02 00 00 00 02 00 00 00 33 00 00 00 00 00 00 00 00 00 02 00 00 00 02 00 00 00 32 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [E1 97 AA 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_1800_01",
+    ],
+    [
+      "notes",
+      "キョンシー",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_1800_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Strange Leap",
+        "es": "Salto extraño",
+        "fr": "Bond contrôlé",
+        "jp": "奇妙な跳躍",
+        "ko": "기묘한 도약",
+        "zh-TW": "神奇跳躍",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Warp to the nearest positive tile.
+",
+        "es": "Te mueves a la casilla positiva más
+cercana.",
+        "fr": "Emmène sur la case Plus la plus proche.
+",
+        "jp": "最も近いプラスマスに移動する
+",
+        "ko": "가장 가까운 플러스 칸으로 이동한다.
+",
+        "zh-TW": "移動至最近的增益格。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Warping!",
+        "es": "¡Te teletransportas!",
+        "fr": "Téléportation !",
+        "jp": "ワープします！",
+        "ko": "워프합니다!",
+        "zh-TW": "將進行傳送！",
+      },
+      "6",
+      1,
+    ],
+    [
+      "languages",
+      {
+        "en": "No positive tiles in range!",
+        "es": "¡No hay casillas positivas dentro del rango!",
+        "fr": "Aucune case Plus à portée !",
+        "jp": "範囲内にプラスマスがありません！",
+        "ko": "범위 내에 플러스 칸이 없습니다!",
+        "zh-TW": "範圍內沒有增益格！",
+      },
+      "7",
+    ],
+    [
+      75,
+      Buffer [02 00 00 00 13 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F1 BE AA 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_1900_01",
+    ],
+    [
+      "notes",
+      "アルラウネ",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_1900_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Pleasant Aroma",
+        "es": "Aroma bonito",
+        "fr": "Doux arôme",
+        "jp": "プリティアロマ",
+        "ko": "프리티 아로마",
+        "zh-TW": "甜美香氛",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "For 5 turns, restore Battle
+Buddies' HP by 10%.",
+        "es": "En 5 turnos, los PV de los familiares
+se recuperan un 10 %.",
+        "fr": "Chaque tour, les PV des familiers sont
+restaurés de 10 % pendant 5 tours.",
+        "jp": "５ターンの間、従魔のＨＰが１０％回復
+",
+        "ko": "5턴 동안 사역마의 HP가 10% 회복된다.
+",
+        "zh-TW": "5回合內，使魔的HP恢復10％。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Battle Buddy HP recovery activated!",
+        "es": "¡Los PV de los familiares se recuperan!",
+        "fr": "PV des familiers restaurés !",
+        "jp": "従魔のＨＰが回復します！",
+        "ko": "사역마의 HP가 회복됩니다!",
+        "zh-TW": "將恢復使魔的HP！",
+      },
+      "6",
+      1,
+    ],
+    [
+      "languages",
+      {
+        "en": "Skill is active!",
+        "es": "¡Esta técnica está en uso!",
+        "fr": "Technique en cours d’utilisation !",
+        "jp": "この特技は使用中です！",
+        "ko": "이 특기는 이미 사용 중입니다!",
+        "zh-TW": "正在使用此特技！",
+      },
+      "7",
+    ],
+    [
+      78,
+      Buffer [02 00 00 00 14 00 00 00 02 00 00 00 02 00 00 00 35 00 00 00 00 00 00 00 00 00 02 00 00 00 03 00 00 00 31 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [01 E6 AA 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_2000_01",
+    ],
+    [
+      "notes",
+      "キュウビ",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_2000_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Lucky Charm",
+        "es": "Suerte y dinero",
+        "fr": "Amulette de fortune",
+        "jp": "金運招福",
+        "ko": "금운초복",
+        "zh-TW": "金運招福",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Change all tiles to Treasure Chest
+ones. Will revert next turn.",
+        "es": "Transforma todo en casillas de cofre.
+Solo durante un turno.",
+        "fr": "Toutes les cases deviennent des cases
+Trésor pendant un tour.",
+        "jp": "全てのマスを宝箱マスに変化させる
+次ターン元に戻る",
+        "ko": "모든 칸이 보물 상자 칸으로 변화한다.
+다음 턴에 원래대로 되돌아간다.",
+        "zh-TW": "將所有格子轉換成寶箱格子。
+下一回合即恢復原狀。",
+      },
+      "5",
+      2,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Treasure Chests have populated the
+board!",
+        "es": "¡Se han convertido en casillas de cofre!
+",
+        "fr": "Transformation en case Trésor réussie !
+",
+        "jp": "宝箱マスに変化した！
+",
+        "ko": "보물 상자로 변화했다!
+",
+        "zh-TW": "已改變為寶箱格子！
+",
+      },
+      "6",
+      2,
+    ],
+    [
+      "languages",
+      {
+        "en": "Skill is active!",
+        "es": "¡Esta técnica está en uso!",
+        "fr": "Technique en cours d’utilisation !",
+        "jp": "この特技は使用中です！",
+        "ko": "이 특기는 이미 사용 중입니다!",
+        "zh-TW": "正在使用此特技！",
+      },
+      "7",
+    ],
+    [
+      75,
+      Buffer [09 00 00 00 16 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [11 0D AB 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_2100_01",
+    ],
+    [
+      "notes",
+      "カトブレパス",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_2100_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Dark Miasma",
+        "es": "Miasma oscuro",
+        "fr": "Miasme noir",
+        "jp": "ダークミアズマ",
+        "ko": "다크 미아즈마",
+        "zh-TW": "暗黑瘴氣",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Halves the HP of all enemies in the
+next battle.",
+        "es": "En la próxima batalla, los PV del enemigo
+se reducen a la mitad.",
+        "fr": "Les PV de l’ennemi sont réduits de
+moitié lors du prochain combat.",
+        "jp": "次の戦闘で、敵のＨＰが半分になる
+",
+        "ko": "다음 전투에서 적의 HP가 절반이 된다.
+",
+        "zh-TW": "下次戰鬥中，敵人的HP減半。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Enemy HP in the next battle will be
+halved!",
+        "es": "¡Los PV del próximo enemigo que encuentres
+se reducirán a la mitad!",
+        "fr": "PV de l’ennemi réduits de moitié !
+",
+        "jp": "次に出会う敵のHPが半分になった！
+",
+        "ko": "다음에 만나는 적의 HP가 절반이 되었다!
+",
+        "zh-TW": "下次碰到的敵人HP減半！
+",
+      },
+      "6",
+      2,
+    ],
+    [
+      "languages",
+      {
+        "en": "Skill is active!",
+        "es": "¡Esta técnica está en uso!",
+        "fr": "Technique en cours d’utilisation !",
+        "jp": "この特技は使用中です！",
+        "ko": "이 특기는 이미 사용 중입니다!",
+        "zh-TW": "正在使用此特技！",
+      },
+      "7",
+    ],
+    [
+      77,
+      Buffer [04 00 00 00 15 00 00 00 02 00 00 00 03 00 00 00 35 30 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [21 34 AB 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_ACT_2200_01",
+    ],
+    [
+      "notes",
+      "デスコ",
+    ],
+    [
+      "notes",
+      "キャラ界特技ID_011_2200_01",
+    ],
+    [
+      "languages",
+      {
+        "en": "Supreme Ruler's March",
+        "es": "Marcha del líder supremo",
+        "fr": "Seigneuresse en marche",
+        "jp": "覇王の進軍",
+        "ko": "패왕의 진군",
+        "zh-TW": "霸王行軍",
+      },
+      "4",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Double the result of the next slot
+machine spin.",
+        "es": "Te mueves el doble de casillas del
+resultado de la próxima ranura.",
+        "fr": "Le résultat des prochaines machines
+à sous sera doublé.",
+        "jp": "次のスロットの出目×２マス移動する
+",
+        "ko": "다음 슬롯의 숫자의 2배만큼 이동한다.
+",
+        "zh-TW": "下次將移動拉霸數字×2格。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Slot machine spin result will be
+doubled!",
+        "es": "¡El resultado de la ranura se duplicará!
+",
+        "fr": "Résultats des machines à sous doublés !
+",
+        "jp": "スロットの出目が２倍になります！
+",
+        "ko": "슬롯의 숫자가 2배가 됩니다!
+",
+        "zh-TW": "拉霸的數字將變成2倍！
+",
+      },
+      "6",
+      2,
+    ],
+    [
+      "languages",
+      {
+        "en": "Skill is active!",
+        "es": "¡Esta técnica está en uso!",
+        "fr": "Technique en cours d’utilisation !",
+        "jp": "この特技は使用中です！",
+        "ko": "이 특기는 이미 사용 중입니다!",
+        "zh-TW": "正在使用此特技！",
+      },
+      "7",
+    ],
+    [
+      76,
+      Buffer [23 00 00 00 17 00 00 00 02 00 00 00 02 00 00 00 32 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]

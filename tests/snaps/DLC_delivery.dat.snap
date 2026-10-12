@@ -1,0 +1,1012 @@
+[
+  [
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "key",
+      "DLC_DELIVERY_NONE",
+    ],
+    [
+      12,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "N/A",
+        "es": "Nada",
+        "fr": "Sans",
+        "jp": "なし",
+        "ko": "없음",
+        "zh-TW": "無",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "N/A",
+        "es": "Nada",
+        "fr": "Sans",
+        "jp": "なし",
+        "ko": "없음",
+        "zh-TW": "無",
+      },
+      "4",
+      1,
+    ],
+    [
+      "dialog",
+      {
+        "en": "N/A",
+        "es": "Nada",
+        "fr": "Sans",
+        "jp": "なし",
+        "ko": "없음",
+        "zh-TW": "無",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [B9 0B 00 00],
+    ],
+    [
+      "key",
+      "DLC_DELIVERY_HL",
+    ],
+    [
+      12,
+      Buffer [01 00 00 00 01 00 00 00 B9 0B 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "HL Bag",
+        "es": "Bolsa de HL",
+        "fr": "Sac de Hell",
+        "jp": "ヘル袋",
+        "ko": "헬 보따리",
+        "zh-TW": "赫爾袋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Receive 1,000,000 HL. In a
+financial rut? Just buy more
+money!",
+        "es": "Obtienes 1 millón de HL.
+¡Por si necesitas apañarte
+rápido!",
+        "fr": "Gagnez 1 million de HL
+Si vous avez besoin de fonds
+rapidement !",
+        "jp": "１００万HLもらえます
+手早く用立てたい時にどうぞ！
+",
+        "ko": "100만 HL을 획득할 수 있습니다.
+급한 일이 있을 때 사용하세요!
+",
+        "zh-TW": "可獲得100萬HL。
+適合在手頭吃緊時使用！
+",
+      },
+      "4",
+      3,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Receive 1,000,000 HL. In a financial rut? Just buy more money!
+
+",
+        "es": "Obtienes 1 millón de HL.
+¡Por si necesitas apañarte rápido!
+",
+        "fr": "Gagnez 1 million de HL
+Si vous avez besoin de fonds
+rapidement !",
+        "jp": "１００万HLもらえます
+手早く用立てたい時にどうぞ！
+",
+        "ko": "100만 HL을 획득할 수 있습니다.
+급한 일이 있을 때 사용하세요!
+",
+        "zh-TW": "可獲得100萬HL。
+適合在手頭吃緊時使用！
+",
+      },
+      "5",
+      3,
+    ],
+    [
+      16,
+      Buffer [6E 00 00 00 00 00 00 00 00 00 00 00 19 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [BA 0B 00 00],
+    ],
+    [
+      "key",
+      "DLC_DELIVERY_MANA",
+    ],
+    [
+      12,
+      Buffer [01 00 00 00 01 00 00 00 BA 0B 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Mana Bag",
+        "es": "Bolsa de maná",
+        "fr": "Sac de mana",
+        "jp": "マナ袋",
+        "ko": "마나 보따리",
+        "zh-TW": "瑪那袋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Receive 100,000 Mana. Now
+that's what I call convenient!
+",
+        "es": "Obtienes 100 000 de maná.
+¡Es muy práctico y puedes
+usarlo para mil cosas!",
+        "fr": "Gagnez 100 000 mana
+À dépenser comme
+bon vous semble !",
+        "jp": "１０万マナもらえます
+色々活用できて便利です！
+",
+        "ko": "10만 마나를 획득할 수 있습니다.
+여기저기 쓸 수 있어서 유용합니다!
+",
+        "zh-TW": "可獲得10萬瑪那。
+有多種用途，十分方便！
+",
+      },
+      "4",
+      3,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Receive 100,000 Mana. Now that's what I call convenient!
+
+",
+        "es": "Obtienes 100 000 de maná.
+¡Es muy práctico y puedes usarlo para mil cosas!
+",
+        "fr": "Gagnez 100 000 mana
+À dépenser comme
+bon vous semble !",
+        "jp": "１０万マナもらえます
+色々活用できて便利です！
+",
+        "ko": "10만 마나를 획득할 수 있습니다.
+여기저기 쓸 수 있어서 유용합니다!
+",
+        "zh-TW": "可獲得10萬瑪那。
+有多種用途，十分方便！
+",
+      },
+      "5",
+      3,
+    ],
+    [
+      16,
+      Buffer [6E 00 00 00 00 00 00 00 00 00 00 00 19 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [BB 0B 00 00],
+    ],
+    [
+      "key",
+      "DLC_DELIVERY_BOOST_TICKET_100",
+    ],
+    [
+      12,
+      Buffer [01 00 00 00 01 00 00 00 BB 0B 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Boost Ticket 100%",
+        "es": "Ticket de aumento al 100 %",
+        "fr": "Ticket Boost 100 %",
+        "jp": "ブーストチケット100％",
+        "ko": "부스트 티켓 100％",
+        "zh-TW": "加速券100％",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Receive 30 100% Boost Tickets.
+Each ticket increases HL,
+Mana, and EXP earned by 100%.
+Perfect for those who want
+more for less!
+",
+        "es": "Recibes 30 tickets de aumento
+al 100 %.
+El HL, el maná y la
+experiencia que consigues en
+combate aumentan un 100 %.
+¡Por si quieres farmear",
+        "fr": "Gagnez 30
+tickets Boost 100 %
+Augmentez de 100 % vos gains
+de HL, mana et EXP en combat.
+Pour un petit coup de boost !
+",
+        "jp": "ブーストチケット１００％を
+３０枚もらえます
+戦闘で得られるHL、マナ、
+経験値が１００％増加します
+手早く稼ぎたい時にどうぞ！
+",
+        "ko": "부스트 티켓 100％를
+30장 획득할 수 있습니다.
+전투로 획득할 수 있는 HL, 마나,
+경험치가 100% 증가합니다.
+급하게 모을 때 사용하세요!
+",
+        "zh-TW": "可獲得30張
+加速券100％。
+戰鬥所獲得的HL、瑪那、
+經驗值增加100％。
+適合在想賺得更快時使用！
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Receive 30 100% Boost Tickets.
+Each ticket increases HL, Mana, and EXP earned by 100%.
+Perfect for those who want more for less!
+
+",
+        "es": "Recibes 30 tickets de aumento al 100 %.
+El HL, el maná y la experiencia que consigues en combate aumentan un
+100 %.
+¡Por si quieres farmear rapidito!
+",
+        "fr": "Gagnez 30
+tickets Boost 100 %
+Augmentez de 100 % vos gains
+de HL, mana et EXP en combat.
+Pour un petit coup de boost !",
+        "jp": "ブーストチケット１００％を
+３０枚もらえます
+戦闘で得られるHL、マナ、
+経験値が１００％増加します
+手早く稼ぎたい時にどうぞ！",
+        "ko": "부스트 티켓 100％를
+30장 획득할 수 있습니다.
+전투로 획득할 수 있는 HL, 마나,
+경험치가 100% 증가합니다.
+급하게 모을 때 사용하세요!",
+        "zh-TW": "可獲得30張
+加速券100％。
+戰鬥所獲得的HL、瑪那、
+經驗值增加100％。
+適合在想賺得更快時使用！",
+      },
+      "5",
+      5,
+    ],
+    [
+      16,
+      Buffer [6E 00 00 00 00 00 00 00 00 00 00 00 19 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [BC 0B 00 00],
+    ],
+    [
+      "key",
+      "DLC_DELIVERY_BOOST_TICKET_400",
+    ],
+    [
+      12,
+      Buffer [01 00 00 00 01 00 00 00 BC 0B 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Boost Ticket 400%",
+        "es": "Ticket de aumento 400 %",
+        "fr": "Ticket Boost 400 %",
+        "jp": "ブーストチケット400％",
+        "ko": "부스트 티켓 400％",
+        "zh-TW": "加速券400％",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Receive 30 400% Boost Tickets.
+Each ticket increases HL,
+Mana, and EXP earned by 400%.
+Perfect for those who want
+more for less!
+",
+        "es": "Recibes 30 tickets de aumento
+al 400 %.
+El HL, el maná y la
+experiencia que consigues en
+combate aumentan un 400 %.
+¡Por si quieres ponerte a",
+        "fr": "Gagnez 30
+tickets Boost 400 %
+Augmentez de 400 % vos gains
+de HL, mana et EXP en combat.
+Pour les plus pressés !
+",
+        "jp": "ブーストチケット４００％を
+３０枚もらえます
+戦闘で得られるHL、マナ、
+経験値が４００％増加します
+ガンガン稼ぎたい時にどうぞ！
+",
+        "ko": "부스트 티켓 400％를
+30장 획득할 수 있습니다.
+전투로 획득할 수 있는 HL, 마나,
+경험치가 400% 증가합니다.
+마구마구 모을 때 사용하세요!
+",
+        "zh-TW": "可獲得30張
+加速券400％。
+戰鬥所獲得的HL、瑪那、
+經驗值增加400％。
+適合想大賺一筆時使用！
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Receive 30 400% Boost Tickets.
+Each ticket increases HL, Mana, and EXP earned by 400%.
+Perfect for those who want more for less!
+
+",
+        "es": "Recibes 30 tickets de aumento al 400 %.
+El HL, el maná y la experiencia que consigues en combate aumentan un
+400 %.
+¡Por si quieres ponerte a farmear a lo bestia!
+",
+        "fr": "Gagnez 30
+tickets Boost 400 %
+Augmentez de 400 % vos gains
+de HL, mana et EXP en combat.
+Pour les plus pressés !",
+        "jp": "ブーストチケット４００％を
+３０枚もらえます
+戦闘で得られるHL、マナ、
+経験値が４００％増加します
+ガンガン稼ぎたい時にどうぞ！",
+        "ko": "부스트 티켓 400％를
+30장 획득할 수 있습니다.
+전투로 획득할 수 있는 HL, 마나,
+경험치가 400% 증가합니다.
+마구마구 모을 때 사용하세요!",
+        "zh-TW": "可獲得30張
+加速券400％。
+戰鬥所獲得的HL、瑪那、
+經驗值增加400％。
+適合想大賺一筆時使用！",
+      },
+      "5",
+      5,
+    ],
+    [
+      16,
+      Buffer [6E 00 00 00 00 00 00 00 00 00 00 00 19 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [BD 0B 00 00],
+    ],
+    [
+      "key",
+      "DLC_DELIVERY_BOOST_TICKET_900",
+    ],
+    [
+      12,
+      Buffer [01 00 00 00 01 00 00 00 BD 0B 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Boost Ticket 900%",
+        "es": "Ticket de aumento al 900 %",
+        "fr": "Ticket Boost 900 %",
+        "jp": "ブーストチケット900％",
+        "ko": "부스트 티켓 900％",
+        "zh-TW": "加速券900％",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Receive 30 900% Boost Tickets.
+Each ticket increases HL,
+Mana, and EXP earned by 900%!
+Perfect for those who want
+more for less!
+",
+        "es": "Recibes 30 tickets de aumento
+al 900 %.
+El HL, el maná y la
+experiencia que consigues en
+combate aumentan un 900 %.
+¡Por si quieres llevarte el",
+        "fr": "Gagnez 30
+tickets Boost 900 %
+Augmentez de 900 % vos gains
+de HL, mana et EXP en combat.
+Le succès n’attend pas !
+",
+        "jp": "ブーストチケット９００％を
+３０枚もらえます
+戦闘で得られるHL、マナ、
+経験値が９００％増加します
+稼ぎを極めたい時にどうぞ！
+",
+        "ko": "부스트 티켓 900％를
+30장 획득할 수 있습니다.
+전투로 획득할 수 있는 HL, 마나,
+경험치가 900% 증가합니다.
+극한으로 모을 때 사용하세요!
+",
+        "zh-TW": "可獲得30張
+加速券900％。
+戰鬥所獲得的HL、瑪那、
+經驗值增加900％。
+適合在想賺到手軟時使用！
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Receive 30 900% Boost Tickets.
+Each ticket increases HL, Mana, and EXP earned by 900%!
+Perfect for those who want more for less!
+
+",
+        "es": "Recibes 30 tickets de aumento al 900 %.
+El HL, el maná y la experiencia que consigues en combate aumentan un
+900 %.
+¡Por si quieres llevarte el farmeo al extremo!
+",
+        "fr": "Gagnez 30
+tickets Boost 900 %
+Augmentez de 900 % vos gains
+de HL, mana et EXP en combat.
+Le succès n’attend pas !",
+        "jp": "ブーストチケット９００％を
+３０枚もらえます
+戦闘で得られるHL、マナ、
+経験値が９００％増加します
+稼ぎを極めたい時にどうぞ！",
+        "ko": "부스트 티켓 900％를
+30장 획득할 수 있습니다.
+전투로 획득할 수 있는 HL, 마나,
+경험치가 900% 증가합니다.
+극한으로 모을 때 사용하세요!",
+        "zh-TW": "可獲得30張
+加速券900％。
+戰鬥所獲得的HL、瑪那、
+經驗值增加900％。
+適合在想賺到手軟時使用！",
+      },
+      "5",
+      5,
+    ],
+    [
+      16,
+      Buffer [6E 00 00 00 00 00 00 00 00 00 00 00 19 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [95 11 00 00],
+    ],
+    [
+      "key",
+      "DLC_DELIVERY_COLOR_2",
+    ],
+    [
+      12,
+      Buffer [01 00 00 00 00 00 00 00 95 11 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Change N.A.'s Colors",
+        "es": "Cambiar color de Enea",
+        "fr": "Nouvelles palettes pour N/A",
+        "jp": "エヌエー色変え",
+        "ko": "에누아 색상 변경",
+        "zh-TW": "變更艾恩埃的顏色",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Gain access to N.A's alternate
+colors. Give them a try when
+you feel like switching things
+up!",
+        "es": "Puedes usar el color
+alternativo de Enea.
+¡Por si te apetece cambiar de
+aires!",
+        "fr": "Donnez de nouvelles
+couleurs à N/A !
+À chaque humeur sa couleur !
+",
+        "jp": "エヌエーのアナザーカラーを
+使用できるようになります
+気分転換したい時にどうぞ！
+",
+        "ko": "에누아의 어나더 컬러를
+사용할 수 있습니다.
+기분을 전환하고 싶을 때
+사용하세요!",
+        "zh-TW": "可將艾恩埃
+變更為其他顏色。
+適合在想轉換心情時使用！
+",
+      },
+      "4",
+      4,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Gain access to N.A's alternate colors. Give them a try when you feel
+like switching things up!
+",
+        "es": "Puedes usar el color alternativo de Enea.
+¡Por si te apetece cambiar de aires!
+",
+        "fr": "Donnez de nouvelles
+couleurs à N/A !
+À chaque humeur sa couleur !",
+        "jp": "エヌエーのアナザーカラーを
+使用できるようになります
+気分転換したい時にどうぞ！",
+        "ko": "에누아의 어나더 컬러를
+사용할 수 있습니다.
+기분을 전환하고 싶을 때 사용하세요!",
+        "zh-TW": "可將艾恩埃
+變更為其他顏色。
+適合在想轉換心情時使用！",
+      },
+      "5",
+      3,
+    ],
+    [
+      16,
+      Buffer [6E 00 00 00 00 00 00 00 00 00 00 00 19 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [66 12 00 00],
+    ],
+    [
+      "key",
+      "DLC_DELIVERY_UNIQUE_WEAPON_1",
+    ],
+    [
+      12,
+      Buffer [01 00 00 00 01 00 00 00 66 12 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Fun Weapons Pack",
+        "es": "Conjunto de armas graciosas",
+        "fr": "Pack d’armes sympatoches",
+        "jp": "おもしろ武器セット",
+        "ko": "재미있는 무기 세트",
+        "zh-TW": "趣味武器套組",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtain seven different types
+of fun weapons. Bored of using
+ordinary weapons? Give one of
+these a shot!",
+        "es": "Recibes 7 armas graciosas
+distintas.
+¡Por si ya te has cansado de
+las armas normales!",
+        "fr": "Vous pouvez obtenir 7 armes
+différentes. Pour changer
+de vos armes habituelles !
+",
+        "jp": "７種類のおもしろ武器が
+もらえます
+普通の武器に飽きた時にどうぞ！
+",
+        "ko": "7종류의 재미있는 무기를
+획득할 수 있습니다.
+평범한 무기에 질리면 사용하세요!
+",
+        "zh-TW": "可獲得
+7種趣味武器。
+適合在用膩普通武器時使用！
+",
+      },
+      "4",
+      4,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtain seven different types of fun weapons. Bored of using ordinary
+weapons? Give one of these a shot!
+",
+        "es": "Recibes 7 armas graciosas distintas.
+¡Por si ya te has cansado de las armas normales!
+",
+        "fr": "Vous pouvez obtenir 7 armes
+différentes. Pour changer
+de vos armes habituelles !",
+        "jp": "７種類のおもしろ武器が
+もらえます
+普通の武器に飽きた時にどうぞ！",
+        "ko": "7종류의 재미있는 무기를
+획득할 수 있습니다.
+평범한 무기에 질리면 사용하세요!",
+        "zh-TW": "可獲得
+7種趣味武器。
+適合在用膩普通武器時使用！",
+      },
+      "5",
+      3,
+    ],
+    [
+      16,
+      Buffer [6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [88 13 00 00],
+    ],
+    [
+      "key",
+      "DLC_DELIVERY_STAGE_1",
+    ],
+    [
+      12,
+      Buffer [01 00 00 00 01 00 00 00 88 13 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Bonus Story: Catastrophe Flan Arc",
+        "es": "Lanzamiento de escenario: Arco del Flan del desastre",
+        "fr": "Scénario : Le Flan de l’apocalypse",
+        "jp": "シナリオ配信：災禍のプリン編",
+        "ko": "재앙의 푸딩 편",
+        "zh-TW": "發布劇情：災禍布丁篇",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Unlocks the Bonus Story: The
+Catastrophe Flan Arc! New
+Enemies: Sea Angel, Zombie
+Maiden, Flora Beast, Evil Eye,
+and Nine-Tails. Clear it to
+add Desco as a Battle Buddy!
+
+
+",
+        "es": "¡Se desbloqueará el escenario
+adicional "Flan del desastre"!
+¡Llegan las facciones ángel
+del mar, princesa zombi,
+flor embaucadora, mal de ojo y
+zorro!
+Y cuando completes el
+escenario, ¡Desco se unirá a
+tu grupo!",
+        "fr": "Débloquez le scénario
+additionnel imprédictible
+« Le Flan de l’Apocalypse » !
+Affrontez Cliones, Jiangshis,
+Flauras sauvages, Catoblépas
+et Kyūbis. Allez au bout
+pour recruter Desco !
+
+",
+        "jp": "追加シナリオ
+『災禍のプリン編』が
+解放されます！
+『氷棲族』『死姫族』『妖花族』
+『呪眼族』『九尾族』が登場し、
+クリアすると
+『デスコ』が仲間に加わります！
+
+",
+        "ko": "추가 시나리오
+『재앙의 푸딩 편』이
+개방됩니다!
+『빙서족』, 『사희족』, 『요화족』,
+『주안족』, 『구미족』이 등장하며
+클리어 시,
+『데스코』와 동료가 될 수 있습니다!
+
+",
+        "zh-TW": "可解鎖
+追加劇情
+「災禍布丁篇」！
+「冰棲族」「死姬族」「妖花族」
+「咒眼族」「九尾族」
+將於故事登場，且破關後
+「死亡子」將加入成為夥伴！
+
+",
+      },
+      "4",
+      9,
+    ],
+    [
+      "dialog",
+      {
+        "en": "Desco, the self-proclaimed Final Boss, suddenly arrives at the
+doorstep of Super Duper to find some delicious flan. However, she
+absent-mindedly consumes the sealed Catastrophe Flan and splits into
+two! This new other half calls herself Flan Desco and—on account of
+the Calamity Flan's malefic influence—declares her intention to take
+over Super Duper. N.A. is dispatched to bring her plans to pot and
+heads for the Sealed Land where she lies in wait! Buckle up and
+enjoy this next wild, wacky adventure in the Netherworld!
+",
+        "es": "De repente aparece una tal Desco que va de "jefa final".
+Desco llega a Megamejor en busca de un flan riquísimo y, ni corta ni
+perezosa, se zampa el "Flan del desastre" que estaba sellado...
+¡y se divide en dos!
+La Desco que se separa decide llamarse Desco flan y, bajo los
+efectos del Flan del desastre, se viene arriba y se cree capaz de
+conquistar Megamejor.
+Enea acepta el encargo de eliminarla y pone rumbo a la "Tierra del
+sello", donde supuestamente se esconde Desco flan.",
+        "fr": "Desco, boss de fin autoproclamée, débarque de nulle part !
+De passage dans le Sous-monde Suprême à la recherche d’un
+délicieux flan, Desco déguste le Flan de l’apocalypse et se divise en
+deux !
+Son double, Flasco, semble déterminée à conquérir
+le Sous-monde Suprême sous l’influence du Flan de l’apocalypse.
+N/A, missionné pour vaincre Flasco,
+se met en route pour les Terres scellées !
+Un nouvel épisode imprédictible à dévorer !",
+        "jp": "突如として現れた自称ラスボスのデスコ！
+傑超魔界に美味しいプリンを探しに来たデスコは、
+封印されていた『災禍のプリン』を食べてしまい、２人に分裂！
+分裂したデスコはプリンデスコと名乗り、災禍のプリンの影響で
+傑超魔界を征服する気まんまんな様子。
+討伐依頼を受けたエヌエーは、プリンデスコのいる
+『封印の地』を目指す！
+魔界ならではの、一筋縄ではいかないエピソードが展開されます！
+",
+        "ko": "갑자기 나타난 자칭 최종 보스 데스코!
+맛있는 푸딩을 찾기 위해 걸초마계로 온 데스코가
+봉인된 『재앙의 푸딩』을 먹고 2명으로 분열한다!
+자신을 푸딩 데스코라 칭하는 분열한 데스코.
+재앙의 푸딩 때문인지 걸초마계를 정복하려 하는데?
+토벌 의뢰를 받은 에누아는 푸딩 데스코가 있는
+『봉인의 땅』으로 향한다!
+마계에서만 일어날 수 있는, 예상치 못한 이야기가 펼쳐진다!
+",
+        "zh-TW": "突然現身，自稱是最終頭目的死亡子！
+死亡子為了尋找美味布丁而來到傑超魔界，
+卻吃下了被封印的「災禍布丁」，並分裂為兩個人！
+分裂出來的死亡子自稱為布丁死亡子，且因受到災禍布丁
+的影響，似乎意圖征服整個傑超魔界。
+艾恩埃接受了討伐委託，將前往
+布丁死亡子所在的「封印之地」！
+一段魔界僅有、發展難以預料的故事即將展開！
+",
+      },
+      "5",
+      9,
+    ],
+    [
+      16,
+      Buffer [6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [58 1B 00 00],
+    ],
+    [
+      "key",
+      "DLC_DELIVERY_DIGITAL_DELUXE_SET_1",
+    ],
+    [
+      12,
+      Buffer [01 00 00 00 00 00 00 00 58 1B 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Digital Deluxe Set",
+        "es": "Pack digital deluxe",
+        "fr": "Pack Digital Deluxe",
+        "jp": "デジタルデラックスセット",
+        "ko": "헬 보따리",
+        "zh-TW": "赫爾袋",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "As a bonus for purchasing the
+Digital Deluxe Edition, you'll
+receive:
+1,000,000 HL and
+100,000 Mana!
+You'll also receive:
+30 boost tickets each for
+100%, 400%, and 900%!",
+        "es": "Bonus del pack digital deluxe
+¡Obtén 1 millón de HL y
+100 000 de maná!
+También obtendrás
+30 tickets de aumento del
+100 %, 400 % y 900 %.
+
+",
+        "fr": "Bonus de la version
+Digital Deluxe
+Vous recevrez 1 million de HL
+et 100 000 points de mana !
+Ainsi que 30 tickets Boost
+de chaque type !
+(100 %, 400 %, 900 %)
+",
+        "jp": "デジタルデラックス版購入特典
+１００万HLと
+１０万マナをもらえます！
+またブーストチケットの
+１００％、４００％、９００％
+をそれぞれ３０枚
+もらえます！
+",
+        "ko": "100만 HL을 획득할 수 있습니다.
+
+
+
+
+
+
+",
+        "zh-TW": "可獲得100萬HL。
+
+
+
+
+
+
+",
+      },
+      "4",
+      8,
+    ],
+    [
+      "dialog",
+      {
+        "en": "As a bonus for purchasing the Digital Deluxe Edition, you'll
+receive:
+1,000,000 HL
+100,000 Mana
+100% Boost Tickets x30
+400% Boost Tickets x30
+and 900% Boost Tickets x30!
+",
+        "es": "Bonus del pack digital deluxe
+Obtén 1 millón de HL,
+100 000 de maná,
+30 tickets de aumento del 100 %,
+30 tickets de aumento del 400 %
+y 30 tickets de aumento del 900 %.
+
+",
+        "fr": "Bonus de la version
+Digital Deluxe
+Obtenez :
+1 million de HL
+100 000 points de mana
+30 tickets Boost 100 %
+30 tickets Boost 400 %
+30 tickets Boost 900 % !",
+        "jp": "デジタルデラックス版購入特典
+１００万HL
+１０万マナ
+ブーストチケット１００％３０枚
+ブーストチケット4００％３０枚
+ブーストチケット9００％３０枚
+をもらえます！
+",
+        "ko": "100만 HL을 획득할 수 있습니다.
+
+
+
+
+
+
+",
+        "zh-TW": "可獲得100萬HL。
+
+
+
+
+
+
+",
+      },
+      "5",
+      8,
+    ],
+    [
+      16,
+      Buffer [6E 00 00 00 00 00 00 00 00 00 00 00 19 00 00 00],
+    ],
+  ],
+]

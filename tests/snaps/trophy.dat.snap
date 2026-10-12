@@ -1,0 +1,2118 @@
+[
+  [
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_COMPLETE",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Give Dis-Guy A Medal",
+        "es": "Completista top 1",
+        "fr": "Discipline à toute épreuve",
+        "jp": "日本一のやり込み派",
+        "ko": "국내 제일의 게임 마니아",
+        "zh-TW": "日本第一的深度遊玩派",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [03 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained all trophies.",
+        "es": "Obtén todos los trofeos.",
+        "fr": "Obtenir tous les trophées.",
+        "jp": "全てのトロフィーを獲得する。",
+        "ko": "모든 트로피를 획득한다.",
+        "zh-TW": "獲得所有獎盃。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [6C B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [01 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_001",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Wanted: Filthy Flan-Nappers",
+        "es": "Ya empezamos con misiones",
+        "fr": "Prise de poste",
+        "jp": "任務開始",
+        "ko": "임무 개시",
+        "zh-TW": "展開任務",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 01 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Accepted Tichelle's request.",
+        "es": "Acepta el encargo de Tisiel.",
+        "fr": "Accepter la requête de Tichelle.",
+        "jp": "ティシエルの依頼を受ける。",
+        "ko": "티시엘의 의뢰를 받는다.",
+        "zh-TW": "承接緹榭兒的委託。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [6D B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_002",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "TIMBER!!!",
+        "es": "Jefe de Llanura infectada",
+        "fr": "Maître de la Plaine Kraspec",
+        "jp": "病原の覇者",
+        "ko": "질병의 들판의 패자",
+        "zh-TW": "病原霸者",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 01 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Defeated John-Zuck.",
+        "es": "Derrota a John Huck.",
+        "fr": "Éliminer Rondinou.",
+        "jp": "ジョンハックを撃破する。",
+        "ko": "존핵을 격파한다.",
+        "zh-TW": "擊倒喬哈克。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [6E B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [03 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_003",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Taste My Steel!",
+        "es": "Rey de Cueva angustias",
+        "fr": "Roi de la Grotte Trounoir",
+        "jp": "悩窟の王",
+        "ko": "번뇌의 굴의 왕",
+        "zh-TW": "惱窟之王",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 01 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Defeated Granute.",
+        "es": "Derrota a Granuto.",
+        "fr": "Éliminer Granute.",
+        "jp": "グラニュートを撃破する。",
+        "ko": "그라뉴트를 격파한다.",
+        "zh-TW": "擊倒古拉紐特。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [6F B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [04 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_004",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Kory (Back) in the House",
+        "es": "Señor de Bosque inundado",
+        "fr": "Dame du Bosquet Ploufplouf",
+        "jp": "酔没林の主",
+        "ko": "취기에 잠긴 숲의 주인",
+        "zh-TW": "醉沒林之主",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 01 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Defeated Kory.",
+        "es": "Derrota a Kory.",
+        "fr": "Éliminer Poulpita.",
+        "jp": "コリィを撃破する。",
+        "ko": "코리를 격파한다.",
+        "zh-TW": "擊倒柯莉。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [70 B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [05 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_005",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Winner Winner Chicken Dinner",
+        "es": "Segundo jefazo Valle cruel",
+        "fr": "Chef de la Vallée Grobobo",
+        "jp": "渓酷の二代目総長",
+        "ko": "가혹한 계곡의 2대 총장",
+        "zh-TW": "溪酷第二代總長",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 01 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Defeated Rise N. Cane.",
+        "es": "Derrota a Wasan.",
+        "fr": "Éliminer Coqueluche.",
+        "jp": "ワサンを撃破する。",
+        "ko": "와산을 격파한다.",
+        "zh-TW": "擊倒瓦桑。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [71 B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [06 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_006",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Rock-a-Bye Andy",
+        "es": "Catador Volcán calamitoso",
+        "fr": "Dégustateur du Mont Furax",
+        "jp": "禍火山の試食係",
+        "ko": "화화산의 시식 담당",
+        "zh-TW": "禍火山的試吃專員",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 01 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Defeated Rock Andy.",
+        "es": "Derrota a Uzi.",
+        "fr": "Éliminer Nœunœil.",
+        "jp": "ウージーを撃破する。",
+        "ko": "우지를 격파한다.",
+        "zh-TW": "擊倒烏基。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [72 B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [07 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_007",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Rabbit Season",
+        "es": "Un conejo en la Luna",
+        "fr": "Lapine lunaire",
+        "jp": "月のうさぎ",
+        "ko": "달토끼",
+        "zh-TW": "月面之兔",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 01 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Defeated Rozala.",
+        "es": "Derrota a Rozala.",
+        "fr": "Éliminer Josiane.",
+        "jp": "ロザーラを撃破する。",
+        "ko": "로잘라를 격파한다.",
+        "zh-TW": "擊倒蘿薩拉。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [73 B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [08 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_008",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "The Wurst Offender",
+        "es": "El fuerte de Megamejor",
+        "fr": "As du Sous-monde Suprême",
+        "jp": "傑超魔界最強の称号",
+        "ko": "걸초마계 최강의 칭호",
+        "zh-TW": "傑超魔界最強稱號",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 01 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Defeated Wurst.",
+        "es": "Derrota a Brust.",
+        "fr": "Éliminer Brust.",
+        "jp": "ブルーストを撃破する。",
+        "ko": "부르스트를 격파한다.",
+        "zh-TW": "擊倒布魯斯特。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [74 B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [09 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_009",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Home Sweets Home",
+        "es": "Todo un crack en Megamejor",
+        "fr": "Natif Sous-monde Suprême",
+        "jp": "正真正銘傑超魔界の住人",
+        "ko": "명실상부 걸초마계의 주민",
+        "zh-TW": "貨真價實的傑超魔界居民",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 01 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Completed the Flan Toppings Rally.",
+        "es": "Completa el rally de flanestampas.",
+        "fr": "Terminer la chasse aux sauces.",
+        "jp": "スタンプリンラリーをクリアする。",
+        "ko": "스탬푸딩 랠리를 클리어한다.",
+        "zh-TW": "完成集布丁活動。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [75 B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0A 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_010",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Asha to Ashes",
+        "es": "Dimensión shura",
+        "fr": "Pro de la Dimension Carnage",
+        "jp": "修羅次元制圧",
+        "ko": "수라 차원 제압",
+        "zh-TW": "鎮壓修羅次元",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [02 00 00 00 01 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Defeated Asha.",
+        "es": "Derrota a Asha.",
+        "fr": "Éliminer Asha.",
+        "jp": "アーシャを撃破する。",
+        "ko": "아샤를 격파한다.",
+        "zh-TW": "擊倒雅夏。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [76 B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0B 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_011",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Let There Be Carnage",
+        "es": "Desafío shura",
+        "fr": "À l’épreuve du Carnage",
+        "jp": "修羅へ挑む者",
+        "ko": "수라에 도전하는 자",
+        "zh-TW": "挑戰修羅者",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [02 00 00 00 01 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Gained access to the Carnage Dimension.",
+        "es": "Desbloquea el desafío de los shura.",
+        "fr": "Débloquer l’accès au Carnage.",
+        "jp": "修羅に挑めるようになる。",
+        "ko": "수라에 도전할 수 있게 된다.",
+        "zh-TW": "能夠挑戰修羅。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [77 B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0C 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_012",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Ultimate Life Form",
+        "es": "La ley del más fuerte",
+        "fr": "La voie du plus fort",
+        "jp": "最強への道",
+        "ko": "최강으로 가는 길",
+        "zh-TW": "通往最強之路",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Attained level 9999.",
+        "es": "Alcanza el nivel 9999.",
+        "fr": "Atteindre le niveau 9999.",
+        "jp": "レベルが９９９９に到達する。",
+        "ko": "레벨 9999에 도달한다.",
+        "zh-TW": "等級達到9999。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [78 B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0D 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_013",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Friend to the End",
+        "es": "Domador de monstruos",
+        "fr": "Camarade des monstres",
+        "jp": "モンスター・マスター",
+        "ko": "몬스터 마스터",
+        "zh-TW": "怪物大師",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Attained Battle Buddy level 9999.",
+        "es": "Alcanza el nivel 9999 con un familiar.",
+        "fr": "Atteindre le niveau 9999 avec un familier.",
+        "jp": "従魔のレベルが９９９９に到達する。",
+        "ko": "사역마가 레벨 9999에 도달한다.",
+        "zh-TW": "使魔的等級達到9999。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [79 B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0E 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_014",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Super Merc Bros.",
+        "es": "Saltimbanquis",
+        "fr": "Grenouille",
+        "jp": "ジャンプの達人",
+        "ko": "점프의 달인",
+        "zh-TW": "跳躍達人",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Jumped 10,000 times.",
+        "es": "Supera los 10 000 saltos.",
+        "fr": "Faire plus de 10 000 sauts.",
+        "jp": "ジャンプした回数が１００００を突破する。",
+        "ko": "점프한 횟수가 10,000을 돌파한다.",
+        "zh-TW": "跳躍次數超過10000次。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [7A B6 00 00 10 27 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0F 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_015",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Dine and Dash",
+        "es": "Caminante, no hay camino",
+        "fr": "Pro des esquives",
+        "jp": "ステップの達人",
+        "ko": "스텝의 달인",
+        "zh-TW": "墊步達人",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Dashed 10,000 times.",
+        "es": "Supera las 10 000 esquivas.",
+        "fr": "Faire plus de 10 000 esquives.",
+        "jp": "ステップした回数が１００００を突破する。",
+        "ko": "스텝한 횟수가 10,000을 돌파한다.",
+        "zh-TW": "墊步次數超過10000次。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [7B B6 00 00 10 27 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [10 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_016",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Run like the Wind",
+        "es": "¡Maratón completo!",
+        "fr": "Marathonien",
+        "jp": "フルマラソン！",
+        "ko": "풀 마라톤!",
+        "zh-TW": "全程馬拉松！",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Traveled a distance of 42.195 kilometers.",
+        "es": "Recorre 42,195 km.",
+        "fr": "Se déplacer sur 42,195 km.",
+        "jp": "４２．１９５キロメートル移動する。",
+        "ko": "42.195킬로미터 이동한다.",
+        "zh-TW": "移動距離超過42.195公里。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [7C B6 00 00 D3 A4 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [11 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_017",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Counterpoint: Die",
+        "es": "Golpe a la contra",
+        "fr": "Contre-attaque",
+        "jp": "後の先",
+        "ko": "카운터",
+        "zh-TW": "後發先至",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Performed a counter.",
+        "es": "Realiza un contraataque.",
+        "fr": "Effectuer un contre.",
+        "jp": "カウンターを発動する。",
+        "ko": "카운터를 발동한다.",
+        "zh-TW": "發動反擊。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [7D B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [12 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_018",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Morphin' Time",
+        "es": "Como uno solo",
+        "fr": "Unité",
+        "jp": "人馬一体",
+        "ko": "인마일체",
+        "zh-TW": "人馬一體",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Performed a Magichange.",
+        "es": "Realiza un magicambio.",
+        "fr": "Utiliser le magimorph.",
+        "jp": "魔チェンジを行う。",
+        "ko": "마체인지를 실행한다.",
+        "zh-TW": "進行魔變換。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [7E B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [13 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_019",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Epic Find",
+        "es": "Cazador de rarezas",
+        "fr": "Toujours plus épique",
+        "jp": "エピックアイテムゲッター",
+        "ko": "에픽 아이템 수집가",
+        "zh-TW": "史詩級道具收集者",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained an item with Epic rarity.",
+        "es": "Consigue un objeto de rareza épica.",
+        "fr": "Obtenir un objet de rareté épique.",
+        "jp": "レアリティー『エピック』のアイテムを入手する。",
+        "ko": "『에픽』 레어리티의 아이템을 획득한다.",
+        "zh-TW": "取得稀有度為「史詩級」的道具。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [7F B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [14 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_020",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "This. Is. SUPER DUPER!",
+        "es": "Cazador pata negra",
+        "fr": "Toujours plus haut",
+        "jp": "高レベルアイテムゲッター",
+        "ko": "고레벨 아이템 수집가",
+        "zh-TW": "高等級道具收集者",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained a level 300 or above item.",
+        "es": "Consigue un arma de nivel 300 o superior.",
+        "fr": "Obtenir une arme de niveau 300.",
+        "jp": "レベル３００以上の武器を入手する。",
+        "ko": "레벨 300 이상의 무기를 획득한다.",
+        "zh-TW": "取得等級超過300以上的武器。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [80 B6 00 00 2C 01 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [15 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_021",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Stuff of Legends",
+        "es": "Cazador de leyendas",
+        "fr": "Toujours plus légendaire",
+        "jp": "伝説ウェポンゲッター",
+        "ko": "전설 웨폰 수집가",
+        "zh-TW": "傳說武器收集者",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained a legendary weapon.",
+        "es": "Consigue un arma legendaria.",
+        "fr": "Obtenir une arme de légende.",
+        "jp": "伝説の武器を手に入れる。",
+        "ko": "전설의 무기를 획득한다.",
+        "zh-TW": "取得傳說武器。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [81 B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [16 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_022",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "I Am Inevitable",
+        "es": "El cazador definitivo",
+        "fr": "Toujours plus puissant",
+        "jp": "最強ウェポンゲッター",
+        "ko": "최강 웨폰 수집가",
+        "zh-TW": "最強武器收集者",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [02 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Obtained the most powerful legendary weapon.",
+        "es": "Consigue el arma legendaria definitiva.",
+        "fr": "Obtenir une arme de légende surpuissante.",
+        "jp": "最強の伝説の武器を手に入れる。",
+        "ko": "최강 전설의 무기를 획득한다.",
+        "zh-TW": "取得最強的傳說武器。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [82 B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [17 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_023",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Your Trophy. Give It to Me. Now.",
+        "es": "Dame el trofeo",
+        "fr": "Aboule les trophées",
+        "jp": "ギブミートロフィー",
+        "ko": "기브 미 트로피",
+        "zh-TW": "獎盃交出來",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Passed a bill that lets you receive a trophy.
+",
+        "es": "Aprueba un tema que otorgue un trofeo.
+",
+        "fr": "Faire adopter le projet donnant droit à des
+trophées.",
+        "jp": "トロフィーが貰える議題を可決する。
+",
+        "ko": "트로피를 받을 수 있는 의제를 가결한다.
+",
+        "zh-TW": "通過可獲得獎盃的議題。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      16,
+      Buffer [83 B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [18 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_024",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Paying Your Sin Taxes",
+        "es": "Dulces dorados",
+        "fr": "Friandise ambrée",
+        "jp": "山吹色のお菓子",
+        "ko": "황금빛 과자",
+        "zh-TW": "金色小點心",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Made a 100 million HL or more good faith payments to
+the Dark Confectionery.",
+        "es": ""Dona" 100 millones en la Asamblea.
+",
+        "fr": "Donner 100 millions de HL à l’Assemblée sucrée.
+",
+        "jp": "糖論議会で１億HL以上の誠意を支払う。
+",
+        "ko": "당론 의회에서 1억 HL 이상의 성의를 지불한다.
+",
+        "zh-TW": "在糖論議會支付了1億HL以上的誠意。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      16,
+      Buffer [84 B6 00 00 00 E1 F5 05 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [19 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_025",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "I Am the Senate",
+        "es": "Chef a lo bruto",
+        "fr": "Chef intransigeant",
+        "jp": "ゴリ押し料理長",
+        "ko": "고집불통 주방장",
+        "zh-TW": "蠻力系主廚",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Passed a bill at the Dark Confectionery by force.
+",
+        "es": "Aprueba por la fuerza en la Asamblea azucarada.
+",
+        "fr": "Faire adopter un projet de force à l’Assemblée
+sucrée.",
+        "jp": "糖論議会で力ずくで可決する。
+",
+        "ko": "당론 의회에서 힘으로 가결시킨다.
+",
+        "zh-TW": "用暴力通過糖論議會的議題。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      16,
+      Buffer [85 B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1A 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_026",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "N.A.vatar Cycle",
+        "es": "Reencarnado en otro mundo",
+        "fr": "Réincarnation intermonde",
+        "jp": "異世界転生者",
+        "ko": "이세계 전생자",
+        "zh-TW": "異世界轉生者",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Reincarnated 10 or more times.",
+        "es": "Reencárnate 10 veces o más.",
+        "fr": "Utiliser 10 fois la réincarnation.",
+        "jp": "転生を１０回以上行う。",
+        "ko": "전생을 10번 이상 실행한다.",
+        "zh-TW": "轉生超過10次。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [86 B6 00 00 0A 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1B 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_027",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Customer of the Month",
+        "es": "Cliente V.I.P.",
+        "fr": "Client satisfait",
+        "jp": "常連客だギャー",
+        "ko": "단골손님이다갸",
+        "zh-TW": "是熟客啦菇",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Achieved the top customer rank with Rosen Queen Co.",
+        "es": "Sube al máximo tu rango de cliente en la tienda.",
+        "fr": "Monter au rang client maximal de Rosen Queen Co.",
+        "jp": "ローゼンクイーン商会のお得意様ランクを最大まで上げる。",
+        "ko": "로젠퀸 상회의 단골 랭크를 최대까지 올린다.",
+        "zh-TW": "將玫瑰皇后商會的老主顧階級提升到最大。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [87 B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1C 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_028",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "BBBFs: Best Battle Buddies Forever",
+        "es": "Criador famoso",
+        "fr": "Éleveur de renom",
+        "jp": "有名ブリーダー",
+        "ko": "유명 사육사",
+        "zh-TW": "知名繁殖者",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Forged 30 or more Buddy Bonds.",
+        "es": "Firma 30 contratos con familiares o más.",
+        "fr": "Contracter 30 fois un pacte de familier.",
+        "jp": "従魔契約を３０回以上行う。",
+        "ko": "사역마 계약을 30회 이상 실행한다.",
+        "zh-TW": "締結使魔契約超過30次。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [88 B6 00 00 1E 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1D 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_029",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "I'll Make a Demon Out of You",
+        "es": "Adicto al tuneo",
+        "fr": "Modificateur de l’extrême",
+        "jp": "改造大好きマン",
+        "ko": "개조 너무 좋아 맨",
+        "zh-TW": "熱愛改造者",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Used 1 million or more Mana to Demodify your Battle
+Buddies.",
+        "es": "Usa 1 000 000 de maná o más al tunear un familiar.
+",
+        "fr": "Utiliser 1 million de mana pour démonifier un
+familier.",
+        "jp": "従魔の魔改造で１００万以上のマナを使う。
+",
+        "ko": "사역마 마개조로 100만 이상의 마나를 사용한다.
+",
+        "zh-TW": "在使魔的魔改造中使用了超過100萬的瑪那。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      16,
+      Buffer [89 B6 00 00 40 42 0F 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1E 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_030",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Two for the Price of Two",
+        "es": "Copión de primera",
+        "fr": "Recopieur",
+        "jp": "コピー・キャット",
+        "ko": "카피캣",
+        "zh-TW": "模仿怪",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Duplicated an item.",
+        "es": "Duplica un objeto.",
+        "fr": "Dupliquer un objet.",
+        "jp": "アイテムを複製する。",
+        "ko": "아이템을 복제한다.",
+        "zh-TW": "複製了道具。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [8A B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1F 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_031",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Coming of Age",
+        "es": "Qué buena gente",
+        "fr": "Passage à l’âge adulte",
+        "jp": "大人の階段昇る",
+        "ko": "어른의 계단을 오르다",
+        "zh-TW": "邁向大人的一步",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Went at it with the proprietress of the Succubus
+Inn.",
+        "es": "Haz algo bueno con Sakkyun.
+",
+        "fr": "Prendre du bon temps avec une Succube.
+",
+        "jp": "サッキュンとイイことをする。
+",
+        "ko": "서큥과 기분 좋은 걸 한다.
+",
+        "zh-TW": "和夜魔族做了壞壞的事。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      16,
+      Buffer [8B B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [20 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_032",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Luck of the Dood",
+        "es": "Tira la casa por la ventana",
+        "fr": "Fièvre du jeu",
+        "jp": "賭博黙示録",
+        "ko": "도박묵시록",
+        "zh-TW": "賭博默示錄",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Had a decisive win over a Prinny in gambling.",
+        "es": "Gana a lo grande contra un prini.",
+        "fr": "Battre un Prinny à plate couture.",
+        "jp": "プリニーに大勝ちする。",
+        "ko": "프리니에게 큰 승리를 거둔다.",
+        "zh-TW": "對決普利尼時大獲全勝。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [8C B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [21 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_033",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "The Case of the Missing Jewel Fish",
+        "es": "Glu, glu, glu",
+        "fr": "Merci pour tout",
+        "jp": "まいどありだギョ～",
+        "ko": "매번 고맙다교~",
+        "zh-TW": "謝謝惠顧啦～",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Ate a Jewel Fish.",
+        "es": "Consigue un Pez joya.",
+        "fr": "Récupérer un poisson-gemme.",
+        "jp": "ジュエルフィッシュをいただく。",
+        "ko": "주얼피시를 받는다.",
+        "zh-TW": "享用了珠寶魚。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [8D B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [22 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_034",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Pick a God and Slay",
+        "es": "Matadioses",
+        "fr": "Déicide",
+        "jp": "神殺し",
+        "ko": "신을 죽인 자",
+        "zh-TW": "弒神者",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Defeated an Item God.",
+        "es": "Derrota al Dios objeto.",
+        "fr": "Terrasser le Dieu des objets.",
+        "jp": "アイテム神を撃破する。",
+        "ko": "아이템 신을 격파한다.",
+        "zh-TW": "擊倒道具神。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [8E B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [23 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_035",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Netherspawn",
+        "es": "El milagro de la vida",
+        "fr": "Bienvenue au monde",
+        "jp": "ハローニューベイビー",
+        "ko": "헬로 뉴 베이비",
+        "zh-TW": "哈囉，新生寶寶",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "An Innocent was born.",
+        "es": "Haz que nazca un inocente.",
+        "fr": "Faire naître un Innocent.",
+        "jp": "イノセントが産まれる。",
+        "ko": "이노센트가 태어나다.",
+        "zh-TW": "純靈誕生。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [8F B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [24 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_036",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "It's Alive!",
+        "es": "Doble de alegría y amor",
+        "fr": "Double dose d’amour",
+        "jp": "喜びも愛も２倍",
+        "ko": "기쁨도 사랑도 2배",
+        "zh-TW": "喜悅與愛都加倍",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "A Composite Innocent was born.",
+        "es": "Haz que nazca un inocente combinado.",
+        "fr": "Faire naître un Innocent composite.",
+        "jp": "複合イノセントが産まれる。",
+        "ko": "복합 이노센트가 태어나다.",
+        "zh-TW": "複合純靈誕生。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [90 B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [25 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_037",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Born Perfect",
+        "es": "Mr. Perfecto",
+        "fr": "Monsieur Parfait",
+        "jp": "ミスター・パーフェクト",
+        "ko": "미스터 퍼펙트",
+        "zh-TW": "完美先生",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [01 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "A Perfectionist was born.",
+        "es": "Haz que nazca el Perfeccionista.",
+        "fr": "Faire naître la perfection.",
+        "jp": "かんぺき屋が産まれる。",
+        "ko": "사도 완벽이 태어나다.",
+        "zh-TW": "完美屋誕生。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [91 B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [26 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_038",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Merc with the Muffler",
+        "es": "Mercenario Megasupremo",
+        "fr": "Grande Souveraine",
+        "jp": "超魔王級の傭兵",
+        "ko": "초마왕급 용병",
+        "zh-TW": "超魔王級的傭兵",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Completed the Super Overlord Class in the Chara
+World.",
+        "es": "Completa el grado Megasupremo en el Mundo personaje.
+",
+        "fr": "Achever le rang Super Souverain (MDP).
+",
+        "jp": "キャラ界の超魔王級をクリアする。
+",
+        "ko": "캐릭터계의 초마왕급을 클리어한다.
+",
+        "zh-TW": "完成角色界的超魔王級。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      16,
+      Buffer [92 B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [27 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_039",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "The Power of DETERMINATION",
+        "es": "Mercenario Supremo shura",
+        "fr": "Souveraine Carnage",
+        "jp": "修羅魔王級の傭兵",
+        "ko": "수라 초마왕급 용병",
+        "zh-TW": "修羅超魔王級的傭兵",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Completed the Carnage Super Overlord Class in the
+Chara World.",
+        "es": "Completa el grado Megasupremo shura en el Mundo pj.
+",
+        "fr": "Achever le rang Super Souverain Carnage (MDP).
+",
+        "jp": "キャラ界の修羅超魔王級をクリアする。
+",
+        "ko": "캐릭터계의 수라 초마왕급을 클리어한다.
+",
+        "zh-TW": "完成角色界的修羅超魔王級。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      16,
+      Buffer [93 B6 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [28 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_040",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "1A! 1A! 1A! 1A! 1A! 1A! 1A!",
+        "es": "Combos a tutiplén",
+        "fr": "Expert en combo",
+        "jp": "コンボの達人",
+        "ko": "콤보의 달인",
+        "zh-TW": "連擊達人",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Achieved a combo of 1000.",
+        "es": "Alcanza un combo de 1000.",
+        "fr": "Effectuer 1 000 combos.",
+        "jp": "コンボ数１０００を達成する。",
+        "ko": "콤보 수 1,000을 달성한다.",
+        "zh-TW": "達成連擊1000次。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [94 B6 00 00 E8 03 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [29 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_041",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "To the Great-er Beyond",
+        "es": "Rey de los derribos",
+        "fr": "Canardeur",
+        "jp": "撃墜王",
+        "ko": "격추왕",
+        "zh-TW": "擊墜王",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Defeated 1000 enemies.",
+        "es": "Alcanza 1000 derribos.",
+        "fr": "Éliminer 1 000 ennemis.",
+        "jp": "１０００人抜きを達成する。",
+        "ko": "1,000명에게 승리를 달성한다.",
+        "zh-TW": "達成擊倒1000人。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [95 B6 00 00 E8 03 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2A 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_042",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Sheer Mayhem",
+        "es": "Donde más duele",
+        "fr": "Roi des dégâts",
+        "jp": "超ダメージ王",
+        "ko": "초대미지 왕",
+        "zh-TW": "超傷害王",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Dealt 10 billion or more total damage with an Ult.
+",
+        "es": "Al usar un arte secreta, inflige 10 000 millones o
+más.",
+        "fr": "Infliger 10 milliards de dégâts avec l’effet
+d’essence.",
+        "jp": "奥義発動時に１００億以上のトータルダメージを与える。
+",
+        "ko": "100억 이상의 대미지를 준다.
+",
+        "zh-TW": "造成100億以上的傷害。
+",
+      },
+      "5",
+      2,
+    ],
+    [
+      16,
+      Buffer [96 B6 00 00 00 E4 0B 54 02 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2B 00 00 00],
+    ],
+    [
+      "key",
+      "TROPHY_ID_043",
+    ],
+    [
+      16,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "High on the HL",
+        "es": "Nadando en abundancia",
+        "fr": "Multimilliardaire",
+        "jp": "大富豪",
+        "ko": "대부호",
+        "zh-TW": "大富豪",
+      },
+      "3",
+    ],
+    [
+      8,
+      Buffer [00 00 00 00 00 00 00 00],
+    ],
+    [
+      "dialog",
+      {
+        "en": "Held 10 billion HL or more at one time.",
+        "es": "Supera los 10 000 millones de HL en posesión.",
+        "fr": "Posséder 10 milliards de HL.",
+        "jp": "所持ヘルが１００億HLを突破する。",
+        "ko": "소지 헬이 100억 HL을 돌파한다.",
+        "zh-TW": "所持有的赫爾超過100億。",
+      },
+      "5",
+      1,
+    ],
+    [
+      16,
+      Buffer [97 B6 00 00 00 E4 0B 54 02 00 00 00 00 00 00 00],
+    ],
+  ],
+]

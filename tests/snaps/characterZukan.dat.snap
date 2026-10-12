@@ -1,0 +1,2633 @@
+[
+  [
+    [
+      4,
+      Buffer [01 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_エヌエー",
+    ],
+    [
+      4,
+      Buffer [A4 42 0F 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "N.A.",
+        "es": "Enea",
+        "fr": "N/A",
+        "jp": "エヌエー",
+        "ko": "에누아",
+        "zh-TW": "艾恩埃",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "A highly skilled mercenary who wanders
+the Netherworlds and lurks in the
+shadows. Does not boast any glamorous
+titles and is not particularly keen on
+stepping into the limelight. He will
+generally take on any request if the
+price is right and lives by his
+principles—which include sticking with
+the job until its done and maintaining
+trust with his clients.",
+        "es": "Un mercenario de élite que va de un
+mundo a otro. No tiene títulos
+rimbombantes ni nada parecido: prefiere
+seguir siendo una figura en la sombra.
+A él tampoco le va mucho lo de ser el
+centro de atención. En general,
+mientras le paguen lo que toca,
+acepta cualquier encargo.
+
+",
+        "fr": "Un mercenaire aguerri qui sillonne
+les différents Sous-mondes.
+Discret, il préfère agir dans l’ombre.
+Presque toutes les missions
+lui conviennent, à condition
+qu’elles soient bien payées.
+Sa devise : honorer les demandes
+et la confiance de ses clients.
+
+",
+        "jp": "様々な魔界を渡り歩く凄腕の傭兵。
+華々しい称号のようなものは持っておらず、
+あくまで影の存在に徹している。
+本人もあまり表に出ることを好んでいない。
+基本的に相応の報酬さえもらえるならどんな
+依頼でも引き受ける。
+依頼完遂と信頼がモットー。
+
+
+",
+        "ko": "여러 마계를 건너다니는 실력 좋은 용병.
+화려한 칭호 같은 것은 갖고 있지 않으며,
+어디까지나 그림자 속에 머물고 있다.
+본인도 나서는 것을 그다지 선호하지 않고,
+기본적으로 걸맞은 보수만 받는다면
+어떤 의뢰든 수락한다.
+의뢰 완수와 신뢰가 신조.
+
+
+",
+        "zh-TW": "穿梭於各種魔界的傑出傭兵。
+沒有什麼光鮮亮麗的稱號，
+貫徹了如同影子般的存在。
+本身也不太愛出風頭。
+只要能得到相應的報酬，
+基本上什麼工作都接。
+把完成委託和信用當作自己的原則。
+
+
+",
+      },
+      "4",
+      10,
+    ],
+    [
+      48,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 B0 B3 00 00 00 00 00 00 01 00 00 00 D0 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_ティシエル",
+    ],
+    [
+      4,
+      Buffer [08 43 0F 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Tichelle",
+        "es": "Tisiel",
+        "fr": "Tichelle",
+        "jp": "ティシエル",
+        "ko": "티시엘",
+        "zh-TW": "緹榭兒",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "A young Overlord who has inherited the
+throne of the Super Duper Netherworld.
+Becoming an undisputed, all-powerful
+ruler was all well and good—except,
+well, it was disputed because her
+vassals immediately rebelled. And she
+isn't all powerful because she has zero
+fighting prowess—and would almost
+certainly struggle with fighting a
+single Prinny, let alone the Six
+Psychlamates. Thus, she summoned N.A. to
+restore order to her kingdom. She loves
+flan and has a knack for making them.",
+        "es": "La joven Suprema que heredó Megamejor.
+Heredó el trono, pero sus vasallos se
+rebelaron de inmediato. Para sofocar la
+rebelión llamó a Enea. Su fuerza de
+combate es casi nula: no podría con los
+Seis despedazadores, ni ganar a un prini
+cualquiera. Le encanta el flan y su
+especialidad es prepararlo.
+
+
+
+
+",
+        "fr": "Souveraine héritière du Sous-monde
+Suprême. Ses vassaux se sont révoltés
+dès sa succession. C’est ce qui l’a
+poussée à embaucher N/A. Sa force de
+combat quasi nulle viendrait difficilement
+à bout des Prinnies, et encore moins des
+Six Pourfendeurs. Elle excelle dans la
+préparation du flan, son dessert préféré.
+
+
+
+
+",
+        "jp": "傑超魔界を継いだ幼き魔王。
+跡を継いだはいいが、即座に家臣たちから反
+乱を起こされてしまう。
+その鎮圧のためにエヌエーを呼び出した。
+本人の戦闘力は皆無らしく、六裂闘どころか
+そのあたりにいるプリニーに勝てるかどうか
+も怪しい。
+プリンが大好きで、特技はプリン作り。
+
+
+
+
+",
+        "ko": "걸초마계를 이어받은 어린 마왕.
+뒤를 이은 것은 좋으나, 곧장 가신들이
+반란을 일으키고 만다.
+그것을 진압하기 위해 에누아를 불러냈다.
+본인의 전투력은 전혀 없어 보이기에
+육열투는커녕 근처에 돌아다니는 프리니를
+이길 수 있을지조차 의심된다.
+푸딩을 좋아하며, 특기는 푸딩 만들기.
+
+
+
+
+",
+        "zh-TW": "繼承了傑超魔界的年幼魔王。
+雖然承接了王位，卻立刻
+遭到家臣們的謀反。
+為了鎮壓這場叛亂才請來了艾恩埃。
+本身不具備任何戰鬥能力，別提六裂鬥，
+連能不能打贏路邊任何一隻普利尼
+都很難說。
+最喜歡的東西是布丁，特長是做布丁。
+
+
+
+
+",
+      },
+      "4",
+      13,
+    ],
+    [
+      48,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 B1 B3 00 00 00 00 00 00 01 00 00 00 D1 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [03 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_ジョンハック",
+    ],
+    [
+      4,
+      Buffer [50 96 40 01],
+    ],
+    [
+      "languages",
+      {
+        "en": "John-Zuck",
+        "es": "John Huck",
+        "fr": "Rondinou",
+        "jp": "ジョンハック",
+        "ko": "존핵",
+        "zh-TW": "喬哈克",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "One of Six Psychlamates of the Super
+Duper Netherworld. He gets big headed
+whenever he has the upper hand, but will
+wimp out and beat a hasty retreat—or beg
+for his life—the second there's a slight
+downturn. He's currently on a diet, but
+given his fickle nature, one has to
+wonder how long his self control and
+workout routine will last.",
+        "es": "Uno de los Seis despedazadores, los
+jefazos de Megamejor. Si se ve en
+ventaja, se vuelve insufriblemente
+altivo; pero en cuanto la cosa se tuerce
+un poco, huye aunque tenga que suplicar
+por su vida. Está a dieta, pero como es
+muy inconstante, se la salta cuando
+quiere.
+",
+        "fr": "Un Pourfendeur du Sous-monde Suprême.
+Très arrogant en position de force,
+il devient une poule mouillée à la moindre
+contrariété. Il suit un régime, mais sa
+nature capricieuse met régulièrement
+son alimentation et ses séances
+d’entraînement en péril.
+
+",
+        "jp": "傑超魔界の大幹部『六裂闘』の１人。
+自分が優勢と見ると超尊大だが、少しでも不
+利になると命乞いをしてでも逃げるヘタレ。
+ダイエット中だが飽きっぽい性格でもあり、
+食事制限やトレーニングもいつまで続くかわ
+からない。
+
+
+",
+        "ko": "걸초마계의 대간부 『육열투』 중 한 사람.
+유리할 때는 매우 거만하지만, 조금이라도
+불리해지면 목숨을 구걸해서라도
+도망치는 허당. 다이어트 중이지만 싫증을
+잘 내는 성격이라, 식사 제한이나 훈련도
+언제까지 계속할지 알 수 없다.
+
+
+",
+        "zh-TW": "傑超魔界的大幹部「六裂鬥」其中一人。
+發現自己佔上風時會擺出高高在上的態度，
+而處於劣勢時則是下跪求饒也要逃命的懦夫。
+正在減肥中，但個性屬於三分鐘熱度，
+所以不論是飲食控制還是運動
+都沒辦法堅持下去。
+
+
+",
+      },
+      "4",
+      9,
+    ],
+    [
+      48,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 AA B4 00 00 00 00 00 00 01 00 00 00 D2 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [04 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_グラニュート",
+    ],
+    [
+      4,
+      Buffer [60 BD 40 01],
+    ],
+    [
+      "languages",
+      {
+        "en": "Granute",
+        "es": "Granuto",
+        "fr": "Granute",
+        "jp": "グラニュート",
+        "ko": "그라뉴트",
+        "zh-TW": "古拉紐特",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "One of Six Psychlamates of the Super
+Duper Netherworld. He loves eating ores
+and once had lofty dreams of conquering
+the world—so that he may roam the lands
+devouring ores to his stomach's content.
+Has a happy-go-lucky disposition, but
+stoke his temper, and he will bare his
+terrifying fangs.",
+        "es": "Uno de los Seis despedazadores, los
+jefazos de Megamejor. Tiene la
+costumbre de comer minerales, y
+antes soñaba con conquistar
+Megamejor para recorrerse todas
+las tierras zampándose todos los
+minerales. Es de carácter tranquilo,
+pero cuando se enfada, da miedo.",
+        "fr": "Un Pourfendeur du Sous-monde Suprême.
+Son mets favori sont les minéraux,
+si bien qu’il rêvait de conquérir le monde
+pour tous les dévorer. De nature
+insouciante, il devient réellement
+effrayant lorsqu’il se met en colère.
+
+",
+        "jp": "傑超魔界の大幹部『六裂闘』の１人。
+鉱物を好んで食べる性質があり、かつては傑
+超魔界を征服して、すべての土地のあらゆる
+鉱物を食べ歩くのが夢だった。
+性格は呑気だが、怒ると怖い。
+
+
+",
+        "ko": "걸초마계의 대간부 『육열투』 중 한 사람.
+광물을 즐겨 먹는 습성이 있으며, 과거에는
+걸초마계를 정복해 모든 토지의 다양한
+광물을 먹으며 돌아다니는 것이 꿈이었다.
+느긋한 성격을 지녔지만, 화내면 무섭다.
+
+
+",
+        "zh-TW": "傑超魔界的大幹部「六裂鬥」其中一人。
+愛吃礦物，曾經的夢想是
+征服傑超魔界，並在所有土地上
+邊走邊吃各種礦物。
+平時個性溫和，但生氣時很可怕。
+
+
+",
+      },
+      "4",
+      8,
+    ],
+    [
+      48,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 AB B4 00 00 00 00 00 00 01 00 00 00 D3 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [05 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_コリィ",
+    ],
+    [
+      4,
+      Buffer [70 E4 40 01],
+    ],
+    [
+      "languages",
+      {
+        "en": "Kory",
+        "es": "Kory",
+        "fr": "Poulpita",
+        "jp": "コリィ",
+        "ko": "코리",
+        "zh-TW": "柯莉",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "One of Six Psychlamates of the Super
+Duper Netherworld. She once established
+a massive organization consisting of
+female demons in the Intoxicated Forest,
+where she currently dwells. Her favorite
+food, flan aside, is sea urchin, which—
+vexingly for her—she has been unable to
+cultivate in her base of operations.",
+        "es": "Una de los Seis despedazadores, los
+jefazos de Megamejor. En su día
+hizo del Bosque inundado un bastión
+y creó una gran organización
+reuniendo a mujeres demonio. Aparte
+del flan, le encantan los erizos de
+mar. El problema es que en el Bosque
+inundado, su base, no crecen.",
+        "fr": "Une Pourfendeuse du Sous-monde
+Suprême. Elle a élu domicile dans le
+Bosquet Ploufplouf, entendant former
+une grande organisation composée de
+démones. Outre le flan, elle adore les
+oursins. Son grand regret : ils ne
+poussent pas dans la forêt qui lui sert
+de bastion.",
+        "jp": "傑超魔界の大幹部『六裂闘』の１人。
+かつては酔没林を根城に女性悪魔を集めた一
+大組織を築いていた。
+プリン以外の好物はウニ。根城にしている酔
+没林では育たないのが悩み。
+
+
+",
+        "ko": "걸초마계의 대간부 『육열투』 중 한 사람.
+과거에는 취기에 잠긴 숲을 근거지로
+여성 악마를 모아서 거대 조직을 세웠다.
+푸딩 이외에 좋아하는 것은 성게. 근거지인
+취기에 잠긴 숲에서 자생하지 않아 고민이다.
+
+
+",
+        "zh-TW": "傑超魔界的大幹部「六裂鬥」其中一人。
+過去曾將醉沒林作為根據地，
+聚集了女性惡魔組成大型組織。
+除了布丁以外喜歡的東西是海膽。正為根據地
+醉沒林沒辦法培育海膽而困擾著。
+
+
+",
+      },
+      "4",
+      8,
+    ],
+    [
+      48,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 AC B4 00 00 00 00 00 00 01 00 00 00 D4 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [06 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_ワサン",
+    ],
+    [
+      4,
+      Buffer [80 0B 41 01],
+    ],
+    [
+      "languages",
+      {
+        "en": "Rise N. Cane",
+        "es": "Wasan",
+        "fr": "Coqueluche",
+        "jp": "ワサン",
+        "ko": "와산",
+        "zh-TW": "瓦桑",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "One of Six Psychlamates of the Super
+Duper Netherworld and the founding
+leader of the Vroom Vroomers. He has a
+positive reputation for taking excellent
+care of his BFFs and underlings, but
+this is somewhat undermined by him being
+a world-class idiot. His latest
+obsession is motorcycles, but will he
+ever be able to ride one properly
+someday? The Netherworlds may never
+know.",
+        "es": "Uno de los Seis despedazadores, los
+jefazos de Megamejor. También es el
+primer jefazo de los Furia Ardiente.
+Cuida a su amigo y a sus subordinados
+hasta el extremo. Tiene buena fama pero
+es un idiota de grado supertocho, y eso
+le penaliza. Últimamente le ha dado por
+las motos, ¿las dominará algún día?
+
+
+",
+        "fr": "Un Pourfendeur du Sous-monde Suprême.
+Il est également le premier chef du gang
+des Enragés. Sa proximité avec ses amis
+et ses subordonnés lui vaut une bonne
+réputation, et ce malgré son immense
+stupidité. Ces derniers temps,
+il s’intéresse aux motos... Reste à
+savoir s’il saura en faire un jour.
+
+
+",
+        "jp": "傑超魔界の大幹部『六裂闘』の１人。
+焚憤団の初代総長でもある。
+マブダチと舎弟はとことん大切にするため評
+判はいいが、超弩級のアホなのが玉に瑕。
+最近の趣味はバイクだが、乗りこなせる日は
+くるだろうか？
+
+
+
+
+",
+        "ko": "걸초마계의 대간부 『육열투』 중 한 사람.
+분분단의 초대 총장이기도 하다.
+친한 친구와 아우는 매우 소중히 여겨 평판은
+좋지만, 엄청난 바보라는 점이 옥에 티.
+최근의 취미는 바이크지만,
+잘 타게 되는 날은 과연 올까?
+
+
+
+
+",
+        "zh-TW": "傑超魔界的大幹部「六裂鬥」其中一人。
+也是焚憤團的首任總長。
+重視自己的死黨和小弟是其眾所皆知的優點，
+但可惜的是他同時也是個超弩級笨蛋。
+最近的興趣是機車，不過能駕馭它的
+那一天究竟會不會到來呢？
+
+
+
+
+",
+      },
+      "4",
+      11,
+    ],
+    [
+      48,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 AD B4 00 00 00 00 00 00 01 00 00 00 D5 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [07 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_ウージー",
+    ],
+    [
+      4,
+      Buffer [90 32 41 01],
+    ],
+    [
+      "languages",
+      {
+        "en": "Rock Andy",
+        "es": "Uzi",
+        "fr": "Nœunœil",
+        "jp": "ウージー",
+        "ko": "우지",
+        "zh-TW": "烏基",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "One of Six Psychlamates of the Super
+Duper Netherworld. He is a celebrated
+chef with full confidence in his cooking
+skills. His one Achilles heel, however,
+is that he's only able to work off of
+existing recipes. His dream is to have
+his own restaurant.
+",
+        "es": "Uno de los Seis despedazadores, los
+jefazos de Megamejor. Tiene una
+confianza absoluta en su cocina y
+además cuenta con muy buena
+reputación, pero su punto débil es
+que con las recetas solo sabe imitar.
+Sueña con tener su propio
+restaurante.",
+        "fr": "Un Pourfendeur du Sous-monde Suprême.
+Ce fier cuistot profite d’une excellente
+réputation, même s’il ne sait que
+reproduire des recettes existantes.
+Il rêve d’ouvrir son propre restaurant.
+
+
+",
+        "jp": "傑超魔界の大幹部『六裂闘』の１人。
+料理には絶対の自信を持っており、外部から
+の評価も折り紙付きだが、レシピに関しては
+コピペしかできないのが難点。
+夢は自分の店を持つこと。
+
+
+",
+        "ko": "걸초마계의 대간부 『육열투』 중 한 사람.
+요리에는 절대적인 자신을 갖고 있으며,
+외부의 평가도 좋지만, 레시피에 관해서는
+베끼는 것만 가능하다는 것이 난점.
+꿈은 자기 가게를 갖는 것.
+
+
+",
+        "zh-TW": "傑超魔界的大幹部「六裂鬥」其中一人。
+對自身的料理手藝有絕對的自信，並且也受到
+外界的好評，可惜的是只能按照
+食譜上寫的內容來烹飪。
+夢想是開一家屬於自己的餐廳。
+
+
+",
+      },
+      "4",
+      8,
+    ],
+    [
+      48,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 AE B4 00 00 00 00 00 00 01 00 00 00 D6 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [08 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_ロザーラ",
+    ],
+    [
+      4,
+      Buffer [A0 59 41 01],
+    ],
+    [
+      "languages",
+      {
+        "en": "Rozala",
+        "es": "Rozala",
+        "fr": "Josiane",
+        "jp": "ロザーラ",
+        "ko": "로잘라",
+        "zh-TW": "蘿薩拉",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "One of the Six Psychlamates of the Super
+Duper Netherworld. Possesses immense
+magical aptitude bestowed upon her from
+the stars and has accumulated a wide
+breadth of knowledge by interacting with
+them. Consequently, her speech and
+behavior often doesn't fit in with
+social norms, and as such, she doesn't
+get along with other demons. She prefers
+to keep to herself.",
+        "es": "Una de los Seis despedazadores, los
+jefazos de Megamejor. Al recibir el
+poder de las estrellas, posee
+una inmensa magia. Puede canalizar
+conocimiento comunicándose con ellas,
+por eso suelta muchas cosas "de otro
+planeta". No suele mezclarse con otros
+demonios, prefiere ir a su bola.
+
+",
+        "fr": "Une Pourfendeuse du Sous-monde
+Suprême. L’énergie stellaire lui
+procure une formidable puissance
+magique et une profonde sagesse.
+Cela induit un comportement singulier
+et une entente fragile avec les autres
+démons, si bien qu’elle préfère rester
+seule.
+
+",
+        "jp": "傑超魔界の大幹部『六裂闘』の１人。
+星の力を受けることで膨大な魔力を持ち、星
+との交信によってあらゆる知識を得ている。
+そのせいで電波的な言動が多く、他の悪魔と
+あまり話が合わない。本人も１人を好む。
+
+
+
+
+",
+        "ko": "걸초마계의 대간부 『육열투』 중 한 사람.
+별의 힘을 받아 막대한 마력을 지녔으며
+별과 교신을 통해 다양한 지식을 얻었다.
+그 탓에 엉뚱한 면이 있고 다른 악마와 말이
+잘 안 통한다. 본인도 혼자가 편한 듯하다.
+
+
+
+
+",
+        "zh-TW": "傑超魔界的大幹部「六裂鬥」其中一人。
+接受了星星之力而獲得了龐大的魔力，
+並透過與星星的交流吸收各種知識。
+也因此行為舉止有些古怪，不太能和
+其他惡魔正常對話，但本身剛好也喜歡獨處。
+
+
+
+
+",
+      },
+      "4",
+      10,
+    ],
+    [
+      48,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 AF B4 00 00 00 00 00 00 01 00 00 00 D7 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [09 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_ブルースト",
+    ],
+    [
+      4,
+      Buffer [B0 80 41 01],
+    ],
+    [
+      "languages",
+      {
+        "en": "Wurst",
+        "es": "Brust",
+        "fr": "Brust",
+        "jp": "ブルースト",
+        "ko": "부르스트",
+        "zh-TW": "布魯斯特",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "A demon once revered as the strongest in
+all of the Super Duper Netherworld.
+After losing to Margraf in a decisive
+battle, he sealed his mighty powers by
+disguising himself as a Prinny and
+quietly toiling away as a humble civil
+servant dedicated to internal affairs.
+",
+        "es": "Un demonio que en su día fue conocido
+como la bestia demoniaca más fuerte
+y temible de Megamejor. Tras perder
+el duelo decisivo contra Malgraf, se
+puso una piel de prini para sellar su
+poder excesivo, y pasó a dedicarse a
+la administración interna como
+funcionario.",
+        "fr": "Démon autrefois considéré comme la
+créature la plus puissante et la plus
+maléfique du Sous-monde Suprême.
+Suite à sa défaite face à Malgraf, il a
+scellé sa puissance démesurée en
+revêtant lui-même une peau de Prinny
+et s’occupait depuis de l’administration
+intérieure en tant que fonctionnaire.",
+        "jp": "かつて傑超魔界において最強最悪の魔獣と謳
+われた悪魔。マルグラフとの決戦に敗れた後
+は自らプリニーの皮を被ることで強すぎる力
+を封じ、文官として内政にあたっていた。
+
+
+
+",
+        "ko": "일찍이 걸초마계에서 최강 최악의 마수로
+칭송받은 악마. 마르그라프와의 결전에서
+패배한 뒤에는 직접 프리니의 가죽을 쓰고
+강한 힘을 봉인, 문관으로 내정에 임했다.
+
+
+
+",
+        "zh-TW": "曾經被稱作傑超魔界裡最強最壞魔獸的惡魔。
+在與瑪古拉夫的決戰被打敗後，主動套上
+普利尼的外皮來封印自身的強大力量，
+並作為文官參與內政事務。
+
+
+
+",
+      },
+      "4",
+      8,
+    ],
+    [
+      48,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 B0 B4 00 00 00 00 00 00 01 00 00 00 F8 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0A 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_アーシャ",
+    ],
+    [
+      4,
+      Buffer [C0 A7 41 01],
+    ],
+    [
+      "languages",
+      {
+        "en": "Asha",
+        "es": "Asha",
+        "fr": "Asha",
+        "jp": "アーシャ",
+        "ko": "아샤",
+        "zh-TW": "雅夏",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Tichelle's mother and current ruler of
+the Carnage Dimension. Her sheer raw
+power is overwhelming enough to keep
+even the mightiest of her realms'
+warriors under heel, yet she is still
+enormously popular amongst the denizens
+due to her kind, yet strict motherly
+nature. Her current conundrum is that
+she's unable to have any delicious flan.",
+        "es": "La madre de Tisiel y líder suprema
+de la dimensión shura. Tiene la fuerza
+para mantener unidos a los pesos
+pesados de la dimensión shura y,
+como "madre" soberana (tierna pero
+estricta), es muy popular entre los
+habitantes. Su preocupación últimamente
+es no poder comer un flan decente.
+",
+        "fr": "Mère de Tichelle et actuelle seigneuresse
+de la Dimension Carnage. Elle possède
+le pouvoir de rassembler les plus
+puissants éléments de cette dimension.
+Très appréciée de ses sujets pour sa
+sévérité empreinte de douceur. Ce qui la
+tracasse ces derniers temps c’est de ne
+pas pouvoir savourer de délicieux flans.
+",
+        "jp": "ティシエルの母であり、現修羅次元の覇王。
+修羅次元の強豪たちをまとめ上げるだけの力
+を持っているが、優しくも厳しいおかん系覇
+王として住人からは人気である。
+最近の悩みは美味しいプリンを食べられない
+こと。
+
+
+",
+        "ko": "티시엘의 어머니이자 수라 차원의 현 패왕.
+수라 차원의 강호들을 모을만한 힘을 갖고
+있지만, 다정하면서도 엄격한 엄마 같은
+패왕으로 주민에게 인기가 있다.
+최근 고민은 맛있는 푸딩을 먹지
+못하는 것.
+
+
+",
+        "zh-TW": "緹榭兒的母親，也是修羅次元現在的霸王。
+具有統籌修羅次元所有強者的力量，
+但同時是個既溫柔又嚴厲的媽媽型霸王，
+所以頗受居民們的歡迎。
+最近的煩惱是
+吃不到好吃的布丁。
+
+
+",
+      },
+      "4",
+      9,
+    ],
+    [
+      48,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 B1 B4 00 00 00 00 00 00 01 00 00 00 F9 23 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0B 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_デスコ",
+    ],
+    [
+      4,
+      Buffer [60 3C F9 05],
+    ],
+    [
+      "languages",
+      {
+        "en": "Desco",
+        "es": "Desco",
+        "fr": "Desco",
+        "jp": "デスコ",
+        "ko": "데스코",
+        "zh-TW": "死亡子",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "A character from Disgaea 4. She was
+designed in the Human World to be a
+final boss, but for certain reasons, she
+was sent to Hades, where she resides
+today. She has come to Super Duper to
+find delicious sweets for her quote-
+unquote big sister.
+",
+        "es": "Personaje de Disgaea 4: A Promise
+Unforgotten. Nombre oficial: "Arma
+definitiva DESCO", abreviatura de
+"Organismo de combate anfibio de
+exterminio oscuro". En Megamejor,
+busca flanes para su "hermana
+mayor". Fue creada como jefa final
+y enviada al inframundo y aquí sigue.",
+        "fr": "Personnage issu de Disgaea 4.
+Desco, l’Arme ultime, abréviation de
+« Dispositif d’Extermination
+Submersible et de Combat Organique ».
+Conçue comme boss final du Monde
+des humains, elle descend dans le
+Sous-monde Suprême afin de trouver
+un flan d’exception pour sa sœur.",
+        "jp": "『魔界戦記ディスガイア４』の登場人物。
+正式名称は『最終兵器ＤＥＳＣＯ』。
+『暗黒殲滅水陸両用戦闘生物』の略称。
+ラスボスとして人間界で作り出されたが、
+とある事情で魔界に送られ今に至る。
+『おねえさま』のために傑超魔界に
+美味しいプリンを探しにきた。
+",
+        "ko": "『마계전기 디스가이아 4』의 등장인물.
+정식 명칭은 『최종 병기 DESCO』.
+『암흑섬멸수륙양용전투생물』의 약칭이다.
+인간계에서 만들어진 최종 보스지만
+사정이 있어 마계로 보내졌다.
+『언니』에게 줄 맛있는 푸딩을 찾기 위해
+걸초마계로 왔다.
+",
+        "zh-TW": "《魔界戰記Disgaea 4》的登場人物。
+正式名稱為「最終兵器DESCO」。
+為「暗黑殲滅水陸兩用戰鬥生物」的簡稱。
+雖然是在人類界作為最終頭目被製作出來，
+但因為某些事情，目前被送至魔界。
+她為了「姐姐大人」而來到
+傑超魔界尋找好吃的布丁。
+",
+      },
+      "4",
+      8,
+    ],
+    [
+      48,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 22 C4 00 00 00 00 00 00 01 00 00 00 10 24 00 00 00 00 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0C 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_プリニー族",
+    ],
+    [
+      4,
+      Buffer [D0 FF A7 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Prinnies",
+        "es": "Facción prini",
+        "fr": "Prinnies",
+        "jp": "プリニー族",
+        "ko": "프리니족",
+        "zh-TW": "普利尼族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Demons on the lowest rung on the
+Netherworld ladders who possess the
+souls of humans who committed sins in
+their past lives. To atone for their
+misdeeds, they are forced to work
+themselves to the bone. Prinnies in
+Super Duper are paid in flan.",
+        "es": "Dentro llevan el alma de un humano
+que cometió pecados en vida, y en
+el inframundo los exprimen para que
+expíen sus culpas. Son el símbolo
+del pringado por excelencia. Dicen
+que, en Megamejor, a los prinis les
+pagan con flan.",
+        "fr": "Renfermant l’âme d’êtres humains
+ayant commis des péchés de leur vivant,
+ils sont exploités dans les Sous-mondes
+afin d’expier leurs fautes.
+Ils sont la chair à canon locale.
+Les Prinnies du Sous-monde Suprême
+sont payés en flan.",
+        "jp": "中には生前罪を犯した人間の魂が入っており
+その罪滅ぼしのために魔界でこき使われて
+いる。魔界におけるザコの象徴。
+傑超魔界のプリニーはプリンが給料代わりだ
+とか。
+
+",
+        "ko": "속에는 생전에 죄를 지은 인간의 혼이
+들어 있으며, 그 속죄를 위해 마계에서
+혹사당하고 있다. 마계에서는 하찮은
+존재의 상징. 걸초마계의 프리니는
+급료 대신 푸딩을 받는다고 한다.
+
+",
+        "zh-TW": "寄宿著生前曾犯下罪行的人類靈魂，
+為了贖罪而來到魔界受人使喚。
+象徵著魔界裡的小嘍囉。
+似乎認為傑超魔界的普利尼
+能拿到布丁當作工作酬勞。
+
+",
+      },
+      "4",
+      7,
+    ],
+    [
+      76,
+      Buffer [00 00 00 00 00 00 00 00 02 00 00 00 50 C3 00 00 99 75 00 00 00 00 00 00 01 00 00 00 FA 23 00 00 03 00 00 00 B8 03 A8 00 50 C3 00 00 A0 07 A8 00 51 C3 00 00 88 0B A8 00 52 C3 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0D 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_魔翔族",
+    ],
+    [
+      4,
+      Buffer [E0 26 A8 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Winged Warriors",
+        "es": "Facción polilla",
+        "fr": "Mites",
+        "jp": "魔翔族",
+        "ko": "비행 마족",
+        "zh-TW": "魔翔族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Insect-type demons that soar across the
+skies. They are surprisingly hard-
+working and usually placed in charge of
+delivering flan. As such, they are less
+disliked than their counterparts in
+other Netherworlds.
+",
+        "es": "Monstruos con forma de insecto que
+revolotean por el aire. Son más
+currantes de lo que parecen, y
+normalmente se encargan de repartir
+flan a domicilio. Por eso no los miran
+tan mal como a sus congéneres de
+otros mundos.",
+        "fr": "Des monstres insectoïdes volants.
+Étonnamment travailleurs, ils s’occupent
+principalement de livrer les flans.
+Ils sont ainsi mieux acceptés que
+leurs semblables dans le Sous-monde.
+
+",
+        "jp": "空を舞う昆虫型の魔物。
+意外と働き者で、普段はプリンのデリバリー
+を担当している。
+そのため他の魔界の同族ほど、煙たがられて
+はいないようだ。
+
+",
+        "ko": "하늘을 나는 곤충형 마물.
+의외로 부지런하여 평소에는
+푸딩 배달을 담당하고 있다.
+그래서 다른 마계의 동족보다는
+꺼려지지 않는 모양이다.
+
+",
+        "zh-TW": "在空中飛舞的昆蟲型魔物。
+個性意外地勤勞，平時負責
+運送布丁。
+似乎也因此沒有像其他魔界裡的
+同族魔物般被厭惡。
+
+",
+      },
+      "4",
+      7,
+    ],
+    [
+      76,
+      Buffer [00 00 00 00 00 00 00 00 02 00 00 00 5A C3 00 00 99 75 00 00 00 00 00 00 01 00 00 00 FB 23 00 00 03 00 00 00 C8 2A A8 00 5A C3 00 00 B0 2E A8 00 5B C3 00 00 98 32 A8 00 5C C3 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0E 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_珍茸族",
+    ],
+    [
+      4,
+      Buffer [F0 4D A8 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Shrooms",
+        "es": "Facción champiñón",
+        "fr": "Champignons",
+        "jp": "珍茸族",
+        "ko": "진이족",
+        "zh-TW": "珍茸族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Mushroom-type demons from the Marl
+Kingdom. In the Super Duper Netherworld,
+they have a sweet aroma and are treated
+by the outside world as delicacies.
+",
+        "es": "Monstruos con forma de seta que vienen
+de un mundo llamado reino de Marl. En
+Megamejor parecen desprender en
+general un olor dulce, considerándose
+un manjar exótico.",
+        "fr": "Des monstres fongiques originaires
+du royaume de Marl.
+Ceux du Sous-monde Suprême dégagent
+une odeur sucrée, ce qui en fait
+un mets très prisé à l’extérieur.",
+        "jp": "マール王国という世界からやってきた、キノ
+コ型の魔物。
+傑超魔界の彼らは、全体的に甘い匂いがする
+ようで、外界からは珍味として重宝されてい
+るようだ。",
+        "ko": "마알 왕국이라는 세계에서 찾아온
+버섯형 마물.
+걸초마계의 그들은 전체적으로 달콤한
+향기가 나는 듯하여, 바깥 세계에서는
+진귀한 별미로 여겨지는 모양이다.",
+        "zh-TW": "來自名為瑪魯王國的世界，
+是蘑菇型的魔物。
+傑超魔界裡的蘑菇型魔物似乎都
+帶有一股香甜氣味，所以被外界
+當作一種重要的山珍海味。",
+      },
+      "4",
+      5,
+    ],
+    [
+      76,
+      Buffer [00 00 00 00 00 00 00 00 02 00 00 00 64 C3 00 00 99 75 00 00 00 00 00 00 01 00 00 00 FC 23 00 00 03 00 00 00 D8 51 A8 00 64 C3 00 00 C0 55 A8 00 65 C3 00 00 A8 59 A8 00 66 C3 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0F 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_寝子猫族",
+    ],
+    [
+      4,
+      Buffer [00 75 A8 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Slumber Cats",
+        "es": "Facción gato dormilón",
+        "fr": "Chalanguis",
+        "jp": "寝子猫族",
+        "ko": "고양고양이족",
+        "zh-TW": "寢子貓族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Small, cat-like monsters. They have a
+knack for buttering up others who have
+flan to give them.
+
+"Gimme your flan, meow!"",
+        "es": "Monstruitos que parecen gatitos
+pequeños. Son expertos en pelotear
+a todo el mundo para que les
+ofrezcan flan. ¡Dame tu flan, miau!
+",
+        "fr": "Des monstres semblables à de
+petits chats. Très doués pour
+amadouer leur entourage dans
+le but de soutirer du flan.
+File-moi ton flan, miaou !",
+        "jp": "小さな猫のような魔物。
+周囲に媚を売りまくり、プリンを貢がせる
+のが得意である。
+お前のプリンをよこすのニャ！
+",
+        "ko": "작은 고양이처럼 생긴 마물.
+주위에 아양을 떨어 푸딩을
+뜯어내는 것이 특기이다.
+네가 가진 푸딩을 넘겨라냥!
+",
+        "zh-TW": "如同小貓般的魔物。
+擅長討人歡心，並藉此
+讓對方主動獻上布丁。
+把你的布丁給我喵！
+",
+      },
+      "4",
+      5,
+    ],
+    [
+      76,
+      Buffer [00 00 00 00 00 00 00 00 02 00 00 00 6E C3 00 00 99 75 00 00 00 00 00 00 01 00 00 00 FD 23 00 00 03 00 00 00 E8 78 A8 00 6E C3 00 00 D0 7C A8 00 6F C3 00 00 B8 80 A8 00 70 C3 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [10 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_猪人族",
+    ],
+    [
+      4,
+      Buffer [10 9C A8 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Orcs",
+        "es": "Facción orco",
+        "fr": "Orques",
+        "jp": "猪人族",
+        "ko": "오크족",
+        "zh-TW": "豬人族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "They may appear to be cannon fodder mobs
+that are small in stature, but they're a
+surprisingly strong bunch.
+
+"Don't underestimate us, or you'll be
+sorry!"",
+        "es": "Pequeños de cuerpo, pero violentos
+y alborotadores. Por su pinta se les
+suele tomar por mindundis, pero
+tienen más fuerza de la que parece.
+¡Que no te engañen!
+",
+        "fr": "Ces petits êtres adorent cogner
+tout ce qui bouge.
+Ne doivent en aucun cas être
+sous-estimés.
+Méfiez-vous des apparences !
+",
+        "jp": "身体は小さいが、気性は荒い暴れん坊。
+見た目からザコだと思われがちだが、意外と
+力は強いぞ。
+侮るなかれ！
+
+",
+        "ko": "몸은 작지만, 성격은 거친 망나니.
+겉모습만 보고 약하다고 생각하기 쉽지만,
+의외로 힘은 강하다.
+얕보지 마라!
+
+",
+        "zh-TW": "雖然身型較小，但個性非常暴躁。
+因為這樣的外表而常常被當作小嘍囉，
+但其實意外地很強。
+少瞧不起人！
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      76,
+      Buffer [00 00 00 00 00 00 00 00 02 00 00 00 78 C3 00 00 99 75 00 00 00 00 00 00 01 00 00 00 FE 23 00 00 03 00 00 00 F8 9F A8 00 78 C3 00 00 E0 A3 A8 00 79 C3 00 00 C8 A7 A8 00 7A C3 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [11 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_妖霊族",
+    ],
+    [
+      4,
+      Buffer [20 C3 A8 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Spirits",
+        "es": "Facción espíritu",
+        "fr": "Esprits",
+        "jp": "妖霊族",
+        "ko": "요령족",
+        "zh-TW": "妖靈族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Mischievous ghosts that love to cause
+trouble. These formidable demons can
+wield a wide variety of magic. They wish
+to be friends with their counterparts
+from another Netherworld, who are said
+to be skilled at making sweets.",
+        "es": "Fantasmas muy traviesos. Manejan
+varios tipos de magia y no conviene
+subestimarlos. Por lo visto quieren
+hacerse amigos de facciones de otro
+mundo siempre que sepan hacer dulces.
+",
+        "fr": "Des fantômes espiègles.
+Leur maîtrise de diverses formes
+de magie les rend redoutables.
+Ils s’efforcent de se lier d’amitié avec
+leurs congénères doués dans la
+confection de friandises.",
+        "jp": "いたずら好きの幽霊。
+様々な魔法を使いこなす、なかなか侮れない
+魔物。
+お菓子作りが得意らしいとある魔界の同族と
+友達になりたがっている。
+",
+        "ko": "장난을 좋아하는 유령.
+여러 마법을 능숙하게 다루기에
+얕볼 수 없는 마물.
+과자 만들기가 특기라는 어떤
+마계의 동족과 친구가 되고 싶어 한다.
+",
+        "zh-TW": "喜歡惡作劇的幽靈。
+能熟練地使出各種魔法，
+是不能小瞧的魔物。
+似乎想和某個魔界裡的
+擅長做點心的同族魔物成為朋友。
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      76,
+      Buffer [00 00 00 00 00 00 00 00 02 00 00 00 82 C3 00 00 99 75 00 00 00 00 00 00 01 00 00 00 FF 23 00 00 03 00 00 00 08 C7 A8 00 82 C3 00 00 F0 CA A8 00 83 C3 00 00 D8 CE A8 00 84 C3 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [12 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_水妖族",
+    ],
+    [
+      4,
+      Buffer [90 D4 A9 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Water Sprites",
+        "es": "Facción demonio de agua",
+        "fr": "Sahagins",
+        "jp": "水妖族",
+        "ko": "수요족",
+        "zh-TW": "水妖族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Calm fish-type demons who are often off
+in their own little worlds. While not
+the best swimmers, their well-developed
+limbs make them adaptable to other
+environments.
+",
+        "es": "Monstruos con forma de pez y un aire
+un poco... bobo. No nadan tan bien
+como otros monstruos acuáticos, pero
+con sus extremidades desarrolladas
+se adaptan a muchos lugares.
+",
+        "fr": "Des monstres aquatiques à tête
+de poisson. Mauvais nageurs,
+leurs membres développés
+leur permettent toutefois de
+s’adapter à divers
+environnements.",
+        "jp": "ヌボっとした感じの魚型魔物。
+他の水棲の魔物と比べると泳ぎは得意ではな
+いが、発達した手足を使って様々な場所に適
+応している。
+
+",
+        "ko": "멍한 느낌의 물고기형 마물.
+물에 사는 다른 마물에 비해
+수영은 서툴지만, 발달한 손발을 사용해
+여러 장소에 적응하고 있다.
+
+",
+        "zh-TW": "看起來有點呆愣的魚型魔物。
+較其他水棲型魔物不擅游泳，
+但因為擁有靈活的手腳，
+所以能適應各式各樣的環境。
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      76,
+      Buffer [00 00 00 00 00 00 00 00 02 00 00 00 C8 C3 00 00 99 75 00 00 00 00 00 00 01 00 00 00 06 24 00 00 03 00 00 00 78 D8 A9 00 C8 C3 00 00 60 DC A9 00 C9 C3 00 00 48 E0 A9 00 CA C3 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [13 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_骨鳥族",
+    ],
+    [
+      4,
+      Buffer [B0 22 AA 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Bone Birds",
+        "es": "Facción pájaro",
+        "fr": "Wazos",
+        "jp": "骨鳥族",
+        "ko": "골조족",
+        "zh-TW": "骨鳥族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Skull-wearing winged demons who live
+their lives chilling up in the sky. What
+they look like behind their skull mask
+is a mystery to all.
+",
+        "es": "Monstruos alados que van con un cráneo
+a modo de casco. Parece que su rutina
+diaria es volar sin rumbo y tomárselo
+con calma. Nadie conoce la cara que
+esconden bajo el cráneo.",
+        "fr": "Des monstres ailés coiffés d’un crâne.
+Passent le plus clair de leur temps
+à sillonner le ciel au gré de leurs envies.
+Nul ne sait ce qui se trouve
+sous leur crâne.",
+        "jp": "ドクロを被った翼を駆る魔物。
+気ままにフラフラ空を飛びながらのんびりす
+るのが日課らしい。
+ドクロの下の素顔は誰にも秘密だ。
+",
+        "ko": "해골을 뒤집어쓰고 하늘을 나는 마물.
+마음 가는 대로 정처 없이 하늘을 날며
+느긋하게 지내는 것이 일과라고 한다.
+해골 아래의 본모습은 모두에게 비밀이다.
+",
+        "zh-TW": "頭戴著骷髏的飛翔魔物。
+自由自在地在空中悠哉地翱翔
+似乎是他每天的例行事務。
+骷髏底下的真面目絕不能被任何人知道。
+",
+      },
+      "4",
+      5,
+    ],
+    [
+      76,
+      Buffer [00 00 00 00 00 00 00 00 02 00 00 00 DC C3 00 00 99 75 00 00 00 00 00 00 01 00 00 00 08 24 00 00 03 00 00 00 98 26 AA 00 DC C3 00 00 80 2A AA 00 DD C3 00 00 68 2E AA 00 DE C3 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [14 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_光蝠族",
+    ],
+    [
+      4,
+      Buffer [70 86 A9 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Light Bats",
+        "es": "Facción murciélago",
+        "fr": "Chauffe-souris",
+        "jp": "光蝠族",
+        "ko": "광복족",
+        "zh-TW": "光蝠族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Bat-type demons that houses explosive
+fire within them. They might seem like
+cute, cuddly critters at first blush,
+but all bets are off once their fires
+have been lit. Try not to get exploded.
+",
+        "es": "Monstruos con forma de murciélago que
+albergan una explosión infernal en su
+interior. Son la mar de monos, pero
+cuando prenden... no hay quien los
+pare. Cuidado con las explosiones.
+",
+        "fr": "Des monstres de type chauve-souris
+au tempérament de feu.
+Toutes mignonnes à première vue,
+elles deviennent inarrêtables
+une fois enflammées.
+Gare aux explosions.",
+        "jp": "体内に爆炎を宿したコウモリ型の魔物。
+小動物のような可愛らしさだが、一度火が点
+くと誰にも止められない。
+爆発には注意。
+
+",
+        "ko": "몸속에 폭발하는 불꽃을 품은 박쥐형 마물.
+작은 동물 같은 귀여움을 지녔지만,
+한 번 불이 붙으면 아무도 멈출 수 없다.
+폭발 주의.
+
+",
+        "zh-TW": "體內蘊藏著熊熊火焰的蝙蝠型魔物。
+雖然看起來像小動物的模樣很可愛，
+但一旦激起他的火焰，就誰也阻止不了。
+要留意爆炸。
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      76,
+      Buffer [00 00 00 00 00 00 00 00 02 00 00 00 B4 C3 00 00 99 75 00 00 00 00 00 00 01 00 00 00 04 24 00 00 03 00 00 00 58 8A A9 00 B4 C3 00 00 40 8E A9 00 B5 C3 00 00 28 92 A9 00 B6 C3 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [15 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_猫娘族",
+    ],
+    [
+      4,
+      Buffer [30 EA A8 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Felynns",
+        "es": "Facción felina",
+        "fr": "Félines",
+        "jp": "猫娘族",
+        "ko": "묘랑족",
+        "zh-TW": "貓娘族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Tomboy catgirls adept at martial arts.
+They have a strong desire to fight, as
+is evident with their frequent picking
+of fights with other demons.
+
+"Flan after working up a sweat at the
+gym sure hits the spot, meow."",
+        "es": "Chicas gato muy respondonas,
+especialistas en artes marciales.
+Tienen un ansia de pelea altísima
+y van buscando bronca con demonios
+de todo tipo. El flan después de
+hacer ejercicio es lo mejor,
+maramamiau.",
+        "fr": "Ces chattes turbulentes excellent en
+arts martiaux. Très combatives, elles
+n’hésitent pas à provoquer les démons
+de toutes sortes. Un flan après
+l’entraînement, et c’est reparti !
+
+",
+        "jp": "マーシャルアーツを得意とする
+おてんばネコ娘。
+戦闘意欲が高く、色んな悪魔に喧嘩をふっか
+けている。
+運動後のプリンは最高だにゃ。
+
+",
+        "ko": "격투기가 특기인
+말괄량이 고양이 아가씨.
+전투에 대한 의욕이 강해,
+여러 악마에게 싸움을 건다.
+운동하고 나서 먹는 푸딩은 최고다냐.
+
+",
+        "zh-TW": "擅長武術的
+活潑貓女孩。
+個性十分好戰，總是向
+各種惡魔挑釁。
+運動完吃布丁最讚了喵。
+
+",
+      },
+      "4",
+      7,
+    ],
+    [
+      76,
+      Buffer [00 00 00 00 00 00 00 00 02 00 00 00 8C C3 00 00 99 75 00 00 00 00 00 00 01 00 00 00 00 24 00 00 03 00 00 00 18 EE A8 00 8C C3 00 00 00 F2 A8 00 8D C3 00 00 E8 F5 A8 00 8E C3 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [16 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_夜魔族",
+    ],
+    [
+      4,
+      Buffer [40 11 A9 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Succubi",
+        "es": "Facción súcubo",
+        "fr": "Succubes",
+        "jp": "夜魔族",
+        "ko": "야마족",
+        "zh-TW": "夜魔族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Voluptuous demons whose powers of
+seduction are unrivaled—except in Super
+Duper where flan is the apple of
+everyone's eyes. However, this only
+makes victory—and that decisive moment
+where they steal the attention of
+another demon—all the sweeter.",
+        "es": "Hermosas mujeres demonio que seducen
+a los hombres. En Megamejor, muchos
+demonios están más pendientes del flan
+que de otra cosa, así que parece que
+les toca currárselo un poco. Por eso,
+cuando por fin consiguen que alguien se
+fije en ellas, el subidón es adictivo.",
+        "fr": "Aucun homme ne résiste à ces démones.
+Le fait que la plupart des démons du
+Sous-monde Suprême soient obsédés par
+le flan les frustre au plus haut point.
+Ce qui ne fait que décupler leur plaisir
+une fois leur attention accaparée.
+",
+        "jp": "男を誘惑する美しき女悪魔。
+傑超魔界の悪魔はプリンにうつつを抜かして
+いるものが多く、ちょっと苦労するらしい。
+それだけにいざ振り向かせたときの快感がや
+みつきになるそうだ。
+
+",
+        "ko": "남자를 유혹하는 아름다운 여성 악마.
+걸초마계의 악마는 푸딩에 푹 빠진
+자가 많아서 약간 고생하고 있다고 한다.
+그런 만큼 막상 유혹에 성공했을 때의
+쾌감은 중독될 만큼 짜릿하다고 한다.
+
+",
+        "zh-TW": "誘惑男性的美麗女惡魔。
+傑超魔界裡的惡魔大部分都
+沉迷於布丁，所以對她來說似乎有些棘手。
+不過也正因如此，成功攻陷對方時
+獲得的快感也讓她更欲罷不能。
+
+",
+      },
+      "4",
+      7,
+    ],
+    [
+      76,
+      Buffer [00 00 00 00 00 00 00 00 02 00 00 00 96 C3 00 00 99 75 00 00 00 00 00 00 01 00 00 00 01 24 00 00 03 00 00 00 28 15 A9 00 96 C3 00 00 10 19 A9 00 97 C3 00 00 F8 1C A9 00 98 C3 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [17 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_幻獣族",
+    ],
+    [
+      4,
+      Buffer [C0 49 AA 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Genjus",
+        "es": "Facción críptidos",
+        "fr": "Cu Siths",
+        "jp": "幻獣族",
+        "ko": "환수족",
+        "zh-TW": "幻獸族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Wild beasts that run with the speed of a
+whirlwind. They spend their days darting
+around their massive territories and
+getting into fights, and will blow their
+tops when treated like dogs.
+",
+        "es": "Bestias salvajes que corren como un
+vendaval. Se pasan el día recorriendo
+enormes territorios y viviendo en
+pelea constante. Si las tratas como
+si fueran perros, se ponen hechas una
+furia.",
+        "fr": "Des bêtes sauvages aussi véloces que
+des rafales de vent.
+Passent leur journée à sillonner leur
+territoire dans l’espoir de se battre et
+détestent qu’on les prenne pour
+des chiens.",
+        "jp": "疾風のごとく駆け抜ける野獣。
+広大な縄張りを走り回り、日々闘争に明け暮
+れている。
+犬扱いされるとキレる。
+
+",
+        "ko": "질풍처럼 내달리는 야수.
+광활한 구역을 뛰어다니며
+매일 전투에 몰두한다.
+개 취급을 받으면 화를 낸다.
+
+",
+        "zh-TW": "跑得像風一樣快的野獸。
+每天都在自己廣大的地盤裡奔跑，
+並且從早到晚都在進行鬥爭。
+被當作狗對待時會暴怒。
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      76,
+      Buffer [00 00 00 00 00 00 00 00 02 00 00 00 E6 C3 00 00 99 75 00 00 00 00 00 00 01 00 00 00 09 24 00 00 03 00 00 00 A8 4D AA 00 E6 C3 00 00 90 51 AA 00 E7 C3 00 00 78 55 AA 00 E8 C3 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [18 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_竜神族",
+    ],
+    [
+      4,
+      Buffer [A0 FB A9 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Dragon Gods",
+        "es": "Facción tibudragón",
+        "fr": "Draco-requins",
+        "jp": "竜神族",
+        "ko": "용신족",
+        "zh-TW": "龍神族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Water dragons that hold dominion over
+the open seas. Actually, they're pretty
+okay with freshwater, too! Who'd have
+thought they were so adaptable? These
+powerful demons are deathly afraid of
+being turned into shark fin soup.",
+        "es": "Dragones marinos que gobiernan el gran
+océano. Pero en realidad también tiran
+bien en agua dulce. Bastante versátiles.
+Son poderosos, pero les aterra que los
+conviertan en aleta de tiburón.
+",
+        "fr": "Ces dragons aquatiques règnent sur
+les océans, mais leur flexibilité leur
+permet aussi de s’épanouir en eau douce.
+En dépit de leur puissance, ils semblent
+terrifiés à l’idée de finir en soupe.
+",
+        "jp": "大海を統べる水の竜族。
+だが実は淡水でもオーケー！　割と柔軟。
+強力な魔物だが、フカヒレにされることには
+恐怖を覚えているようだ。
+
+",
+        "ko": "바다를 지배하는 물의 용족.
+사실은 민물도 OK! 의외로 융통성이 있다.
+강력한 마물이지만, 지느러미 요리가
+되는 것에는 공포심을 품고 있는 모양이다.
+
+",
+        "zh-TW": "主宰著大海的水之龍族。
+但其實適應力強，要在淡水生活也OK！
+雖然是種強大的魔物，但似乎非常懼怕
+被拿去做魚翅。
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      76,
+      Buffer [00 00 00 00 00 00 00 00 02 00 00 00 D2 C3 00 00 99 75 00 00 00 00 00 00 01 00 00 00 07 24 00 00 03 00 00 00 88 FF A9 00 D2 C3 00 00 70 03 AA 00 D3 C3 00 00 58 07 AA 00 D4 C3 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [19 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_火猛族",
+    ],
+    [
+      4,
+      Buffer [80 AD A9 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Fireblazers",
+        "es": "Facción topo de fuego",
+        "fr": "Totaupes",
+        "jp": "火猛族",
+        "ko": "화맹족",
+        "zh-TW": "火猛族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Mole-type demons that lurk beneath the
+soil of the Netherworlds. They loathe
+sunlight, but enjoy a good lava bath as
+much as the next demon. The tunnels they
+dig become so hot that the rocks within
+them melt, creating trails of magma in
+the process.",
+        "es": "Monstruos con forma de topo que habitan
+bajo tierra. Odian la luz del sol y les
+encantan los baños de lava. Dicen que
+por donde excavan, el calor derrite
+la roca y se convierte en un camino de
+lava.
+",
+        "fr": "Des monstres semblables à des taupes
+qui rôdent dans le Sous-monde.
+Allergiques à la lumière du soleil,
+ils préfèrent prendre des bains de lave.
+La chaleur intense qu’ils dégagent
+fait fondre la roche sur leur passage.
+",
+        "jp": "魔界の大地に潜むモグラ型の魔物。
+太陽光は嫌いで、溶岩浴を好む。
+彼らの掘り進んだ跡は高熱で岩が溶け、溶岩
+の道になるという。
+
+
+",
+        "ko": "마계의 대지에 숨은 두더지형 마물.
+태양빛은 싫어하고, 용암 목욕을 즐긴다.
+그들이 파고 지나간 길은 고열로 인해
+바위가 녹아 용암 통로가 된다고 한다.
+
+
+",
+        "zh-TW": "潛伏於魔界大地裡的鼴鼠型魔物。
+厭惡陽光，愛好洗熔岩浴。
+他們挖掘過的路徑會因高溫而將岩石熔化，
+並化為熔岩的道路。
+
+
+",
+      },
+      "4",
+      7,
+    ],
+    [
+      76,
+      Buffer [00 00 00 00 00 00 00 00 02 00 00 00 BE C3 00 00 99 75 00 00 00 00 00 00 01 00 00 00 05 24 00 00 03 00 00 00 68 B1 A9 00 BE C3 00 00 50 B5 A9 00 BF C3 00 00 38 B9 A9 00 C0 C3 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1A 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_邪竜族",
+    ],
+    [
+      4,
+      Buffer [50 38 A9 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Dragons",
+        "es": "Facción dragón",
+        "fr": "Dragons",
+        "jp": "邪竜族",
+        "ko": "사룡족",
+        "zh-TW": "邪龍族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Renowned monsters who rule the skies.
+The fire they breathe burns through all,
+and their claws can tear anything to
+shreds.
+
+",
+        "es": "Monstruos famosos por ser los más
+fuertes del inframundo, y los
+dominadores del cielo. Las llamas que
+escupen lo incineran todo, y sus
+garras desgarran a tutiplén.
+",
+        "fr": "Les monstres célestes les plus puissants
+des Sous-mondes.
+Les flammes qu’ils crachent carbonisent
+tout sur leur passage, tandis que
+leurs griffes réduisent leur
+environnement en pièces.",
+        "jp": "大空を支配する魔界最強と名高い魔物。
+口から吐く炎はあらゆるものを焼き尽くし、
+その爪はあらゆるものを引き裂くという。
+
+
+",
+        "ko": "하늘을 지배하는 마계 최강의 마물.
+입에서 뱉는 불꽃은 무엇이든 불태우며,
+그 발톱은 무엇이든 찢는다고 한다.
+
+
+",
+        "zh-TW": "支配著天空，被稱為魔界最強的知名魔物。
+據說其從口中噴出的火焰能夠燃燒萬物，
+其利爪則可撕裂所有一切。
+
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      76,
+      Buffer [00 00 00 00 00 00 00 00 02 00 00 00 A0 C3 00 00 99 75 00 00 00 00 00 00 01 00 00 00 02 24 00 00 03 00 00 00 38 3C A9 00 A0 C3 00 00 20 40 A9 00 A1 C3 00 00 08 44 A9 00 A2 C3 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1B 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_銃魔神族",
+    ],
+    [
+      4,
+      Buffer [60 5F A9 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Rifle Demons",
+        "es": "Facción pistolademonio",
+        "fr": "Carabinodémons",
+        "jp": "銃魔神族",
+        "ko": "총 마신족",
+        "zh-TW": "銃魔神族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "A demon god from another dimension. The
+average demon wouldn't dare come within
+100 feet of one, else they be blasted to
+smithereens by its gun arm.
+",
+        "es": "Dioses Majin de otra dimensión, con un
+brazo fusionado a un arma de fuego.
+Es uno de los pesos pesados del
+inframundo: para un demonio corriente,
+compararse con ellos es irrisorio.",
+        "fr": "Des démons d’une autre dimension
+caractérisés par un bras-mitrailleuse.
+Ils figurent parmi les plus puissants
+des Sous-mondes, si bien qu’aucun
+démon ordinaire ne s’en approche.",
+        "jp": "銃と同化した片腕が特徴的な異次元の魔神。
+魔界の強豪の一角であり、並の魔族では近づ
+くことすら叶わない。
+
+",
+        "ko": "총과 동화한 한쪽 팔이 특징인
+이차원의 마신. 마계의 강호 중 한 명이며,
+평범한 마족은 다가갈 수조차 없다.
+
+",
+        "zh-TW": "特徵為一隻手化為鎗的異次元魔神。
+是魔界裡的其中一名強者，
+普通的魔物甚至還無法接近他。
+
+",
+      },
+      "4",
+      5,
+    ],
+    [
+      76,
+      Buffer [00 00 00 00 00 00 00 00 02 00 00 00 AA C3 00 00 99 75 00 00 00 00 00 00 01 00 00 00 03 24 00 00 03 00 00 00 48 63 A9 00 AA C3 00 00 30 67 A9 00 AB C3 00 00 18 6B A9 00 AC C3 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1C 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_煽板族",
+    ],
+    [
+      4,
+      Buffer [50 C3 71 02],
+    ],
+    [
+      "languages",
+      {
+        "en": "Signpost Demons",
+        "es": "Facción tablón",
+        "fr": "Vadémécums",
+        "jp": "煽板族",
+        "ko": "선판족",
+        "zh-TW": "煽板族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Always holding up a sign for reasons
+unknown. Most cannot decide for
+themselves whether they're cute or
+annoying. Ostensibly, their job in the
+Super Duper Netherworld is to serve as
+guides, but this, too, is unclear.",
+        "es": "Por algún motivo, siempre van con un
+cartel en la mano. No sabes si son
+adorables... o dan tirria. En Megamejor,
+su trabajo principal parece ser guiar
+y dar indicaciones de cosas.
+",
+        "fr": "Portent constamment une pancarte
+sur eux. Difficile de dire s’ils sont
+adorables ou détestables.
+Ils travaillent essentiellement comme
+guides dans le Sous-monde Suprême.
+",
+        "jp": "なぜか常に看板を持ってるヤツ。
+かわいいんだか、憎らしいんだか。
+傑超魔界ではもっぱら、なにかを案内をする
+のが主な仕事のようだ。
+
+",
+        "ko": "어째선지 항상 간판을 들고 있는 녀석.
+귀엽다고 해야 할지, 얄밉다고 해야 할지.
+걸초마계에서는 대부분 무언가에 대해
+안내하는 것이 주된 일인 모양이다.
+
+",
+        "zh-TW": "不知為何總是拿著告示牌的傢伙。
+感覺有點可愛又有點欠揍。
+在傑超魔界裡的主要工作
+似乎都是在幫忙指引什麼地點。
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      52,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 0A 24 00 00 01 00 00 00 50 C3 71 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1D 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_氷棲族",
+    ],
+    [
+      4,
+      Buffer [10 79 F8 05],
+    ],
+    [
+      "languages",
+      {
+        "en": "Sea Angels",
+        "es": "Facción ángel del mar",
+        "fr": "Cliones",
+        "jp": "氷棲族",
+        "ko": "빙서족",
+        "zh-TW": "冰棲族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Demons brought to life through water
+pollution. Those raised in the Super
+Duper Netherworld are said to give off a
+sweet fragrance. There's nothing sweet
+about the way they fight, however.
+",
+        "es": "Demonios nacidos a causa de la
+contaminación del agua del inframundo.
+Dicen que los que se crían en Megamejor
+desprenden un olor dulce. Eso sí: su
+forma de luchar no tiene nada de "dulce".
+",
+        "fr": "Des démones nées de la pollution
+de l’eau dans les Sous-mondes.
+Les individus que l’on trouve dans
+le Sous-monde Suprême dégagent
+une odeur sucrée, trompeuse
+une fois le combat engagé.",
+        "jp": "魔界の水質汚染が原因で生まれた悪魔。
+傑超魔界で育った個体は、
+甘い匂いを漂わせているのだとか。
+ただし、戦い方は決して甘くない。
+
+",
+        "ko": "마계의 수질 오염이 원인이 되어 태어난 악마.
+걸초마계에서 자란 개체는
+달콤한 향기를 풍긴다고 하지만
+싸우는 방식은 그리 만만하지 않다.
+
+",
+        "zh-TW": "因魔界的水質汙染而誕生的惡魔。
+聽說在傑超魔界孕育出來的個體，
+會散發出甜美的味道。
+但是，其戰鬥方式絕不甜美。
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      76,
+      Buffer [00 00 00 00 00 00 00 00 02 00 00 00 F0 C3 00 00 99 75 00 00 00 00 00 00 01 00 00 00 0B 24 00 00 03 00 00 00 F8 7C F8 05 F0 C3 00 00 E0 80 F8 05 F1 C3 00 00 C8 84 F8 05 F2 C3 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1E 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_死姫族",
+    ],
+    [
+      4,
+      Buffer [20 A0 F8 05],
+    ],
+    [
+      "languages",
+      {
+        "en": "Zombie Maidens",
+        "es": "Facción princesa zombi",
+        "fr": "Jiangshis",
+        "jp": "死姫族",
+        "ko": "사희족",
+        "zh-TW": "死姬族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Resurrected from death through rituals
+performed on their corpses, Zombie
+Maidens have somewhat childlike
+demeanors and low intellect. Most have
+no memories of when they were alive.
+",
+        "es": "Demonios que reviven cuando aplican
+un ritual a un cadáver. Tienen poca
+inteligencia y un aire infantil. Muchos
+no conservan recuerdos de cuando
+estaban vivos.
+",
+        "fr": "Des démones ressuscitées grâce à
+un sortilège jeté sur leurs cadavres.
+Leurs capacités cognitives sont
+semblables à celles d’un enfant.
+La plupart des spécimens n’ont aucun
+souvenir de leur vie antérieure.",
+        "jp": "死体に術式が施されて蘇った悪魔。
+知性は控えめで、子どものよう。
+生前の記憶は、残っていない者が多い。
+
+
+",
+        "ko": "시체에 사용한 술식 때문에 되살아난 악마.
+지성이 부족하며 아이처럼 행동한다.
+대부분 생전의 기억을 가지고 있지 않다.
+
+
+",
+        "zh-TW": "對屍體施展術式後復活的惡魔。
+知識較淺薄，宛如孩童一般。
+大多數都已不具有生前的記憶。
+
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      76,
+      Buffer [00 00 00 00 00 00 00 00 02 00 00 00 FA C3 00 00 99 75 00 00 00 00 00 00 01 00 00 00 0C 24 00 00 03 00 00 00 08 A4 F8 05 FA C3 00 00 F0 A7 F8 05 FB C3 00 00 D8 AB F8 05 FC C3 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1F 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_妖花族",
+    ],
+    [
+      4,
+      Buffer [30 C7 F8 05],
+    ],
+    [
+      "languages",
+      {
+        "en": "Flora Beasts",
+        "es": "Facción flor embaucadora",
+        "fr": "Flauras sauvages",
+        "jp": "妖花族",
+        "ko": "요화족",
+        "zh-TW": "妖花族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "One-of-a-kind floral beauties who seek
+to monopolize the attention they receive
+from others on account of their
+bewitching good looks and charm.",
+        "es": "Una única flor demoníaca que floreció
+en el inframundo. Con su belleza y su
+fragancia, quiere que la atención sea
+solo para ella.",
+        "fr": "Des fleurs démoniaques poussant
+dans les Sous-mondes.
+Cherchent à attirer toute l’attention
+de par leur beauté et leur parfum.",
+        "jp": "魔界に咲いた一輪の妖花。
+その麗しさと香しさとで、
+周囲の注目を自分だけのものに
+したがっている。",
+        "ko": "마계에 핀 한 송이의 요화.
+미모와 향기로
+주변의 이목이 자신에게만
+집중되기를 원한다.",
+        "zh-TW": "綻放於魔界中的一朵妖花。
+利用自身的艷麗外表與香氣，
+使周圍的所有目光
+都只投向自己。",
+      },
+      "4",
+      4,
+    ],
+    [
+      76,
+      Buffer [00 00 00 00 00 00 00 00 02 00 00 00 04 C4 00 00 99 75 00 00 00 00 00 00 01 00 00 00 0D 24 00 00 03 00 00 00 18 CB F8 05 04 C4 00 00 00 CF F8 05 05 C4 00 00 E8 D2 F8 05 06 C4 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [20 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_呪眼族",
+    ],
+    [
+      4,
+      Buffer [50 15 F9 05],
+    ],
+    [
+      "languages",
+      {
+        "en": "Evil Eyes",
+        "es": "Facción mal de ojo",
+        "fr": "Catoblépas",
+        "jp": "呪眼族",
+        "ko": "주안족",
+        "zh-TW": "咒眼族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Bovine demons who—despite their shy
+nature—possess tremendous latent power
+and cursed eyes in both hands. Be
+mindful of their charge attacks.
+
+",
+        "es": "Monstruos bovinos con ojos malditos
+en ambas manos. Por lo general son
+cobardes, pero el poder que esconden
+es extremadamente potente. Torea bien
+sus embestidas.
+",
+        "fr": "Des monstres bovidés dotés
+d’un œil maudit dans chaque main.
+Peureuses de nature, elles renferment
+néanmoins une force cachée
+extraordinaire.
+Évitez de porter du rouge.",
+        "jp": "両手に呪眼を宿した牛系魔物。
+基本的に臆病だが、
+その秘めたるパワーは超強力。
+突進攻撃に注意。
+
+",
+        "ko": "양손에 주안이 깃든 소 마물.
+평소에는 겁이 많지만
+굉장한 힘을 숨기고 있다.
+돌진 공격에 주의하자.
+
+",
+        "zh-TW": "雙手寄宿著咒眼的牛系魔物。
+生性膽小，
+但蘊藏其中的威力極為強大。
+要小心突進攻擊。
+
+",
+      },
+      "4",
+      6,
+    ],
+    [
+      76,
+      Buffer [00 00 00 00 00 00 00 00 02 00 00 00 0E C4 00 00 99 75 00 00 00 00 00 00 01 00 00 00 0F 24 00 00 03 00 00 00 38 19 F9 05 0E C4 00 00 20 1D F9 05 0F C4 00 00 08 21 F9 05 10 C4 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [21 00 00 00],
+    ],
+    [
+      "key",
+      "図鑑_九尾族",
+    ],
+    [
+      4,
+      Buffer [40 EE F8 05],
+    ],
+    [
+      "languages",
+      {
+        "en": "Nine-Tails",
+        "es": "Facción zorro",
+        "fr": "Kyubis",
+        "jp": "九尾族",
+        "ko": "구미족",
+        "zh-TW": "九尾族",
+      },
+      "3",
+    ],
+    [
+      "dialog",
+      {
+        "en": "Known for their nine tails, beautiful
+kimono, and ancient parlance, Nine-Tails
+demons are wielders of a special art
+known as the "Ying-Yang Technique" and
+have a mysterious aura that other
+classes find themselves captivated by.
+Many are also gifted fortune tellers.
+",
+        "es": "Un linaje de nueve colas, famosos por
+sus bellos kimonos y su forma de hablar
+tradicional. Dominan las "artes místicas",
+y destacan especialmente en la
+adivinación. Por su aura misteriosa,
+parece que gozan de mucha popularidad
+entre otras especies.
+",
+        "fr": "Cette classe aux beaux kimonos
+et au langage désuet se distingue
+par ses neuf queues.
+Ses membres pratiquent une technique
+appelée « onmyō », et nombre d’entre
+eux sont adeptes de la divination.
+Leur aura mystérieuse les rend très
+populaires auprès des autres classes.",
+        "jp": "九つの尾を持ち、美しい着物と
+古風な語り口が特徴の一族。
+特殊な術式『陰陽術』の使い手であり、
+特に占いに秀でている者が多い。
+そのミステリアスな雰囲気から、
+他の種族からの人気は高い様子。
+
+",
+        "ko": "9개의 꼬리와 아름다운 의복,
+고풍스러운 말투가 특징인 종족.
+특별한 술식인 『음양술』을 사용하며
+유독 점을 잘 치는 자가 많다.
+특유의 신비한 분위기 때문에
+다른 종족에게 인기가 많다고 한다.
+
+",
+        "zh-TW": "擁有九條尾巴，特徵為美麗的和服
+與帶有古風的說話方式。
+可使用特殊術式「陰陽術」，
+且大多數都擅長占卜。
+由於其散發出的神祕氛圍，
+在其他種族間似乎頗受歡迎。
+
+",
+      },
+      "4",
+      8,
+    ],
+    [
+      76,
+      Buffer [00 00 00 00 00 00 00 00 02 00 00 00 18 C4 00 00 99 75 00 00 00 00 00 00 01 00 00 00 0E 24 00 00 03 00 00 00 28 F2 F8 05 18 C4 00 00 10 F6 F8 05 19 C4 00 00 F8 F9 F8 05 1A C4 00 00 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]

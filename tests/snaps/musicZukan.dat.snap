@@ -1,0 +1,1178 @@
+[
+  [
+    [
+      4,
+      Buffer [01 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_01",
+    ],
+    [
+      8,
+      Buffer [65 00 00 00 01 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 01",
+        "es": "TEMA 1",
+        "fr": "Piste 1",
+        "jp": "BGM01",
+        "ko": "BGM01",
+        "zh-TW": "BGM01",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Makai Knight",
+        "es": "Makai Knight",
+        "fr": "Makai Knight",
+        "jp": "Makai Knight",
+        "ko": "Makai Knight",
+        "zh-TW": "Makai Knight",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 A4 B5 00 00 00 00 00 00 A4 B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_02",
+    ],
+    [
+      8,
+      Buffer [66 00 00 00 02 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 02",
+        "es": "TEMA 2",
+        "fr": "Piste 2",
+        "jp": "BGM02",
+        "ko": "BGM02",
+        "zh-TW": "BGM02",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Black Doll",
+        "es": "Black Doll",
+        "fr": "Black Doll",
+        "jp": "Black Doll",
+        "ko": "Black Doll",
+        "zh-TW": "Black Doll",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 A5 B5 00 00 00 00 00 00 A5 B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [03 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_03",
+    ],
+    [
+      8,
+      Buffer [67 00 00 00 03 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 03",
+        "es": "TEMA 3",
+        "fr": "Piste 3",
+        "jp": "BGM03",
+        "ko": "BGM03",
+        "zh-TW": "BGM03",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Play the Revue",
+        "es": "Play the Revue",
+        "fr": "Play the Revue",
+        "jp": "Play the Revue",
+        "ko": "Play the Revue",
+        "zh-TW": "Play the Revue",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 A6 B5 00 00 00 00 00 00 A6 B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [04 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_04",
+    ],
+    [
+      8,
+      Buffer [68 00 00 00 04 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 04",
+        "es": "TEMA 4",
+        "fr": "Piste 4",
+        "jp": "BGM04",
+        "ko": "BGM04",
+        "zh-TW": "BGM04",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Confusion of Sky",
+        "es": "Confusion of Sky",
+        "fr": "Confusion of Sky",
+        "jp": "Confusion of Sky",
+        "ko": "Confusion of Sky",
+        "zh-TW": "Confusion of Sky",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 A7 B5 00 00 00 00 00 00 A7 B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [05 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_05",
+    ],
+    [
+      8,
+      Buffer [69 00 00 00 05 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 05",
+        "es": "TEMA 5",
+        "fr": "Piste 5",
+        "jp": "BGM05",
+        "ko": "BGM05",
+        "zh-TW": "BGM05",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Near Future",
+        "es": "Near Future",
+        "fr": "Near Future",
+        "jp": "Near Future",
+        "ko": "Near Future",
+        "zh-TW": "Near Future",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 A8 B5 00 00 00 00 00 00 A8 B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [06 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_06",
+    ],
+    [
+      8,
+      Buffer [6A 00 00 00 06 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 06",
+        "es": "TEMA 6",
+        "fr": "Piste 6",
+        "jp": "BGM06",
+        "ko": "BGM06",
+        "zh-TW": "BGM06",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Bizarre",
+        "es": "Bizarre",
+        "fr": "Bizarre",
+        "jp": "Bizarre",
+        "ko": "Bizarre",
+        "zh-TW": "Bizarre",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 A9 B5 00 00 00 00 00 00 A9 B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [07 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_07",
+    ],
+    [
+      8,
+      Buffer [6B 00 00 00 07 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 07",
+        "es": "TEMA 7",
+        "fr": "Piste 7",
+        "jp": "BGM07",
+        "ko": "BGM07",
+        "zh-TW": "BGM07",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "March in Eternity",
+        "es": "March in Eternity",
+        "fr": "March in Eternity",
+        "jp": "March in Eternity",
+        "ko": "March in Eternity",
+        "zh-TW": "March in Eternity",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 AA B5 00 00 00 00 00 00 AA B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [08 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_08",
+    ],
+    [
+      8,
+      Buffer [6C 00 00 00 08 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 08",
+        "es": "TEMA 8",
+        "fr": "Piste 8",
+        "jp": "BGM08",
+        "ko": "BGM08",
+        "zh-TW": "BGM08",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Drug of Charming",
+        "es": "Drug of Charming",
+        "fr": "Drug of Charming",
+        "jp": "Drug of Charming",
+        "ko": "Drug of Charming",
+        "zh-TW": "Drug of Charming",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 AB B5 00 00 00 00 00 00 AB B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [09 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_09",
+    ],
+    [
+      8,
+      Buffer [6D 00 00 00 09 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 09",
+        "es": "TEMA 9",
+        "fr": "Piste 9",
+        "jp": "BGM09",
+        "ko": "BGM09",
+        "zh-TW": "BGM09",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Last Chapter",
+        "es": "Last Chapter",
+        "fr": "Last Chapter",
+        "jp": "Last Chapter",
+        "ko": "Last Chapter",
+        "zh-TW": "Last Chapter",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 AC B5 00 00 00 00 00 00 AC B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0A 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_10",
+    ],
+    [
+      8,
+      Buffer [6E 00 00 00 0A 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 10",
+        "es": "TEMA 10",
+        "fr": "Piste 10",
+        "jp": "BGM10",
+        "ko": "BGM10",
+        "zh-TW": "BGM10",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Lost Child",
+        "es": "Lost Child",
+        "fr": "Lost Child",
+        "jp": "Lost Child",
+        "ko": "Lost Child",
+        "zh-TW": "Lost Child",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 AD B5 00 00 00 00 00 00 AD B5 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0B 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_11",
+    ],
+    [
+      8,
+      Buffer [6F 00 00 00 0B 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 11",
+        "es": "TEMA 11",
+        "fr": "Piste 11",
+        "jp": "BGM11",
+        "ko": "BGM11",
+        "zh-TW": "BGM11",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Party People",
+        "es": "Party People",
+        "fr": "Party People",
+        "jp": "Party People",
+        "ko": "Party People",
+        "zh-TW": "Party People",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 AE B5 00 00 00 00 00 00 AE B5 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0C 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_12",
+    ],
+    [
+      8,
+      Buffer [70 00 00 00 0C 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 12",
+        "es": "TEMA 12",
+        "fr": "Piste 12",
+        "jp": "BGM12",
+        "ko": "BGM12",
+        "zh-TW": "BGM12",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Makai Club",
+        "es": "Makai Club",
+        "fr": "Makai Club",
+        "jp": "Makai Club",
+        "ko": "Makai Club",
+        "zh-TW": "Makai Club",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 AF B5 00 00 00 00 00 00 AF B5 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0D 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_13",
+    ],
+    [
+      8,
+      Buffer [71 00 00 00 0D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 13",
+        "es": "TEMA 13",
+        "fr": "Piste 13",
+        "jp": "BGM13",
+        "ko": "BGM13",
+        "zh-TW": "BGM13",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Bitter Smile",
+        "es": "Bitter Smile",
+        "fr": "Bitter Smile",
+        "jp": "Bitter Smile",
+        "ko": "Bitter Smile",
+        "zh-TW": "Bitter Smile",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 B0 B5 00 00 00 00 00 00 B0 B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0E 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_14",
+    ],
+    [
+      8,
+      Buffer [72 00 00 00 0E 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 14",
+        "es": "TEMA 14",
+        "fr": "Piste 14",
+        "jp": "BGM14",
+        "ko": "BGM14",
+        "zh-TW": "BGM14",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Old Sneaker",
+        "es": "Old Sneaker",
+        "fr": "Old Sneaker",
+        "jp": "Old Sneaker",
+        "ko": "Old Sneaker",
+        "zh-TW": "Old Sneaker",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 B1 B5 00 00 00 00 00 00 B1 B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0F 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_15",
+    ],
+    [
+      8,
+      Buffer [73 00 00 00 0F 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 15",
+        "es": "TEMA 15",
+        "fr": "Piste 15",
+        "jp": "BGM15",
+        "ko": "BGM15",
+        "zh-TW": "BGM15",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Dark Ambition",
+        "es": "Dark Ambition",
+        "fr": "Dark Ambition",
+        "jp": "Dark Ambition",
+        "ko": "Dark Ambition",
+        "zh-TW": "Dark Ambition",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 B2 B5 00 00 00 00 00 00 B2 B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [10 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_16",
+    ],
+    [
+      8,
+      Buffer [74 00 00 00 10 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 16",
+        "es": "TEMA 16",
+        "fr": "Piste 16",
+        "jp": "BGM16",
+        "ko": "BGM16",
+        "zh-TW": "BGM16",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "I'm Not OK",
+        "es": "I'm not OK",
+        "fr": "I’m not OK",
+        "jp": "I'm not OK",
+        "ko": "I'm not OK",
+        "zh-TW": "I'm not OK",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 B3 B5 00 00 00 00 00 00 B3 B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [11 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_17",
+    ],
+    [
+      8,
+      Buffer [75 00 00 00 11 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 17",
+        "es": "TEMA 17",
+        "fr": "Piste 17",
+        "jp": "BGM17",
+        "ko": "BGM17",
+        "zh-TW": "BGM17",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Vain Solution",
+        "es": "Vain solution",
+        "fr": "Vain solution",
+        "jp": "Vain solution",
+        "ko": "Vain solution",
+        "zh-TW": "Vain solution",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 B4 B5 00 00 00 00 00 00 B4 B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [12 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_18",
+    ],
+    [
+      8,
+      Buffer [76 00 00 00 12 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 18",
+        "es": "TEMA 18",
+        "fr": "Piste 18",
+        "jp": "BGM18",
+        "ko": "BGM18",
+        "zh-TW": "BGM18",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Showdown",
+        "es": "Showdown",
+        "fr": "Showdown",
+        "jp": "Showdown",
+        "ko": "Showdown",
+        "zh-TW": "Showdown",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 B5 B5 00 00 00 00 00 00 B5 B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [13 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_19",
+    ],
+    [
+      8,
+      Buffer [77 00 00 00 13 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 19",
+        "es": "TEMA 19",
+        "fr": "Piste 19",
+        "jp": "BGM19",
+        "ko": "BGM19",
+        "zh-TW": "BGM19",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "A Song of Sorrow",
+        "es": "A Song of Sorrow",
+        "fr": "A Song of Sorrow",
+        "jp": "A Song of Sorrow",
+        "ko": "A Song of Sorrow",
+        "zh-TW": "A Song of Sorrow",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 B6 B5 00 00 00 00 00 00 B6 B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [14 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_20",
+    ],
+    [
+      8,
+      Buffer [78 00 00 00 14 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 20",
+        "es": "TEMA 20",
+        "fr": "Piste 20",
+        "jp": "BGM20",
+        "ko": "BGM20",
+        "zh-TW": "BGM20",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Praying for Peace",
+        "es": "Praying for Peace",
+        "fr": "Praying for Peace",
+        "jp": "Praying for Peace",
+        "ko": "Praying for Peace",
+        "zh-TW": "Praying for Peace",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 B7 B5 00 00 00 00 00 00 B7 B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [15 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_21",
+    ],
+    [
+      8,
+      Buffer [79 00 00 00 15 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 21",
+        "es": "TEMA 21",
+        "fr": "Piste 21",
+        "jp": "BGM21",
+        "ko": "BGM21",
+        "zh-TW": "BGM21",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Decollete Pose",
+        "es": "Decollete Pose",
+        "fr": "Decollete Pose",
+        "jp": "Decollete Pose",
+        "ko": "Decollete Pose",
+        "zh-TW": "Decollete Pose",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 B8 B5 00 00 00 00 00 00 B8 B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [16 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_22",
+    ],
+    [
+      8,
+      Buffer [7A 00 00 00 16 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 22",
+        "es": "TEMA 22",
+        "fr": "Piste 22",
+        "jp": "BGM22",
+        "ko": "BGM22",
+        "zh-TW": "BGM22",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "No more cry",
+        "es": "No more cry",
+        "fr": "No more cry",
+        "jp": "No more cry",
+        "ko": "No more cry",
+        "zh-TW": "No more cry",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 B9 B5 00 00 00 00 00 00 B9 B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [17 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_23",
+    ],
+    [
+      8,
+      Buffer [7B 00 00 00 17 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 23",
+        "es": "TEMA 23",
+        "fr": "Piste 23",
+        "jp": "BGM23",
+        "ko": "BGM23",
+        "zh-TW": "BGM23",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Good-by days",
+        "es": "Good-by days",
+        "fr": "Good-by days",
+        "jp": "Good-by days",
+        "ko": "Good-by days",
+        "zh-TW": "Good-by days",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 BA B5 00 00 00 00 00 00 BA B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [19 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_25",
+    ],
+    [
+      8,
+      Buffer [02 00 00 00 19 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 24",
+        "es": "TEMA 24",
+        "fr": "Piste 24",
+        "jp": "BGM24",
+        "ko": "BGM24",
+        "zh-TW": "BGM24",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Rosen Queen Co., Netherworld Branch",
+        "es": "Rosen Queen Makai S.A.",
+        "fr": "Succursale Rosen Queen Co.",
+        "jp": "ローゼンクイーン商会魔界支店",
+        "ko": "로젠퀸 상회 마계 지점",
+        "zh-TW": "玫瑰皇后商會魔界分會",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 D7 B5 00 00 00 00 00 00 D7 B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1B 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_27",
+    ],
+    [
+      8,
+      Buffer [04 00 00 00 1B 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 25",
+        "es": "TEMA 25",
+        "fr": "Piste 25",
+        "jp": "BGM25",
+        "ko": "BGM25",
+        "zh-TW": "BGM25",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Daybreak Flight",
+        "es": "Daybreak Flight",
+        "fr": "Daybreak Flight",
+        "jp": "Daybreak Flight",
+        "ko": "Daybreak Flight",
+        "zh-TW": "Daybreak Flight",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 D9 B5 00 00 00 00 00 00 D9 B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1C 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_28",
+    ],
+    [
+      8,
+      Buffer [05 00 00 00 1C 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 26",
+        "es": "TEMA 26",
+        "fr": "Piste 26",
+        "jp": "BGM26",
+        "ko": "BGM26",
+        "zh-TW": "BGM26",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "A Small Diary",
+        "es": "Pequeño diario",
+        "fr": "Petit journal",
+        "jp": "小さなダイアリー",
+        "ko": "작은 다이어리",
+        "zh-TW": "小小日記",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 DA B5 00 00 00 00 00 00 DA B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1D 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_29",
+    ],
+    [
+      8,
+      Buffer [06 00 00 00 1D 00 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "Track 27",
+        "es": "TEMA 27",
+        "fr": "Piste 27",
+        "jp": "BGM27",
+        "ko": "BGM27",
+        "zh-TW": "BGM27",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Praise Be Lord Halal?",
+        "es": "¿El himno de... Laharl?",
+        "fr": "Admiration",
+        "jp": "ハラール様の賛美か？",
+        "ko": "하랄 님의 찬미인가?",
+        "zh-TW": "哈拉爾大人的讚美嗎？",
+      },
+      "4",
+    ],
+    [
+      56,
+      Buffer [00 00 00 00 00 00 00 00 01 00 00 00 DB B5 00 00 00 00 00 00 DB B5 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [1E 00 00 00],
+    ],
+    [
+      "key",
+      "MUSIC_ZUKAN_RANDOM",
+    ],
+    [
+      8,
+      Buffer [FF FF FF FF 0F 27 00 00],
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "Aleatorio",
+        "fr": "Aléatoire",
+        "jp": "ランダム",
+        "ko": "랜덤",
+        "zh-TW": "隨機",
+      },
+      "3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Random",
+        "es": "Aleatorio",
+        "fr": "Aléatoire",
+        "jp": "ランダム",
+        "ko": "랜덤",
+        "zh-TW": "隨機",
+      },
+      "4",
+    ],
+    [
+      52,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]

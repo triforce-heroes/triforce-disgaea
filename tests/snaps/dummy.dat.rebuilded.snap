@@ -1,0 +1,28 @@
+[
+  [
+    [
+      4,
+      Buffer [7B 00 00 00],
+    ],
+    [
+      "key",
+      "DUMMY_00",
+    ],
+    [
+      "languages",
+      {
+        "en": "Replaced! Ação! 🎉",
+        "es": "",
+        "fr": "Ficticia!",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "2",
+    ],
+    [
+      4,
+      Buffer [15 CD 5B 07],
+    ],
+  ],
+]

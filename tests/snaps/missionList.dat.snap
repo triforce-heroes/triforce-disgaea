@@ -1,0 +1,4648 @@
+[
+  [
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "key",
+      "MISSION_LIST_NONE",
+    ],
+    [
+      "notes",
+      "なし",
+    ],
+    [
+      "notes",
+      "",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "",
+        "es": "",
+        "fr": "",
+        "jp": "",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "5",
+    ],
+    [
+      24,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [65 E1 F5 05],
+    ],
+    [
+      "key",
+      "MISSION_LIST_100_0001_01",
+    ],
+    [
+      "notes",
+      "チュートリアルステージ1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_チュートリアルステージ1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Clear Requirements Placeholder",
+        "es": "Condición de victoria provisional",
+        "fr": "Conditions de victoire provisoires",
+        "jp": "クリア条件仮",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Clear Requirements Placeholder",
+        "es": "Condición de victoria provisional",
+        "fr": "Conditions de victoire provisoires",
+        "jp": "クリア条件仮",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "5",
+    ],
+    [
+      68,
+      Buffer [01 00 00 00 65 E1 F5 05 0A 00 00 00 65 E1 F5 05 66 E1 F5 05 67 E1 F5 05 68 E1 F5 05 6F E1 F5 05 70 E1 F5 05 71 E1 F5 05 79 E1 F5 05 7A E1 F5 05 83 E1 F5 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [A5 23 05 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_101_0001_01",
+    ],
+    [
+      "notes",
+      "ステージ1-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ1-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Flecks",
+        "es": "La derrota de Joe One",
+        "fr": "Éliminer Biseppe",
+        "jp": "『ジョーワン』の撃破",
+        "ko": "『상완근』 격파",
+        "zh-TW": "擊倒「二頭仔」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Flecks",
+        "es": "La derrota de Joe One",
+        "fr": "Éliminer Biseppe",
+        "jp": "『ジョーワン』の撃破",
+        "ko": "『상완근』 격파",
+        "zh-TW": "擊倒「二頭仔」",
+      },
+      "5",
+    ],
+    [
+      48,
+      Buffer [01 00 00 00 A5 23 05 06 05 00 00 00 A5 23 05 06 AF 23 05 06 B9 23 05 06 C3 23 05 06 C4 23 05 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [09 24 05 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_101_0002_01",
+    ],
+    [
+      "notes",
+      "ステージ1-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ1-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Hammy",
+        "es": "La derrota de Hamst",
+        "fr": "Éliminer Fémori",
+        "jp": "『ハムスト』の撃破",
+        "ko": "『햄스트링』 격파",
+        "zh-TW": "擊倒「股二仔」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Hammy",
+        "es": "La derrota de Hamst",
+        "fr": "Éliminer Fémori",
+        "jp": "『ハムスト』の撃破",
+        "ko": "『햄스트링』 격파",
+        "zh-TW": "擊倒「股二仔」",
+      },
+      "5",
+    ],
+    [
+      56,
+      Buffer [01 00 00 00 09 24 05 06 07 00 00 00 09 24 05 06 13 24 05 06 1D 24 05 06 27 24 05 06 31 24 05 06 3B 24 05 06 3C 24 05 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6D 24 05 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_101_0003_01",
+    ],
+    [
+      "notes",
+      "ステージ1-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ1-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Pecks",
+        "es": "La derrota de Daikyo",
+        "fr": "Éliminer Pecto",
+        "jp": "『ダイキョー』の撃破",
+        "ko": "『대흉근』 격파",
+        "zh-TW": "擊倒「胸大仔」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Pecks",
+        "es": "La derrota de Daikyo",
+        "fr": "Éliminer Pecto",
+        "jp": "『ダイキョー』の撃破",
+        "ko": "『대흉근』 격파",
+        "zh-TW": "擊倒「胸大仔」",
+      },
+      "5",
+    ],
+    [
+      56,
+      Buffer [01 00 00 00 6D 24 05 06 07 00 00 00 6D 24 05 06 77 24 05 06 81 24 05 06 8B 24 05 06 95 24 05 06 9F 24 05 06 A0 24 05 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [D1 24 05 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_101_0004_01",
+    ],
+    [
+      "notes",
+      "ステージ1-4",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ1-4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat John-Zuck",
+        "es": "La derrota de John Huck",
+        "fr": "Éliminer Rondinou",
+        "jp": "『ジョンハック』の撃破",
+        "ko": "『존핵』 격파",
+        "zh-TW": "擊倒「喬哈克」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat John-Zuck",
+        "es": "La derrota de John Huck",
+        "fr": "Éliminer Rondinou",
+        "jp": "『ジョンハック』の撃破",
+        "ko": "『존핵』 격파",
+        "zh-TW": "擊倒「喬哈克」",
+      },
+      "5",
+    ],
+    [
+      60,
+      Buffer [01 00 00 00 D1 24 05 06 08 00 00 00 D1 24 05 06 DB 24 05 06 E5 24 05 06 E6 24 05 06 E7 24 05 06 E8 24 05 06 EF 24 05 06 F0 24 05 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [B5 4A 05 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_101_0101_01",
+    ],
+    [
+      "notes",
+      "ステージサブ1-1-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブ1-1-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Bulk",
+        "es": "La derrota de Bulk",
+        "fr": "Éliminer Bulk",
+        "jp": "『バルク』の撃破",
+        "ko": "『바르크』 격파",
+        "zh-TW": "擊倒「巴爾克」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Bulk",
+        "es": "La derrota de Bulk",
+        "fr": "Éliminer Bulk",
+        "jp": "『バルク』の撃破",
+        "ko": "『바르크』 격파",
+        "zh-TW": "擊倒「巴爾克」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 B5 4A 05 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [19 4B 05 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_101_0102_01",
+    ],
+    [
+      "notes",
+      "ステージサブ1-1-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブ1-1-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Actin",
+        "es": "La derrota de Akuchin",
+        "fr": "Éliminer Actin",
+        "jp": "『アクチン』の撃破",
+        "ko": "『액틴』 격파",
+        "zh-TW": "擊倒「肌動」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Actin",
+        "es": "La derrota de Akuchin",
+        "fr": "Éliminer Actin",
+        "jp": "『アクチン』の撃破",
+        "ko": "『액틴』 격파",
+        "zh-TW": "擊倒「肌動」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 19 4B 05 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [7D 4B 05 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_101_0103_01",
+    ],
+    [
+      "notes",
+      "ステージサブ1-1-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブ1-1-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Crunch",
+        "es": "La derrota de Tachikoro",
+        "fr": "Éliminer Tachikoro",
+        "jp": "『タチコロ』の撃破",
+        "ko": "『타치코로』 격파",
+        "zh-TW": "擊倒「立滾滾」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Crunch",
+        "es": "La derrota de Tachikoro",
+        "fr": "Éliminer Tachikoro",
+        "jp": "『タチコロ』の撃破",
+        "ko": "『타치코로』 격파",
+        "zh-TW": "擊倒「立滾滾」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 7D 4B 05 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [E5 65 14 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_102_0001_01",
+    ],
+    [
+      "notes",
+      "ステージ2-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ2-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Perl",
+        "es": "La derrota de Para",
+        "fr": "Éliminer Joubi",
+        "jp": "『パーラ』の撃破",
+        "ko": "『파라』 격파",
+        "zh-TW": "擊倒「帕拉」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Perl",
+        "es": "La derrota de Para",
+        "fr": "Éliminer Joubi",
+        "jp": "『パーラ』の撃破",
+        "ko": "『파라』 격파",
+        "zh-TW": "擊倒「帕拉」",
+      },
+      "5",
+    ],
+    [
+      48,
+      Buffer [01 00 00 00 E5 65 14 06 05 00 00 00 E5 65 14 06 EF 65 14 06 F9 65 14 06 03 66 14 06 04 66 14 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [49 66 14 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_102_0002_01",
+    ],
+    [
+      "notes",
+      "ステージ2-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ2-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Albita",
+        "es": "La derrota de Albita",
+        "fr": "Éliminer Mandia",
+        "jp": "『アルビタ』の撃破",
+        "ko": "『알비타』 격파",
+        "zh-TW": "擊倒「阿爾比塔」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Albita",
+        "es": "La derrota de Albita",
+        "fr": "Éliminer Mandia",
+        "jp": "『アルビタ』の撃破",
+        "ko": "『알비타』 격파",
+        "zh-TW": "擊倒「阿爾比塔」",
+      },
+      "5",
+    ],
+    [
+      56,
+      Buffer [01 00 00 00 49 66 14 06 07 00 00 00 49 66 14 06 53 66 14 06 5D 66 14 06 67 66 14 06 71 66 14 06 7B 66 14 06 7C 66 14 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [AD 66 14 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_102_0003_01",
+    ],
+    [
+      "notes",
+      "ステージ2-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ2-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Phyry",
+        "es": "La derrota de Fiery",
+        "fr": "Éliminer Liéko",
+        "jp": "『フィーリー』の撃破",
+        "ko": "『필리』 격파",
+        "zh-TW": "擊倒「菲里」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Phyry",
+        "es": "La derrota de Fiery",
+        "fr": "Éliminer Liéko",
+        "jp": "『フィーリー』の撃破",
+        "ko": "『필리』 격파",
+        "zh-TW": "擊倒「菲里」",
+      },
+      "5",
+    ],
+    [
+      56,
+      Buffer [01 00 00 00 AD 66 14 06 07 00 00 00 AD 66 14 06 B7 66 14 06 C1 66 14 06 CB 66 14 06 D5 66 14 06 DF 66 14 06 E0 66 14 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [11 67 14 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_102_0004_01",
+    ],
+    [
+      "notes",
+      "ステージ2-4",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ2-4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Granute",
+        "es": "La derrota de Granuto",
+        "fr": "Éliminer Granute",
+        "jp": "『グラニュート』の撃破",
+        "ko": "『그라뉴트』 격파",
+        "zh-TW": "擊倒「古拉紐特」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Granute",
+        "es": "La derrota de Granuto",
+        "fr": "Éliminer Granute",
+        "jp": "『グラニュート』の撃破",
+        "ko": "『그라뉴트』 격파",
+        "zh-TW": "擊倒「古拉紐特」",
+      },
+      "5",
+    ],
+    [
+      64,
+      Buffer [01 00 00 00 11 67 14 06 09 00 00 00 11 67 14 06 1B 67 14 06 25 67 14 06 2F 67 14 06 39 67 14 06 3A 67 14 06 3B 67 14 06 43 67 14 06 44 67 14 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F5 8C 14 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_102_0101_01",
+    ],
+    [
+      "notes",
+      "ステージサブ2-1-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブ2-1-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Astro",
+        "es": "La derrota de Astro",
+        "fr": "Éliminer Astro",
+        "jp": "『アストロ』の撃破",
+        "ko": "『아스트로』 격파",
+        "zh-TW": "擊倒「阿斯特洛」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Astro",
+        "es": "La derrota de Astro",
+        "fr": "Éliminer Astro",
+        "jp": "『アストロ』の撃破",
+        "ko": "『아스트로』 격파",
+        "zh-TW": "擊倒「阿斯特洛」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 F5 8C 14 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [59 8D 14 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_102_0102_01",
+    ],
+    [
+      "notes",
+      "ステージサブ2-1-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブ2-1-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Oricha",
+        "es": "La derrota de Oricha",
+        "fr": "Éliminer Olicha",
+        "jp": "『オーリチャ』の撃破",
+        "ko": "『오리차』 격파",
+        "zh-TW": "擊倒「奧里查」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Oricha",
+        "es": "La derrota de Oricha",
+        "fr": "Éliminer Olicha",
+        "jp": "『オーリチャ』の撃破",
+        "ko": "『오리차』 격파",
+        "zh-TW": "擊倒「奧里查」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 59 8D 14 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [BD 8D 14 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_102_0103_01",
+    ],
+    [
+      "notes",
+      "ステージサブ2-1-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブ2-1-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Larimar",
+        "es": "La derrota de Larimar",
+        "fr": "Éliminer Larimar",
+        "jp": "『ラリマー』の撃破",
+        "ko": "『라리마』 격파",
+        "zh-TW": "擊倒「拉利瑪」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Larimar",
+        "es": "La derrota de Larimar",
+        "fr": "Éliminer Larimar",
+        "jp": "『ラリマー』の撃破",
+        "ko": "『라리마』 격파",
+        "zh-TW": "擊倒「拉利瑪」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 BD 8D 14 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [25 A8 23 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_103_0001_01",
+    ],
+    [
+      "notes",
+      "ステージ3-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ3-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Onuma",
+        "es": "La derrota de Onuma",
+        "fr": "Éliminer Okto",
+        "jp": "『オオヌマ』の撃破",
+        "ko": "『오누마』 격파",
+        "zh-TW": "擊倒「大沼」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Onuma",
+        "es": "La derrota de Onuma",
+        "fr": "Éliminer Okto",
+        "jp": "『オオヌマ』の撃破",
+        "ko": "『오누마』 격파",
+        "zh-TW": "擊倒「大沼」",
+      },
+      "5",
+    ],
+    [
+      52,
+      Buffer [01 00 00 00 25 A8 23 06 06 00 00 00 25 A8 23 06 2F A8 23 06 39 A8 23 06 43 A8 23 06 4D A8 23 06 4E A8 23 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [89 A8 23 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_103_0002_01",
+    ],
+    [
+      "notes",
+      "ステージ3-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ3-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Sakata",
+        "es": "La derrota de Sakata",
+        "fr": "Éliminer Crustata",
+        "jp": "『サカタ』の撃破",
+        "ko": "『사카타』 격파",
+        "zh-TW": "擊倒「阪田」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Sakata",
+        "es": "La derrota de Sakata",
+        "fr": "Éliminer Crustata",
+        "jp": "『サカタ』の撃破",
+        "ko": "『사카타』 격파",
+        "zh-TW": "擊倒「阪田」",
+      },
+      "5",
+    ],
+    [
+      48,
+      Buffer [01 00 00 00 89 A8 23 06 05 00 00 00 89 A8 23 06 93 A8 23 06 9D A8 23 06 A7 A8 23 06 A8 A8 23 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [ED A8 23 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_103_0003_01",
+    ],
+    [
+      "notes",
+      "ステージ3-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ3-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Tashiro",
+        "es": "La derrota de Tashiro",
+        "fr": "Éliminer Tentaco",
+        "jp": "『タシロ』の撃破",
+        "ko": "『타시로』 격파",
+        "zh-TW": "擊倒「田代」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Tashiro",
+        "es": "La derrota de Tashiro",
+        "fr": "Éliminer Tentaco",
+        "jp": "『タシロ』の撃破",
+        "ko": "『타시로』 격파",
+        "zh-TW": "擊倒「田代」",
+      },
+      "5",
+    ],
+    [
+      56,
+      Buffer [01 00 00 00 ED A8 23 06 07 00 00 00 ED A8 23 06 F7 A8 23 06 01 A9 23 06 0B A9 23 06 15 A9 23 06 1F A9 23 06 20 A9 23 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [51 A9 23 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_103_0004_01",
+    ],
+    [
+      "notes",
+      "ステージ3-4",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ3-4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Kory",
+        "es": "La derrota de Kory",
+        "fr": "Éliminer Poulpita",
+        "jp": "『コリィ』の撃破",
+        "ko": "『코리』 격파",
+        "zh-TW": "擊倒「柯莉」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Kory",
+        "es": "La derrota de Kory",
+        "fr": "Éliminer Poulpita",
+        "jp": "『コリィ』の撃破",
+        "ko": "『코리』 격파",
+        "zh-TW": "擊倒「柯莉」",
+      },
+      "5",
+    ],
+    [
+      56,
+      Buffer [01 00 00 00 51 A9 23 06 07 00 00 00 51 A9 23 06 5B A9 23 06 65 A9 23 06 66 A9 23 06 67 A9 23 06 6F A9 23 06 70 A9 23 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [35 CF 23 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_103_0101_01",
+    ],
+    [
+      "notes",
+      "ステージサブ3-1-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブ3-1-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Kandaba",
+        "es": "La derrota de Kandaba",
+        "fr": "Éliminer Kandaba",
+        "jp": "『カンダバ』の撃破",
+        "ko": "『칸다바』 격파",
+        "zh-TW": "擊倒「坎達瓦」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Kandaba",
+        "es": "La derrota de Kandaba",
+        "fr": "Éliminer Kandaba",
+        "jp": "『カンダバ』の撃破",
+        "ko": "『칸다바』 격파",
+        "zh-TW": "擊倒「坎達瓦」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 35 CF 23 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [99 CF 23 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_103_0102_01",
+    ],
+    [
+      "notes",
+      "ステージサブ3-1-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブ3-1-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat La Digue",
+        "es": "La derrota de Radig",
+        "fr": "Éliminer Radig",
+        "jp": "『ラディーグ』の撃破",
+        "ko": "『라디그』 격파",
+        "zh-TW": "擊倒「拉迪格」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat La Digue",
+        "es": "La derrota de Radig",
+        "fr": "Éliminer Radig",
+        "jp": "『ラディーグ』の撃破",
+        "ko": "『라디그』 격파",
+        "zh-TW": "擊倒「拉迪格」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 99 CF 23 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [FD CF 23 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_103_0103_01",
+    ],
+    [
+      "notes",
+      "ステージサブ3-1-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブ3-1-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Okavango",
+        "es": "La derrota de Okavango",
+        "fr": "Éliminer Okabango",
+        "jp": "『オカバンゴ』の撃破",
+        "ko": "『오카방고』 격파",
+        "zh-TW": "擊倒「奧卡萬戈」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Okavango",
+        "es": "La derrota de Okavango",
+        "fr": "Éliminer Okabango",
+        "jp": "『オカバンゴ』の撃破",
+        "ko": "『오카방고』 격파",
+        "zh-TW": "擊倒「奧卡萬戈」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 FD CF 23 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [65 EA 32 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_104_0001_01",
+    ],
+    [
+      "notes",
+      "ステージ4-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ4-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Quiff",
+        "es": "La derrota de Aiper",
+        "fr": "Éliminer Tenacier",
+        "jp": "『アイパー』の撃破",
+        "ko": "『아이파』 격파",
+        "zh-TW": "擊倒「平板頭」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Quiff",
+        "es": "La derrota de Aiper",
+        "fr": "Éliminer Tenacier",
+        "jp": "『アイパー』の撃破",
+        "ko": "『아이파』 격파",
+        "zh-TW": "擊倒「平板頭」",
+      },
+      "5",
+    ],
+    [
+      48,
+      Buffer [01 00 00 00 65 EA 32 06 05 00 00 00 65 EA 32 06 6F EA 32 06 79 EA 32 06 83 EA 32 06 84 EA 32 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [C9 EA 32 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_104_0002_01",
+    ],
+    [
+      "notes",
+      "ステージ4-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ4-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Bam",
+        "es": "La derrota de Dokan",
+        "fr": "Éliminer Grodur",
+        "jp": "『ドカン』の撃破",
+        "ko": "『도캉』 격파",
+        "zh-TW": "擊倒「砰砰」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Bam",
+        "es": "La derrota de Dokan",
+        "fr": "Éliminer Grodur",
+        "jp": "『ドカン』の撃破",
+        "ko": "『도캉』 격파",
+        "zh-TW": "擊倒「砰砰」",
+      },
+      "5",
+    ],
+    [
+      52,
+      Buffer [01 00 00 00 C9 EA 32 06 06 00 00 00 C9 EA 32 06 D3 EA 32 06 DD EA 32 06 E7 EA 32 06 F1 EA 32 06 F2 EA 32 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2D EB 32 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_104_0003_01",
+    ],
+    [
+      "notes",
+      "ステージ4-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ4-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Rip",
+        "es": "La derrota de Baribari",
+        "fr": "Éliminer Weshwesh",
+        "jp": "『バリバリ』の撃破",
+        "ko": "『바리바리』 격파",
+        "zh-TW": "擊倒「啪啦」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Rip",
+        "es": "La derrota de Baribari",
+        "fr": "Éliminer Weshwesh",
+        "jp": "『バリバリ』の撃破",
+        "ko": "『바리바리』 격파",
+        "zh-TW": "擊倒「啪啦」",
+      },
+      "5",
+    ],
+    [
+      48,
+      Buffer [01 00 00 00 2D EB 32 06 05 00 00 00 2D EB 32 06 37 EB 32 06 41 EB 32 06 4B EB 32 06 4C EB 32 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [91 EB 32 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_104_0004_01",
+    ],
+    [
+      "notes",
+      "ステージ4-4",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ4-4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Clawdette",
+        "es": "La derrota de Sukeban",
+        "fr": "Éliminer Rebélian",
+        "jp": "『スケバン』の撃破",
+        "ko": "『스케반』 격파",
+        "zh-TW": "擊倒「不良辣妹」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Clawdette",
+        "es": "La derrota de Sukeban",
+        "fr": "Éliminer Rebélian",
+        "jp": "『スケバン』の撃破",
+        "ko": "『스케반』 격파",
+        "zh-TW": "擊倒「不良辣妹」",
+      },
+      "5",
+    ],
+    [
+      48,
+      Buffer [01 00 00 00 91 EB 32 06 05 00 00 00 91 EB 32 06 9B EB 32 06 A5 EB 32 06 AF EB 32 06 B0 EB 32 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F5 EB 32 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_104_0005_01",
+    ],
+    [
+      "notes",
+      "ステージ4-5",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ4-5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Rise N. Cane",
+        "es": "La derrota de Wasan",
+        "fr": "Éliminer Coqueluche",
+        "jp": "『ワサン』の撃破",
+        "ko": "『와산』 격파",
+        "zh-TW": "擊倒「瓦桑」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Rise N. Cane",
+        "es": "La derrota de Wasan",
+        "fr": "Éliminer Coqueluche",
+        "jp": "『ワサン』の撃破",
+        "ko": "『와산』 격파",
+        "zh-TW": "擊倒「瓦桑」",
+      },
+      "5",
+    ],
+    [
+      56,
+      Buffer [01 00 00 00 F5 EB 32 06 07 00 00 00 F5 EB 32 06 FF EB 32 06 09 EC 32 06 0A EC 32 06 0B EC 32 06 13 EC 32 06 14 EC 32 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [75 11 33 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_104_0101_01",
+    ],
+    [
+      "notes",
+      "ステージサブ4-1-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブ4-1-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Featherfist",
+        "es": "La derrota de Gupan",
+        "fr": "Éliminer Gupan",
+        "jp": "『グーパン』の撃破",
+        "ko": "『구펀』 격파",
+        "zh-TW": "擊倒「爆拳」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Featherfist",
+        "es": "La derrota de Gupan",
+        "fr": "Éliminer Gupan",
+        "jp": "『グーパン』の撃破",
+        "ko": "『구펀』 격파",
+        "zh-TW": "擊倒「爆拳」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 75 11 33 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [D9 11 33 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_104_0102_01",
+    ],
+    [
+      "notes",
+      "ステージサブ4-1-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブ4-1-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Gonta",
+        "es": "La derrota de Gonta",
+        "fr": "Éliminer Gonta",
+        "jp": "『ゴンタ』の撃破",
+        "ko": "『곤타』 격파",
+        "zh-TW": "擊倒「頑皮鬼」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Gonta",
+        "es": "La derrota de Gonta",
+        "fr": "Éliminer Gonta",
+        "jp": "『ゴンタ』の撃破",
+        "ko": "『곤타』 격파",
+        "zh-TW": "擊倒「頑皮鬼」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 D9 11 33 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [3D 12 33 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_104_0103_01",
+    ],
+    [
+      "notes",
+      "ステージサブ4-1-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブ4-1-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Minced",
+        "es": "La derrota de Menchi",
+        "fr": "Éliminer Menchi",
+        "jp": "『メンチ』の撃破",
+        "ko": "『멘치』 격파",
+        "zh-TW": "擊倒「小碎肉」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Minced",
+        "es": "La derrota de Menchi",
+        "fr": "Éliminer Menchi",
+        "jp": "『メンチ』の撃破",
+        "ko": "『멘치』 격파",
+        "zh-TW": "擊倒「小碎肉」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 3D 12 33 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [A5 2C 42 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_105_0001_01",
+    ],
+    [
+      "notes",
+      "ステージ5-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ5-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Wisenheimer",
+        "es": "La derrota de Dikiya",
+        "fr": "Éliminer Intélou",
+        "jp": "『ディキヤー』の撃破",
+        "ko": "『천재』 격파",
+        "zh-TW": "擊倒「秀才」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Wisenheimer",
+        "es": "La derrota de Dikiya",
+        "fr": "Éliminer Intélou",
+        "jp": "『ディキヤー』の撃破",
+        "ko": "『천재』 격파",
+        "zh-TW": "擊倒「秀才」",
+      },
+      "5",
+    ],
+    [
+      56,
+      Buffer [01 00 00 00 A5 2C 42 06 07 00 00 00 A5 2C 42 06 AF 2C 42 06 B9 2C 42 06 C3 2C 42 06 CD 2C 42 06 D7 2C 42 06 D8 2C 42 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [09 2D 42 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_105_0002_01",
+    ],
+    [
+      "notes",
+      "ステージ5-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ5-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Herculift",
+        "es": "La derrota de Chuba",
+        "fr": "Éliminer Vifou",
+        "jp": "『チューバー』の撃破",
+        "ko": "『강자』 격파",
+        "zh-TW": "擊倒「勇八」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Herculift",
+        "es": "La derrota de Chuba",
+        "fr": "Éliminer Vifou",
+        "jp": "『チューバー』の撃破",
+        "ko": "『강자』 격파",
+        "zh-TW": "擊倒「勇八」",
+      },
+      "5",
+    ],
+    [
+      56,
+      Buffer [01 00 00 00 09 2D 42 06 07 00 00 00 09 2D 42 06 13 2D 42 06 1D 2D 42 06 27 2D 42 06 31 2D 42 06 3B 2D 42 06 3C 2D 42 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6D 2D 42 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_105_0003_01",
+    ],
+    [
+      "notes",
+      "ステージ5-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ5-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Spitfire",
+        "es": "La derrota de Churakagi",
+        "fr": "Éliminer Mimou",
+        "jp": "『チュラカーギー』の撃破",
+        "ko": "『미인』 격파",
+        "zh-TW": "擊倒「正妹」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Spitfire",
+        "es": "La derrota de Churakagi",
+        "fr": "Éliminer Mimou",
+        "jp": "『チュラカーギー』の撃破",
+        "ko": "『미인』 격파",
+        "zh-TW": "擊倒「正妹」",
+      },
+      "5",
+    ],
+    [
+      48,
+      Buffer [01 00 00 00 6D 2D 42 06 05 00 00 00 6D 2D 42 06 77 2D 42 06 81 2D 42 06 8B 2D 42 06 8C 2D 42 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [D1 2D 42 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_105_0004_01",
+    ],
+    [
+      "notes",
+      "ステージ5-4",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ5-4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Rock Andy",
+        "es": "La derrota de Uzi",
+        "fr": "Éliminer Nœunœil",
+        "jp": "『ウージー』の撃破",
+        "ko": "『우지』 격파",
+        "zh-TW": "擊倒「烏基」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Rock Andy",
+        "es": "La derrota de Uzi",
+        "fr": "Éliminer Nœunœil",
+        "jp": "『ウージー』の撃破",
+        "ko": "『우지』 격파",
+        "zh-TW": "擊倒「烏基」",
+      },
+      "5",
+    ],
+    [
+      64,
+      Buffer [01 00 00 00 D1 2D 42 06 09 00 00 00 D1 2D 42 06 DB 2D 42 06 E5 2D 42 06 EF 2D 42 06 F9 2D 42 06 FA 2D 42 06 FB 2D 42 06 03 2E 42 06 04 2E 42 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [B5 53 42 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_105_0101_01",
+    ],
+    [
+      "notes",
+      "ステージサブ5-1-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブ5-1-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Untama",
+        "es": "La derrota de Untama",
+        "fr": "Éliminer Mochouille",
+        "jp": "『ウンタマ』の撃破",
+        "ko": "『운타마』 격파",
+        "zh-TW": "擊倒「運玉」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Untama",
+        "es": "La derrota de Untama",
+        "fr": "Éliminer Mochouille",
+        "jp": "『ウンタマ』の撃破",
+        "ko": "『운타마』 격파",
+        "zh-TW": "擊倒「運玉」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 B5 53 42 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [19 54 42 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_105_0102_01",
+    ],
+    [
+      "notes",
+      "ステージサブ5-1-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブ5-1-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Big Belly",
+        "es": "La derrota de Wataboo",
+        "fr": "Éliminer Charnouille",
+        "jp": "『ワタブー』の撃破",
+        "ko": "『배불뚝이』 격파",
+        "zh-TW": "擊倒「肚哥」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Big Belly",
+        "es": "La derrota de Wataboo",
+        "fr": "Éliminer Charnouille",
+        "jp": "『ワタブー』の撃破",
+        "ko": "『배불뚝이』 격파",
+        "zh-TW": "擊倒「肚哥」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 19 54 42 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [7D 54 42 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_105_0103_01",
+    ],
+    [
+      "notes",
+      "ステージサブ5-1-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブ5-1-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Howl Saab ",
+        "es": "La derrota de Nachibusa",
+        "fr": "Éliminer Gégnouille",
+        "jp": "『ナチブサー』の撃破",
+        "ko": "『울보』 격파",
+        "zh-TW": "擊倒「愛哭鬼」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Howl Saab ",
+        "es": "La derrota de Nachibusa",
+        "fr": "Éliminer Gégnouille",
+        "jp": "『ナチブサー』の撃破",
+        "ko": "『울보』 격파",
+        "zh-TW": "擊倒「愛哭鬼」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 7D 54 42 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [E5 6E 51 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_106_0001_01",
+    ],
+    [
+      "notes",
+      "ステージ6-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ6-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Rozala",
+        "es": "La derrota de Rozala",
+        "fr": "Éliminer Josiane",
+        "jp": "『ロザーラ』の撃破",
+        "ko": "『로잘라』 격파",
+        "zh-TW": "擊倒「蘿薩拉」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Rozala",
+        "es": "La derrota de Rozala",
+        "fr": "Éliminer Josiane",
+        "jp": "『ロザーラ』の撃破",
+        "ko": "『로잘라』 격파",
+        "zh-TW": "擊倒「蘿薩拉」",
+      },
+      "5",
+    ],
+    [
+      52,
+      Buffer [01 00 00 00 E5 6E 51 06 06 00 00 00 E5 6E 51 06 EF 6E 51 06 F0 6E 51 06 F1 6E 51 06 F9 6E 51 06 FA 6E 51 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [F5 95 51 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_106_0101_01",
+    ],
+    [
+      "notes",
+      "ステージサブ6-1-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブ6-1-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Prinius",
+        "es": "La derrota de Plinius",
+        "fr": "Éliminer Pline",
+        "jp": "『プリニウス』の撃破",
+        "ko": "『프리니우스』 격파",
+        "zh-TW": "擊倒「普林尼」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Prinius",
+        "es": "La derrota de Plinius",
+        "fr": "Éliminer Pline",
+        "jp": "『プリニウス』の撃破",
+        "ko": "『프리니우스』 격파",
+        "zh-TW": "擊倒「普林尼」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 F5 95 51 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [59 96 51 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_106_0102_01",
+    ],
+    [
+      "notes",
+      "ステージサブ6-1-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブ6-1-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Bode",
+        "es": "La derrota de Bode",
+        "fr": "Éliminer Bodet",
+        "jp": "『ボーデ』の撃破",
+        "ko": "『보데』 격파",
+        "zh-TW": "擊倒「博德」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Bode",
+        "es": "La derrota de Bode",
+        "fr": "Éliminer Bodet",
+        "jp": "『ボーデ』の撃破",
+        "ko": "『보데』 격파",
+        "zh-TW": "擊倒「博德」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 59 96 51 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [BD 96 51 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_106_0103_01",
+    ],
+    [
+      "notes",
+      "ステージサブ6-1-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブ6-1-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Krieger",
+        "es": "La derrota de Krieger",
+        "fr": "Éliminer Krieger",
+        "jp": "『クリーガー』の撃破",
+        "ko": "『크리거』 격파",
+        "zh-TW": "擊倒「克里格」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Krieger",
+        "es": "La derrota de Krieger",
+        "fr": "Éliminer Krieger",
+        "jp": "『クリーガー』の撃破",
+        "ko": "『크리거』 격파",
+        "zh-TW": "擊倒「克里格」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 BD 96 51 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [25 B1 60 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_107_0001_01",
+    ],
+    [
+      "notes",
+      "ステージ7-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ7-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Wurst",
+        "es": "La derrota de Brust",
+        "fr": "Éliminer Brust",
+        "jp": "『ブルースト』の撃破",
+        "ko": "『부르스트』 격파",
+        "zh-TW": "擊倒「布魯斯特」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Gelbwurst",
+        "es": "La derrota de Gelbust",
+        "fr": "Éliminer Gelbst",
+        "jp": "『ゲルブスト』の撃破",
+        "ko": "『부르스트』 격파",
+        "zh-TW": "擊倒「布魯斯特」",
+      },
+      "5",
+    ],
+    [
+      52,
+      Buffer [01 00 00 00 25 B1 60 06 06 00 00 00 25 B1 60 06 2F B1 60 06 39 B1 60 06 43 B1 60 06 4D B1 60 06 4E B1 60 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [89 B1 60 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_107_0002_01",
+    ],
+    [
+      "notes",
+      "ステージ7-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ7-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Wurst?",
+        "es": "La derrota de "¿Brust?"",
+        "fr": "Éliminer Brust ?",
+        "jp": "『ブルースト？』の撃破",
+        "ko": "『부르스트?』 격파",
+        "zh-TW": "擊倒「布魯斯特？」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Knackwurst",
+        "es": "La derrota de Kunalst",
+        "fr": "Éliminer Kunalst",
+        "jp": "『クナルスト』の撃破",
+        "ko": "『부르스트?』 격파",
+        "zh-TW": "擊倒「布魯斯特？」",
+      },
+      "5",
+    ],
+    [
+      56,
+      Buffer [01 00 00 00 89 B1 60 06 07 00 00 00 89 B1 60 06 93 B1 60 06 9D B1 60 06 A7 B1 60 06 B1 B1 60 06 BB B1 60 06 BC B1 60 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [ED B1 60 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_107_0003_01",
+    ],
+    [
+      "notes",
+      "ステージ7-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ7-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Wurst?",
+        "es": "La derrota de "¿Brust?"",
+        "fr": "Éliminer Brust ?",
+        "jp": "『ブルースト？』の撃破",
+        "ko": "『부르스트?』 격파",
+        "zh-TW": "擊倒「布魯斯特？」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Bierschinken",
+        "es": "La derrota de Bialst",
+        "fr": "Éliminer Bialst",
+        "jp": "『ビアルスト』の撃破",
+        "ko": "『부르스트?』 격파",
+        "zh-TW": "擊倒「布魯斯特？」",
+      },
+      "5",
+    ],
+    [
+      52,
+      Buffer [01 00 00 00 ED B1 60 06 06 00 00 00 ED B1 60 06 F7 B1 60 06 01 B2 60 06 0B B2 60 06 15 B2 60 06 16 B2 60 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [51 B2 60 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_107_0004_01",
+    ],
+    [
+      "notes",
+      "ステージ7-4",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ7-4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Wurst?",
+        "es": "La derrota de "¿Brust?"",
+        "fr": "Éliminer Brust ?",
+        "jp": "『ブルースト？』の撃破",
+        "ko": "『부르스트?』 격파",
+        "zh-TW": "擊倒「布魯斯特？」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Fischwurst",
+        "es": "La derrota de Gyoniso",
+        "fr": "Éliminer Gyoniso",
+        "jp": "『ギョニソ』の撃破",
+        "ko": "『부르스트?』 격파",
+        "zh-TW": "擊倒「布魯斯特？」",
+      },
+      "5",
+    ],
+    [
+      52,
+      Buffer [01 00 00 00 51 B2 60 06 06 00 00 00 51 B2 60 06 5B B2 60 06 65 B2 60 06 6F B2 60 06 79 B2 60 06 7A B2 60 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [B5 B2 60 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_107_0005_01",
+    ],
+    [
+      "notes",
+      "ステージ7-5",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ7-5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Wurst",
+        "es": "La derrota de Brust",
+        "fr": "Éliminer Brust",
+        "jp": "『ブルースト』の撃破",
+        "ko": "『부르스트』 격파",
+        "zh-TW": "擊倒「布魯斯特」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Wurst",
+        "es": "La derrota de Brust",
+        "fr": "Éliminer Brust",
+        "jp": "『ブルースト』の撃破",
+        "ko": "『부르스트』 격파",
+        "zh-TW": "擊倒「布魯斯特」",
+      },
+      "5",
+    ],
+    [
+      56,
+      Buffer [01 00 00 00 B5 B2 60 06 07 00 00 00 B5 B2 60 06 BF B2 60 06 C9 B2 60 06 CA B2 60 06 CB B2 60 06 D3 B2 60 06 D4 B2 60 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [35 D8 60 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_107_0101_01",
+    ],
+    [
+      "notes",
+      "ステージサブ7-1-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブ7-1-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Ecarte",
+        "es": "La derrota de Ekarute",
+        "fr": "Éliminer Ékartay",
+        "jp": "『エカルテ』の撃破",
+        "ko": "『에카르테』 격파",
+        "zh-TW": "擊倒「艾卡爾特」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Ecarte",
+        "es": "La derrota de Ekarute",
+        "fr": "Éliminer Ékartay",
+        "jp": "『エカルテ』の撃破",
+        "ko": "『에카르테』 격파",
+        "zh-TW": "擊倒「艾卡爾特」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 35 D8 60 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [99 D8 60 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_107_0102_01",
+    ],
+    [
+      "notes",
+      "ステージサブ7-1-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブ7-1-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Grand",
+        "es": "La derrota de Gran",
+        "fr": "Éliminer Gran",
+        "jp": "『グラン』の撃破",
+        "ko": "『그랑』 격파",
+        "zh-TW": "擊倒「葛蘭」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Grand",
+        "es": "La derrota de Gran",
+        "fr": "Éliminer Gran",
+        "jp": "『グラン』の撃破",
+        "ko": "『그랑』 격파",
+        "zh-TW": "擊倒「葛蘭」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 99 D8 60 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [FD D8 60 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_107_0103_01",
+    ],
+    [
+      "notes",
+      "ステージサブ7-1-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブ7-1-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Devant",
+        "es": "La derrota de Duvan",
+        "fr": "Éliminer Duvan",
+        "jp": "『ドゥヴァン』の撃破",
+        "ko": "『드방』 격파",
+        "zh-TW": "擊倒「杜凡」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Devant",
+        "es": "La derrota de Duvan",
+        "fr": "Éliminer Duvan",
+        "jp": "『ドゥヴァン』の撃破",
+        "ko": "『드방』 격파",
+        "zh-TW": "擊倒「杜凡」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 FD D8 60 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [65 F3 6F 06],
+    ],
+    [
+      "key",
+      "MISSION_LIST_108_0001_01",
+    ],
+    [
+      "notes",
+      "ステージ8-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ8-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Wurst",
+        "es": "La derrota de Brust",
+        "fr": "Éliminer Brust",
+        "jp": "『ブルースト』の撃破",
+        "ko": "『부르스트』 격파",
+        "zh-TW": "擊倒「布魯斯特」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Wurst",
+        "es": "La derrota de Brust",
+        "fr": "Éliminer Brust",
+        "jp": "『ブルースト』の撃破",
+        "ko": "『부르스트』 격파",
+        "zh-TW": "擊倒「布魯斯特」",
+      },
+      "5",
+    ],
+    [
+      56,
+      Buffer [01 00 00 00 65 F3 6F 06 07 00 00 00 65 F3 6F 06 6F F3 6F 06 79 F3 6F 06 7A F3 6F 06 7B F3 6F 06 83 F3 6F 06 84 F3 6F 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [A5 50 36 07],
+    ],
+    [
+      "key",
+      "MISSION_LIST_121_0001_01",
+    ],
+    [
+      "notes",
+      "ステージ後日談-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ後日談-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat John-Zuck and Cane",
+        "es": "La derrota de John Huck y los demás",
+        "fr": "Éliminer Rondinou et Coqueluche",
+        "jp": "『ジョンハック達』の撃破",
+        "ko": "『존핵 일행』 격파",
+        "zh-TW": "擊倒「喬哈克一行」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat John-Zuck and Cane",
+        "es": "La derrota de John Huck y los demás",
+        "fr": "Éliminer Rondinou et Coqueluche",
+        "jp": "『ジョンハック達』の撃破",
+        "ko": "『존핵 일행』 격파",
+        "zh-TW": "擊倒「喬哈克一行」",
+      },
+      "5",
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 A5 50 36 07 01 00 00 00 A5 50 36 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [09 51 36 07],
+    ],
+    [
+      "key",
+      "MISSION_LIST_121_0002_01",
+    ],
+    [
+      "notes",
+      "ステージ後日談-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ後日談-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Kory and Rock Andy",
+        "es": "La derrota de Kory y los demás",
+        "fr": "Éliminer Poulpita et Nœunœil",
+        "jp": "『コリィ達』の撃破",
+        "ko": "『코리 일행』 격파",
+        "zh-TW": "擊倒「柯莉一行」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Kory and Rock Andy",
+        "es": "La derrota de Kory y los demás",
+        "fr": "Éliminer Poulpita et Nœunœil",
+        "jp": "『コリィ達』の撃破",
+        "ko": "『코리 일행』 격파",
+        "zh-TW": "擊倒「柯莉一行」",
+      },
+      "5",
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 09 51 36 07 01 00 00 00 09 51 36 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6D 51 36 07],
+    ],
+    [
+      "key",
+      "MISSION_LIST_121_0003_01",
+    ],
+    [
+      "notes",
+      "ステージ後日談-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージ後日談-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Granute and Rozala",
+        "es": "La derrota de Granuto y los demás",
+        "fr": "Éliminer Granute et Josiane",
+        "jp": "『グラニュート達』の撃破",
+        "ko": "『그라뉴트 일행』 격파",
+        "zh-TW": "擊倒「古拉紐特一行」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Granute and Rozala",
+        "es": "La derrota de Granuto y los demás",
+        "fr": "Éliminer Granute et Josiane",
+        "jp": "『グラニュート達』の撃破",
+        "ko": "『그라뉴트 일행』 격파",
+        "zh-TW": "擊倒「古拉紐特一行」",
+      },
+      "5",
+    ],
+    [
+      32,
+      Buffer [01 00 00 00 6D 51 36 07 01 00 00 00 6D 51 36 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [25 E7 CE 07],
+    ],
+    [
+      "key",
+      "MISSION_LIST_131_0001_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ1-1-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ1-1-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Pupper",
+        "es": "La derrota de Pusuke",
+        "fr": "Éliminer Puské",
+        "jp": "『プースケ』の撃破",
+        "ko": "『푸스케』 격파",
+        "zh-TW": "擊倒「噗助」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Pupper",
+        "es": "La derrota de Pusuke",
+        "fr": "Éliminer Puské",
+        "jp": "『プースケ』の撃破",
+        "ko": "『푸스케』 격파",
+        "zh-TW": "擊倒「噗助」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 25 E7 CE 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [89 E7 CE 07],
+    ],
+    [
+      "key",
+      "MISSION_LIST_131_0002_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ1-1-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ1-1-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Sectinon",
+        "es": "La derrota de Sectinon",
+        "fr": "Éliminer Sectinon",
+        "jp": "『セクティノン』の撃破",
+        "ko": "『섹티넌』 격파",
+        "zh-TW": "擊倒「賽克提農」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Sectinon",
+        "es": "La derrota de Sectinon",
+        "fr": "Éliminer Sectinon",
+        "jp": "『セクティノン』の撃破",
+        "ko": "『섹티넌』 격파",
+        "zh-TW": "擊倒「賽克提農」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 89 E7 CE 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [ED E7 CE 07],
+    ],
+    [
+      "key",
+      "MISSION_LIST_131_0003_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ1-1-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ1-1-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Asuka",
+        "es": "La derrota de Asuka",
+        "fr": "Éliminer Asuka",
+        "jp": "『アスカ』の撃破",
+        "ko": "『아스카』 격파",
+        "zh-TW": "擊倒「阿須賀」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Asuka",
+        "es": "La derrota de Asuka",
+        "fr": "Éliminer Asuka",
+        "jp": "『アスカ』の撃破",
+        "ko": "『아스카』 격파",
+        "zh-TW": "擊倒「阿須賀」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 ED E7 CE 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [51 E8 CE 07],
+    ],
+    [
+      "key",
+      "MISSION_LIST_131_0004_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ1-1-4",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ1-1-4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Green Pep-Pepper",
+        "es": "La derrota de Pimento",
+        "fr": "Éliminer Pimon",
+        "jp": "『ピーマーン』の撃破",
+        "ko": "『피이망』 격파",
+        "zh-TW": "擊倒「皮曼」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Green Pep-Pepper",
+        "es": "La derrota de Pimento",
+        "fr": "Éliminer Pimon",
+        "jp": "『ピーマーン』の撃破",
+        "ko": "『피이망』 격파",
+        "zh-TW": "擊倒「皮曼」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 51 E8 CE 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [65 29 DE 07],
+    ],
+    [
+      "key",
+      "MISSION_LIST_132_0001_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ2-1-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ2-1-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Rakshasa",
+        "es": "La derrota de Rasetsu",
+        "fr": "Éliminer Rasetsu",
+        "jp": "『ラセツ』の撃破",
+        "ko": "『나찰』 격파",
+        "zh-TW": "擊倒「羅剎」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Rakshasa",
+        "es": "La derrota de Rasetsu",
+        "fr": "Éliminer Rasetsu",
+        "jp": "『ラセツ』の撃破",
+        "ko": "『나찰』 격파",
+        "zh-TW": "擊倒「羅剎」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 65 29 DE 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [C9 29 DE 07],
+    ],
+    [
+      "key",
+      "MISSION_LIST_132_0002_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ2-1-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ2-1-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Nestlemelo",
+        "es": "La derrota de Daifukumaru",
+        "fr": "Éliminer Daifukumaru",
+        "jp": "『ダイフクマル』の撃破",
+        "ko": "『다이후쿠마루』 격파",
+        "zh-TW": "擊倒「大福丸」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Nestlemelo",
+        "es": "La derrota de Daifukumaru",
+        "fr": "Éliminer Daifukumaru",
+        "jp": "『ダイフクマル』の撃破",
+        "ko": "『다이후쿠마루』 격파",
+        "zh-TW": "擊倒「大福丸」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 C9 29 DE 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2D 2A DE 07],
+    ],
+    [
+      "key",
+      "MISSION_LIST_132_0003_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ2-1-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ2-1-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Odysseus",
+        "es": "La derrota de Betelgeuse",
+        "fr": "Éliminer Bételgeuse",
+        "jp": "『ベテルギウス』の撃破",
+        "ko": "『베텔게우스』 격파",
+        "zh-TW": "擊倒「參宿四」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Odysseus",
+        "es": "La derrota de Betelgeuse",
+        "fr": "Éliminer Bételgeuse",
+        "jp": "『ベテルギウス』の撃破",
+        "ko": "『베텔게우스』 격파",
+        "zh-TW": "擊倒「參宿四」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 2D 2A DE 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [91 2A DE 07],
+    ],
+    [
+      "key",
+      "MISSION_LIST_132_0004_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ2-1-4",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ2-1-4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Bahanyaro",
+        "es": "La derrota de Bahanero",
+        "fr": "Éliminer Bahanero",
+        "jp": "『バハネーロ』の撃破",
+        "ko": "『하바네에로』 격파",
+        "zh-TW": "擊倒「瓦哈那羅」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Bahanyaro",
+        "es": "La derrota de Bahanero",
+        "fr": "Éliminer Bahanero",
+        "jp": "『バハネーロ』の撃破",
+        "ko": "『하바네에로』 격파",
+        "zh-TW": "擊倒「瓦哈那羅」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 91 2A DE 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [A5 6B ED 07],
+    ],
+    [
+      "key",
+      "MISSION_LIST_133_0001_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ3-1-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ3-1-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Steven",
+        "es": "La derrota de Steven",
+        "fr": "Éliminer Steven",
+        "jp": "『スティーブン』の撃破",
+        "ko": "『스티븐』 격파",
+        "zh-TW": "擊倒「史蒂芬」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Steven",
+        "es": "La derrota de Steven",
+        "fr": "Éliminer Steven",
+        "jp": "『スティーブン』の撃破",
+        "ko": "『스티븐』 격파",
+        "zh-TW": "擊倒「史蒂芬」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 A5 6B ED 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [09 6C ED 07],
+    ],
+    [
+      "key",
+      "MISSION_LIST_133_0002_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ3-1-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ3-1-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Howard",
+        "es": "La derrota de Howard",
+        "fr": "Éliminer Howard",
+        "jp": "『ハワード』の撃破",
+        "ko": "『하워드』 격파",
+        "zh-TW": "擊倒「霍華德」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Howard",
+        "es": "La derrota de Howard",
+        "fr": "Éliminer Howard",
+        "jp": "『ハワード』の撃破",
+        "ko": "『하워드』 격파",
+        "zh-TW": "擊倒「霍華德」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 09 6C ED 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6D 6C ED 07],
+    ],
+    [
+      "key",
+      "MISSION_LIST_133_0003_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ3-1-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ3-1-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Apollo",
+        "es": "La derrota de Apolo",
+        "fr": "Éliminer Apollo",
+        "jp": "『アポロ』の撃破",
+        "ko": "『아폴로』 격파",
+        "zh-TW": "擊倒「阿波羅」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Apollo",
+        "es": "La derrota de Apolo",
+        "fr": "Éliminer Apollo",
+        "jp": "『アポロ』の撃破",
+        "ko": "『아폴로』 격파",
+        "zh-TW": "擊倒「阿波羅」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 6D 6C ED 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [D1 6C ED 07],
+    ],
+    [
+      "key",
+      "MISSION_LIST_133_0004_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ3-1-4",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ3-1-4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Burdsigh",
+        "es": "La derrota de Guindilla",
+        "fr": "Éliminer Ralapègne",
+        "jp": "『プリキーヌ』の撃破",
+        "ko": "『프리키누』 격파",
+        "zh-TW": "擊倒「普利基努」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Burdsigh",
+        "es": "La derrota de Guindilla",
+        "fr": "Éliminer Ralapègne",
+        "jp": "『プリキーヌ』の撃破",
+        "ko": "『프리키누』 격파",
+        "zh-TW": "擊倒「普利基努」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 D1 6C ED 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [E5 AD FC 07],
+    ],
+    [
+      "key",
+      "MISSION_LIST_134_0001_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ4-1-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ4-1-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Gaban and Geron",
+        "es": "La derrota de Gaban y los demás",
+        "fr": "Éliminer Gavan et sa bande",
+        "jp": "『ガバン達』の撃破",
+        "ko": "『가방 일행』 격파",
+        "zh-TW": "擊倒「加邦一行」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Gaban and Geron",
+        "es": "La derrota de Gaban y los demás",
+        "fr": "Éliminer Gavan et sa bande",
+        "jp": "『ガバン達』の撃破",
+        "ko": "『가방 일행』 격파",
+        "zh-TW": "擊倒「加邦一行」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 E5 AD FC 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [49 AE FC 07],
+    ],
+    [
+      "key",
+      "MISSION_LIST_134_0002_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ4-1-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ4-1-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Skorzeny",
+        "es": "La derrota de Skorzeny",
+        "fr": "Éliminer Skorzeny",
+        "jp": "『スコルツェニー』の撃破",
+        "ko": "『스코르체니』 격파",
+        "zh-TW": "擊倒「斯科爾岑尼」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Skorzeny",
+        "es": "La derrota de Skorzeny",
+        "fr": "Éliminer Skorzeny",
+        "jp": "『スコルツェニー』の撃破",
+        "ko": "『스코르체니』 격파",
+        "zh-TW": "擊倒「斯科爾岑尼」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 49 AE FC 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [AD AE FC 07],
+    ],
+    [
+      "key",
+      "MISSION_LIST_134_0003_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ4-1-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ4-1-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Boing",
+        "es": "La derrota de Póyon",
+        "fr": "Éliminer Pollon",
+        "jp": "『ポヨン』の撃破",
+        "ko": "『포용』 격파",
+        "zh-TW": "擊倒「波彈」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Boing",
+        "es": "La derrota de Póyon",
+        "fr": "Éliminer Pollon",
+        "jp": "『ポヨン』の撃破",
+        "ko": "『포용』 격파",
+        "zh-TW": "擊倒「波彈」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 AD AE FC 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [11 AF FC 07],
+    ],
+    [
+      "key",
+      "MISSION_LIST_134_0004_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ4-1-4",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ4-1-4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Hawkclaw",
+        "es": "La derrota de Kanotsu",
+        "fr": "Éliminer Kanots",
+        "jp": "『カノツ』の撃破",
+        "ko": "『카노츠』 격파",
+        "zh-TW": "擊倒「卡諾茲」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Hawkclaw",
+        "es": "La derrota de Kanotsu",
+        "fr": "Éliminer Kanots",
+        "jp": "『カノツ』の撃破",
+        "ko": "『카노츠』 격파",
+        "zh-TW": "擊倒「卡諾茲」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 11 AF FC 07 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [25 F0 0B 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_135_0001_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ5-1-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ5-1-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Oyoko",
+        "es": "La derrota de Oyoko",
+        "fr": "Éliminer Oyoko",
+        "jp": "『オヨコ』の撃破",
+        "ko": "『오요코』 격파",
+        "zh-TW": "擊倒「歐呦子」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Oyoko",
+        "es": "La derrota de Oyoko",
+        "fr": "Éliminer Oyoko",
+        "jp": "『オヨコ』の撃破",
+        "ko": "『오요코』 격파",
+        "zh-TW": "擊倒「歐呦子」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 25 F0 0B 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [89 F0 0B 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_135_0002_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ5-1-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ5-1-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Tatsunori",
+        "es": "La derrota de Tatsunori",
+        "fr": "Éliminer Tatsunori",
+        "jp": "『タツノリ』の撃破",
+        "ko": "『타츠노리』 격파",
+        "zh-TW": "擊倒「達則」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Tatsunori",
+        "es": "La derrota de Tatsunori",
+        "fr": "Éliminer Tatsunori",
+        "jp": "『タツノリ』の撃破",
+        "ko": "『타츠노리』 격파",
+        "zh-TW": "擊倒「達則」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 89 F0 0B 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [ED F0 0B 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_135_0003_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ5-1-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ5-1-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Gentoku",
+        "es": "La derrota de Gentoku",
+        "fr": "Éliminer Gentoku",
+        "jp": "『ゲントク』の撃破",
+        "ko": "『겐토쿠』 격파",
+        "zh-TW": "擊倒「元德」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Gentoku",
+        "es": "La derrota de Gentoku",
+        "fr": "Éliminer Gentoku",
+        "jp": "『ゲントク』の撃破",
+        "ko": "『겐토쿠』 격파",
+        "zh-TW": "擊倒「元德」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 ED F0 0B 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [51 F1 0B 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_135_0004_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ5-1-4",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ5-1-4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Regus",
+        "es": "La derrota de Perna",
+        "fr": "Éliminer Régus",
+        "jp": "『レグース』の撃破",
+        "ko": "『레구스』 격파",
+        "zh-TW": "擊倒「辣苦斯」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Regus",
+        "es": "La derrota de Perna",
+        "fr": "Éliminer Régus",
+        "jp": "『レグース』の撃破",
+        "ko": "『레구스』 격파",
+        "zh-TW": "擊倒「辣苦斯」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 51 F1 0B 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [65 32 1B 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_136_0001_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ6-1-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ6-1-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Santos and Domingo",
+        "es": "La derrota de Santos y los demás",
+        "fr": "Éliminer Santos et sa bande",
+        "jp": "『サントス達』の撃破",
+        "ko": "『산토스 일행』 격파",
+        "zh-TW": "擊倒「桑托斯一行」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Santos and Domingo",
+        "es": "La derrota de Santos y los demás",
+        "fr": "Éliminer Santos et sa bande",
+        "jp": "『サントス達』の撃破",
+        "ko": "『산토스 일행』 격파",
+        "zh-TW": "擊倒「桑托斯一行」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 65 32 1B 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [C9 32 1B 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_136_0002_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ6-1-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ6-1-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Catherine",
+        "es": "La derrota de Ekaterina",
+        "fr": "Éliminer Ekaterina",
+        "jp": "『エカテリーナ』の撃破",
+        "ko": "『예카테리나』 격파",
+        "zh-TW": "擊倒「葉卡捷琳娜」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Catherine",
+        "es": "La derrota de Ekaterina",
+        "fr": "Éliminer Ekaterina",
+        "jp": "『エカテリーナ』の撃破",
+        "ko": "『예카테리나』 격파",
+        "zh-TW": "擊倒「葉卡捷琳娜」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 C9 32 1B 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [2D 33 1B 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_136_0003_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ6-1-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ6-1-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat the Eight Heroes",
+        "es": "La derrota de Amanda y los demás",
+        "fr": "Éliminer Amanda et sa bande",
+        "jp": "『アマンダ達』の撃破",
+        "ko": "『아만다 일행』 격파",
+        "zh-TW": "擊倒「阿曼達一行」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat the Eight Heroes",
+        "es": "La derrota de Amanda y los demás",
+        "fr": "Éliminer Amanda et sa bande",
+        "jp": "『アマンダ達』の撃破",
+        "ko": "『아만다 일행』 격파",
+        "zh-TW": "擊倒「阿曼達一行」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 2D 33 1B 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [91 33 1B 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_136_0004_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ6-1-4",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ6-1-4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Lolana",
+        "es": "La derrota de Lorana",
+        "fr": "Éliminer Lorana",
+        "jp": "『ロラーナ』の撃破",
+        "ko": "『로라나』 격파",
+        "zh-TW": "擊倒「羅拉娜」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Lolana",
+        "es": "La derrota de Lorana",
+        "fr": "Éliminer Lorana",
+        "jp": "『ロラーナ』の撃破",
+        "ko": "『로라나』 격파",
+        "zh-TW": "擊倒「羅拉娜」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 91 33 1B 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [A5 74 2A 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_137_0001_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ7-1-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ7-1-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Ryuji, Tsuyoshi, and Sho",
+        "es": "La derrota de Ryuji y los demás",
+        "fr": "Éliminer Ryuji et sa bande",
+        "jp": "『リュウジ達』の撃破",
+        "ko": "『류지 일행』 격파",
+        "zh-TW": "擊倒「隆二一行」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Ryuji, Tsuyoshi, and Sho",
+        "es": "La derrota de Ryuji y los demás",
+        "fr": "Éliminer Ryuji et sa bande",
+        "jp": "『リュウジ達』の撃破",
+        "ko": "『류지 일행』 격파",
+        "zh-TW": "擊倒「隆二一行」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 A5 74 2A 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [09 75 2A 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_137_0002_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ7-1-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ7-1-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Master Boo and his crew",
+        "es": "La derrota de Boo y los demás",
+        "fr": "Éliminer Maître Boo et sa bande",
+        "jp": "『マスター・ブー達』の撃破",
+        "ko": "『마스터 부 일행』 격파",
+        "zh-TW": "擊倒「阿布大師一行」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Master Boo and his crew",
+        "es": "La derrota de Boo y los demás",
+        "fr": "Éliminer Maître Boo et sa bande",
+        "jp": "『マスター・ブー達』の撃破",
+        "ko": "『마스터 부 일행』 격파",
+        "zh-TW": "擊倒「阿布大師一行」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 09 75 2A 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6D 75 2A 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_137_0003_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ7-1-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ7-1-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Dogora and his crew",
+        "es": "La derrota de Dogora y los demás",
+        "fr": "Éliminer Dogora et sa bande",
+        "jp": "『ドゴラ達』の撃破",
+        "ko": "『도고라 일행』 격파",
+        "zh-TW": "擊倒「多哥拉一行」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Dogora and his crew",
+        "es": "La derrota de Dogora y los demás",
+        "fr": "Éliminer Dogora et sa bande",
+        "jp": "『ドゴラ達』の撃破",
+        "ko": "『도고라 일행』 격파",
+        "zh-TW": "擊倒「多哥拉一行」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 6D 75 2A 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [D1 75 2A 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_137_0004_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ7-1-4",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ7-1-4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Carnage Wurst",
+        "es": "La derrota de Brust shura",
+        "fr": "Éliminer Brust Carnage",
+        "jp": "『修羅ブルースト』の撃破",
+        "ko": "『수라 부르스트』 격파",
+        "zh-TW": "擊倒「修羅布魯斯特」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Carnage Wurst",
+        "es": "La derrota de Brust shura",
+        "fr": "Éliminer Brust Carnage",
+        "jp": "『修羅ブルースト』の撃破",
+        "ko": "『수라 부르스트』 격파",
+        "zh-TW": "擊倒「修羅布魯斯特」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 D1 75 2A 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [E5 B6 39 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_138_0001_01",
+    ],
+    [
+      "notes",
+      "修羅ステージ8-1-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_修羅ステージ8-1-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Asha",
+        "es": "La derrota de Asha",
+        "fr": "Éliminer Asha",
+        "jp": "『アーシャ』の撃破",
+        "ko": "『아샤』 격파",
+        "zh-TW": "擊倒「雅夏」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Asha",
+        "es": "La derrota de Asha",
+        "fr": "Éliminer Asha",
+        "jp": "『アーシャ』の撃破",
+        "ko": "『아샤』 격파",
+        "zh-TW": "擊倒「雅夏」",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 E5 B6 39 08 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [A5 7D 67 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_141_0001_01",
+    ],
+    [
+      "notes",
+      "ステージDLC-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージDLC-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Chozu",
+        "es": "La derrota de Chozu",
+        "fr": "Éliminer Chozu",
+        "jp": "『チョウズ』の撃破",
+        "ko": "『초즈』 격파",
+        "zh-TW": "擊倒「守水」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Chozu",
+        "es": "La derrota de Chozu",
+        "fr": "Éliminer Chozu",
+        "jp": "『チョウズ』の撃破",
+        "ko": "『초즈』 격파",
+        "zh-TW": "擊倒「守水」",
+      },
+      "5",
+    ],
+    [
+      48,
+      Buffer [01 00 00 00 A5 7D 67 08 05 00 00 00 A5 7D 67 08 A6 7D 67 08 A7 7D 67 08 A8 7D 67 08 A9 7D 67 08 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [09 7E 67 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_141_0002_01",
+    ],
+    [
+      "notes",
+      "ステージDLC-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージDLC-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Saisen",
+        "es": "La derrota de Saisen",
+        "fr": "Éliminer Saisen",
+        "jp": "『サイセン』の撃破",
+        "ko": "『사이센』 격파",
+        "zh-TW": "擊倒「賽虔」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Saisen",
+        "es": "La derrota de Saisen",
+        "fr": "Éliminer Saisen",
+        "jp": "『サイセン』の撃破",
+        "ko": "『사이센』 격파",
+        "zh-TW": "擊倒「賽虔」",
+      },
+      "5",
+    ],
+    [
+      48,
+      Buffer [01 00 00 00 09 7E 67 08 05 00 00 00 09 7E 67 08 0A 7E 67 08 0B 7E 67 08 0C 7E 67 08 0D 7E 67 08 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [6D 7E 67 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_141_0003_01",
+    ],
+    [
+      "notes",
+      "ステージDLC-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージDLC-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Treeity",
+        "es": "La derrota de Kikami",
+        "fr": "Éliminer Kikami",
+        "jp": "『キカミ』の撃破",
+        "ko": "『키카미』 격파",
+        "zh-TW": "擊倒「木神」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Treeity",
+        "es": "La derrota de Kikami",
+        "fr": "Éliminer Kikami",
+        "jp": "『キカミ』の撃破",
+        "ko": "『키카미』 격파",
+        "zh-TW": "擊倒「木神」",
+      },
+      "5",
+    ],
+    [
+      48,
+      Buffer [01 00 00 00 6D 7E 67 08 05 00 00 00 6D 7E 67 08 6E 7E 67 08 6F 7E 67 08 70 7E 67 08 71 7E 67 08 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [D1 7E 67 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_141_0004_01",
+    ],
+    [
+      "notes",
+      "ステージDLC-4",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージDLC-4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Sidro",
+        "es": "La derrota de Shidoro",
+        "fr": "Éliminer Shidoro",
+        "jp": "『シドロ』の撃破",
+        "ko": "『시드로』 격파",
+        "zh-TW": "擊倒「席德勒」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Sidro",
+        "es": "La derrota de Shidoro",
+        "fr": "Éliminer Shidoro",
+        "jp": "『シドロ』の撃破",
+        "ko": "『시드로』 격파",
+        "zh-TW": "擊倒「席德勒」",
+      },
+      "5",
+    ],
+    [
+      52,
+      Buffer [01 00 00 00 D1 7E 67 08 06 00 00 00 D1 7E 67 08 D2 7E 67 08 D3 7E 67 08 D4 7E 67 08 D5 7E 67 08 D6 7E 67 08 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [35 7F 67 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_141_0005_01",
+    ],
+    [
+      "notes",
+      "ステージDLC-5",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージDLC-5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Sauvage",
+        "es": "La derrota de Mikon",
+        "fr": "Éliminer Mikon",
+        "jp": "『ミコン』の撃破",
+        "ko": "『미콩』 격파",
+        "zh-TW": "擊倒「三尾」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Sauvage",
+        "es": "La derrota de Mikon",
+        "fr": "Éliminer Mikon",
+        "jp": "『ミコン』の撃破",
+        "ko": "『미콩』 격파",
+        "zh-TW": "擊倒「三尾」",
+      },
+      "5",
+    ],
+    [
+      56,
+      Buffer [01 00 00 00 35 7F 67 08 07 00 00 00 35 7F 67 08 36 7F 67 08 37 7F 67 08 38 7F 67 08 39 7F 67 08 3A 7F 67 08 3B 7F 67 08 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [99 7F 67 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_141_0006_01",
+    ],
+    [
+      "notes",
+      "ステージDLC-6",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージDLC-6",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Flan Desco",
+        "es": "La derrota de Desco flan",
+        "fr": "Éliminer Flasco",
+        "jp": "『プリンデスコ』の撃破",
+        "ko": "『푸딩 데스코』 격파",
+        "zh-TW": "擊倒「布丁死亡子」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Flan Desco",
+        "es": "La derrota de Desco flan",
+        "fr": "Éliminer Flasco",
+        "jp": "『プリンデスコ』の撃破",
+        "ko": "『푸딩 데스코』 격파",
+        "zh-TW": "擊倒「布丁死亡子」",
+      },
+      "5",
+    ],
+    [
+      52,
+      Buffer [01 00 00 00 99 7F 67 08 06 00 00 00 99 7F 67 08 A3 7F 67 08 AD 7F 67 08 AE 7F 67 08 B7 7F 67 08 B8 7F 67 08 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [B5 A4 67 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_141_0101_01",
+    ],
+    [
+      "notes",
+      "ステージサブDLC-1-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブDLC-1-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Misogi",
+        "es": "La derrota de Misogi",
+        "fr": "Éliminer Misogi",
+        "jp": "『ミソギ』の撃破",
+        "ko": "『미소기』 격파",
+        "zh-TW": "擊倒「淨深」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Misogi",
+        "es": "La derrota de Misogi",
+        "fr": "Éliminer Misogi",
+        "jp": "『ミソギ』の撃破",
+        "ko": "『미소기』 격파",
+        "zh-TW": "擊倒「淨深」",
+      },
+      "5",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 B5 A4 67 08 03 00 00 00 B5 A4 67 08 B6 A4 67 08 B7 A4 67 08 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [19 A5 67 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_141_0102_01",
+    ],
+    [
+      "notes",
+      "ステージサブDLC-1-2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブDLC-1-2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Maya",
+        "es": "La derrota de Maya",
+        "fr": "Éliminer Maya",
+        "jp": "『マヤ』の撃破",
+        "ko": "『마야』 격파",
+        "zh-TW": "擊倒「摩耶」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Maya",
+        "es": "La derrota de Maya",
+        "fr": "Éliminer Maya",
+        "jp": "『マヤ』の撃破",
+        "ko": "『마야』 격파",
+        "zh-TW": "擊倒「摩耶」",
+      },
+      "5",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 19 A5 67 08 03 00 00 00 19 A5 67 08 1A A5 67 08 1B A5 67 08 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [7D A5 67 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_141_0103_01",
+    ],
+    [
+      "notes",
+      "ステージサブDLC-1-3",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブDLC-1-3",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Tamagushi",
+        "es": "La derrota de Tamagushi",
+        "fr": "Éliminer Tamagushi",
+        "jp": "『タマグシ』の撃破",
+        "ko": "『타마구시』 격파",
+        "zh-TW": "擊倒「玉串」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Tamagushi",
+        "es": "La derrota de Tamagushi",
+        "fr": "Éliminer Tamagushi",
+        "jp": "『タマグシ』の撃破",
+        "ko": "『타마구시』 격파",
+        "zh-TW": "擊倒「玉串」",
+      },
+      "5",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 7D A5 67 08 03 00 00 00 7D A5 67 08 7E A5 67 08 7F A5 67 08 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [E1 A5 67 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_141_0104_01",
+    ],
+    [
+      "notes",
+      "ステージサブDLC-1-4",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブDLC-1-4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Sazare",
+        "es": "La derrota de Sazare",
+        "fr": "Éliminer Sazaré",
+        "jp": "『サザレ』の撃破",
+        "ko": "『사자레』 격파",
+        "zh-TW": "擊倒「撒薩雷」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Sazare",
+        "es": "La derrota de Sazare",
+        "fr": "Éliminer Sazaré",
+        "jp": "『サザレ』の撃破",
+        "ko": "『사자레』 격파",
+        "zh-TW": "擊倒「撒薩雷」",
+      },
+      "5",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 E1 A5 67 08 03 00 00 00 E1 A5 67 08 E2 A5 67 08 E3 A5 67 08 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [45 A6 67 08],
+    ],
+    [
+      "key",
+      "MISSION_LIST_141_0105_01",
+    ],
+    [
+      "notes",
+      "ステージサブDLC-1-5",
+    ],
+    [
+      "notes",
+      "ミッションリスト_ステージサブDLC-1-5",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Kagura",
+        "es": "La derrota de Kagura",
+        "fr": "Éliminer Kagura",
+        "jp": "『カグラ』の撃破",
+        "ko": "『카구라』 격파",
+        "zh-TW": "擊倒「神樂」",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Kagura",
+        "es": "La derrota de Kagura",
+        "fr": "Éliminer Kagura",
+        "jp": "『カグラ』の撃破",
+        "ko": "『카구라』 격파",
+        "zh-TW": "擊倒「神樂」",
+      },
+      "5",
+    ],
+    [
+      40,
+      Buffer [01 00 00 00 45 A6 67 08 03 00 00 00 45 A6 67 08 46 A6 67 08 47 A6 67 08 6E 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [25 14 00 09],
+    ],
+    [
+      "key",
+      "MISSION_LIST_151_0001_01",
+    ],
+    [
+      "notes",
+      "テスト板ステージ1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_テスト板ステージ1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Clear Requirements Placeholder",
+        "es": "Condición de victoria provisional",
+        "fr": "Conditions de victoire (provisoires)",
+        "jp": "クリア条件仮",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Clear Requirements Placeholder",
+        "es": "Condición de victoria provisional",
+        "fr": "Conditions de victoire provisoires",
+        "jp": "クリア条件仮",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 25 14 00 09 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [89 14 00 09],
+    ],
+    [
+      "key",
+      "MISSION_LIST_151_0002_01",
+    ],
+    [
+      "notes",
+      "テスト板ステージ2",
+    ],
+    [
+      "notes",
+      "ミッションリスト_テスト板ステージ2",
+    ],
+    [
+      "languages",
+      {
+        "en": "Clear Requirements Placeholder",
+        "es": "Condición de victoria provisional",
+        "fr": "Conditions de victoire provisoires",
+        "jp": "クリア条件仮",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Clear Requirements Placeholder",
+        "es": "Condición de victoria provisional",
+        "fr": "Conditions de victoire provisoires",
+        "jp": "クリア条件仮",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 89 14 00 09 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [25 80 DC 0B],
+    ],
+    [
+      "key",
+      "MISSION_LIST_199_0001_01",
+    ],
+    [
+      "notes",
+      "テストステージ1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_テストステージ1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Clear Requirements Placeholder",
+        "es": "Condición de victoria provisional",
+        "fr": "Conditions de victoire provisoires",
+        "jp": "クリア条件仮",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Clear Requirements Placeholder",
+        "es": "Condición de victoria provisional",
+        "fr": "Conditions de victoire provisoires",
+        "jp": "クリア条件仮",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 25 80 DC 0B 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [65 C2 EB 0B],
+    ],
+    [
+      "key",
+      "MISSION_LIST_ITEM_WORLD",
+    ],
+    [
+      "notes",
+      "アイテム界",
+    ],
+    [
+      "notes",
+      "ミッションリスト_アイテム界",
+    ],
+    [
+      "languages",
+      {
+        "en": "Clear Requirements Placeholder",
+        "es": "Condición de victoria provisional",
+        "fr": "Conditions de victoire provisoires",
+        "jp": "クリア条件仮",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Clear Requirements Placeholder",
+        "es": "Condición de victoria provisional",
+        "fr": "Conditions de victoire provisoires",
+        "jp": "クリア条件仮",
+        "ko": "",
+        "zh-TW": "",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 64 C2 EB 0B 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [01 27 B9 29],
+    ],
+    [
+      "key",
+      "MISSION_LIST_700_0000_01",
+    ],
+    [
+      "notes",
+      "TGSステージ0-0-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_TGSステージ0-0-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Flecks",
+        "es": "La derrota de Joe One",
+        "fr": "Éliminer Biseppe",
+        "jp": "『ジョーワン』の撃破",
+        "ko": "『상완근』 격파",
+        "zh-TW": "",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Flecks",
+        "es": "La derrota de Joe One",
+        "fr": "Éliminer Biseppe",
+        "jp": "『ジョーワン』の撃破",
+        "ko": "『상완근』 격파",
+        "zh-TW": "",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 01 27 B9 29 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [65 27 B9 29],
+    ],
+    [
+      "key",
+      "MISSION_LIST_700_0001_01",
+    ],
+    [
+      "notes",
+      "TGSステージ0-1-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_TGSステージ0-1-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Clawdette",
+        "es": "La derrota de Sukeban",
+        "fr": "Éliminer Rebélian",
+        "jp": "『スケバン』の撃破",
+        "ko": "『스케반』 격파",
+        "zh-TW": "",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Clawdette",
+        "es": "La derrota de Sukeban",
+        "fr": "Éliminer Rebélian",
+        "jp": "『スケバン』の撃破",
+        "ko": "『스케반』 격파",
+        "zh-TW": "",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 65 27 B9 29 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [C9 27 B9 29],
+    ],
+    [
+      "key",
+      "MISSION_LIST_700_0002_01",
+    ],
+    [
+      "notes",
+      "TGSステージ0-2-1",
+    ],
+    [
+      "notes",
+      "ミッションリスト_TGSステージ0-2-1",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Spitfire",
+        "es": "La derrota de Churakagi",
+        "fr": "Éliminer Mimou",
+        "jp": "『チュラカーギー』の撃破",
+        "ko": "『미인』 격파",
+        "zh-TW": "",
+      },
+      "4",
+    ],
+    [
+      "languages",
+      {
+        "en": "Defeat Spitfire",
+        "es": "La derrota de Churakagi",
+        "fr": "Éliminer Mimou",
+        "jp": "『チュラカーギー』の撃破",
+        "ko": "『미인』 격파",
+        "zh-TW": "",
+      },
+      "5",
+    ],
+    [
+      28,
+      Buffer [01 00 00 00 C9 27 B9 29 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]

@@ -1,0 +1,332 @@
+[
+  [
+    [
+      4,
+      Buffer [00 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_BATTLE_LOG_NONE",
+    ],
+    [
+      "notes",
+      "なし",
+    ],
+    [
+      "languages",
+      {
+        "en": "None",
+        "es": "Nada",
+        "fr": "Sans",
+        "jp": "なし",
+        "ko": "없음",
+        "zh-TW": "無",
+      },
+      "3",
+    ],
+    [
+      20,
+      Buffer [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [01 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_BATTLE_LOG_START",
+    ],
+    [
+      "notes",
+      "戦闘開始",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> has appeared!",
+        "es": "¡<value 1> ha aparecido!",
+        "fr": "<value 1> apparaît !",
+        "jp": "<value 1>が現れた！",
+        "ko": "<value 1>(이)가 나타났다!",
+        "zh-TW": "<value 1>出現了！",
+      },
+      "3",
+    ],
+    [
+      20,
+      Buffer [02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [02 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_BATTLE_LOG_VICTORY",
+    ],
+    [
+      "notes",
+      "勝利",
+    ],
+    [
+      "languages",
+      {
+        "en": "Battle won!",
+        "es": "¡Has ganado la batalla!",
+        "fr": "Combat remporté !",
+        "jp": "戦いに勝利した！",
+        "ko": "전투에서 승리했다!",
+        "zh-TW": "在戰鬥中獲勝了！",
+      },
+      "3",
+    ],
+    [
+      20,
+      Buffer [01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [03 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_BATTLE_LOG_DEFEAT",
+    ],
+    [
+      "notes",
+      "敗北",
+    ],
+    [
+      "languages",
+      {
+        "en": "Battle lost...",
+        "es": "Has perdido la batalla...",
+        "fr": "Combat perdu...",
+        "jp": "戦いに敗北した……",
+        "ko": "전투에서 패배했다…",
+        "zh-TW": "在戰鬥中失敗了……",
+      },
+      "3",
+    ],
+    [
+      20,
+      Buffer [02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [04 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_BATTLE_LOG_ATTACK_1",
+    ],
+    [
+      "notes",
+      "攻撃",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "3",
+    ],
+    [
+      20,
+      Buffer [03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [05 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_BATTLE_LOG_STRONG_ATTACK_1",
+    ],
+    [
+      "notes",
+      "強攻撃",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> attacks! <value 3> damage dealt to <value 2>!",
+        "es": "<value 1> ataca. ¡<value 2> recibe <value 3> de daño!",
+        "fr": "<value 1> attaque ! <value 2> subit <value 3> de dégâts !",
+        "jp": "<value 1>の攻撃！　<value 2>に<value 3>のダメージ！",
+        "ko": "<value 1>의 공격! <value 2>에게 <value 3> 대미지!",
+        "zh-TW": "<value 1>使出了攻擊！對<value 2>造成<value 3>傷害！",
+      },
+      "3",
+    ],
+    [
+      20,
+      Buffer [03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [06 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_BATTLE_LOG_BUFF_1",
+    ],
+    [
+      "notes",
+      "強化",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> is cheering for her party! <value 2>' motivation has risen!",
+        "es": "<value 1> está apoyando. ¡<value 2> tiene más motivación ahora!",
+        "fr": "<value 1> apporte son soutien ! <value 2> se motive !",
+        "jp": "<value 1>が応援している！　<value 2>のやる気が上がった！",
+        "ko": "<value 1>(이)가 응원한다! <value 2>의 의욕이 상승했다!",
+        "zh-TW": "<value 1>在幫忙加油打氣！<value 2>提起幹勁了！",
+      },
+      "3",
+    ],
+    [
+      20,
+      Buffer [01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [07 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_BATTLE_LOG_HEAL_1",
+    ],
+    [
+      "notes",
+      "回復",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> is providing treatment. <value 2> recovered <value 3> HP!",
+        "es": "<value 1> está curando. ¡Los PV de <value 2> se han recuperado en aprox. <value 3>!",
+        "fr": "<value 1> soigne ! <value 2> récupère <value 3> PV !",
+        "jp": "<value 1>が治療している　<value 2>のHPが<value 3>ほど回復した！",
+        "ko": "<value 1>(이)가 치료한다! <value 2>의 HP가 <value 3>만큼 회복됐다!",
+        "zh-TW": "<value 1>幫忙進行治療，<value 2>的HP恢復<value 3>左右！",
+      },
+      "3",
+    ],
+    [
+      20,
+      Buffer [01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [08 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_BATTLE_LOG_RESURRECTION_1",
+    ],
+    [
+      "notes",
+      "復活",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> is praying! <value 2> have been revived!",
+        "es": "<value 1> está rezando. ¡<value 2> ha revivido!",
+        "fr": "<value 1> prie ! <value 2> revient à la vie !",
+        "jp": "<value 1>が祈っている！　戦闘不能の<value 2>が復活した！",
+        "ko": "<value 1>(이)가 기도한다! 전투 불능인 <value 2>(이)가 부활했다!",
+        "zh-TW": "<value 1>正在祈禱！喪失戰鬥能力的<value 2>復活了！",
+      },
+      "3",
+    ],
+    [
+      20,
+      Buffer [01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [09 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_BATTLE_LOG_DEATH_1",
+    ],
+    [
+      "notes",
+      "戦闘不能(味方)",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> has collapsed!",
+        "es": "¡<value 1> ha caído!",
+        "fr": "<value 1> est à terre !",
+        "jp": "<value 1>が倒れた！",
+        "ko": "<value 1>(이)가 쓰러졌다!",
+        "zh-TW": "<value 1>倒下了！",
+      },
+      "3",
+    ],
+    [
+      20,
+      Buffer [02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+  [
+    [
+      4,
+      Buffer [0A 00 00 00],
+    ],
+    [
+      "key",
+      "CHARACTER_WORLD_BATTLE_LOG_DEATH_2",
+    ],
+    [
+      "notes",
+      "戦闘不能(敵)",
+    ],
+    [
+      "languages",
+      {
+        "en": "<value 1> defeated!",
+        "es": "¡Has derrotado a <value 1>!",
+        "fr": "Victoire sur <value 1> !",
+        "jp": "<value 1>を倒した！",
+        "ko": "<value 1>(을)를 쓰러뜨렸다!",
+        "zh-TW": "已擊倒<value 1>！",
+      },
+      "3",
+    ],
+    [
+      20,
+      Buffer [01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00],
+    ],
+  ],
+]
